@@ -1,0 +1,19 @@
+{
+  "name": "dfx-documents",
+  "version": "0.0.1",
+  "description": "Documents for DFX.swiss",
+  "main": "index.js",
+  "authors": {
+    "name": "DFX",
+    "email": "info@dfx.swiss"
+  },
+  "repository": "https://github.com/DFXswiss/docs/DFX Documents",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
