@@ -4,35 +4,24 @@ Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 
 ## Allgemeine Fragen
 
-### Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei der Decentralized Finance Exchange getätigt habe?
+### Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei DFX getätigt habe?
 
-Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Staking, Kauf & Verkauf über Fiat und Referral Rewards). 
+Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). 
 
-Dazu kannst du auf der Payment Seite unter '''Transaktionshistorie''' in zwei Varianten auswählen.
+Dazu kannst du auf der Payment Seite unter **Transaktionshistorie** in zwei Varianten auswählen.
 
 * csv-Format als Download (Cointracking kompatibel) und 
 * API für Cointracking (nur Lesen)
 
 Wichtig: Pop Up Blocker deaktivieren!
-[[File:DFX API Cointracking.jpg|center|thumb]]
-
-Sobald der Service für weitere OnChain Daten verfügbar ist, wird das der nächste Meilenstein sein. Verfolge daher gerne unsere Projekt- Fortschritte auf unserem Twitter Kanal: [https://twitter.com/DFX_swiss Twitter]
 
 ### Kann die o.g. Übersicht aller Transaktionen für das Finanzamt verwendet werden?
 
 Ja.
 
-### Was sind DeFi-Assets?
+### ### Ist der Service auch für Unternehmenskunden verfügbar?
 
-DeFi ist die Abkürzung für “Decentralized Finance”. Der Begriff wird in der Regel zur Beschreibung aller Anwendungen verwendet, die Finanzdienstleistungen auf Basis dezentraler Blockchain Technologie anbieten. Anwendungen sind beispielsweise dezentrale Aktien oder Kreditvergabe. Allgemein sind unter DeFi-Assets alle typischen Finanzdienstleistungen der herkömmlichen Finanzwelt zu verstehen, wie zum Beispiel der Aktienhandel, welcher nun dezentral, also ohne zentrale Instanz, durchgeführt werden kann.  Die DeFi-Assets, welche bei uns handelbar sein werden, sind Assets auf der DeFiChain. Wenn du einen genauen Überblick über die aktuell handelbaren DeFi-Assets haben möchtest, schau gerne auf der DeFiChain Homepage vorbei: [https://defichain.com/dex/ DeFiChain DEX]
-
-### Was sind DeFi-Assets? Werden zusätzliche [[Kryptowährungen]] angeboten?
-
-DeFi-Assets in unserem Kontext sind alle Token, dezentrale Aktien, Liquidity Token usw., die auf der [[DeFiChain]] handelbar sind. Somit wird es möglich sein, all diese Assets durch unsere Dienstleistung direkt und ohne Umwege per Banküberweisung zu erwerben. DeFi Assets und [[Kryptowährungen]] außerhalb der [[DeFiChain]] werden nicht angeboten. Hinweis: Beachte, dass damit keine Liquidity Pools wie z.B. DFI-BTC gemeint sind, sondern Liquidity Token, die diese Pools repräsentieren.
-
-### Ist der Service auch für Unternehmenskunden verfügbar?
-
-Jeder, der eine SEPA Banküberweisung tätigen kann, darf unsere Dienstleistung nutzen. Daher sind auch Überweisungen von Firmenkonten möglich.
+Ja.
 
 ### Wie wird die Infrastruktur betrieben, wie ist diese gesichert, welche Redundanzen sind eingebaut?
 
@@ -42,26 +31,6 @@ Die IT Infrastruktur wird von einem professionellen Anbieter betrieben, überwac
 
 Betrug und Täuschung im Finanzbereich wird zusammengefasst zum Thema Geldwäsche. Das Unternehmen ist in der Schweiz reguliert und hält sich an alle geltenden Gesetze. Wir sind daher verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
 
-### Gibt es bereits eine Webseite?
-
-Ja: [https://dfx.swiss/ Decentralized Finance Exchange]
-
-### Über welche Plattformen und Wallets wird der Dienst verwendet werden können?
-
-Über unsere Payment Seite werden die Zahlungen abgewickelt. Dazu muss sich der Nutzer mit seiner Wallet und einer Signatur dort anmelden. Wir planen alle Wallets, d.h. sowohl die DeFiChain App (Full Node) als auch alle Mobile Wallets (Light Wallets), in unseren Service zu integrieren.
-
-### Kann ich am Projekt mitarbeiten?
-
-Ja, besuche uns auf [https://github.com/DeFiChange GitHub] oder kontaktiere uns auf [https://t.me/DFXswiss Telegram], wenn du bei uns mitarbeiten möchtest.
-
-### Wie hoch ist das Risiko, dass regulatorische Hürden die Umsetzung verhindern?
-
-Dieses Risiko gibt es immer. Wir arbeiten mit der renommiertesten Anwaltskanzlei der Schweiz zusammen, um dieses Risiko möglichst klein zu halten.
-
-### Wie ist die Rolle der Mitarbeiter im Team?
-
-Wie in jedem kleinen Start-Up übernimmt jedes Teammitglied verschiedene Rollen und Aufgaben. Aktuell sind unsere Hauptaufgaben die Entwicklung (API, Homepage und Payment), die rechtliche Arbeit, die ein Geschäftsmodell im DeFi Bereich erfordert, sowie das Marketing. Hier findest du weitere Infos zu unserem Team: [https://dfx.swiss/de/ueber/ https://dfx.swiss/de/ueber/ ]
-
 ### Warum meldet sich meine Bank bei mir?
 
 Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
@@ -69,10 +38,6 @@ Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überw
 ### Meine Bank unterstützt keine wöchentlichen Zahlungen. Was kann ich machen?
 
 In der Regel bietet jede Bank einen Dauerauftrag an. Wenn dies nicht möglich ist, da du es zum Beispiel per App oder via Online Banking probiert hast, nehme einfach Kontakt zu deiner Bank auf oder ziehe in Erwägung zu einer anderen Bank zu wechseln. Zudem kannst du auch 4 unterschiedliche Daueraufträge erstellen, die jeweils eine Woche versetzt sind, sodass jede Woche ein Dauerauftrag ausgeführt wird.
-
-### Wie sieht der Zeitplan aus?
-
-Schau dir unsere Roadmap an, um eine genauere Übersicht bzgl. unserer Meilensteine und Ziele zu bekommen: [https://fiat2defi.ch/#roadmap Decentralized Finance Exchange Roadmap].
 
 ### Wie kontaktiere ich unseren Support bzw. wie nehme ich Kontakt zur DFX auf?
 
@@ -82,196 +47,47 @@ Unseren Support erreichst du über unsere Social Media Channels, [https://twitte
 
 Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: support@dfx.swiss
 
-### Wird unser Service auch Cake DeFi oder anderen Anbietern angeboten?
-
-Unsere API Schnittstelle ist Open Source und für jede Partei frei zugänglich. Jede Plattform kann unseren Dienst einbauen, ohne uns um Erlaubnis zu fragen. Es müssen nur unsere Standards eingehalten werden. Ob Cake DeFi oder andere Anbieter unseren Service integrieren, liegt somit nicht in unserer Hand.
-
 ### Werden auch andere Zahlungssysteme angeboten?
 
-Ja, wir arbeiten bereits jetzt daran, möglichst jedes weit-verbreitete Zahlungssystem zu integrieren. Wir stufen die Einführung weiterer Zahlungssysteme als essentiell ein und wollen daher vor allem auch Kreditkartenzahlungen ermöglichen. Apple Pay und Google Pay werden in Zukunft ebenfalls eingeführt. Das nächste Zahlungssystem, welches wir neben dem SEPA Zahlungssystem integrieren werden, ist Kreditkartenzahlung. Schau dir hierzu auch unsere [https://fiat2defi.ch/#roadmap Roadmap] an. Mit dem angenommenen CFP, können wir nun unsere Anstrengungen zusätzlich verstärken und die Einführung weiterer Zahlungssysteme beschleunigen.
+Ja, wir arbeiten bereits jetzt daran, möglichst jedes weit-verbreitete Zahlungssystem zu integrieren. Wir stufen die Einführung weiterer Zahlungssysteme als essentiell ein und wollen daher vor allem auch Kreditkartenzahlungen ermöglichen. Apple Pay und Google Pay werden in Zukunft ebenfalls eingeführt. Das nächste Zahlungssystem, welches wir neben dem SEPA Zahlungssystem integrieren werden, ist Kreditkartenzahlung. 
 
 ### Ist DFX reguliert?
 
 Ja. Die Regulierung kann [https://www.finma.ch/de/bewilligung/selbstregulierungsorganisationen-sro/sro-mitglieder-suche/ hier] abgerufen werden. 
 [[File:Finma.png|none|thumb|Regulierung]]
 
-## Schritt-für-Schritt Anleitung
-
-### DFX - Die ersten Schritte
-
-Du möchtest gerne per einfacher SEPA Überweisung $DFI und andere Token der DefiChain (dBTC, dETH etc.) kaufen und diese auf deine Wallet senden lassen?
-
-In drei Schritten wird dir erklärt, wie einfach es ist, dein traditionelles Bankonto kryptofit zu machen.
-
-'''Du nutzt noch nicht die DFX Smartphone Wallet
-
-Was brauchst du? 
-
-* Dein Smartphone
-* Blatt Papier und Bleistift
-* Deine IBAN, mit der du die Überweisungen tätigen möchtest.
-
-Einrichtung in drei Schritten
-
-'''SCHRITT 1:  App installieren und Wallet anlegen'''
-
-Gehe zu deinem Appstore (Google oder Apple) und installiere die DFX Swiss App der DFX AG auf deinem Smartphone:
-
-[[File:App apple.png|link=https://apps.apple.com/app/id1582633093]] 
-[[File:App google.png|link=https://play.google.com/store/apps/details?id=com.defichain.app.dfx]]
-
-'''Starte die App und richte deine DFX Wallet ein:'''
-
-Wähle "EINE WALLET ERSTELLEN"
-
-[[File:Screenshot 20211005-164512 DFX Wallet.jpg|400x400px]]
-
-Bestätige und lasse dir den Seed (24 Wörter) anzeigen.
-
-[[File:Image (3).png|400x400px]]
-
-Nimm Papier und Stift zur Hand und schreibe alle Wörter in der richtigen Reihenfolge auf. Diese Wörter MÜSSEN geheim bleiben und sicher aufbewahrt werden! 
-
-[[File:Screenshot 20211005-164601 DFX Wallet.jpg|400x400px]]
-
-Bestätige jetzt die Wörter, um sicher zu gehen, dass du sie korrekt notiert hast.
-
-[[File:Screenshot_20211005-164959_DFX Wallet.jpg|400x400px]]
-
-Wähle zum Schluss ein 6-stelliges Passwort für die Wallet.
-
-[[File:Screenshot 20211005-165050 DFX Wallet.jpg|400x400px]]
-
-'''Fertig''', die Wallet ist angelegt und fertig für den Gebrauch. Das Netzwerk muss auf "MainNet" (unter Guthaben) stehen, damit bist du mit dem richtigen DeFiChain Netzwerk verbunden.
-
-Anfangs werden nur ''DFI (UTXO)'' und ''DFI (Token)'' in der Guthaben Übersicht angezeigt. Sobald du ein 1. Investment in die anderen DeFiChain Assets mit DFX getätigt hast, werden diese Assets auch in der Guthaben Übersicht angezeigt.
-
-Randinfo: DST Token umfassen dBTC, dETH, dLTC, dDOGE, dUSDT, dUSDC.
-
-[[File:Dfx de.png|400x400px]]
-
-'''SCHRITT 2: Die Zahlungsrouten für den Kauf von $DFI etc. anlegen'''
-
-Dazu auf "Kauf & Verkauf" klicken,
-woraufhin sich ein Browserfenster öffnet und auf folgende Seite geleitet wird: [http://payment.dfx.swiss payment.dfx.swiss] . Dies wird in Zukunft alles nativ in der DFX App möglich sein! 
-Ref-Code eingeben und AGBs zustimmen. Falls du noch keinen Ref-Code hast, kannst du uns gerne kontaktieren in der DFX Telegram Gruppe - https://t.me/DFXswiss - oder via: [http://contact@dfx.swiss contact@dfx.swiss] . Bei Android Geräten kann es vorkommen, dass sich das Browserfenster der Payment Seite nicht öffnet. In diesem Fall muss man in den Android Einstellungen die DFX Wallet auswählen und dort den Standard Browser ändern, z.B. zu Google Chrome. 
-
-Auf der Payment Seite angekommen, den roten "BUY" Button anklicken und deinen gewünschten Token für die Kaufroute auswählen. 
-
-[[File:Buy1.png|400x400px]]
-
-[[File:Buy2.png|400x400px]]
-
-Wähle den gewünschten Token für die Kaufroute. Für jedes Asset bzw. jeden Coin musst du eine separate Kaufroute mit unterschiedlichem Zahlungszweck anlegen, wenn du das jeweilige Asset erwerben möchtest. 
-
-Verknüpfe die ausgewählte Kaufroute mit deiner IBAN 
-
-[[File:Buy3.png|400x400px]]
-
-Die IBAN deines Bankkontos, von dem du Gelder zu DFX überweisen möchtest, angeben und speichern.
-Du erhältst nun einen Zahlungszweck/Verwendungszweck für die jeweilige Kaufroute (bei jedem Asset unterschiedlich!). Kaufrouten können beliebig erstellt und auch wieder gelöscht werden! Wurde eine Überweisung mit dazugehörigem Zahlungszweck getätigt, ist dies bei uns im System hinterlegt, auch wenn die Route danach gelöscht worden ist.   
-
-[[File:Buy4.png|400x400px]]
-
-'''SCHRITT 3:  Dein erster Kauf via SEPA Banküberweisung'''
-
-Dein Onlinebanking öffnen und eine SEPA Banküberweisung auf das DFX Konto veranlassen inklusive dem Zahlungszweck bzw. Verwendungszweck (Purpose of Payment), der soeben gespeicherten Zahlungsroute des gewünschten DeFiChain Assets, um in das gewünschte Asset zu investieren. Die Bankdaten von DFX lauten: 
-
-''Zahlungsempfänger: DFX AG''
-
-''IBAN: CH68 0857 3177 9752 0181 4''
-
-''BIC: MAEBCHZZ''
-
-''Zahlungszweck/Verwendungszweck: "Hier den Zahlungszweck des DeFiChain Assets eintragen"''
-
-''Adresse: Bahnhofstrasse 7, 6300 Zug, Schweiz''
-
-Zurücklehnen und warten, bis das Geld bei DFX eintrifft und deine Coins auf deiner Wallet landen.
-Ausserdem kannst du mit der Einrichtung eines Dauerauftrags in deinem Onlinebanking mittels DCA (Dollar-Cost-Averaging) regelmäßig in $DFI & Co. investieren. 
-
-'''Bitte beachte, dass nur Einzahlungen BIS 900 EUR KYC-frei sind. Bei Beträgen über 900 EUR musst du unseren vollen KYC-Prozess durchlaufen! Überweisungen über 900 EUR ohne abgeschlossenes KYC werden automatisch retourniert!'''
-
-Viel Spass mit DFX!
-
-=== Zweite Walletadresse erstellen (z.B. für Firmenaccounts) ===
-
-Erstelle eine zweite bzw. weitere  Walletadresse, die du ganz einfach parallel zu deiner ersten Walletadresse verwalten kannst. Dies kann entweder für deine Firma sein, falls du schon eine private Wallet angelegt hast oder z.B. für ein weiteres Familienmitglied.
-
-Wichtig: Es kann nur eine weitere Adresse hinzugefügt werden, wenn auf der voranliegenden Adresse auch DFI in der Form UTXO liegen. Wenn dies nicht der Fall ist, erst DFI UTXO auf die letzte Adresse senden.
-
-Öffne deine Wallet und wähle oben rechts die Adresse an, damit du auf einen neuen Bildschirm kommst für die Auswahl deiner Adressen und der Verwaltung. Im Bildbeispiel siehst Du, dass auf der Wallet bereits 4 Adressen aktiv sind.
-[[File:Zweite Walletadresse-1n.jpg|none|thumb|432x432px]]
-Wähle nun „Walletadresse erstellen“.
-[[File:Zweite Walletadresse-2.jpg|none|thumb|427x427px]]
-Bestätige mit deinem PIN diese Transaktion.
-[[File:Zweite Walletadresse-3n.jpg|none|thumb|421x421px]]
-Du kannst danach auch einen Namen für diese Adresse vergeben. Klicke auf Editieren:
-[[File:Zweite Walletadresse-4.jpg|none|thumb|425x425px]]
-Und dann auf den Stift der Adresse, welche du editieren möchtest.
-[[File:Zweite Walletadresse-5.jpg|none|thumb|437x437px]]
-Und vergebe deiner Adresse einen Namen.
-[[File:Zweite Walletadresse-6.jepg.jpg|none|thumb|422x422px]]
-Fertig ist die neue Adresse inklusive Namen.
-[[File:Zweite Walletadresse-7.jpg|none|thumb|431x431px]]
-
-Nun kannst du ganz einfach über den Adress Button oben rechts zwischen deinen verschiedenen Wallets hin und her schalten.
-
-Klicke nun auf deiner neuen Walletadresse den Button „Staking“, wodurch du auf die Payment Seite weitergeleitet wirst.
-
-Die weiteren Schritte sind identisch wie beim Erstellen deiner ersten Wallet. Du kannst nun alle Daten individuell und unabhängig von deiner ersten Walletadresse hinterlegen und z.B. deine Firmenwallet bei DFX verifizieren.
-
-Falls du die zweite Walletadresse mit deiner ersten verknüpfen willst, kannst du das ganz einfach tun, indem du mit derselben IBAN einen Kauf auf deiner zweiten Walletadresse tätigst, mit welcher du auch schon auf deiner ersten Walletadresse gekauft hast. Dadurch werden bei der zweiten Adresse automatisch die Nutzerdaten deiner ersten Adresse hinterlegt. Wichtig ist nur, dass du kaufst und nicht verkaufst und dies mit der gleichen IBAN tust, die auch bei deiner ersten Adresse hinterlegt ist.
-
 ## Nutzer-relevante Fragen & KYC-Prozess
 
-### Wer ist befugt unseren Service zu nutzen?
+### Wird ein KYC-Prozess trotzdem angeboten? Was passiert, wenn ich mein individuelles Handelslimit überschreite?
 
-Den Service kann jeder nutzen, der eine SEPA Überweisung in die Schweiz tätigen kann, denn die Firma ist in der Schweiz angemeldet. SEPA ist ein Europäisches Zahlungssystem, das von praktisch allen Banken in den Europäischen Ländern unterstützt wird. Wir planen allerdings später auch Kreditkarten und weitere Zahlungsmöglichkeiten zu schaffen. Das durch die Masternodes genehmigte CFP hilft uns, andere Zahlungssysteme schneller zu integrieren.
-
-### Bis zu welcher Grenze ist der Service KYC-frei?
-
-Der Service ist bis 1000 CHF bzw. 1000 € am Tag oder 100.000 CHF bzw. 100.000 € im Jahr ohne KYC-Prozess nutzbar.
-
-### Wird ein KYC-Prozess trotzdem angeboten? Was passiert, wenn ich mehr als 1000 CHF bzw. 1000 € pro Tag investieren möchte oder über die Jahresobergrenze komme?
-
-Ja, sobald du die o.g. Freigrenze überschreitest, wird ein KYC-Prozess erforderlich. Wir empfehlen unseren Kunden zuerst eine Testtransaktion durchzuführen, um den Service und die Funktionsweise kennenzulernen. Nach der ersten erfolgreichen Transaktion gibt es in der App die Möglichkeit, die persönliche Verifizierung (KYC) vorzunehmen.
+Ja, sobald du die o.g. Freigrenze überschreitest, wird ein KYC-Prozess erforderlich. Wir empfehlen unseren Kunden zuerst eine Testtransaktion durchzuführen, um den Service und die Funktionsweise kennenzulernen. Nach der ersten erfolgreichen Transaktion gibt es in der App die Möglichkeit, die persönliche Verifizierung (KYC) vorzunehmen. Falls der KYC nach Überschreitung des Limits nicht abgeschlossen wird, retourniert DFX die Transaktion nach Ablauf von 7 Tagen automatisch.
 
 ### Zählt für die Jahresobergrenze, bei der man KYC frei investieren kann, das Kalenderjahr oder ein Jahr ab meiner ersten Überweisung?
 
-Es zählt das Kalenderjahr. Allerdings sei zu beachten, dass die Banktransaktionen auch nur an Wochentagen und zu maximal  1000 CHF bzw. 1000 € am Tag KYC-frei sind. Daher braucht man sowieso ca. 140 Tage (100 Transaktionen insgesamt in 20 Wochen; 1 Transaktion pro Werktag) bis man das volle Transaktionsvolumen KYC-frei ausgenutzt hat. So ist es z.B. möglich, 200.000 CHF mit einer Transaktion pro Werktag KYC-frei zu investieren, wenn dies gleichmäßig auf zwei Geschäftsjahre aufgeteilt wird.
+Es zählt das Kalenderjahr. 
 
 ### Was sind AML Informationen?
 
 AML steht für „Anti Money Laundering“ und zielt auf die Bekämpfung von Geldwäsche ab. Von daher ist jeder Finanzintermediär dazu verpflichtet, die Überwachung und Einhaltung der geltenden Geldwäschegesetze zu gewährleisten, meistens durch einen AML-Compliance-Officer.
 
-### Welche Kunden-Informationen werden durch die Decentralized Finance Exchange zur Verfügung gestellt,  um den AML-Regularien zu entsprechen?
+### Welche Kunden-Informationen werden durch DFX zur Verfügung gestellt, um den AML-Regularien zu entsprechen?
 
 Wir sind verpflichtet die Informationen, die ein Kunde durch eine Transaktion auf unser Geschäftskonto durch seine IBAN hinterlässt, den beteiligten Banken zur Verfügung zu stellen. Durch die IBAN wird der zugehörige Namen und die Adresse dieser Person einsehbar.
 
-### Was passiert mit meinen Daten bei der Decentralized Finance Exchange?
+### Was passiert mit meinen Daten bei DFX?
 
 Zum Einen speichern wir mit deiner Legacy Adresse (deine Blockchain Adresse) eine Route ab (Bsp. einer Route: Legacy Adresse XY tauscht von EUR in DFI). Damit ist es möglich einen Sparplan über einen Bank Dauerauftrag laufen zu lassen, sodass unsere API die Informationen zuordnen kann und dein Geld am Ende deiner Wallet zuordnen kann. Zusätzlich werden alle abgeschlossen Transaktionen gespeichert, um das spätere Erstellen von Steuerübersichten oder einer Transaktionshistorie zu ermöglichen.
 
-### Welche Länder können zurzeit den Service (noch) nicht nutzen?
+### ## Schritt-für-Schritt Anleitung KYC-Prozess
 
-Länder, in denen keine SEPA-Überweisungen möglich sind, sind anfangs noch von unserem Service ausgeschlossen, solange bis Kreditkartenzahlungen integriert werden.
-
-## Schritt-für-Schritt Anleitung KYC-Prozess
-
-[[File:Kundenverifikation.jpg|800px]]
-
-Du möchtest mit DFX mehr als 900 € pro Tag ein- bzw. auszahlen? 
 Hier führen wir dich durch den Identifizierungsprozess (KYC = Know Your Customer) zur Erhöhung deines Limits. Dieser besteht aus mehreren Schritten.
 
-Rufe zuerst mit der DFX Wallet über "Staking" deine persönliche DFX.swiss Paymentseite auf. 
+Rufe zuerst mit der DFX Wallet über "My DFX" deine persönliche DFX.swiss Paymentseite auf. 
 
 <u>Achtung IOs Nutzer</u>: Stelle sicher, dass du für das anschließende  Auto-Ident Safari als Standard Browser einstellst:
-[[File:AutoIdent - Safari.jpg|alt=AutoIdent - Safari for IOs mandatory|center|400x400px]]
 
-**Schritt 1: Benutzerdaten**
 
-[[File:Benutzerdaten.jpg|800px]]
+<big>**Schritt 1: Benutzerdaten**</big>
 
 Bevor du dein Limit erhöhen kannst, musst du alle Benutzerdaten eingeben.  
 
@@ -279,107 +95,80 @@ Dazu auf den roten Pfeil für die Erhöhung des Einzahlungslimits klicken und zu
 
 <u>Tipp</u>: Kontrolliere nochmals deine Email-Adresse und die Rufnummer deines Mobiltelefons. Diese Angaben sind für die weiteren Schritte notwendig.
 
-<big>'''Schritt 2: Limit erhöhen'''</big>
+<big>**Schritt 2: Limit erhöhen**</big>
 
-[[File:Limits.jpg|800px]]
+Nachdem du die persönlichen Daten auf der Payment Seite eingegeben hast, kannst du auf "Einzahlungslimit erhöhen" klicken. Dazu auf den roten Pfeil nach oben klicken. 
 
-Nachdem du die persönlichen Daten auf der Payment Seite eingegeben hast, kannst du auf "Einzahlungslimit erhöhen" klicken. 
-Dazu auf den roten Pfeil nach oben klicken. 
+<big>**Schritt 3: Limit Legitimierung**</big>
 
-<big>'''Schritt 3: Limit Legitimierung'''</big>
-
-[[File:Chatbot .jpg|800px]]
-
-Hier wird dir eine SMS an deine hinterlegte mobile Rufnummer gesendet (1. anfordern, 2. eingeben). 
+Hier wird dir per SMS ein Code an deine hinterlegte mobile Rufnummer gesendet (1. anfordern, 2. eingeben). 
 Danach startet der Chatbot unseres KYC Dienstleisters (KYC Spider) auf der Paymentseite. Der Chatbot führt dich durch einige Fragen (z.B. wie viel man investieren will). 
 Am Ende des Chats kannst du den Chatbot beenden.
 
 INFO: Dein DFX KYC Status ist nun in Bearbeitung (Chatbot).
 
-<big>'''Schritt 4: Online Identifikation'''</big>
-
-[[File:KYC DE.jpg|800px]]
+<big>**Schritt 4: Online Identifikation**</big>
 
 Es startet danach auf der Paymentseite das Online-Ident Verfahren, bei dem man seine Identität mit Hilfe eines gesetzlichen Ausweisdokuments belegt.
 
-'''Wichtig:''' Es werden nur Reisepass, ggf. Personalausweise im Schengenraum akzeptiert.
+**Wichtig:** Es werden nur Reisepass, ggf. Personalausweise im Schengenraum akzeptiert.
 
 INFO: Dein DFX KYC Status ist nun in Bearbeitung (Online-Identifikation). 
 
 <u>Tipp</u>: Falls der Prozess nicht startet oder du nach einer Unterbrechung weitermachen möchtest, klicke bitte auf den roten "refresh" Pfeil 
 
-Schritt 5: Video Identifikation'''</big>
+<big>**Schritt 5: Video Identifikation**</big>
 
-[[File:Videoident.jpg|800px]]
-
-Der letzte Schritt ist ein Video-Ident Verfahren, zu dem man weitergeleitet wird durch das Anklicken des roten "refresh" Pfeil auf der Payment Seite. Dort überprüft eine reale Person die Identität in einem Video Chat. Auch hierzu wird ein gesetzliches Ausweisdokument benötigt.
-
-HINWEIS: Dieser Schritt entfällt unter Umständen, falls das Online-Ident Verfahren bereits erfolgreich war (Schritt 4). 
+Zu diesem Schritt wird man nur weitergeleitet, wenn das Online-Ident nicht erfolgreich war. Man startet durch das Anklicken des roten "refresh" Pfeil auf der Payment Seite einen Video Chat, wo eine reale Person die Identität überprüft. Auch hierzu wird ein gesetzliches Ausweisdokument benötigt.
 
 INFO: Dein DFX KYC Status ist nun in Bearbeitung (Video Identifikation).
 
-<big>'''Schritt 6: Identifikation abgeschlossen'''</big>
+<big>**Schritt 6: Identifikation abgeschlossen**</big>
 
-[[File:Completed.jpg|800px]]
+Wenn das Ident Verfahren erfolgreich abgeschlossen ist, wird der Status auf "Verifizierung abgeschlossen" gesetzt. Auch bekommst du eine Bestätigungsmail von DFX.
 
-Wenn das Video-Ident Verfahren erfolgreich abgeschlossen ist, wird der Status auf "Verifizierung abgeschlossen" gesetzt. Auch bekommst du eine Bestätigungsmail von DFX.
+Von deiner Seite ist nichts mehr zu tun. Sobald DFX intern alles abgeschlossen hat, wird das Limit auf deiner Paymentseite automatisch angepasst.
 
-Jetzt ist alles o.k. und du musst nichts weiter unternehmen. 
-Es wird lediglich seitens DFX noch intern verarbeitet und dein Limit springt danach auf 90'000 EUR.
-
-HINWEIS: Auch wichtig, wenn du mit den 90'000 € nicht glücklich bist, dann kannst du einfach erneut auf den "Einzahlungslimit erhöhen" Button klicken, deinen gewünschten Bereich des neuen Limits auswählen und weitere Details zur Quelle dieser Gelder angeben inkl. Dokumenten-Upload.
+HINWEIS: Auch wichtig, wenn du mit dem neuen Limit nicht glücklich bist, dann kannst du einfach erneut auf den "Einzahlungslimit erhöhen" Button klicken, deinen gewünschten Bereich des neuen Limits auswählen und weitere Details zur Quelle dieser Gelder angeben inkl. Dokumenten-Upload.
 
 Vielen Dank für dein Vertrauen in DFX.
-Melde dich gerne bei weiteren Fragen und sende eine Nachricht an [http://support@dfx.swiss support@dfx.swiss].
+Melde dich gerne bei weiteren Fragen und sende eine Nachricht an: support@dfx.swiss
 
-== Schritt-für-Schritt Anleitung KYC-Prozess/Onboarding Firmenkunden ==
-
-[[File:KYC DE B2B.jpg|800px]]
+## Schritt-für-Schritt Anleitung KYC-Prozess/Onboarding Firmenkunden
 
 Firmenkunden liegen uns bei DFX besonders am Herzen, weshalb wir die Verifizierung innerhalb 24h garantieren. Dafür müssen folgende Schritte unternommen werden. 
 
-<big>'''Schritt 1: Firmen Wallet anlegen'''</big>
+<big>**Schritt 1: Firmen Wallet anlegen**</big>
 
-Zunächst muss das Unternehmen eine eigene DFX Wallet anlegen, die ausschließlich vom Unternehmen genutzt wird. Dazu kann die DFX Swiss App über den [https://apps.apple.com/app/id1582633093 App Store] oder [https://play.google.com/store/apps/details?id=com.defichain.app.dfx Google Play Store] herunter geladen werden. Nach der Installation und der [[DFX_FAQ#Schritt-f.C3.BCr-Schritt_Anleitung|Erstellung der Wallet]], gelangt man in der Guthaben-Übersicht der Wallet über den Button "Kauf & Verkauf" auf unsere Payment Seite. 
+Zunächst muss das Unternehmen eine eigene DFX Wallet anlegen, die ausschließlich vom Unternehmen genutzt wird. 
 
-Rufe zuerst mit der DFX Wallet über "Staking" deine persönliche DFX.swiss Paymentseite auf. 
+Falls du bereits eine private Wallet nutzt, kannst du in deinem Portfolio eine zweite Adresse generieren, welche du dann für deine Firma verifizierst. Damit kannst du über dieselbe Wallet beide Adressen verwalten. Verwende auf keinen Fall die Mailadresse, die du für deine private Wallet nutzt, da das System deine neue Wallet sonst automatisch mit den vorhandenen KYC Daten koppelt.
+
+Rufe zuerst mit der DFX Wallet über "My DFX" deine persönliche DFX.swiss Paymentseite auf. 
 
 <u>Achtung IOs Nutzer</u>: Stelle sicher, dass du für das anschließende  AutoIdent Safari als Standard Browser vorher einstellst:
 
-[[File:AutoIdent - Safari.jpg|alt=AutoIdent - Safari for IOs mandatory|center|400x400px]]
-
-<big>'''Schritt 2: Benutzerdaten eintragen'''</big>
-
-[[File:User Data B2B.jpg|800px]] 
+<big>**Schritt 2: Benutzerdaten eintragen**</big>
 
 Bevor das Unternehmen verifiziert werden kann, müssen alle Benutzerdaten eingeben werden.  
 
 Dazu auf den roten Pfeil für die Erhöhung des Einzahlungslimits klicken und zunächst die persönlichen Daten auf der Payment Seite eingegeben. 
 
-WICHTIG: Als Account-Typ muss oben im Drop-Down Menü Geschäftskonto ausgewählt werden. Im Falle eines Einzelunternehmens, muss "Einzelunternehmen" ausgewählt werden. Bei den persönlichen Informationen, müssen die Daten eines Mitarbeiters oder des Inhabers des Unternehmens eingetragen werden, die weisungsbefugt sind. Dies muss später auch durch ein Dokument belegt werden (z.B. durch Handelsregisterauszug oder Statuten/Satzung des Unternehmens). Bei der Sektion "Organisation" müssen dann noch die Daten der Firma eingetragen werden. Danach unten auf den Button "Speichern" klicken zur Übernahme der Daten. 
+WICHTIG: Als Account-Typ muss oben im Drop-Down Menü "Geschäftskonto" ausgewählt werden. Im Falle eines Einzelunternehmens, muss "Einzelunternehmen" ausgewählt werden. Bei den persönlichen Informationen, müssen die Daten eines Mitarbeiters oder des Inhabers des Unternehmens eingetragen werden, die weisungsbefugt sind. Bei der Sektion "Organisation" müssen dann noch die Daten der Firma eingetragen werden. Danach unten auf den Button "Speichern" klicken zur Übernahme der Daten. 
 
 <u>Tipp</u>: Kontrolliere nochmals deine Email-Adresse und die Rufnummer deines Mobiltelefons. Diese Angaben sind für die weiteren Schritte notwendig.
 
-<big>'''Schritt 3: Verifizierung starten'''</big>
+<big>**Schritt 3: Verifizierung starten**</big>
 
 Nachdem die persönlichen Daten auf der Payment Seite eingegeben worden sind, kann das Einzahlungslimit erhöht werden, welches den 1. Schritt der Verifizierung startet. Da ein Firmenaccount verifiziert wird und keine Privatperson, benötigen die Schweizer Behörden noch Dokumente, die die Weisungsbefugnis der verifizierten Person und die Inhaberstruktur der Firma bestätigen. Dies können z.B. ein Handelsregisterauszug, eine Kopie der Statuten bzw. Satzung des Unternehmens sein, welche im 1. Schritt hochgeladen werden können. Dazu einfach in den Benutzerdaten auf der Payment Seite auf den aufwärts gerichteten roten Pfeil klicken im Feld "Dein Limit" . 
 
-[[File:Upload de.png|400x400px|center]]
-
-<big>'''Schritt 4: Chatbot ausfüllen'''</big>
+<big>**Schritt 4: Chatbot ausfüllen**</big>
 
 Der 2. Schritt der Verifizierung ist ein Chatbot, bei dem verschiedene Fragen beantwortet werden müssen. Der Chatbot startet automatisch, nachdem das Firmen - Dokument erfolgreich hochgeladen worden ist. 
 
-[[File:Chatbot .jpg|800px]]
+Die weiteren Schritte sind wie bei der Verifizierung der privaten Wallet. Siehe:
 
-Zuerst wird eine SMS an die in den persönlichen Daten hinterlegte mobile Rufnummer gesendet (1. anfordern, 2. eingeben). 
-Danach startet der Chatbot unseres KYC Dienstleisters (KYC Spider) in der Payment Seite. Der Chatbot führt dich durch einige Fragen (z.B. wie viel man investieren will). Diese bitte wahrheitsgemäß ausfüllen.
-
-Am Ende des Chats kann der Chatbot beendet werden. INFO: Der DFX KYC Status ist nun in Bearbeitung (Chatbot).
-
-<big>'''Schritt 5: Online Identifikation'''</big>
-
-[[File:KYC DE.jpg|800px]]
+<big>**Schritt 5: Online Identifikation**</big>
 
 Nach dem erfolgreichen Abschluss des Chatbots, wird man direkt weitergeleitet zum Online-Ident Verfahren, im selben Fenster auf der Payment Seite.
 Das Online-Ident Verfahren, bei dem man seine Identität mit Hilfe eines gesetzlichen Ausweisdokuments belegt. Es werden nur Reisepass und ggf. Personalausweise im Schengenraum akzeptiert. 
