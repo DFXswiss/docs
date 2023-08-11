@@ -357,19 +357,19 @@ Während des Kauf- und Verkaufsprozesses haben wir die Verantwortung über deine
 
 Klicke auf "My DFX"
 
-![  ](/Users/skip/Desktop/Bildschirm­foto%202023-08-11%20um%2015.56.20.png)
+![  ](/png/2023-08-11-15.56.20.png)
 
 
 
 Klicke auf das Zahnrad
 
-![ ](/Users/skip/Desktop/Bildschirm­foto%202023-08-11%20um%2016.01.08.png)
+![ ](/png/2023-08-11-16.01.08.png)
 
 
 
 Ändere die Tel Nummer und klicke auf Speichern
 
-![Bildschirm­foto 2023-08-11 um 16.02.04.png](/var/folders/jl/g0nn032n37d8yn688gtdzxhc0000gn/T/TemporaryItems/NSIRD_screencaptureui_5ZQu7N/Bildschirm­foto%202023-08-11%20um%2016.02.04.png)
+![ ](/png/2023-08-11-16.10.54.png)
 
 Ferig!
 
