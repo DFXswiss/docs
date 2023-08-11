@@ -361,8 +361,14 @@ Klicke auf das Zahnrad
 
 Fertig!
 
-# Was ist der Unterschied von Transak und DFX?
+## Kann ich die Bitcoin Wallet von meiner DFX Bitcoin Wallet auch in einer anderen Wallet verwenden. 
+Ja, selbstverständlich. Du bist der Eigentümer deiner Bitcoin Wallet und kannst die Vermögenswerte auch jederzeit mit einer anderen Bitcoin Wallet kontrollieren. Du bist nicht auf die DFX Bitcoin Wallet angewiesen, da du Deine Bitcoins selber kontrollierst.   
 
-- **KYC**: Bei der DFX kannst du einen gewissen Betrag ohne KYC einzahlen, bei Transak nicht.
+## Wie kann ich meine Bitcoin Wallet von der DFX Bitcoin Wallet exportieren, um sie in einer anderen Wallet importieren zu können?
+Klicke dazu auf das Menü Symbol [...] oben rechts in der DFX Bitcoin Wallet. Dann auf "Wallet" und dann auf "Export/Backup". Dann bekommst du deinen "Seed" angezeigt, bestehend aus 12 Wörtern. Diese 12 Wörter kannst du in jeder anderen kompatiblen Bitcoin Wallet importieren. 
 
-- **Sparpläne**: Bei der DFX sind Sparpläne möglich, bei Transak nicht.
+## Welche Wallets sind mit der DFX Bitcoin Wallet Kompatibel?
+Wahrscheinlich sind die meisten Wallets kompatibel. Getestet haben wie es aber insbesondere mit der Bluewallet, weshalb wir sagen können dass die Bluewallet sicher die Wallet ist mit der höchsten Kompatibilität. 
+
+## Wie kann ich den Seed meiner DFX Bitcoin Wallet bei der Bluewallet importieren. 
+Klicke in der Bluewallet auf "Wallet hinzufügen", dann auf "Wallet importieren" und trage dann die 12 Wörter ein. Dann klicke auf "Importieren" und du hast deine Wallet erfolgreich in die Bluewallet übertragen. 
