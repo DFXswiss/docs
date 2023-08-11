@@ -10,7 +10,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "theme-color", content: "#072440" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
   ],
@@ -45,7 +45,7 @@ module.exports = {
     ],
 
     sidebar: [
-      "/",
+      { title: "Home", path: "/" },
       {
         title: "English",
         path: "/english/",

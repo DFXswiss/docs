@@ -1,5 +1,4 @@
+Documents for DFX.swiss
+
 ---
-home: true
-tagline: Documents for DFX.swiss
-footer: Bitcoiners by 💛
----
+<p style="text-align: center;">Bitcoiners by 💛</p>
