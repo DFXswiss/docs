@@ -1,7 +1,7 @@
-const { description } = require('../../package')
+const { description } = require("../../package");
 
 module.exports = {
-  title: 'Documents',
+  title: "Documents",
   description: description,
 
   /**
@@ -10,9 +10,9 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
   ],
 
   /**
@@ -21,64 +21,60 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: 'DFXswiss/docs',
-    logo: '/assets/logo.svg',
+    repo: "DFXswiss/docs",
+    logo: "/assets/logo.svg",
     editLinks: true,
-    editLinkText: 'Edit this page on Github',
-    docsBranch: 'main',
-    docsDir: 'src',
+    editLinkText: "Edit this page on Github",
+    docsBranch: "main",
+    docsDir: "src",
     lastUpdated: true,
+
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: "English",
+        link: "/english/",
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: "Deutsch",
+        link: "/german/",
       },
       {
-        text: 'English',
-        link: '/english/'
+        text: "DFX.swiss",
+        link: "https://dfx.swiss",
       },
-      {
-        text: 'German',
-        link: '/german/'
-      },
-      {
-        text: 'DFX.swiss',
-        link: 'https://dfx.swiss'
-      }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-      '/config/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+
+    sidebar: [
+      "/",
+      {
+        title: "English",
+        path: "/english/",
+        children: [
+          "/english/tnc",
+          "/english/privacy",
+          "/english/imprint",
+          "/english/pof",
+          "/english/disclaimer",
+          "/english/faq",
+        ],
+      },
+      {
+        title: "Deutsch",
+        path: "/german/",
+        children: [
+          "/german/tnc",
+          "/german/privacy",
+          "/german/imprint",
+          "/german/pof",
+          "/german/disclaimer",
+          "/german/faq",
+        ],
+      },
+    ],
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
-  ]
-}
+  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+};
