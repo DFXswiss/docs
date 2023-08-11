@@ -1,8 +1,10 @@
-## Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend.
+# Allgemeine Geschäftsbedingungen
+
+Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend.
 
 Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website DFX.swiss, die dazugehörige Paymentseite payment.dfx.swiss und die DFX-App (den „Service“). Der Zugriff auf und die Nutzung der Website, der Paymentseite respektive der DFX-App unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
 
-### Wichtige rechtliche Hinweise
+## Wichtige rechtliche Hinweise
 Diese Allgemeinen Geschäftsbedingungen sind Bestandteil sämtlicher Sondervereinbarungen, die im Zusammenhang mit den von DFX angebotenen Dienstleistungen oder Produkten gelten respektive abgeschlossen werden. Im Falle eines Konflikts haben jedoch die Bestimmungen einer solchen Sondervereinbarung Vorrang.
 
 Mit dem Zugriff auf und der Nutzung der Website, der Paymentseite respektive der DFX-App sowie mit dem Herunterladen von Informationen, Daten und Dokumenten von der Website, der Paymentseite respektive der DFX-App bestätigen die Kunden, dass Sie die Allgemeinen Geschäftsbedingungen gelesen, verstanden und akzeptiert haben. Darüber hinaus akzeptieren sie, dass DFX jederzeit die Allgemeinen Geschäftsbedingungen ändern kann. Änderungen der AGBs werden spätestens durch Auslösen der nächsten Transaktion durch den Kunden akzeptiert.
