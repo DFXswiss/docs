@@ -210,11 +210,7 @@ Gebührenübersicht ab 01.12.2022
 
 ### DFX Gebühren Privatinvestoren
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+
 
 |         | Bitcoin (Tier 1) | Andere (Tier 2)* |
 | ------- | ---------------- | ---------------- |
@@ -229,8 +225,6 @@ Gebührenübersicht ab 01.12.2022
 | ------- | ---------------- | ---------------- |
 | Kauf    | 1,49 %           | 1,99 %           |
 | Verkauf | 1,99 %           | 2,49 %           |
-
-
 
 *ETH + BNB + Stablecoins USDT/USDC/BUSD (ERC20/BEP20)
 
