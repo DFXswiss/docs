@@ -175,15 +175,15 @@ Bei weiteren Fragen kannst du dich jederzeit an business@dfx.swiss wenden.
 
 ## Wie kann ich Fiatgeld an DFX überweisen?
 
-Eine Überweisung tätigst du ja, um in ein DeFi-Asset zu investieren. Dazu kannst du unsere [Paymentseite](https://payment.dfx.swiss/login) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. Eine genaue Schritt für Schritt Anleitung für den Kauf findest du hier: [Schritt-für-Schritt Anleitung](https://defichain-wiki.com/wiki/DFX_FAQ#Schritt-f.C3.BCr-Schritt_Anleitung).
+Eine Überweisung tätigst du ja, um in ein DeFi-Asset zu investieren. Dazu kannst du unsere [Paymentseite](https://payment.dfx.swiss/login) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
 
 ### Wie richte ich eine Aufteilung der Investition in den verschiedenen Assets ein, wenn ich Einzahlungen via Dauerauftrag bei der Hausbank tätige?
 
 Du kannst, nachdem du einmal eine Investition in ein bestimmtes Asset getätigt hast, durch wiederholte Überweisungen (Dauerauftrag) mit dem korrekten Verwendungszweck einen Sparplan für dieses Asset erzeugen. Sobald du neue Assets sparen möchtest, wiederholst du einfach den Prozess für dieses Asset und richtest danach wieder einen Dauerauftrag bei deiner Bank ein.
 
-### Werden die erworbenen Assets direkt/automatisch auf meine DefiChain Adresse überwiesen?
+### Werden die erworbenen Assets direkt/automatisch auf meine Blockchain Adresse überwiesen?
 
-Ja, sobald diese von uns erworben sind, werden sie direkt und automatisch von uns an deine DeFiChain Wallet Adresse überwiesen.
+Ja, sobald diese von uns erworben sind, werden sie direkt und automatisch von uns an deine Blockchain Wallet Adresse überwiesen.
 
 ## Welcher Wechselkurs wird beim Kauf verwendet?
 
@@ -203,7 +203,7 @@ Bekannte kundenunfreudliche Banken die extra Gebühren für Ausland Transaktione
 
 Ja, es können per SEPA Instant Käufe durchgeführt werden. Die Verarbeitung dauert dadurch wenige Minuten.
 
-Du möchtest DeFiChain Assets KAUFEN und sie SOFORT in deiner Wallet haben? Kein Problem. Mit der neuen SEPA Instant Integration bei DFX hast du nach dem Absenden der Überweisung alles in wenigen Minuten in deiner Wallet. 24h pro Tag, 7 Tage die Woche, 365 Tage pro Jahr.
+Du möchtest Crypto Assets KAUFEN und sie SOFORT in deiner Wallet haben? Kein Problem. Mit der neuen SEPA Instant Integration bei DFX hast du nach dem Absenden der Überweisung alles in wenigen Minuten in deiner Wallet. 24h pro Tag, 7 Tage die Woche, 365 Tage pro Jahr.
 
 **Wie funktioniert es?**
 
@@ -226,12 +226,6 @@ Bist du dir unsicher, ob deine Bank SEPA Sofortüberweisungen anbietet?
 Über folgenden Link kannst du es prüfen: [eine IBAN validieren](https://www.iban-rechner.de/iban_validieren.html)
 
 Zur Info: Geldinstitute in der Schweiz bieten SEPA Instant kaum an.
-
-## Verkaufsprozess: Crypto -> FIAT
-
-## Woher kommt die Liquidität bei Verkäufen mit größeren Summen bspw. über 100.000€?
-
-Die nötige Liquidität für den Tausch in Bitcoin ist durch die DEX der DeFiChain gedeckt und die Liquidität, um von Bitcoin in Euro zu tauschen, ist durch zentralisierte Crypto Börsen, mit denen wir zusammenarbeiten, garantiert.
 
 ## Wo kann ich die Wechselkurse einsehen?
 
@@ -372,5 +366,3 @@ Fertig!
 - **KYC**: Bei der DFX kannst du einen gewissen Betrag ohne KYC einzahlen, bei Transak nicht.
 
 - **Sparpläne**: Bei der DFX sind Sparpläne möglich, bei Transak nicht.
-
-- **Tokens**: Bei DFX kannst du auch DeFiChain Tokens handeln.
