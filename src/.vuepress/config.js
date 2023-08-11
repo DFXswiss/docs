@@ -1,7 +1,7 @@
 const { description } = require("../../package");
 
 module.exports = {
-  title: "Documents",
+  title: "Docs",
   description: description,
 
   /**
