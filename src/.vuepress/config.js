@@ -36,6 +36,14 @@ module.exports = {
         link: '/config/'
       },
       {
+        text: 'English',
+        link: '/english/'
+      },
+      {
+        text: 'German',
+        link: '/german/'
+      },
+      {
         text: 'DFX.swiss',
         link: 'https://dfx.swiss'
       }
