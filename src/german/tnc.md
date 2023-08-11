@@ -194,6 +194,12 @@ DFX verrechnet bei Käufen von Bitcoin 0.99% Gebühren und bei allen anderen* 1.
 Gebührenübersicht ab 01.12.2022
 ### DFX Gebühren Privatinvestoren
 
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
  Bitcoin (Tier 1) Andere (Tier 2)*
  
 Kauf	0,99 %	1,49 %
