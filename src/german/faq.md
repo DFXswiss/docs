@@ -1,14 +1,11 @@
 # FAQ
 
-Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss. Bitte beachte, dass diese Seite eine Community Seite ist, welche von der Community und nicht von DFX selber gepflegt wird. 
+Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss. 
 
-[[DFX FAQ EN|--> DFX FAQ in english <--]]
+## Allgemeine Fragen
 
-[[DFX FAQ ES|-->DFX FAQ in spanisch<--]]
+### Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei der Decentralized Finance Exchange getätigt habe?
 
-## Allgemeine Fragen ##
-
-### Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei der Decentralized Finance Exchange getätigt habe? ###
 Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Staking, Kauf & Verkauf über Fiat und Referral Rewards). 
 
 Dazu kannst du auf der Payment Seite unter '''Transaktionshistorie''' in zwei Varianten auswählen.
@@ -19,70 +16,89 @@ Dazu kannst du auf der Payment Seite unter '''Transaktionshistorie''' in zwei Va
 Wichtig: Pop Up Blocker deaktivieren!
 [[File:DFX API Cointracking.jpg|center|thumb]]
 
-
 Sobald der Service für weitere OnChain Daten verfügbar ist, wird das der nächste Meilenstein sein. Verfolge daher gerne unsere Projekt- Fortschritte auf unserem Twitter Kanal: [https://twitter.com/DFX_swiss Twitter]
 
-### Kann die o.g. Übersicht aller Transaktionen für das Finanzamt verwendet werden? ###
+### Kann die o.g. Übersicht aller Transaktionen für das Finanzamt verwendet werden?
+
 Ja.
 
-### Was sind DeFi-Assets? ###
+### Was sind DeFi-Assets?
+
 DeFi ist die Abkürzung für “Decentralized Finance”. Der Begriff wird in der Regel zur Beschreibung aller Anwendungen verwendet, die Finanzdienstleistungen auf Basis dezentraler Blockchain Technologie anbieten. Anwendungen sind beispielsweise dezentrale Aktien oder Kreditvergabe. Allgemein sind unter DeFi-Assets alle typischen Finanzdienstleistungen der herkömmlichen Finanzwelt zu verstehen, wie zum Beispiel der Aktienhandel, welcher nun dezentral, also ohne zentrale Instanz, durchgeführt werden kann.  Die DeFi-Assets, welche bei uns handelbar sein werden, sind Assets auf der DeFiChain. Wenn du einen genauen Überblick über die aktuell handelbaren DeFi-Assets haben möchtest, schau gerne auf der DeFiChain Homepage vorbei: [https://defichain.com/dex/ DeFiChain DEX]
 
-### Was sind DeFi-Assets? Werden zusätzliche [[Kryptowährungen]] angeboten? ###
+### Was sind DeFi-Assets? Werden zusätzliche [[Kryptowährungen]] angeboten?
+
 DeFi-Assets in unserem Kontext sind alle Token, dezentrale Aktien, Liquidity Token usw., die auf der [[DeFiChain]] handelbar sind. Somit wird es möglich sein, all diese Assets durch unsere Dienstleistung direkt und ohne Umwege per Banküberweisung zu erwerben. DeFi Assets und [[Kryptowährungen]] außerhalb der [[DeFiChain]] werden nicht angeboten. Hinweis: Beachte, dass damit keine Liquidity Pools wie z.B. DFI-BTC gemeint sind, sondern Liquidity Token, die diese Pools repräsentieren.
 
-### Ist der Service auch für Unternehmenskunden verfügbar? ###
+### Ist der Service auch für Unternehmenskunden verfügbar?
+
 Jeder, der eine SEPA Banküberweisung tätigen kann, darf unsere Dienstleistung nutzen. Daher sind auch Überweisungen von Firmenkonten möglich.
 
-### Wie wird die Infrastruktur betrieben, wie ist diese gesichert, welche Redundanzen sind eingebaut? ###
+### Wie wird die Infrastruktur betrieben, wie ist diese gesichert, welche Redundanzen sind eingebaut?
+
 Die IT Infrastruktur wird von einem professionellen Anbieter betrieben, überwacht und gesichert.
 
-### Wie wird der Service vor Betrug oder Täuschung geschützt? ###
+### Wie wird der Service vor Betrug oder Täuschung geschützt?
+
 Betrug und Täuschung im Finanzbereich wird zusammengefasst zum Thema Geldwäsche. Das Unternehmen ist in der Schweiz reguliert und hält sich an alle geltenden Gesetze. Wir sind daher verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
 
-### Gibt es bereits eine Webseite? 
+### Gibt es bereits eine Webseite?
+
 Ja: [https://dfx.swiss/ Decentralized Finance Exchange]
 
-### Über welche Plattformen und Wallets wird der Dienst verwendet werden können? 
+### Über welche Plattformen und Wallets wird der Dienst verwendet werden können?
+
 Über unsere Payment Seite werden die Zahlungen abgewickelt. Dazu muss sich der Nutzer mit seiner Wallet und einer Signatur dort anmelden. Wir planen alle Wallets, d.h. sowohl die DeFiChain App (Full Node) als auch alle Mobile Wallets (Light Wallets), in unseren Service zu integrieren.
 
-### Kann ich am Projekt mitarbeiten? 
+### Kann ich am Projekt mitarbeiten?
+
 Ja, besuche uns auf [https://github.com/DeFiChange GitHub] oder kontaktiere uns auf [https://t.me/DFXswiss Telegram], wenn du bei uns mitarbeiten möchtest.
 
-### Wie hoch ist das Risiko, dass regulatorische Hürden die Umsetzung verhindern? 
+### Wie hoch ist das Risiko, dass regulatorische Hürden die Umsetzung verhindern?
+
 Dieses Risiko gibt es immer. Wir arbeiten mit der renommiertesten Anwaltskanzlei der Schweiz zusammen, um dieses Risiko möglichst klein zu halten.
 
-### Wie ist die Rolle der Mitarbeiter im Team? 
+### Wie ist die Rolle der Mitarbeiter im Team?
+
 Wie in jedem kleinen Start-Up übernimmt jedes Teammitglied verschiedene Rollen und Aufgaben. Aktuell sind unsere Hauptaufgaben die Entwicklung (API, Homepage und Payment), die rechtliche Arbeit, die ein Geschäftsmodell im DeFi Bereich erfordert, sowie das Marketing. Hier findest du weitere Infos zu unserem Team: [https://dfx.swiss/de/ueber/ https://dfx.swiss/de/ueber/ ]
 
-### Warum meldet sich meine Bank bei mir? 
+### Warum meldet sich meine Bank bei mir?
+
 Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
 
-### Meine Bank unterstützt keine wöchentlichen Zahlungen. Was kann ich machen? 
+### Meine Bank unterstützt keine wöchentlichen Zahlungen. Was kann ich machen?
+
 In der Regel bietet jede Bank einen Dauerauftrag an. Wenn dies nicht möglich ist, da du es zum Beispiel per App oder via Online Banking probiert hast, nehme einfach Kontakt zu deiner Bank auf oder ziehe in Erwägung zu einer anderen Bank zu wechseln. Zudem kannst du auch 4 unterschiedliche Daueraufträge erstellen, die jeweils eine Woche versetzt sind, sodass jede Woche ein Dauerauftrag ausgeführt wird.
 
-### Wie sieht der Zeitplan aus? 
+### Wie sieht der Zeitplan aus?
+
 Schau dir unsere Roadmap an, um eine genauere Übersicht bzgl. unserer Meilensteine und Ziele zu bekommen: [https://fiat2defi.ch/#roadmap Decentralized Finance Exchange Roadmap].
 
-### Wie kontaktiere ich unseren Support bzw. wie nehme ich Kontakt zur DFX auf? 
+### Wie kontaktiere ich unseren Support bzw. wie nehme ich Kontakt zur DFX auf?
+
 Unseren Support erreichst du über unsere Social Media Channels, [https://twitter.com/DFX_swiss Twitter] und [https://t.me/DFXswiss Telegram]. Zudem kannst auch Kontakt über Email mit uns aufnehmen: support@dfx.swiss
 
-### Welche Währungen werden von unserem Service unterstützt? 
+### Welche Währungen werden von unserem Service unterstützt?
+
 Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: support@dfx.swiss
 
-### Wird unser Service auch Cake DeFi oder anderen Anbietern angeboten? 
+### Wird unser Service auch Cake DeFi oder anderen Anbietern angeboten?
+
 Unsere API Schnittstelle ist Open Source und für jede Partei frei zugänglich. Jede Plattform kann unseren Dienst einbauen, ohne uns um Erlaubnis zu fragen. Es müssen nur unsere Standards eingehalten werden. Ob Cake DeFi oder andere Anbieter unseren Service integrieren, liegt somit nicht in unserer Hand.
 
-### Werden auch andere Zahlungssysteme angeboten? 
+### Werden auch andere Zahlungssysteme angeboten?
+
 Ja, wir arbeiten bereits jetzt daran, möglichst jedes weit-verbreitete Zahlungssystem zu integrieren. Wir stufen die Einführung weiterer Zahlungssysteme als essentiell ein und wollen daher vor allem auch Kreditkartenzahlungen ermöglichen. Apple Pay und Google Pay werden in Zukunft ebenfalls eingeführt. Das nächste Zahlungssystem, welches wir neben dem SEPA Zahlungssystem integrieren werden, ist Kreditkartenzahlung. Schau dir hierzu auch unsere [https://fiat2defi.ch/#roadmap Roadmap] an. Mit dem angenommenen CFP, können wir nun unsere Anstrengungen zusätzlich verstärken und die Einführung weiterer Zahlungssysteme beschleunigen.
 
-### Ist DFX reguliert? 
+### Ist DFX reguliert?
+
 Ja. Die Regulierung kann [https://www.finma.ch/de/bewilligung/selbstregulierungsorganisationen-sro/sro-mitglieder-suche/ hier] abgerufen werden. 
 [[File:Finma.png|none|thumb|Regulierung]]
 
-## Schritt-für-Schritt Anleitung 
+## Schritt-für-Schritt Anleitung
 
-### DFX - Die ersten Schritte 
+### DFX - Die ersten Schritte
+
 Du möchtest gerne per einfacher SEPA Überweisung $DFI und andere Token der DefiChain (dBTC, dETH etc.) kaufen und diese auf deine Wallet senden lassen?
 
 In drei Schritten wird dir erklärt, wie einfach es ist, dein traditionelles Bankonto kryptofit zu machen.
@@ -90,6 +106,7 @@ In drei Schritten wird dir erklärt, wie einfach es ist, dein traditionelles Ban
 '''Du nutzt noch nicht die DFX Smartphone Wallet
 
 Was brauchst du? 
+
 * Dein Smartphone
 * Blatt Papier und Bleistift
 * Deine IBAN, mit der du die Überweisungen tätigen möchtest.
@@ -198,7 +215,6 @@ Und vergebe deiner Adresse einen Namen.
 Fertig ist die neue Adresse inklusive Namen.
 [[File:Zweite Walletadresse-7.jpg|none|thumb|431x431px]]
 
-
 Nun kannst du ganz einfach über den Adress Button oben rechts zwischen deinen verschiedenen Wallets hin und her schalten.
 
 Klicke nun auf deiner neuen Walletadresse den Button „Staking“, wodurch du auf die Payment Seite weitergeleitet wirst.
@@ -207,33 +223,41 @@ Die weiteren Schritte sind identisch wie beim Erstellen deiner ersten Wallet. Du
 
 Falls du die zweite Walletadresse mit deiner ersten verknüpfen willst, kannst du das ganz einfach tun, indem du mit derselben IBAN einen Kauf auf deiner zweiten Walletadresse tätigst, mit welcher du auch schon auf deiner ersten Walletadresse gekauft hast. Dadurch werden bei der zweiten Adresse automatisch die Nutzerdaten deiner ersten Adresse hinterlegt. Wichtig ist nur, dass du kaufst und nicht verkaufst und dies mit der gleichen IBAN tust, die auch bei deiner ersten Adresse hinterlegt ist.
 
-## Nutzer-relevante Fragen & KYC-Prozess 
+## Nutzer-relevante Fragen & KYC-Prozess
 
-### Wer ist befugt unseren Service zu nutzen? 
+### Wer ist befugt unseren Service zu nutzen?
+
 Den Service kann jeder nutzen, der eine SEPA Überweisung in die Schweiz tätigen kann, denn die Firma ist in der Schweiz angemeldet. SEPA ist ein Europäisches Zahlungssystem, das von praktisch allen Banken in den Europäischen Ländern unterstützt wird. Wir planen allerdings später auch Kreditkarten und weitere Zahlungsmöglichkeiten zu schaffen. Das durch die Masternodes genehmigte CFP hilft uns, andere Zahlungssysteme schneller zu integrieren.
 
-### Bis zu welcher Grenze ist der Service KYC-frei? 
+### Bis zu welcher Grenze ist der Service KYC-frei?
+
 Der Service ist bis 1000 CHF bzw. 1000 € am Tag oder 100.000 CHF bzw. 100.000 € im Jahr ohne KYC-Prozess nutzbar.
 
-### Wird ein KYC-Prozess trotzdem angeboten? Was passiert, wenn ich mehr als 1000 CHF bzw. 1000 € pro Tag investieren möchte oder über die Jahresobergrenze komme? 
+### Wird ein KYC-Prozess trotzdem angeboten? Was passiert, wenn ich mehr als 1000 CHF bzw. 1000 € pro Tag investieren möchte oder über die Jahresobergrenze komme?
+
 Ja, sobald du die o.g. Freigrenze überschreitest, wird ein KYC-Prozess erforderlich. Wir empfehlen unseren Kunden zuerst eine Testtransaktion durchzuführen, um den Service und die Funktionsweise kennenzulernen. Nach der ersten erfolgreichen Transaktion gibt es in der App die Möglichkeit, die persönliche Verifizierung (KYC) vorzunehmen.
 
-### Zählt für die Jahresobergrenze, bei der man KYC frei investieren kann, das Kalenderjahr oder ein Jahr ab meiner ersten Überweisung? 
+### Zählt für die Jahresobergrenze, bei der man KYC frei investieren kann, das Kalenderjahr oder ein Jahr ab meiner ersten Überweisung?
+
 Es zählt das Kalenderjahr. Allerdings sei zu beachten, dass die Banktransaktionen auch nur an Wochentagen und zu maximal  1000 CHF bzw. 1000 € am Tag KYC-frei sind. Daher braucht man sowieso ca. 140 Tage (100 Transaktionen insgesamt in 20 Wochen; 1 Transaktion pro Werktag) bis man das volle Transaktionsvolumen KYC-frei ausgenutzt hat. So ist es z.B. möglich, 200.000 CHF mit einer Transaktion pro Werktag KYC-frei zu investieren, wenn dies gleichmäßig auf zwei Geschäftsjahre aufgeteilt wird.
 
-### Was sind AML Informationen? 
+### Was sind AML Informationen?
+
 AML steht für „Anti Money Laundering“ und zielt auf die Bekämpfung von Geldwäsche ab. Von daher ist jeder Finanzintermediär dazu verpflichtet, die Überwachung und Einhaltung der geltenden Geldwäschegesetze zu gewährleisten, meistens durch einen AML-Compliance-Officer.
 
-### Welche Kunden-Informationen werden durch die Decentralized Finance Exchange zur Verfügung gestellt,  um den AML-Regularien zu entsprechen? 
+### Welche Kunden-Informationen werden durch die Decentralized Finance Exchange zur Verfügung gestellt,  um den AML-Regularien zu entsprechen?
+
 Wir sind verpflichtet die Informationen, die ein Kunde durch eine Transaktion auf unser Geschäftskonto durch seine IBAN hinterlässt, den beteiligten Banken zur Verfügung zu stellen. Durch die IBAN wird der zugehörige Namen und die Adresse dieser Person einsehbar.
 
-### Was passiert mit meinen Daten bei der Decentralized Finance Exchange? 
+### Was passiert mit meinen Daten bei der Decentralized Finance Exchange?
+
 Zum Einen speichern wir mit deiner Legacy Adresse (deine Blockchain Adresse) eine Route ab (Bsp. einer Route: Legacy Adresse XY tauscht von EUR in DFI). Damit ist es möglich einen Sparplan über einen Bank Dauerauftrag laufen zu lassen, sodass unsere API die Informationen zuordnen kann und dein Geld am Ende deiner Wallet zuordnen kann. Zusätzlich werden alle abgeschlossen Transaktionen gespeichert, um das spätere Erstellen von Steuerübersichten oder einer Transaktionshistorie zu ermöglichen.
 
-### Welche Länder können zurzeit den Service (noch) nicht nutzen? 
+### Welche Länder können zurzeit den Service (noch) nicht nutzen?
+
 Länder, in denen keine SEPA-Überweisungen möglich sind, sind anfangs noch von unserem Service ausgeschlossen, solange bis Kreditkartenzahlungen integriert werden.
 
-## Schritt-für-Schritt Anleitung KYC-Prozess 
+## Schritt-für-Schritt Anleitung KYC-Prozess
 
 [[File:Kundenverifikation.jpg|800px]]
 
@@ -284,7 +308,7 @@ INFO: Dein DFX KYC Status ist nun in Bearbeitung (Online-Identifikation).
 
 <u>Tipp</u>: Falls der Prozess nicht startet oder du nach einer Unterbrechung weitermachen möchtest, klicke bitte auf den roten "refresh" Pfeil 
 
-<big>'''Schritt 5: Video Identifikation'''</big>
+Schritt 5: Video Identifikation'''</big>
 
 [[File:Videoident.jpg|800px]]
 
@@ -384,28 +408,33 @@ Vielen Dank für dein Vertrauen in DFX.
 
 Bei weiteren Fragen kannst du dich jederzeit an [http://business@dfx.swiss business@dfx.swiss] wenden.
 
-## Kaufprozess: FIAT -> DeFiChain Assets 
+## Kaufprozess: FIAT -> DeFiChain Assets
 
-### Wie kann ich Fiatgeld an Decentralized Finance Exchange überweisen? 
+### Wie kann ich Fiatgeld an Decentralized Finance Exchange überweisen?
+
 Eine Überweisung tätigst du ja, um in ein DeFi-Asset zu investieren. Dazu kannst du unsere [https://payment.fiat2defi.ch/login Paymentseite] benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. Eine genaue Schritt für Schritt Anleitung für den Kauf findest du hier: [https://defichain-wiki.com/wiki/DFX_FAQ#Schritt-f.C3.BCr-Schritt_Anleitung Schritt-für-Schritt Anleitung].
 
-### Wie läuft der Kaufprozess, sobald ich meine Überweisung an Decentralized Finance Exchange tätige? 
+### Wie läuft der Kaufprozess, sobald ich meine Überweisung an Decentralized Finance Exchange tätige?
+
 Wir sammeln die eingehenden Kaufaufträge und führen diese anfangs 1x am Tag, bei steigendem Kaufvolumen öfters, aus. Somit tauschen wir die Kundengelder geschlossen als Gesamtsumme in BTC und transferieren diese zur DeFiChain Wallet. Dort wird über die DEX in die verschiedenen Assets getauscht und schließlich werden diese Assets an die einzelnen Wallet Adressen der Kunden/Auftraggeber transferiert. 
 
-### Wie richte ich eine Aufteilung der Investition in den verschiedenen Assets ein, wenn ich Einzahlungen via Dauerauftrag bei der Hausbank tätige? 
+### Wie richte ich eine Aufteilung der Investition in den verschiedenen Assets ein, wenn ich Einzahlungen via Dauerauftrag bei der Hausbank tätige?
+
 Du kannst, nachdem du einmal eine Investition in ein bestimmtes Asset getätigt hast, durch wiederholte Überweisungen (Dauerauftrag) mit dem korrekten Verwendungszweck einen Sparplan für dieses Asset erzeugen. Sobald du neue Assets sparen möchtest, wiederholst du einfach den Prozess für dieses Asset und richtest danach wieder einen Dauerauftrag bei deiner Bank ein.
 
 ### Werden die erworbenen Assets direkt/automatisch auf meine DefiChain Adresse überwiesen? ===
+
 Ja, sobald diese von uns erworben sind, werden sie direkt und automatisch von uns an deine DeFiChain Wallet Adresse überwiesen.
 
 ### Kann dieser Service direkt in meiner DeFi-Wallet (allenfalls in einer anderen redundanten Wallet) integriert werden, sodass die Transaktion von meinem Bankkonto zu meiner eigenen Wallet erfolgt? ===
+
 Plan ist es den Service als möglichen Zahlungsanbieter bei den unterschiedlichen Wallets (Light wallet, Mobile Wallet, DeFiChain Wallet/App sowie weiteren Wallets in Zukunft) zu integrieren. Das heißt allerdings nicht, dass die Überweisung direkt auf deine Wallet führt, denn wir müssen das Fiat Geld zunächst in dein gewünschtes Asset tauschen, um dir dieses dann auf deine Wallet zu schicken. Wie bei jedem Dienstleister, musst du also in der Zeit der Dienstleistungserbringung dem Dienstleister vertrauen. Vorteil, danach bist du in der vollen Kontrolle deiner DeFi Assets.
 
 === Woher bekommt ihr die DFI Liquidität? ===
 Wir brauchen keine Liquidität, da wir direkt mittels den von den Kunden zur Verfügung gestellten Geldern die jeweiligen Assets kaufen. Wir tauschen Fiat Geld erst in Bitcoin, dann in DFI oder die jeweiligen Assets, die auf der DeFiChain verfügbar sind. Nach Abschluss des Trades, werden die Assets zu deiner Wallet Adresse transferiert.
 
 === Welcher Wechselkurs wird beim Kauf verwendet? ===
-Wir können nur den Wechselkurs gewährleisten, den wir in dem Moment bekommen, in welchem wir den Transfer durchführen. Das wird immer so schnell wie möglich nach deiner Einzahlung sein und immer innerhalb eines Arbeitstages nach Erhalt des Geldes. Daraus ergibt sich für dich mal ein Vorteil (bei geringeren Kursen) und mal ein Nachteil (bei höheren Kursen). Wenn du allerdings einen Sparplan laufen hast, sind die Schwankungen durch regelmäßige Ausführung vernachlässigbar.	Wir geben den erhaltenen Wechselkurs 1 zu 1 an dich weiter zzgl. den Gebühren.
+Wir können nur den Wechselkurs gewährleisten, den wir in dem Moment bekommen, in welchem wir den Transfer durchführen. Das wird immer so schnell wie möglich nach deiner Einzahlung sein und immer innerhalb eines Arbeitstages nach Erhalt des Geldes. Daraus ergibt sich für dich mal ein Vorteil (bei geringeren Kursen) und mal ein Nachteil (bei höheren Kursen). Wenn du allerdings einen Sparplan laufen hast, sind die Schwankungen durch regelmäßige Ausführung vernachlässigbar.    Wir geben den erhaltenen Wechselkurs 1 zu 1 an dich weiter zzgl. den Gebühren.
 
 === Wann bekomme ich meine Assets in meiner Wallet angezeigt? ===
 Sobald wir deine Funds getauscht haben, tätigen wir direkt die Transaktion zu deiner Wallet. Die Zeit, wann du diese in der Wallet siehst, ist in erster Linie abhängig von der Blockchain. Sobald die Transaktion in der Blockchain aufgenommen wurde, wirst du benachrichtigt und dir wird der Transaktion Hash sowie die Blocknummer mitgeteilt.
@@ -500,8 +529,11 @@ Zudem werden noch einmal alle Details zu der jeweiligen Verkaufsroute angezeigt.
 
 Nach dem Einfügen der Adresse und der Menge DFI, die verkauft werden soll, klickt man einfach auf den Button "Weiter" und bestätigt danach die Transaktion.
 Der Nutzer bekommt 3 Bestätigungsmails, die die einzelnen Schritte des Verkaufs dokumentieren: 
+
 # Eine Mail, die bestätigt, dass die DFI von DFX empfangen worden sind.
+
 # Eine Mail, die den Verkauf der DFI bestätigt inkl. aller Details zum Verkauf wie z.B. den Wechselkurs.
+
 # Und eine Mail, die bestätigt, dass das Geld des Verkaufs unser Bankkonto verlassen hat und sich auf dem Weg zum Bankkonto des Kunden befindet.
 
 '''Bitte beachte, dass nur Verkäufe BIS 900 EUR KYC-frei sind. Bei Beträgen über 900 EUR musst du unseren vollen KYC-Prozess durchlaufen! DFI Transaktionen über 900 EUR ohne abgeschlossenes KYC werden nicht bearbeitet!'''
@@ -518,7 +550,6 @@ Gehe zur Payment Seite und drücke den Button "Staking".
 
 [[File:Stakingbutton.jpg|250px|link=https://defichain-wiki.com/wiki/File:Stakingbutton.jpg]]
 
-
 Entscheide dich, wie du mit deinen Rewards ...
 
 [[File:Rewards.png|400px|link=https://defichain-wiki.com/wiki/File:Rewards.png]]
@@ -529,11 +560,9 @@ Sowohl für deine Rewards, als auch für dein Stakinginvestment hast du die Mög
 
 [[File:Reinvest-wallet-bankkonto.jpg|400px|link=https://defichain-wiki.com/wiki/File:Reinvest-wallet-bankkonto.jpg]]
 
-
 Wenn du bereits eine Auszahlungsroute angelegt hast, so kannst du diese über das Dropdown auswählen. Sonst hast du hier die Möglichkeit dir eine neue Auszahlungsroute anzulegen.
 
 [[File:Auszahlungsroute.png|400px|link=https://defichain-wiki.com/wiki/File:Auszahlungsroute.png]]
-
 
 Du kannst sämtliche DeFiChain Assets an deine Stakingadresse senden (DFI, dBTC, ...). Wir tauschen diese in DFI und beginnen mit dem Staking für dich.
 
@@ -548,14 +577,11 @@ Klicke auf das grüne Feld in deinem Portfolio und gib deinen 6-stelligen Pin ei
 
 [[File:LOCK-Schritt 1.jpg|250px|link:https://defichain-wiki.com/wiki/File:LOCK-Schritt_1.jpg]]
 
-
 Klicke wieder auf das grüne Feld und gib die Erlaubnis für die Weiterleitung deiner KYC Daten von DFX an LOCK. 
 
 Damit bist du automatisch auch bei LOCK verifiziert und kannst dort direkt staken.
 
 [[File:LOCK-Schritt 2.jpg|250px|link:https://defichain-wiki.com/wiki/File:LOCK-Schritt_2.jpg]]
-
-
 
 Nun klickst du auf “STAKE” und gibst den Betrag ein, den du staken möchtest. 
 
@@ -576,8 +602,11 @@ Schau gerne in unserem [https://github.com/DeFiChange GitHub] Repo vorbei.
 Wir haben mehrere Bereiche:
 
 # Website
+
 # Backend Infrastruktur der Decentralized Finance Exchange
+
 # API zwischen der Exchange und der Nutzer-Software
+
 # Nutzer Software
 
 Die Webseite ist Open Source unter einer Creative Commons CC BY-SA 4.0 Lizenz. Das Backend der  Decentralized Finance Exchange kann aus Sicherheitsgründen nicht einfach so veröffentlicht werden und verbleibt daher im Firmeneigentum. Die API und die Nutzer-Software wird unter MIT Lizenz entwickelt und auf [https://github.com/DeFiChange GitHub] veröffentlicht.
@@ -617,7 +646,6 @@ Gebühren ab dem 01. Dezember 2022
 |}
 <nowiki>*</nowiki>DeFiChain + ETH + BNB +  USDT/USDC/BUSD/DFI (ERC20/BEP20)
 
-
 DFX verarbeitet Transaktionen ab bestimmten Mindestbeträgen, die je nach Blockchain variieren.
 
 Es gelten folgende Bestimmungen:
@@ -645,7 +673,6 @@ Es gelten folgende Bestimmungen:
 |-
 | TOTAL || 0% - 1,9%
 |}
-
 
 Eine genaue Übersicht unserer Gebühren ist auch in unseren AGBs zu finden: https://dfx.swiss/de/agb/ .
 
@@ -788,8 +815,10 @@ Während des Kauf- und Verkaufsprozesses haben wir die Verantwortung über deine
 === KYC 
 Bei der DFX kannst du einen gewissen Betrag ohne KYC einzahlen, bei Transak nicht.
 
-## Sparpläne 
+## Sparpläne
+
 Bei der DFX sind Sparpläne möglich, bei Transak nicht.
 
-## Tokens 
+## Tokens
+
 Bei DFX kannst du auch DeFiChain Tokens handeln.
