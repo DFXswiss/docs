@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  title: 'DFX Documents',
+  title: 'Documents',
   description: description,
 
   /**
@@ -21,11 +21,13 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
-    editLinks: false,
-    docsDir: '',
-    editLinkText: '',
-    lastUpdated: false,
+    repo: 'DFXswiss/docs',
+    logo: '/assets/logo.svg',
+    editLinks: true,
+    editLinkText: 'Edit this page on Github',
+    docsBranch: 'main',
+    docsDir: 'src',
+    lastUpdated: true,
     nav: [
       {
         text: 'Guide',
