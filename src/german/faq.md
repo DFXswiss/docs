@@ -1,3 +1,4 @@
 # FAQ
 
 TODO
+Bitcoin verkaufen
