@@ -239,8 +239,6 @@ Die nötige Liquidität für den Tausch in Bitcoin ist durch die DEX der DeFiCha
 
 Transparenz ist uns sehr wichtig. Von daher wird der jeweilige Wechselkurs einsehbar sein. Es wird auch eine Übersicht geben, wo du alle deine Transaktionen einsehen kannst, inklusive der zugehörigen Wechselkurse.
 
-
-
 ## Schritt-für-Schritt Anleitung - Verkaufen bei DFX
 
 <big>**SCHRITT 1: Payment-Seite**</big>
@@ -290,8 +288,6 @@ Es gelten folgende Bestimmungen:
 Du kannst uns für Fragen jederzeit über unsere [Telegramgruppe](https://t.me/DFXswiss) erreichen. Den Support kannst du per Mail kontaktieren: support@DFX.swiss. 
 
 ## Welche Produkte werden aktuell von DFX angeboten?
-
-
 
 # Referral-Programm
 
@@ -352,6 +348,32 @@ Es gibt keine Versicherung, da wir keine Funds der Kunden halten (non-custodial)
 ## Hat Decentralized Finance Exchange Zugang zu meinen Assets?
 
 Während des Kauf- und Verkaufsprozesses haben wir die Verantwortung über deine Funds, um diese in deinem Auftrag gemäß zu tauschen. Vorher und nachher haben wir keinen Zugriff auf deine Assets, weil deine Assets ausschließlich in deiner Wallet verwahrt werden, auf die wir keinen Zugriff haben, da nur du deinen Private Key kennst!
+
+## DFX Metamask Exchange
+
+## Wie kann ich meine Tel Nummer nachträglich ändern?
+
+Öffne exchange.DFX.swiss
+
+Klicke auf "My DFX"
+
+![  ](/Users/skip/Desktop/Bildschirm­foto%202023-08-11%20um%2015.56.20.png)
+
+
+
+Klicke auf das Zahnrad
+
+![ ](/Users/skip/Desktop/Bildschirm­foto%202023-08-11%20um%2016.01.08.png)
+
+
+
+Ändere die Tel Nummer und klicke auf Speichern
+
+![Bildschirm­foto 2023-08-11 um 16.02.04.png](/var/folders/jl/g0nn032n37d8yn688gtdzxhc0000gn/T/TemporaryItems/NSIRD_screencaptureui_5ZQu7N/Bildschirm­foto%202023-08-11%20um%2016.02.04.png)
+
+Ferig!
+
+
 
 # Was ist der Unterschied von Transak und DFX ?
 
