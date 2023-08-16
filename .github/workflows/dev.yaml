@@ -30,7 +30,7 @@ jobs:
           npm run build
 
       - name: Deploy to All-Inkl
-        uses: SamKirkland/FTP-Deploy-Action@4.0.0
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.DEV_HOST }}
           username: ${{ secrets.DEV_USER }}
