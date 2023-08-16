@@ -1,4 +1,4 @@
-# Allgemeine Geschäftsbedingungen
+# Allgemeine Geschäftsbedingungen -
 
 Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend.
 
