@@ -8,7 +8,7 @@ module.exports = {
     ["meta", { name: "theme-color", content: "#072440" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
-    ["script", { src: "https://services.dfx.swiss/widget/v1.0" }],
+    ["script", { src: "https://services.dfx.swiss/widget/v1.0", defer: true }],
   ],
 
   themeConfig: {
