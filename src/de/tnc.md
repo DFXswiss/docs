@@ -74,7 +74,7 @@ Es werden wenigstens folgende Informationen benötigt:
 - Anschriftsadresse des Absenders und des Empfängers
 - Blockchaindaten wie Blockchainadresse, Transaktions ID, Referenz
 
-Bei Blockchaintransaktionen von DFX an nicht self-hosted Wallets werden diese Daten von DFX automatisch an den Hosting Provider übermittelt. Wenn nichts anderes vereinbart ist, werden die Daten per E-Mail an compliance(at)"provider.domaine" übermittelt. Kunden von DFX, welche dieser Übermittlung nicht zustimmen wollen, empfehlen wir, die Verwendung einer self-hosted Wallet.
+Bei Blockchaintransaktionen von DFX an nicht self-hosted Wallets werden diese Daten von DFX automatisch an den Hosting Provider übermittelt. Wenn nichts anderes vereinbart ist, werden die Daten per E-Mail an compliance(at)"provider.domain" übermittelt. Kunden von DFX, welche dieser Übermittlung nicht zustimmen wollen, empfehlen wir, die Verwendung einer self-hosted Wallet.
 
 ## Benutzer-Registrierung
 
