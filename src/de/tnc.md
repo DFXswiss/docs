@@ -194,7 +194,7 @@ Rückbuchungen von Verkäufen an Kunden der DFX AG werden ausschliesslich in der
 
 ## Gebühren
 
-Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA Zahlungssystem [als auch für Krypto-zu-Krypto-Transaktionen]. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. [Bei einer Krypto-zu-Krypto-Transaktion würde das Volumen entsprechend mit dem Tageskurs in EUR umgerechnet (www.kraken.com), um die Höhe der Gebühren festlegen zu können].
+Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA Zahlungssystem [als auch für Krypto-zu-Krypto-Transaktionen]. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. [Bei einer Krypto-zu-Krypto-Transaktion würde das Volumen entsprechend mit dem Kurs in EUR umgerechnet (www.kraken.com), um die Höhe der Gebühren festlegen zu können].
 
 DFX verrechnet bei Käufen von Bitcoin 0.99% Gebühren und bei allen anderen* 1.49%. Für Verkäufe gelten die genannten Gebühren zuzüglich 0.5%, also für Bitcoin 1.49% und alle anderen* 1.99%. Für Firmenkunden werden auf die geltende Gebührenstruktur pauschal 0.5% zusätzlich erhoben.
 
@@ -204,21 +204,19 @@ Gebührenübersicht ab 01.12.2022
 
 
 
-|         | Bitcoin (Tier 1) | Andere (Tier 2)* |
+|         | Bitcoin          | Andere           |
 | ------- | ---------------- | ---------------- |
 | Kauf    | 0,99 %           | 1,49 %           |
 | Verkauf | 1,49 %           | 2,49 %           |
 
-*ETH + BNB + Stablecoins USDT/USDC/BUSD (ERC20/BEP20)
 
 ### DFX Gebühren Firmenkunden
 
-|         | Bitcoin (Tier 1) | Andere (Tier 2)* |
+|         | Bitcoin          | Andere           |
 | ------- | ---------------- | ---------------- |
 | Kauf    | 1,49 %           | 1,99 %           |
 | Verkauf | 1,99 %           | 2,49 %           |
 
-*ETH + BNB + Stablecoins USDT/USDC/BUSD (ERC20/BEP20)
 
 ## Referral System
 
@@ -226,7 +224,7 @@ Unser Referral Programm zahlt Kunden 0.25% auf das Kauf-/Investitionsvolumen, we
 
 ## Risiken
 
-DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der DeFiChain, Bitcoin Blockchain, Ethereum Blockchain und Binance Smart Chain sind. Decentralized Finance ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
+DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin Blockchain, Ethereum Blockchain und Binance Smart Chain sind. Decentralized Finance ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
 
 DFX hält sich stets an das aktuelle schweizerische Recht und ist im ständigen Austausch mit den Behörden, um dies umzusetzen. DFX behält sich jederzeit das Recht vor, den Handel von einzelnen Kryptowährungen auszusetzen oder aber weitere Kryptowährungen oder Produkte in ihr Angebot aufzunehmen. Kunden des DFX Brokerage Service haben keinen Anspruch auf den Handel von Kryptowährungen, wenn diese zuvor vom Handel ausgesetzt worden sind. Dies gilt auch, wenn diese Kryptowährungen zuvor über den DFX Brokerage Service erworben worden sind.
 
