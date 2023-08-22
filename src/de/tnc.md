@@ -120,7 +120,8 @@ Die Kunden können ihren Account jederzeit löschen respektive deaktivieren, ind
 
 Der Kunde hat die Ausführung des Kaufs unter Beachtung der Anweisungen in der DFX-App beziehungsweise auf der DFX-Payment Seite vorzunehmen. Bei ungültigen oder falschen Angaben können die Gelder verloren gehen. DFX kann Nachforschungen anstellen, um zu versuchen, verlorene Kryptowährungen zurückzuerlangen, ist jedoch nicht dazu verpflichtet. Diese Nachforschungen liegen im alleinigen Ermessen von DFX. Der Kunde hat für die Kosten einer Nachforschung aufzukommen, welche die technische Komplexität und den Zeitaufwand für die Nachforschungen berücksichtigen.
 
-Wenn der genannte Zahlungszweck nicht auf dem Zahlungsauftrag erscheint, wird das Geld dem entsprechenden Kunden zurückerstattet. Die Bankgebühren werden dem Kunden in Rechnung gestellt, und es kann auch eine zusätzliche Verwaltungsgebühr berechnet werden.
+Wenn der erforderliche Zahlungszweck nicht auf dem Zahlungsauftrag erscheint, wird das Geld dem entsprechenden Kunden zurückerstattet. Die Bankgebühren werden dem Kunden in Rechnung gestellt, und es kann auch eine zusätzliche Verwaltungsgebühr berechnet werden.
+Eine Transaktion auf das DFX-Wallet ohne vorher erstellte Kaufroute wird von DFX nicht akzeptiert und umgehend dem Kunden rückerstattet. Die dabei entstehenden Bankgebühren gehen zu Lasten des Kunden. Allenfalls werden dem Kunden auch Verwaltungsgebühren in Rechnung gestellt.
 
 DFX erbringt seine Dienstleistung im Umfang des bei ihr auf der DFX-Wallet tatsächlich eingegangenen Betrages. Die Bankgebühren respektive Transaktionsgebühren gehen zu Lasten des Kunden und werden direkt vom ursprünglich einbezahlten Betrag in Abzug gebracht, sofern dies beim Transaktionseingang noch nicht erfolgt war. Allenfalls werden dem Kunden auch Verwaltungsgebühren in Rechnung gestellt. DFX wechselt den Gegenwert des tatsächlich erhaltenen Betrags abzüglich allfälliger, zusätzlicher Bank- respektive Transaktionsgebühren und abzüglich der DFX-eigenen Gebühren (siehe weiter unten) anschliessend in die gewünschte Kryptowährung. Der Kryptowährungwechsel für Bitcoin wird über Kraken getätigt und für alle anderen über Uniswap.
 
@@ -132,15 +133,13 @@ Die Transaktionskosten der Kryptowährungen, die an den Kunden übermittelt werd
 
 Aufgegebene Kaufrouten werden von DFX innerhalb von sieben Werktagen nach erfolgter Transaktion bearbeitet. Wird die Kaufroute nicht innerhalb der oben genannten Frist bearbeitet, ist der Kunde verpflichtet, DFX unverzüglich zu informieren. Wenn der Kunde dieser Verpflichtung nicht nachkommt, kann er keine Ansprüche bezüglich der Änderung des Wechselkurses erheben.
 
-Eine Transaktion auf das DFX-Wallet ohne vorher erstellte Kaufroute wird von DFX nicht akzeptiert und umgehend dem Kunden rückerstattet. Die dabei entstehenden Bankgebühren gehen zu Lasten des Kunden. Allenfalls werden dem Kunden auch Verwaltungsgebühren in Rechnung gestellt.
-
 Kaufrouten können storniert werden, solange der Betrag noch nicht bei DFX eingegangen ist. Die Bankgebühren werden dem Kunden in Rechnung gestellt, und es kann ihm auch eine zusätzliche Verwaltungsgebühr berechnet werden.
 
 Netzwerkgebühren im Zusammenhang mit der Erstellung der Kaufrouten behält DFX sich das Recht vor, die Netzwerkgebühr im Zeitpunkt der Tätigung der Transaktion dem Kunden in Rechnung zu stellen.
 
 ## Prozess beim Verkauf von Kryptowährungen
 
-Der Kunde hat die Ausführung des Verkaufs unter Beachtung der Anweisungen auf der Paymentseite /in der App vorzunehmen. Um einen Verkauf auslösen zu können muss der Kunde eine entsprechende Payment Route (Verkaufsroute) zum Verkauf erstellen. Bei ungültigen oder falschen Angaben können die Gelder verloren gehen. Wird eine Überweisung ohne vorherige Erstellung einer entsprechenden Verkaufsroute auf das DFX-Wallet ausgeführt oder erfolgt eine Überweisung an eine andere als die von DFX angegebene Adresse, kann der überwiesene Betrag verloren gehen. DFX kann Nachforschungen anstellen, um zu versuchen, verlorene Kryptowährungen zurückzuerlangen, ist jedoch nicht dazu verpflichtet. Diese Nachforschungen liegen im alleinigen Ermessen von DFX. Der Kunde hat für die Kosten einer Nachforschung aufzukommen, welche die technische Komplexität und den Zeitaufwand für die Nachforschungen berücksichtigen.
+Der Kunde hat die Ausführung des Verkaufs unter Beachtung der Anweisungen auf der Paymentseite /in der App vorzunehmen. Bei ungültigen oder falschen Angaben können die Gelder verloren gehen. Wird eine Überweisung ohne vorherige Erstellung einer entsprechenden Verkaufsroute auf das DFX-Wallet ausgeführt oder erfolgt eine Überweisung an eine andere als die von DFX angegebene Adresse, kann der überwiesene Betrag verloren gehen. DFX kann Nachforschungen anstellen, um zu versuchen, verlorene Kryptowährungen zurückzuerlangen, ist jedoch nicht dazu verpflichtet. Diese Nachforschungen liegen im alleinigen Ermessen von DFX. Der Kunde hat für die Kosten einer Nachforschung aufzukommen, welche die technische Komplexität und den Zeitaufwand für die Nachforschungen berücksichtigen.
 
 DFX erbringt seine Dienstleistung im Umfang des bei ihr auf der DFX-Wallet tatsächlich eingegangenen Betrages. Die Bankgebühren respektive Transaktionsgebühren gehen zu Lasten des Kunden und werden direkt vom ursprünglich einbezahlten Betrag in Abzug gebracht, sofern dies beim Transaktionseingang noch nicht erfolgt war. Allenfalls werden dem Kunden auch Verwaltungsgebühren in Rechnung gestellt. DFX wechselt den Gegenwert des tatsächlich erhaltenen Betrags abzüglich allfälliger, zusätzlicher Bank- respektive Transaktionsgebühren und abzüglich der DFX-eigenen Gebühren (siehe weiter unten) anschliessend in die gewünschte Fremdwährung [respektive Kryptowährung].
 
@@ -150,13 +149,13 @@ Nach Erstellung der Verkaufsroute, des vom Kunden in diesem Zusammenhang einbeza
 
 DFX weist darauf hin, dass der Verkauf bis zu sieben Werktage dauern kann, bis der Betrag beim Empfänger eintrifft.
 
-Die Transaktionskosten der [Krypto- respektive] Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer (im Folgenden: MWST), falls zutreffend. Nachdem die Überweisung [der gewünschten Kryptowährung respektive] der gewünschten Fremdwährung auf das Konto[/Wallet] des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E- Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
-
-Geschäftsabwicklung – Dauer und Volumen Verkaufsrouten werden von DFX innerhalb von sieben Werktagen nach erfolgter Transaktion auf das DFX- Wallet bearbeitet. Wird die Verkaufsroute nicht innerhalb der oben genannten Frist bearbeitet, ist der Kunde verpflichtet, DFX unverzüglich zu informieren. Wenn der Kunde dieser Verpflichtung nicht nachkommt, kann er keine Ansprüche bezüglich der Änderung des Wechselkurses erheben.
-
-DFX weist darauf hin, dass pro Tag und pro Kunde maximal ein Verkaufsvolumen von 90’000 EUR bzw. 100’000 CHF abgewickelt werden kann. Ausnahmen können in Betracht gezogen werden und werden auf individueller Basis diskutiert.
+Verkaufsrouten werden von DFX innerhalb von sieben Werktagen nach erfolgter Transaktion auf das DFX- Wallet bearbeitet. Wird die Verkaufsroute nicht innerhalb der oben genannten Frist bearbeitet, ist der Kunde verpflichtet, DFX unverzüglich zu informieren. Wenn der Kunde dieser Verpflichtung nicht nachkommt, kann er keine Ansprüche bezüglich der Änderung des Wechselkurses erheben.
 
 Verkaufsrouten können storniert werden, solange die umzuwandelnde Kryptowährung noch nicht bei DFX eingegangen ist.
+
+Die Transaktionskosten der [Krypto- respektive] Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer (im Folgenden: MWST), falls zutreffend. Nachdem die Überweisung [der gewünschten Kryptowährung respektive] der gewünschten Fremdwährung auf das Konto[/Wallet] des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E- Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
+
+DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen besteht, welches auf der Payemntseite vom Kunden eingesehen werden kann. Der Kunde hat die Möglichkeit ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert. 
 
 Rückbuchungen von Verkäufen an Kunden der DFX AG werden ausschliesslich in der Kryptowährung getätigt, die an DFX zum Verkauf transferiert worden ist. Die Höhe der Rückbuchung entspricht exakt dem Betrag, die an DFX zum Verkauf transferiert worden ist.
 
