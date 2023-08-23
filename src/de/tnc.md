@@ -100,7 +100,7 @@ Die vollständige und korrekte Vorlage und Validierung dieser Dokumente ist für
 
 Die angegebenen Daten müssen vollständig und jederzeit gültig sein. Änderungen personenbezogener Daten sowie aller dem light oder vollen KYC zugrunde liegenden Daten sind durch die Kunden an DFX unverzüglich mitzuteilen.
 
-DFX wird die Kunden niemals per E-Mail oder Telefon nach derartigen kundenbezogenen Informationen fragen und auch nie das Passwort an Dritte weitergeben. Solche Anfragen sind zu ignorieren und DFX zu melden.
+Mitarbeiter von DFX fragen den Kunden niemals nach Passwörtern, Privatkeys oder Seeds. Solche Anfragen sind zu ignorieren und DFX zu melden.
 
 Die Kunden sind nicht berechtigt, anderen Personen den Zugriff auf ihren Account zu ermöglichen. Sie sind für alle Aktivitäten verantwortlich, die mit ihrem jeweiligen Account durchgeführt werden.
 
