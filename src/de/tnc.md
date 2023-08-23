@@ -1,4 +1,4 @@
-# Allgemeine Geschäftsbedingungen 2
+# Allgemeine Geschäftsbedingungen
 
 Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend.
 
@@ -118,6 +118,7 @@ Die Kunden können ihren Account jederzeit löschen respektive deaktivieren, ind
 
 ## Prozess beim Kauf von Kryptowährungen
 
+
 Der Kunde hat die Ausführung des Kaufs unter Beachtung der Anweisungen in der DFX-App beziehungsweise auf der DFX-Payment Seite vorzunehmen. Bei ungültigen oder falschen Angaben können die Gelder verloren gehen. DFX kann Nachforschungen anstellen, um zu versuchen, verlorene Kryptowährungen zurückzuerlangen, ist jedoch nicht dazu verpflichtet. Diese Nachforschungen liegen im alleinigen Ermessen von DFX. Der Kunde hat für die Kosten einer Nachforschung aufzukommen, welche die technische Komplexität und den Zeitaufwand für die Nachforschungen berücksichtigen.
 
 Wenn der erforderliche Zahlungszweck nicht auf dem Zahlungsauftrag erscheint, wird das Geld dem entsprechenden Kunden zurückerstattet. Die Bankgebühren werden dem Kunden in Rechnung gestellt, und es kann auch eine zusätzliche Verwaltungsgebühr berechnet werden.
@@ -126,6 +127,7 @@ Eine Transaktion auf das DFX-Wallet ohne vorher erstellte Kaufroute wird von DFX
 DFX erbringt seine Dienstleistung im Umfang des bei ihr auf der DFX-Wallet tatsächlich eingegangenen Betrages. Die Bankgebühren respektive Transaktionsgebühren gehen zu Lasten des Kunden und werden direkt vom ursprünglich einbezahlten Betrag in Abzug gebracht, sofern dies beim Transaktionseingang noch nicht erfolgt war. Allenfalls werden dem Kunden auch Verwaltungsgebühren in Rechnung gestellt. DFX wechselt den Gegenwert des tatsächlich erhaltenen Betrags abzüglich allfälliger, zusätzlicher Bank- respektive Transaktionsgebühren und abzüglich der DFX-eigenen Gebühren (siehe weiter unten) anschliessend in die gewünschte Kryptowährung. Der Kryptowährungwechsel für Bitcoin wird über Kraken getätigt und für alle anderen über Uniswap.
 
 Sofern der Kunde den zu wechselnden Betrag in einer anderen FIAT-Währung als EUR leistete, wird DFX diese Währung zuerst in EUR wechseln, wobei zusätzlich Wechselgebühren anfallen können, welche ebenfalls direkt vom einbezahlten Betrag abgezogen werden. 
+
 
 DFX weist darauf hin, dass der Kauf mehrere Werktage dauern kann, bis die gewünschte Kryptowährung in der Wallet des Kunden eintrifft.
 
@@ -168,8 +170,6 @@ DFX verrechnet bei Käufen von Bitcoin 0.99% Gebühren und bei allen anderen* 1.
 Gebührenübersicht ab 01.12.2022
 
 ### DFX Gebühren Privatinvestoren
-
-
 
 |         | Bitcoin          | Andere           |
 | ------- | ---------------- | ---------------- |
