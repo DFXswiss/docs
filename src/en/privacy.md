@@ -3,7 +3,7 @@
 ## General information
 The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to identify you personally. For detailed information on data protection, please refer to our privacy policy listed below this text.
 
-## 1. data collection on DFX.swiss website
+## 1. Data collection on DFX.swiss website
 Who is responsible for data collection on this website?
 Data processing on this website is carried out by the website operator. You can find his contact details in the section "Note on the responsible party" in this privacy policy.
 
@@ -25,7 +25,8 @@ When visiting this website, your surfing behavior may be statistically analyzed.
 
 Detailed information about these analysis programs can be found in the following privacy policy.
 
-## 2. hosting
+## 2. Hosting
+
 ### Hosting with All-Inkl
 We host our website with All-Inkl. Provider is ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstraße 68, 02742 Friedersdorf (hereinafter: All-Inkl). Details can be found in the privacy policy of All-Inkl: Privacy Policy - ALL-INKL.COM (opens new window).
 
@@ -34,7 +35,7 @@ The use of All-Inkl is based on Art. 6 para. 1 lit. f DSGVO. We have a legitimat
 #### Order processing
 We have concluded an order processing agreement (AVV) with the above-mentioned provider. This is a contract required by data protection law, which ensures that the provider only processes the personal data of our website visitors in accordance with our instructions and in compliance with the GDPR.
 
-## 3. general notes and obligatory information
+## 3. General notes and obligatory information
 
 ### Data protection
 The operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations and this data protection declaration.
@@ -100,7 +101,7 @@ If you have restricted the processing of your personal data, this data - apart f
 ### Objection to advertising e-mails
 The use of contact data published within the framework of the imprint obligation for the transmission of advertising and information material not expressly requested is hereby objected to. The operators of the pages expressly reserve the right to take legal action in the event of the unsolicited sending of advertising information, such as spam e-mails.
 
-## 4. data collection on this website
+## 4. Data collection on this website
 
 ### Cookies
 Our Internet pages use so-called "cookies". Cookies are small text files and do not cause any damage to your terminal device. They are stored either temporarily for the duration of a session (session cookies) or permanently (permanent cookies) on your terminal device. Session cookies are automatically deleted at the end of your visit. Permanent cookies remain stored on your end device until you delete them yourself or until they are automatically deleted by your web browser.
@@ -147,7 +148,7 @@ The processing of this data is based on Art. 6 (1) lit. b DSGVO, if your request
 
 The data you send to us via contact requests will remain with us until you request us to delete it, revoke your consent to store it, or the purpose for storing the data no longer applies (e.g. after your request has been processed). Mandatory legal provisions - in particular legal retention periods - remain unaffected. 
 
-## 5. analysis tools and advertising
+## 5. Analysis tools and advertising
 
 ### Google Analytics
 This website uses functions of the web analysis service Google Analytics. The provider is Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland.
