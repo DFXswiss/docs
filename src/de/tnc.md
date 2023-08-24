@@ -2,7 +2,9 @@
 
 Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend.
 
-Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website DFX.swiss, die dazugehörige Paymentseite payment.dfx.swiss und die DFX-App (den „Service“). Der Zugriff auf und die Nutzung der Website, der Paymentseite respektive der DFX-App unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
+Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website DFX.swiss, und die dazugehörigen Subdomains wie services.dfx.swiss und payment.dfx.swiss. DFX nutzt diese Websiten um Finanzdienstleistungen anzubieten. Der Zugriff auf und die Nutzung dieser Dienstleistungen unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
+
+Darüber hinaus stellt DFX zusätzlich Software wie zum Beispiel die DFX Wallet kostenlos als OpenSource Produkte zur Verfügung. Diese Software kann von jedem Nutzer kostenlos und erlaubnisfrei verwendet werden was nicht einer Geschäftsbeziehung mit DFX entspricht da DFX keine Kontrolle darüber besitzt, wie diese Software von anderen Nutzern verwendet wird. Für die verwendung von openSource Software gilt in erster Linie der DFX Haftungsausschluss.
 
 ## Wichtige rechtliche Hinweise
 
