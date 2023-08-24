@@ -156,7 +156,17 @@ Fee overview as of 01.12.2022
 
 ## DFX Fees Private Investors
 
+|         | Bitcoin          | Others           |
+| ------- | ---------------- | ---------------- |
+| Purchase| 0,99 %           | 1,49 %           |
+| Sale    | 1,49 %           | 2,49 %           |
+
 ## DFX Fees Corporate Clients
+
+|         | Bitcoin          | Andere           |
+| ------- | ---------------- | ---------------- |
+| Purchase| 1,49 %           | 1,99 %           |
+| Sale    | 1,99 %           | 2,49 %           |
 
 # Referral System
 Our referral program pays customers 0.25% on the purchase/investment volume purchased by a new customer through the customer's referral link.
