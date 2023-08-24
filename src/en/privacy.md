@@ -231,3 +231,72 @@ When you access a page, your browser loads the required fonts into its browser c
 If your browser does not support Font Awesome, a default font will be used by your computer.
 
 For more information about Font Awesome, please see Font Awesome's privacy policy at: We take your privacy seriously | Font Awesome (opens new window).
+
+### Emails
+Mandatory information according to Article 13 DSGVO
+In the case of initial contact, we are obliged to provide you with the following mandatory information under data protection law in accordance with Articles 12, 13 DSGVO: If you contact us by e-mail, we will only process your personal data if there is a legitimate interest in the processing (Art. 6 (1) (f) DSGVO), you have consented to the data processing (Art. 6 (1) (a) DSGVO), the processing is necessary for the initiation, establishment, content or amendment of a legal relationship between you and us (Art. 6 (1) (b) DSGVO) or another legal norm permits the processing. Your personal data will remain with us until you request us to delete it, revoke your consent to store it or the purpose for storing the data no longer applies (e.g. after your request has been processed). Mandatory statutory provisions - in particular retention periods under tax and commercial law - remain unaffected. You have the right at any time to receive information free of charge about the origin, recipient and purpose of your stored personal data. You also have the right to object, to data portability and the right to complain to the competent supervisory authority. Furthermore, you can request the correction, deletion and, under certain circumstances, the restriction of the processing of your personal data. For details, please refer to our privacy policy (opens new window). 
+
+### Our social media presences
+Data processing through social networks
+We maintain publicly accessible profiles on social networks. The social networks used by us in detail can be found below.
+
+Social networks such as Facebook, Twitter, etc. can generally analyze your user behavior extensively when you visit their website or a website with integrated social media content (e.g. like buttons or advertising banners). Visiting our social media presences triggers numerous processing operations relevant to data protection. In detail:
+
+If you are logged into your social media account and visit our social media presence, the operator of the social media portal can assign this visit to your user account. However, your personal data may also be collected under certain circumstances if you are not logged in or do not have an account with the respective social media portal. In this case, this data collection takes place, for example, via cookies that are stored on your end device or by recording your IP address.
+
+With the help of the data collected in this way, the operators of the social media portals can create user profiles in which your preferences and interests are stored. In this way, interest-based advertising can be displayed to you inside and outside the respective social media presence. Provided you have an account with the respective social network, the interest-based advertising may be displayed on all devices on which you are or were logged in.
+
+Please also note that we cannot track all processing on the social media portals. Depending on the provider, further processing operations may therefore be carried out by the operators of the social media portals. For details, please refer to the terms of use and data protection provisions of the respective social media portals.
+
+### Legal basis
+Our social media presences are intended to ensure the most comprehensive presence possible on the Internet. This is a legitimate interest within the meaning of Art. 6 (1) lit. f DSGVO. The analysis processes initiated by the social networks may be based on deviating legal bases to be specified by the operators of the social networks (e.g. consent within the meaning of Art. 6 (1) lit. a DSGVO).
+
+Responsible party and assertion of rights
+If you visit one of our social media sites (e.g. Facebook), we are jointly responsible with the operator of the social media platform for the data processing operations triggered during this visit. In principle, you can assert your rights (information, correction, deletion, restriction of processing, data portability and complaint) both vis-à-vis us and vis-à-vis the operator of the respective social media portal (e.g. vis-à-vis Facebook).
+
+Please note that despite the joint responsibility with the social media portal operators, we do not have full influence on the data processing operations of the social media portals. Our options are largely determined by the corporate policy of the respective provider.
+
+Storage period
+The data collected directly by us via the social media presence is deleted from our systems as soon as you request us to delete it, revoke your consent to store it, or the purpose for storing the data no longer applies. Stored cookies remain on your terminal device until you delete them. Mandatory legal provisions - in particular retention periods - remain unaffected.
+
+We have no influence on the storage period of your data, which is stored by the operators of social networks for their own purposes. For details, please contact the operators of the social networks directly (e.g. in their privacy policy, see below).
+
+### Social networks in detail
+#### Facebook
+We have a profile on Facebook. The provider of this service is Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland. According to Facebook, the data collected is also transferred to the USA and other third countries. 
+
+We have entered into a joint processing agreement (Controller Addendum) with Facebook. This agreement specifies which data processing operations we or Facebook are responsible for when you visit our Facebook page. You can view this agreement at the following link: Facebook (opens new window).
+
+You can independently adjust your advertising settings in your user account. To do so, click on the following link and log in: https://www.facebook.com/settings?tab=ads.
+
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: Facebook (opens new window) and Facebook (opens new window).
+
+For details, see Facebook's privacy policy: https://www.facebook.com/about/privacy/.
+
+#### Twitter
+We use the short message service Twitter. The provider is Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
+
+You can independently adjust your Twitter privacy settings in your user account. To do so, click on the following link and log in: https://twitter.com/personalization.
+
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: Controller-to-Controller Transfers (opens new window).
+
+For details, see Twitter's privacy policy: Twitter Privacy Policy (opens new window).
+
+#### Instagram
+We have a profile on Instagram. The provider of this service is Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland.
+
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: Facebook (opens new window), https://help.instagram.com/519522125107875 and Facebook (opens new window).
+
+For details on their handling of your personal data, please refer to Instagram's privacy policy: https://help.instagram.com/519522125107875.
+
+#### LinkedIn
+We have a profile on LinkedIn. The provider is LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland. LinkedIn uses advertising cookies.
+
+If you would like to disable LinkedIn advertising cookies, please use the following link: Unsubscribe from ads (opens new window).
+
+Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: LinkedIn Data Processing Agreement (DPA) (opens new window) and EU SCCs (opens new window).
+
+For details on their handling of your personal data, see LinkedIn's privacy policy: LinkedIn Privacy Policy (opens new window).
+
+#### YouTube
+We have a profile on YouTube. The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. For details on how they handle your personal data, please refer to YouTube's privacy policy: https://policies.google.com/privacy?hl=de.
