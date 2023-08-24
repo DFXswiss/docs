@@ -34,7 +34,8 @@ DFX erhebt keine zusätzlichen Daten um Surf-Verhalten statistisch auszuwerten u
 
 ### Hosting mit GitHub
 
-Wir hosten unsere Website bei [GitHub](https://github.com/). Details entnehmen Sie der Datenschutzerklärung von GitHub: [[Datenschutzinformationen - ALL-INKL.COM](https://all-inkl.com/datenschutzinformationen/).](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service) 
+Wir hosten unsere Website bei [GitHub](https://github.com/). Details entnehmen Sie der Datenschutzerklärung von GitHub: [GitHub-Nutzungsbedingungen
+](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service/).
 
 ## 3. Allgemeine Hinweise und Pflicht­informationen
 
