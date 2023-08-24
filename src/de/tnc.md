@@ -120,7 +120,6 @@ Die Kunden können ihren Account jederzeit löschen respektive deaktivieren, ind
 
 ## Prozess beim Kauf von Kryptowährungen
 
-
 Der Kunde hat die Ausführung des Kaufs unter Beachtung der Anweisungen in der DFX-App beziehungsweise auf der DFX-Payment Seite vorzunehmen. Bei ungültigen oder falschen Angaben können die Gelder verloren gehen. DFX kann Nachforschungen anstellen, um zu versuchen, verlorene Kryptowährungen zurückzuerlangen, ist jedoch nicht dazu verpflichtet. Diese Nachforschungen liegen im alleinigen Ermessen von DFX. Der Kunde hat für die Kosten einer Nachforschung aufzukommen, welche die technische Komplexität und den Zeitaufwand für die Nachforschungen berücksichtigen.
 
 Wenn der erforderliche Zahlungszweck nicht auf dem Zahlungsauftrag erscheint, wird das Geld dem entsprechenden Kunden zurückerstattet. Die Bankgebühren werden dem Kunden in Rechnung gestellt, und es kann auch eine zusätzliche Verwaltungsgebühr berechnet werden.
