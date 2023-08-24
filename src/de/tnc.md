@@ -2,13 +2,15 @@
 
 Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend.
 
-Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website DFX.swiss, die dazugehörige Paymentseite payment.dfx.swiss und die DFX-App (den „Service“). Der Zugriff auf und die Nutzung der Website, der Paymentseite respektive der DFX-App unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
+Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website DFX.swiss, und die dazugehörigen Subdomains wie services.dfx.swiss und payment.dfx.swiss. DFX nutzt diese Websites, um Finanzdienstleistungen anzubieten. Der Zugriff auf und die Nutzung dieser Dienstleistungen unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
+
+Darüber hinaus stellt DFX zusätzlich Software wie zum Beispiel die DFX Wallet kostenlos als OpenSource Produkt zur Verfügung. Diese Software kann von jedem Nutzer kostenlos und erlaubnisfrei verwendet werden, was nicht einer Geschäftsbeziehung mit DFX entspricht, da DFX keine Kontrolle darüber besitzt, wie diese Software von anderen Nutzern verwendet wird. Für die verwendung von openSource Software gilt in erster Linie der DFX Haftungsausschluss. https://docs.dfx.swiss/de/disclaimer.html
 
 ## Wichtige rechtliche Hinweise
 
 Diese Allgemeinen Geschäftsbedingungen sind Bestandteil sämtlicher Sondervereinbarungen, die im Zusammenhang mit den von DFX angebotenen Dienstleistungen oder Produkten gelten respektive abgeschlossen werden. Im Falle eines Konflikts haben jedoch die Bestimmungen einer solchen Sondervereinbarung Vorrang.
 
-Mit dem Zugriff auf und der Nutzung der Website, der Paymentseite respektive der DFX-App sowie mit dem Herunterladen von Informationen, Daten und Dokumenten von der Website, der Paymentseite respektive der DFX-App bestätigen die Kunden, dass Sie die Allgemeinen Geschäftsbedingungen verstanden und akzeptiert haben. Darüber hinaus akzeptieren sie, dass DFX jederzeit die Allgemeinen Geschäftsbedingungen ändern kann. Änderungen der AGBs werden spätestens durch Auslösen der nächsten Transaktion durch den Kunden akzeptiert.
+Mit dem Zugriff auf und der Nutzung der Website, der Paymentseite respektive der DFX-App sowie mit dem Herunterladen von Informationen, Daten und Dokumenten von der Website, der Paymentseite respektive der DFX-App bestätigen die Kunden, dass Sie den haftungsausschluss und die Allgemeinen Geschäftsbedingungen verstanden und akzeptiert haben. Darüber hinaus akzeptieren sie, dass DFX jederzeit die Allgemeinen Geschäftsbedingungen ändern kann. Änderungen der AGBs werden spätestens durch Auslösen der nächsten Transaktion durch den Kunden akzeptiert.
 
 ## Lokale Beschränkungen
 
@@ -117,7 +119,6 @@ Jedes Kundenprofil ist einzigartig, persönlich und nicht übertragbar. Die Einr
 Die Kunden können ihren Account jederzeit löschen respektive deaktivieren, indem sie eine Anfrage an den technischen Support von DFX stellen. DFX ist verpflichtet, Aufzeichnungen über Transaktionen zehn Jahre lang aufzubewahren. Dieser Zeitraum beginnt mit dem Ende der Ausführung der Transaktionen oder, wenn mehr als eine Transaktion ein Ganzes bildet, mit dem Ende der letzten Transaktion. Erst nach Ablauf dieser zehn Jahre Aufbewahrungsfrist wird das Konto schliesslich gelöscht.
 
 ## Prozess beim Kauf von Kryptowährungen
-
 
 Der Kunde hat die Ausführung des Kaufs unter Beachtung der Anweisungen in der DFX-App beziehungsweise auf der DFX-Payment Seite vorzunehmen. Bei ungültigen oder falschen Angaben können die Gelder verloren gehen. DFX kann Nachforschungen anstellen, um zu versuchen, verlorene Kryptowährungen zurückzuerlangen, ist jedoch nicht dazu verpflichtet. Diese Nachforschungen liegen im alleinigen Ermessen von DFX. Der Kunde hat für die Kosten einer Nachforschung aufzukommen, welche die technische Komplexität und den Zeitaufwand für die Nachforschungen berücksichtigen.
 
