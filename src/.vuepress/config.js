@@ -41,10 +41,10 @@ module.exports = {
         title: "English",
         path: "/en/",
         children: [
+          "/en/disclaimer",
           "/en/tnc",
           "/en/privacy",
           "/en/imprint",
-          "/en/disclaimer",
           "/en/faq",
         ],
       },
@@ -52,10 +52,10 @@ module.exports = {
         title: "Deutsch",
         path: "/de/",
         children: [
+          "/de/disclaimer",
           "/de/tnc",
           "/de/privacy",
           "/de/imprint",
-          "/de/disclaimer",
           "/de/faq",
         ],
       },
