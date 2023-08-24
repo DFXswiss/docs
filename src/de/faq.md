@@ -372,3 +372,6 @@ Wahrscheinlich sind die meisten Wallets kompatibel. Getestet haben wie es aber i
 
 ## Wie kann ich den Seed meiner DFX Bitcoin Wallet bei der Bluewallet importieren. 
 Klicke in der Bluewallet auf "Wallet hinzufügen", dann auf "Wallet importieren" und trage dann die 12 Wörter ein. Dann klicke auf "Importieren" und du hast deine Wallet erfolgreich in die Bluewallet übertragen. 
+
+## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Crypto Verkäufe, was muss ich tun?
+Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir die Auszahlung auf dein Bankkonto perfekt vorzubereiten um keine Probleme zu bekommen. Melde dich dazu einfach an support (at) dfx.swiss
