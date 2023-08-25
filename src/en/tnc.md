@@ -163,7 +163,7 @@ Fee overview as of 01.12.2022
 
 ### DFX Fees Corporate Clients
 
-|         | Bitcoin          | Andere           |
+|         | Bitcoin          | Others           |
 | ------- | ---------------- | ---------------- |
 | Purchase| 1,49 %           | 1,99 %           |
 | Sale    | 1,99 %           | 2,49 %           |
