@@ -6,9 +6,7 @@ FAQ in English is currently being revised and is currently only available in a r
 
 This is super easy, you just need the following code:
 
-`
-
-<script defer="defer" src="https://dev.services.dfx.swiss/widget/v1.0"></script>
+`<script defer="defer" src="https://dev.services.dfx.swiss/widget/v1.0"></script>
 
 <div style="width:100%; max-width:450px; height:700px;box-shadow: 0px 0px 29px 0px white;">
    <dfx-services>Loading ...</dfx-services>
