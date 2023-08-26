@@ -2,14 +2,14 @@
 
 FAQ in English is currently being revised and is currently only available in a reduced form. The German FAQ is complete. 
 
-## How can I integrate DFX's IFRAME widget into my own website?
+## How can I integrate DFX's web widget into my own website?
 
 This is super easy, you just need the following code:
 
 ``` 
 <script defer="defer" src="https://services.dfx.swiss/widget/v1.0"></script>
 
-<div style="width:100%; max-width:450px; height:700px;box-shadow: 0px 0px 29px 0px white;">
+<div style="width:100%; max-width:450px; height:700px;">
    <dfx-services>Loading ...</dfx-services>
 </div>`
 ```
