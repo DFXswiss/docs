@@ -376,7 +376,7 @@ Klicke in der Bluewallet auf "Wallet hinzufügen", dann auf "Wallet importieren"
 ## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Crypto Verkäufe, was muss ich tun?
 Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir die Auszahlung auf dein Bankkonto perfekt vorzubereiten um keine Probleme zu bekommen. Melde dich dazu einfach an support (at) dfx.swiss
 
-## Wie kann ich das Web-Widget von DFX in meine eigene Website integrieren?
+## Wie kann ich das IFRAME-Widget von DFX in meine eigene Website integrieren?
 
 Das ist ganz einfach, Sie brauchen nur den folgenden Code:
 
