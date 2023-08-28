@@ -387,5 +387,16 @@ Das ist ganz einfach, Sie brauchen nur den folgenden Code:
    <dfx-services>Loading ...</dfx-services>
 </div>`
 ```
-
+Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME. 
 Wenn Sie Fragen haben, helfen Ihnen unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter. 
+
+## Wie kann ich in der DFX Bitcoin Wallet "verkaufen"?
+
+Die Verkauf Funktion ist monentan leider noch nicht direkt in der App selbst eingebaut, wir arbeiten aber unter Hochdruck daran, dies ebenfalls einzubauen. Bis dahinn ist verkaufen nur über die MyDFX Funktion möglich. Das funktioniert wie folgt:
+
+1. In der DFX Bitcoin Wallet auf "DFX Services" klicken.
+2. Jetzt öffnet sich eine Website zum Kauf von Bitcoin. Dort oben rechts auf das Menü Symbol und dann auf "My DFX" Klicken.
+3. Hier kann jetzt eine "Sell" Route angelegt werden, für den Verkauf von Bitcoin.
+4. Sobald diese Sell Route angelegt ist, erhältst du eine Blockcahin Deposit Adresse. Jedes mal wenn du auf diese Adresse Bitcoin sendest, erhältst du dafür Fiat auf deine hinterlegte IBAN ausgezahlt.
+5. Kopiere die Deposit Adresse, gehe zurück in die DFX Wallet und sende den gewünschten Betrag an diese Deposit Adresse. Fertig.
+6. Du wirst per E-Mail über den Stand des Verkaufs informiert. 
