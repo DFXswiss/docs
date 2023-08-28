@@ -387,5 +387,5 @@ Das ist ganz einfach, Sie brauchen nur den folgenden Code:
    <dfx-services>Loading ...</dfx-services>
 </div>`
 ```
-
+Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME. 
 Wenn Sie Fragen haben, helfen Ihnen unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter. 
