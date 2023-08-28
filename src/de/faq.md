@@ -387,11 +387,11 @@ Das ist ganz einfach, Du brauchst nur den folgenden Code:
 </div>
 ```
 
-Die Parameter können auch angepasst werden.
-lang:"de" steht für deutsch, "en" kann für englisch verwendet werden.
-mode="home" steht für die Startseite. Mit mode="buy" kommt man direkt auf die Kauf Seite. Mit mode="buy-erc20" kommt man direkt auf die ERC 20 Auwahl Seite.
-Mir refCode="000-000" kann der eigene persönliche Ref Code mitgegeben werden.
-wallet="IFRAME" wird benötigt um eine eigene wallet id mitgeben zu können. Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möchte mit einer eigens ausgewählten Auswahl an Coins die angeboten werden sollen. 
+Die Parameter können auch angepasst werden.  
+lang:"de" steht für deutsch, "en" kann für englisch verwendet werden.  
+mode="home" steht für die Startseite. Mit mode="buy" kommt man direkt auf die Kauf Seite. Mit mode="buy-erc20" kommt man direkt auf die ERC 20 Auwahl Seite.  
+Mir refCode="000-000" kann der eigene persönliche Ref Code mitgegeben werden.  
+wallet="IFRAME" wird benötigt um eine eigene wallet id mitgeben zu können. Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möchte mit einer eigens ausgewählten Auswahl an Coins die angeboten werden sollen.  
 
 Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME. 
 Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter. 
