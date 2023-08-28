@@ -378,7 +378,7 @@ Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem
 
 ## Wie kann ich das IFRAME-Widget von DFX in meine eigene Website integrieren?
 
-Das ist ganz einfach, Sie brauchen nur den folgenden Code:
+Das ist ganz einfach, Du brauchst nur den folgenden Code:
 
 ``` 
 <script defer="defer" src="https://services.dfx.swiss/widget/v1.0"></script>
@@ -388,7 +388,7 @@ Das ist ganz einfach, Sie brauchen nur den folgenden Code:
 </div>`
 ```
 Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME. 
-Wenn Sie Fragen haben, helfen Ihnen unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter. 
+Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter. 
 
 ## Wie kann ich in der DFX Bitcoin Wallet "verkaufen"?
 
