@@ -14,6 +14,7 @@ This is super easy, you just need the following code:
 </div>`
 ```
 
+Note: Technically it is not an IFRAME but a web widget. This works much better than an IFRAME. 
 If you have any questions, our moderators in the Telegram group https://t.me/DFXswiss_en or our support at support@dfx.swiss will be happy to help. 
 
 
