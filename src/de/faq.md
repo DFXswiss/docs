@@ -385,6 +385,7 @@ Das ist ganz einfach, Du brauchst nur den folgenden Code:
 <div style="width:100%; max-width:450px; height:700px;">
    <dfx-services mode="home" lang="de" refCode="000-000" wallet="IFRAME">Wird geladen ...</dfx-services>
 </div>
+```
 
 Die Parameter können auch angepasst werden.
 lang:"de" steht für deutsch, "en" kann für englisch verwendet werden.
