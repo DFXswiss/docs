@@ -383,18 +383,18 @@ Das ist ganz einfach, Du brauchst nur den folgenden Code:
 ```
 <script defer="defer" src="https://services.dfx.swiss/widget/v1.0"></script>
 <div style="width:100%; max-width:450px; height:700px;">
-   <dfx-services mode="home" lang="de" refCode="000-000" wallet="IFRAME">Wird geladen ...</dfx-services>
+   <dfx-services mode="home" lang="de" refcode="000-000" wallet="IFRAME">Wird geladen ...</dfx-services>
 </div>
 ```
 
 Die Parameter können auch angepasst werden.  
-lang:"de" steht für deutsch, "en" kann für englisch verwendet werden.  
-mode="home" steht für die Startseite. Mit mode="buy" kommt man direkt auf die Kauf Seite. Mit mode="buy-erc20" kommt man direkt auf die ERC 20 Auwahl Seite.  
-Mir refCode="000-000" kann der eigene persönliche Ref Code mitgegeben werden.  
-wallet="IFRAME" wird benötigt um eine eigene wallet id mitgeben zu können. Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möchte mit einer eigens ausgewählten Auswahl an Coins die angeboten werden sollen.  
-
-Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME. 
-Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter. 
+lang:"de" steht für deutsch, "en" kann für englisch verwendet werden.   
+mode="home" steht für die Startseite. Mit mode="buy" kommt man direkt auf die Kauf Seite. Mit mode="buy-erc20" kommt man direkt auf die ERC 20 Auwahl Seite.   
+Mir refCode="000-000" kann der eigene persönliche Ref Code mitgegeben werden.   
+wallet="IFRAME" wird benötigt um eine eigene wallet id mitgeben zu können. Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möchte mit einer eigens ausgewählten Auswahl an Coins die angeboten werden sollen.   
+   
+Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME.    
+Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter.    
 
 ## Wie kann ich in der DFX Bitcoin Wallet "verkaufen"?
 
