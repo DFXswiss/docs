@@ -1,4 +1,4 @@
-DFX Docs English Contents
+# DFX Docs English Contents
 
 [Disclaimer](https://docs.dfx.swiss/en/disclaimer.html)  
 [Terms and conditions](https://docs.dfx.swiss/en/tnc.html)  
