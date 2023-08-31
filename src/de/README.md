@@ -1,4 +1,4 @@
-DFX Docs Deutsch Inhalt 
+# DFX Docs Deutsch Inhalt 
 
 [Haftungsausschluss](https://docs.dfx.swiss/de/disclaimer.html)  
 [Allgemeine Geschäftsbedingungen](https://docs.dfx.swiss/de/tnc.html)  
