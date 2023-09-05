@@ -16,7 +16,7 @@ module.exports = {
     logo: "/assets/logo.svg",
     editLinks: true,
     editLinkText: "Edit this page on Github",
-    docsBranch: "main",
+    docsBranch: "develop",
     docsDir: "src",
     lastUpdated: true,
 
