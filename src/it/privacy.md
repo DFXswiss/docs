@@ -18,9 +18,9 @@ Da un lato, i vostri dati vengono raccolti da voi che ce li fornite. Può tratta
 
 Altri dati vengono raccolti automaticamente o con il vostro consenso dai nostri sistemi informatici quando visitate il sito web. Si tratta principalmente di dati tecnici (ad esempio, browser Internet, sistema operativo o tempo di visualizzazione della pagina). Questi dati vengono raccolti automaticamente non appena si accede al sito web.
 
-#### Wofür nutzen wir Ihre Daten?
+#### Per cosa utilizziamo i vostri dati?
 
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website und der DFX Dienstleistungen zu gewährleisten. Es werden grundsätzlich keine zusätzlichen Daten zur Analyse von Nutzerverhalten erhoben. 
+Una parte dei dati viene raccolta per garantire una fornitura senza errori del sito web e dei servizi DFX. In linea di principio, non vengono raccolti altri dati per analizzare il comportamento degli utenti. 
 
 #### Quali diritti avete in merito ai vostri dati?
 
@@ -137,19 +137,19 @@ I cookie necessari per eseguire il processo di comunicazione elettronica, per fo
 
 Se ci contattate via e-mail, telefono o fax, la vostra richiesta, compresi tutti i dati personali che ne derivano (nome, richiesta), verrà da noi memorizzata ed elaborata allo scopo di evadere la vostra richiesta. Non trasmetteremo questi dati senza il vostro consenso.
 
-The processing of this data is based on Art. 6 (1) lit. b DSGVO, if your request is related to the performance of a contract or is necessary for the implementation of pre-contractual measures. In all other cases, the processing is based on our legitimate interest in the effective processing of the requests sent to us (Art. 6 (1) (f) DSGVO) or on your consent (Art. 6 (1) (a) DSGVO) if this was requested.
+Il trattamento di questi dati si basa sull'Art. 6 (1) lit. b DSGVO, se la vostra richiesta è legata all'esecuzione di un contratto o è necessaria per l'attuazione di misure precontrattuali. In tutti gli altri casi, il trattamento si basa sul nostro legittimo interesse all'effettivo trattamento delle richieste inviateci (Art. 6 (1) (f) DSGVO) o sul vostro consenso (Art. 6 (1) (a) DSGVO) se questo è stato richiesto.
 
-The data you send to us via contact requests will remain with us until you request us to delete it, revoke your consent to store it, or the purpose for storing the data no longer applies (e.g. after your request has been processed). Mandatory legal provisions - in particular legal retention periods - remain unaffected.
+I dati che ci inviate tramite le richieste di contatto rimarranno presso di noi fino a quando non ci chiederete di cancellarli, non revocherete il vostro consenso alla loro memorizzazione o non verrà meno lo scopo della loro memorizzazione (ad es. dopo l'elaborazione della vostra richiesta). Le disposizioni di legge obbligatorie - in particolare i periodi di conservazione legale - rimangono inalterate.
 
-## 5. analysis tools and advertising
+## 5. strumenti di analisi e pubblicità
 
-DFX does not use any analysis tools such as Google Analytics.
+DFX non utilizza strumenti di analisi come Google Analytics.
 
-## 6. newsletter
+## 6. Newsletter
 
-### Newsletter data
+### Dati della newsletter
 
-If you would like to receive the newsletter offered on the website, we require an e-mail address from you as well as information that allows us to verify that you are the owner of the specified e-mail address and agree to receive the newsletter. Further data will not be collected or only on a voluntary basis.
+Se desiderate ricevere la newsletter offerta sul sito web, abbiamo bisogno di un vostro indirizzo e-mail e di informazioni che ci permettano di verificare che siate i proprietari dell'indirizzo e-mail specificato e che accettiate di ricevere la newsletter. Ulteriori dati non saranno raccolti o lo saranno solo su base volontaria.
 
 ### Email
 
