@@ -1,5 +1,7 @@
 # Aperçu de la protection des données
 
+En cas de divergence, la version allemande fait foi.
+
 ## Remarques générales
 
 Les indications suivantes donnent un aperçu simple de ce qui se passe avec vos données personnelles lorsque vous visitez ce site web. Les données personnelles sont toutes les données qui permettent de vous identifier personnellement. Vous trouverez des informations détaillées sur le thème de la protection des données dans notre déclaration de protection des données figurant sous ce texte.
