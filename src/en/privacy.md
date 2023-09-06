@@ -1,5 +1,7 @@
 # Privacy Policy
 
+In case of discrepancies, the German version will prevail.
+
 ## General information
 The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to identify you personally. For detailed information on data protection, please refer to our privacy policy listed below this text.
 
