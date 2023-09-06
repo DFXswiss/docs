@@ -1,10 +1,10 @@
-# Allgemeine Geschäftsbedingungen
+# Conditions générales de vente
 
-Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend.
+En cas de divergence, la version allemande fait foi.
 
-Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website DFX.swiss, und die dazugehörigen Subdomains wie services.dfx.swiss und payment.dfx.swiss. DFX nutzt diese Websites, um Finanzdienstleistungen anzubieten. Der Zugriff auf und die Nutzung dieser Dienstleistungen unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
+DFX AG (numéro d'identification de l'entreprise : CHE-429.856.521, ci-après dénommé DFX), dont le siège se trouve à Bahnhofstrasse 7, 6300 Zoug, Suisse, exploite le site Internet DFX.swiss, ainsi que les sous-domaines associés tels que services.dfx.swiss et payment.dfx.swiss. DFX utilise ces sites pour offrir des services financiers. L'accès et l'utilisation de ces services sont soumis aux mentions légales importantes contenues dans les présentes (ci-après "les conditions générales").
 
-Darüber hinaus stellt DFX zusätzlich Software wie zum Beispiel die DFX Wallet kostenlos als OpenSource Produkt zur Verfügung. Diese Software kann von jedem Nutzer kostenlos und erlaubnisfrei verwendet werden, was nicht einer Geschäftsbeziehung mit DFX entspricht, da DFX keine Kontrolle darüber besitzt, wie diese Software von anderen Nutzern verwendet wird. Für die verwendung von openSource Software gilt in erster Linie der DFX Haftungsausschluss. https://docs.dfx.swiss/de/disclaimer.html
+En outre, DFX met gratuitement à disposition des logiciels, comme par exemple le DFX Wallet, en tant que produit OpenSource. Ces logiciels peuvent être utilisés gratuitement et sans autorisation par tout utilisateur, ce qui ne correspond pas à une relation commerciale avec DFX, étant donné que DFX n'a aucun contrôle sur la manière dont ces logiciels sont utilisés par d'autres utilisateurs. L'utilisation de logiciels open source est soumise en premier lieu à la clause de non-responsabilité de DFX. https://docs.dfx.swiss/de/disclaimer.html
 
 ## Wichtige rechtliche Hinweise
 
