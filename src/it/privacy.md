@@ -6,7 +6,7 @@ In caso di discrepanze, prevarrà la versione tedesca.
 
 Le seguenti note forniscono una semplice panoramica di ciò che accade ai vostri dati personali quando visitate questo sito web. Per dati personali si intendono tutti i dati che consentono di identificarvi personalmente. Per informazioni più dettagliate sulla protezione dei dati, si prega di consultare la nostra politica sulla privacy elencata sotto questo testo.
 
-## 1. raccolta dei dati sul sito DFX.swiss
+## 1. Raccolta dei dati sul sito DFX.swiss
 
 #### Chi è responsabile della raccolta dei dati su questo sito web?
 
@@ -32,7 +32,7 @@ Potete contattarci in qualsiasi momento per questa e altre domande sul tema dell
 
 DFX non raccoglie dati aggiuntivi per valutare statisticamente il comportamento di navigazione e non utilizza nessuno dei cosiddetti programmi di analisi.
 
-## 2. hosting
+## 2. Hosting
 
 ### Hosting con GitHub
 
