@@ -30,6 +30,14 @@ module.exports = {
         link: "/de/",
       },
       {
+        text: "French",
+        link: "/fr/",
+      },
+      {
+        text: "Italian",
+        link: "/it/",
+      },
+      {
         text: "DFX.swiss",
         link: "https://dfx.swiss",
       },
@@ -57,6 +65,28 @@ module.exports = {
           "/de/privacy",
           "/de/imprint",
           "/de/faq",
+        ],
+      },
+      {
+        title: "French",
+        path: "/fr/",
+        children: [
+          "/fr/disclaimer",
+          "/fr/tnc",
+          "/fr/privacy",
+          "/fr/imprint",
+          "/fr/faq",
+        ],
+      },
+      {
+        title: "Italian",
+        path: "/it/",
+        children: [
+          "/it/disclaimer",
+          "/it/tnc",
+          "/it/privacy",
+          "/it/imprint",
+          "/it/faq",
         ],
       },
     ],
