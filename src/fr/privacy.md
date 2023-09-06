@@ -1,230 +1,230 @@
-# Datenschutz auf einen Blick
+# Aperçu de la protection des données
 
-## Allgemeine Hinweise
+## Remarques générales
 
-Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+Les indications suivantes donnent un aperçu simple de ce qui se passe avec vos données personnelles lorsque vous visitez ce site web. Les données personnelles sont toutes les données qui permettent de vous identifier personnellement. Vous trouverez des informations détaillées sur le thème de la protection des données dans notre déclaration de protection des données figurant sous ce texte.
 
-## 1. Datenerfassung auf DFX.swiss Website
+## 1. Collecte de données sur le site Internet DFX.swiss
 
-#### Wer ist verantwortlich für die Datenerfassung auf dieser Website?
+#### Qui est responsable de la collecte des données sur ce site ?
 
-Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.
+Le traitement des données sur ce site web est effectué par l'exploitant du site web. Vous trouverez les coordonnées de ce dernier dans la section "Informations sur le responsable du traitement" de la présente déclaration de protection des données.
 
-#### Wie erfassen wir Ihre Daten?
+#### Comment recueillons-nous vos données ?
 
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
+Vos données sont collectées, d'une part, lorsque vous nous les communiquez. Il peut s'agir, par exemple, de données que vous saisissez dans un formulaire de contact.
 
-Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
+D'autres données sont collectées automatiquement ou après votre accord par nos systèmes informatiques lorsque vous visitez le site web. Il s'agit principalement de données techniques (par exemple, le navigateur Internet, le système d'exploitation ou l'heure de consultation de la page). La saisie de ces données s'effectue automatiquement dès que vous accédez à ce site web.
 
-#### Wofür nutzen wir Ihre Daten?
+#### À quelles fins utilisons-nous vos données ?
 
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website und der DFX Dienstleistungen zu gewährleisten. Es werden grundsätzlich keine zusätzlichen Daten zur Analyse von Nutzerverhalten erhoben. 
+Une partie des données est collectée afin de garantir une mise à disposition sans erreur du site web et des services de l'DFX. En principe, aucune donnée supplémentaire n'est collectée pour analyser le comportement des utilisateurs. 
 
-#### Welche Rechte haben Sie bezüglich Ihrer Daten?
+#### Quels sont vos droits concernant vos données ?
 
-Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
+Vous avez à tout moment le droit d'obtenir gratuitement des informations sur l'origine, le destinataire et la finalité de vos données personnelles enregistrées. Vous avez également le droit d'exiger la rectification ou la suppression de ces données. Si vous avez donné votre consentement au traitement des données, vous pouvez à tout moment révoquer ce consentement pour l'avenir. Vous avez également le droit de demander la limitation du traitement de vos données personnelles dans certaines circonstances. En outre, vous disposez d'un droit de recours auprès de l'autorité de surveillance compétente.
 
-Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
+Vous pouvez nous contacter à tout moment à ce sujet ou pour toute autre question relative à la protection des données.
 
-### Analyse-Tools und Tools von Dritt­anbietern
+### Outils d'analyse et outils de tiers
 
-DFX erhebt keine zusätzlichen Daten um Surf-Verhalten statistisch auszuwerten und verwendet keine dieser sogenannten Analyseprogrammen.
+DFX ne collecte pas de données supplémentaires pour évaluer statistiquement le comportement de navigation et n'utilise aucun de ces programmes dits d'analyse.
 
 ## 2. Hosting
 
-### Hosting mit GitHub
+### Hosting avec GitHub
 
-Wir hosten unsere Website bei [GitHub](https://github.com/). Details entnehmen Sie der Website von GitHub:   
+Nous hébergeons notre site web chez [GitHub](https://github.com/). Pour plus de détails, veuillez consulter le site web de GitHub:
 [GitHub-Nutzungsbedingungen](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service/).  
 [GitHub-Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement/).  
 
 
-## 3. Allgemeine Hinweise und Pflicht­informationen
+## 3. Informations générales et obligatoires
 
-### Datenschutz
+### Confidentialité
 
-Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+Les exploitants de ces pages prennent la protection de vos données personnelles très au sérieux. Nous traitons vos données personnelles de manière confidentielle et conformément aux dispositions légales en matière de protection des données et à la présente déclaration de protection des données.
 
-Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
+Lorsque vous utilisez ce site, diverses données personnelles sont collectées. Les données personnelles sont des données qui permettent de vous identifier personnellement. La présente déclaration de confidentialité explique quelles données nous collectons et à quelles fins nous les utilisons. Elle explique également comment et dans quel but nous le faisons.
 
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+Nous attirons votre attention sur le fait que la transmission de données sur Internet (par ex. lors de la communication par e-mail) peut présenter des failles de sécurité. Une protection sans faille des données contre l'accès par des tiers n'est pas possible.
 
-### Hinweis zur verantwortlichen Stelle
+### Remarque sur le service responsable
 
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+Le responsable du traitement des données sur ce site est :
 
-DFX AG  
+DFX SA  
 Bahnhofstrasse 7  
 6300 Zug  
-Schweiz
+Suisse
 
-Telefon: +41 41 511 46 35  
+Téléphone: +41 41 511 46 35  
 E-Mail: support@DFX.swiss
 
-### Speicherdauer
+### Durée de stockage
 
-Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
+Dans la mesure où aucune durée de stockage spécifique n'a été mentionnée dans la présente déclaration de protection des données, vos données à caractère personnel restent chez nous jusqu'à ce que la finalité du traitement des données n'ait plus lieu d'être. Si vous faites valoir une demande légitime d'effacement ou si vous révoquez votre consentement au traitement des données, vos données seront effacées, à moins que nous n'ayons d'autres raisons légalement valables de conserver vos données personnelles (par exemple, des délais de conservation en vertu du droit fiscal ou commercial) ; dans ce dernier cas, l'effacement aura lieu après la disparition de ces raisons.
 
-### Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
+### Informations générales sur les bases juridiques du traitement des données sur ce site web
 
-Die Website DFX.swiss speichert und verarbeitet lediglich die Daten welche als minimum notwendig sind um die Website zu betreiben. Es werden keine zusätzlichen Daten gespeichert oder erhoben. 
+Le site Internet DFX.swiss enregistre et traite uniquement les données qui sont au minimum nécessaires au fonctionnement du site. Aucune donnée supplémentaire n'est enregistrée ou collectée. 
 
-### Hinweis zur Datenweitergabe ins Ausland
+### Remarque sur la transmission de données à l'étranger
 
-Wir verwenden für das Hosting GitHub, ein Unternehmen aus den USA. Wenn diese Tools aufgerufen wird, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden. Wir weisen darauf hin, dass in diesen Ländern kein mit der Schweiz vergleichbares Datenschutzniveau garantiert werden kann. Beispielsweise sind US-Unternehmen dazu verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass Sie als Betroffener hiergegen gerichtlich vorgehen könnten. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (z. B. Geheimdienste) Ihre auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungstätigkeiten keinen Einfluss.
+Pour l'hébergement, nous utilisons GitHub, une entreprise située aux États-Unis. Lorsque ces outils sont consultés, vos données personnelles sont transmises à ce pays tiers et pourraient y être traitées. Nous attirons votre attention sur le fait qu'il n'est pas possible de garantir dans ces pays un niveau de protection des données comparable à celui de la Suisse. Par exemple, les entreprises américaines sont obligées de transmettre des données personnelles aux autorités de sécurité sans que vous puissiez, en tant que personne concernée, intenter une action en justice. Il ne peut donc pas être exclu que les autorités américaines (par ex. les services secrets) traitent, évaluent et stockent durablement vos données sur des serveurs américains à des fins de surveillance. Nous n'avons aucune influence sur ces activités de traitement.
 
-### Widerruf Ihrer Einwilligung zur Datenverarbeitung
+### Révocation de votre consentement au traitement des données
 
-Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
+De nombreuses opérations de traitement des données ne sont possibles qu'avec votre consentement explicite. Vous pouvez révoquer à tout moment un consentement déjà donné. La légalité du traitement des données effectué jusqu'à la révocation n'est pas affectée par la révocation.
 
-### Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)
+### Droit d'opposition à la collecte de données dans des cas particuliers ainsi qu'à la publicité directe (art. 21 RGPD)
 
-WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR KÖNNEN ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN ÜBERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON RECHTSANSPRÜCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).
+LORSQUE LE TRAITEMENT DES DONNÉES EST EFFECTUÉ SUR LA BASE DE L'ART. 6 ABS. 1 LIT. E OU F DU RGPD, VOUS AVEZ LE DROIT DE VOUS OPPOSER À TOUT MOMENT, POUR DES RAISONS TENANT À VOTRE SITUATION PARTICULIÈRE, AU TRAITEMENT DE VOS DONNÉES PERSONNELLES ; CECI S'APPLIQUE ÉGALEMENT AU PROFILAGE FONDÉ SUR CES DISPOSITIONS. VOUS TROUVEREZ DANS LA PRÉSENTE DÉCLARATION DE PROTECTION DES DONNÉES LES BASES JURIDIQUES RESPECTIVES SUR LESQUELLES SE FONDE UN TRAITEMENT. SI VOUS VOUS Y OPPOSEZ, NOUS NE TRAITERONS PLUS VOS DONNÉES PERSONNELLES CONCERNÉES, À MOINS QUE NOUS PUISSIONS DÉMONTRER DES RAISONS IMPÉRIEUSES ET LÉGITIMES POUR LE TRAITEMENT QUI PRÉVALENT SUR VOS INTÉRÊTS, VOS DROITS ET VOS LIBERTÉS, OU QUE LE TRAITEMENT SERVE À FAIRE VALOIR, EXERCER OU DÉFENDRE DES DROITS LÉGAUX (OPPOSITION À L'ARTICLE 21, PARAGRAPHE 1, DU RGPD).
 
-WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).
+SI VOS DONNÉES PERSONNELLES SONT TRAITÉES À DES FINS DE PUBLICITÉ DIRECTE, VOUS AVEZ LE DROIT DE VOUS OPPOSER À TOUT MOMENT AU TRAITEMENT DES DONNÉES PERSONNELLES VOUS CONCERNANT À DES FINS DE PUBLICITÉ DIRECTE ; CECI S'APPLIQUE ÉGALEMENT AU PROFILAGE DANS LA MESURE OÙ IL EST LIÉ À UNE TELLE PUBLICITÉ DIRECTE. SI VOUS VOUS Y OPPOSEZ, VOS DONNÉES PERSONNELLES NE SERONT PLUS UTILISÉES À DES FINS DE PROSPECTION DIRECTE (OPPOSITION CONFORMÉMENT À L'ARTICLE 21, PARAGRAPHE 2, DU DSGVO).
 
-### Beschwerde­recht bei der zuständigen Aufsichts­behörde
+### Droit de recours auprès de l'autorité de surveillance compétente
 
-Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
+En cas de violation du RGPD, les personnes concernées disposent d'un droit de recours auprès d'une autorité de contrôle, notamment dans l'État membre de leur résidence habituelle, de leur lieu de travail ou du lieu de la violation présumée. Ce droit de recours s'exerce sans préjudice des autres voies de recours administratives ou judiciaires.
 
-### Recht auf Daten­übertrag­barkeit
+### Droit à la portabilité des données
 
-Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
+Vous avez le droit de vous faire remettre ou de faire remettre à un tiers, dans un format courant et lisible par machine, les données que nous traitons de manière automatisée sur la base de votre consentement ou en exécution d'un contrat. Si vous demandez la transmission directe des données à un autre responsable, cela ne se fera que dans la mesure où cela est techniquement possible.
 
-### SSL- bzw. TLS-Verschlüsselung
+### Chiffrement SSL ou TLS
 
-Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
+Pour des raisons de sécurité et afin de protéger la transmission de contenus confidentiels, comme par exemple les commandes ou les demandes que vous nous envoyez en tant qu'exploitant du site, ce site utilise un cryptage SSL ou TLS. Vous reconnaissez une connexion cryptée au fait que la ligne d'adresse du navigateur passe de "http://" à "https://" et au symbole du cadenas dans la ligne de votre navigateur.
 
-Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
+Si le cryptage SSL ou TLS est activé, les données que vous nous transmettez ne peuvent pas être lues par des tiers.
 
-### Auskunft, Löschung und Berichtigung
+### Accès, suppression et rectification
 
-Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.
+Dans le cadre des dispositions légales en vigueur, vous avez à tout moment le droit d'obtenir gratuitement des informations sur vos données personnelles enregistrées, leur origine et leur destinataire ainsi que sur la finalité du traitement des données et, le cas échéant, un droit de rectification ou de suppression de ces données. Pour ce faire, ainsi que pour toute autre question relative aux données personnelles, vous pouvez nous contacter à tout moment.
 
-### Recht auf Einschränkung der Verarbeitung
+### Droit à la limitation du traitement
 
-Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
+Vous avez le droit de demander la limitation du traitement de vos données personnelles. Pour ce faire, vous pouvez nous contacter à tout moment. Le droit à la limitation du traitement existe dans les cas suivants :
 
-- Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-- Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
-- Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
-- Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+- Si vous contestez l'exactitude de vos données à caractère personnel enregistrées chez nous, nous avons généralement besoin de temps pour le vérifier. Pendant la durée de la vérification, vous avez le droit d'exiger la limitation du traitement de vos données à caractère personnel.
+- Si le traitement de vos données à caractère personnel s'est produit/se produit de manière illégale, vous pouvez demander la limitation du traitement des données au lieu de leur suppression.
+- Si nous n'avons plus besoin de vos données à caractère personnel, mais que vous en avez besoin pour exercer, défendre ou faire valoir des droits en justice, vous avez le droit de demander la limitation du traitement de vos données à caractère personnel au lieu de leur effacement.
+- Si vous avez fait opposition conformément à l'article 21, paragraphe 1, du RGPD, une mise en balance de vos intérêts et des nôtres doit être effectuée. Tant qu'il n'a pas été déterminé quels intérêts prévalent, vous avez le droit de demander la limitation du traitement de vos données à caractère personnel.
 
-Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
+Si vous avez limité le traitement de vos données à caractère personnel, ces données - à l'exception de leur conservation - ne peuvent être traitées qu'avec votre consentement ou pour la constatation, l'exercice ou la défense de droits en justice ou pour la protection des droits d'une autre personne physique ou morale, ou encore pour un motif d'intérêt public important de l'Union européenne ou d'un État membre.
 
-### Widerspruch gegen Werbe-E-Mails
+### Opposition aux e-mails publicitaires
 
-Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
+L'utilisation des données de contact publiées dans le cadre des mentions légales obligatoires pour l'envoi de publicité et de matériel d'information non expressément demandés est interdite. Les exploitants des pages se réservent expressément le droit d'engager des poursuites judiciaires en cas d'envoi non sollicité d'informations publicitaires, par exemple par le biais de spams.
 
-## 4. Datenerfassung auf dieser Website
+## 4. Collecte de données sur ce site web
 
 ### Cookies
 
-Unsere Internetseiten verwenden so genannte „Cookies“. Cookies sind kleine Textdateien und richten auf Ihrem Endgerät keinen Schaden an. Sie werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente Cookies) auf Ihrem Endgerät gespeichert. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder eine automatische Löschung durch Ihren Webbrowser erfolgt.
+Nos pages Internet utilisent ce que l'on appelle des "cookies". Les cookies sont de petits fichiers texte qui ne causent aucun dommage à votre terminal. Ils sont enregistrés sur votre terminal soit temporairement pour la durée d'une session (cookies de session), soit durablement (cookies permanents). Les cookies de session sont automatiquement supprimés à la fin de votre visite. Les cookies permanents restent enregistrés sur votre terminal jusqu'à ce que vous les supprimiez vous-même ou qu'une suppression automatique soit effectuée par votre navigateur web.
 
-Teilweise können auch Cookies von Drittunternehmen auf Ihrem Endgerät gespeichert werden, wenn Sie unsere Seite betreten (Third-Party-Cookies). Diese ermöglichen uns oder Ihnen die Nutzung bestimmter Dienstleistungen des Drittunternehmens (z. B. Cookies zur Abwicklung von Zahlungsdienstleistungen).
+Des cookies de sociétés tierces peuvent également être partiellement enregistrés sur votre terminal lorsque vous accédez à notre site (cookies tiers). Ceux-ci nous permettent ou vous permettent d'utiliser certains services de l'entreprise tierce (par exemple, les cookies pour le traitement des services de paiement).
 
-Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da bestimmte Websitefunktionen ohne diese nicht funktionieren würden (z. B. die Warenkorbfunktion oder die Anzeige von Videos). Andere Cookies dienen dazu, das Nutzerverhalten auszuwerten oder Werbung anzuzeigen.
+Les cookies ont différentes fonctions. De nombreux cookies sont techniquement nécessaires, car certaines fonctions du site web ne fonctionneraient pas sans eux (par exemple la fonction de panier d'achat ou l'affichage de vidéos). D'autres cookies servent à évaluer le comportement des utilisateurs ou à afficher des publicités.
 
-Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs, zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (z. B. für die Warenkorbfunktion) oder zur Optimierung der Website (z. B. Cookies zur Messung des Webpublikums) erforderlich sind (notwendige Cookies), werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird. Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von notwendigen Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. DFX verwendet nur zwingend notwendige Cookies. 
+Les cookies nécessaires à l'exécution du processus de communication électronique, à la mise à disposition de certaines fonctions que vous souhaitez (par ex. pour la fonction de panier d'achat) ou à l'optimisation du site web (par ex. cookies de mesure d'audience web) (cookies nécessaires) sont enregistrés sur la base de l'article 6, paragraphe 1, point f du RGPD, sauf si une autre base juridique est indiquée. L'exploitant du site web a un intérêt légitime à stocker les cookies nécessaires pour une mise à disposition de ses services sans erreur technique et optimisée. L'IAD utilise uniquement des cookies absolument nécessaires. 
 
-Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
+Vous pouvez configurer votre navigateur de manière à être informé de l'installation de cookies et à n'autoriser les cookies qu'au cas par cas, à exclure l'acceptation des cookies dans certains cas ou de manière générale, et à activer la suppression automatique des cookies à la fermeture du navigateur. En cas de désactivation des cookies, la fonctionnalité de ce site web peut être limitée.
 
-### Anfrage per E-Mail, Telefon oder Telefax
+### Demande par e-mail, téléphone ou fax
 
-Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+Si vous nous contactez par e-mail, téléphone ou fax, votre demande, y compris toutes les données personnelles qui en découlent (nom, demande), sera enregistrée et traitée par nos soins dans le but de traiter votre demande. Nous ne transmettons pas ces données sans votre consentement.
 
-Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.
+Le traitement de ces données est basé sur l'article 6, paragraphe 1, point b) du RGPD, dans la mesure où votre demande est liée à l'exécution d'un contrat ou est nécessaire à l'exécution de mesures précontractuelles. Dans tous les autres cas, le traitement repose sur notre intérêt légitime à traiter efficacement les demandes qui nous sont adressées (article 6, paragraphe 1, point f), du RGPD) ou sur votre consentement (article 6, paragraphe 1, point a), du RGPD) si celui-ci a été demandé.
 
-Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
+Les données que vous nous avez envoyées par le biais de demandes de contact restent chez nous jusqu'à ce que vous nous demandiez de les effacer, que vous révoquiez votre consentement à leur stockage ou que la finalité du stockage des données devienne caduque (par ex. après le traitement de votre demande). Les dispositions légales contraignantes - en particulier les délais de conservation légaux - ne sont pas affectées.
 
-## 5. Analyse-Tools und Werbung
+## 5. Outils d'analyse et publicité
 
-DFX verwendet keine Analyse-Tools wie zum Beispiel Google Analytics.
+DFX n'utilise pas d'outils d'analyse tels que Google Analytics.
 
-## 6. Newsletter
+## 6. lettre d'information
 
-### Newsletter­daten
+### Données de la newsletter
 
-Wenn Sie den auf der Website angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht bzw. nur auf freiwilliger Basis erhoben.
+Si vous souhaitez recevoir la newsletter proposée sur le site Internet, nous avons besoin d'une adresse e-mail ainsi que d'informations nous permettant de vérifier que vous êtes bien le propriétaire de l'adresse e-mail indiquée et que vous acceptez de recevoir la newsletter. D'autres données ne sont pas collectées ou uniquement sur une base volontaire.
 
 ### Emails
 
-**Pflichtinformationen gemäß Artikel 13 DSGVO**  
-Im Falle des Erstkontakts sind wir gemäß Art. 12, 13 DSGVO verpflichtet, Ihnen folgende datenschutzrechtliche Pflichtinformationen zur Verfügung zu stellen: Wenn Sie uns per E-Mail kontaktieren, verarbeiten wir Ihre personenbezogenen Daten nur, soweit an der Verarbeitung ein berechtigtes Interesse besteht (Art. 6 Abs. 1 lit. f DSGVO), Sie in die Datenverarbeitung eingewilligt haben (Art. 6 Abs. 1 lit. a DSGVO), die Verarbeitung für die Anbahnung, Begründung, inhaltliche Ausgestaltung oder Änderung eines Rechtsverhältnisses zwischen Ihnen und uns erforderlich sind (Art. 6 Abs. 1 lit. b DSGVO) oder eine sonstige Rechtsnorm die Verarbeitung gestattet. Ihre personenbezogenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere steuer- und handelsrechtliche Aufbewahrungsfristen – bleiben unberührt. Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Ihnen steht außerdem ein Recht auf Widerspruch, auf Datenübertragbarkeit und ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Ferner können Sie die Berichtigung, die Löschung und unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten verlangen. Details entnehmen Sie unserer [Datenschutzerklärung](https://dfx.swiss/de/datenschutz/).
+**Informations obligatoires conformément à l'article 13 du RGPD**  
+Dans le cas d'un premier contact, nous sommes tenus, conformément aux articles 12 et 13 du RGPD, de mettre à votre disposition les informations obligatoires suivantes relatives à la protection des données : Si vous nous contactez par e-mail, nous ne traitons vos données personnelles que dans la mesure où le traitement présente un intérêt légitime (article 6, paragraphe 1, point f) du RGPD), si vous avez consenti au traitement des données (article 6, paragraphe 1, point a) du RGPD), si le traitement est nécessaire à l'établissement, à la justification, à la définition du contenu ou à la modification d'une relation juridique entre vous et nous (article 6, paragraphe 1, point b) du RGPD) ou si une autre norme juridique autorise le traitement. Vos données personnelles restent chez nous jusqu'à ce que vous nous demandiez de les supprimer, que vous révoquiez votre consentement à leur stockage ou que la finalité du stockage des données devienne caduque (par exemple, une fois votre demande traitée). Les dispositions légales contraignantes - en particulier les délais de conservation en matière de droit fiscal et commercial - ne sont pas affectées. Vous avez à tout moment le droit d'obtenir gratuitement des informations sur l'origine, le destinataire et la finalité de vos données personnelles enregistrées. Vous disposez également d'un droit d'opposition, d'un droit à la portabilité des données et d'un droit de recours auprès de l'autorité de contrôle compétente. Vous pouvez également demander la rectification, l'effacement et, dans certaines circonstances, la limitation du traitement de vos données personnelles. Pour plus de détails, veuillez consulter notre [déclaration de confidentialité](https://dfx.swiss/de/datenschutz/).
 
-### Unsere Social-Media-Auftritte
+### Notre présence sur les médias sociaux
 
-#### Datenverarbeitung durch soziale Netzwerke
+#### Traitement des données par les réseaux sociaux
 
-Wir unterhalten öffentlich zugängliche Profile in sozialen Netzwerken. Die im Einzelnen von uns genutzten sozialen Netzwerke finden Sie weiter unten.
+Nous disposons de profils accessibles au public sur les réseaux sociaux. Vous trouverez ci-dessous les réseaux sociaux que nous utilisons en détail.
 
-Soziale Netzwerke wie Facebook, Twitter etc. können Ihr Nutzerverhalten in der Regel umfassend analysieren, wenn Sie deren Website oder eine Website mit integrierten Social-Media-Inhalten (z. B. Like-Buttons oder Werbebannern) besuchen. Durch den Besuch unserer Social-Media-Präsenzen werden zahlreiche datenschutzrelevante Verarbeitungsvorgänge ausgelöst. Im Einzelnen:
+Les réseaux sociaux tels que Facebook, Twitter, etc. peuvent généralement analyser de manière approfondie votre comportement d'utilisateur lorsque vous visitez leur site web ou un site web intégrant des contenus de médias sociaux (par ex. des boutons "J'aime" ou des bannières publicitaires). La visite de nos présences sur les médias sociaux déclenche de nombreux processus de traitement relatifs à la protection des données. En particulier :
 
-Wenn Sie in Ihrem Social-Media-Account eingeloggt sind und unsere Social-Media-Präsenz besuchen, kann der Betreiber des Social-Media-Portals diesen Besuch Ihrem Benutzerkonto zuordnen. Ihre personenbezogenen Daten können unter Umständen aber auch dann erfasst werden, wenn Sie nicht eingeloggt sind oder keinen Account beim jeweiligen Social-Media-Portal besitzen. Diese Datenerfassung erfolgt in diesem Fall beispielsweise über Cookies, die auf Ihrem Endgerät gespeichert werden oder durch Erfassung Ihrer IP-Adresse.
+Si vous êtes connecté à votre compte de médias sociaux et que vous visitez notre site de médias sociaux, l'exploitant du portail de médias sociaux peut associer cette visite à votre compte d'utilisateur. Dans certaines circonstances, vos données personnelles peuvent également être collectées si vous n'êtes pas connecté ou si vous ne possédez pas de compte sur le portail de médias sociaux concerné. Dans ce cas, cette saisie de données s'effectue par exemple par le biais de cookies qui sont enregistrés sur votre terminal ou par la saisie de votre adresse IP.
 
-Mit Hilfe der so erfassten Daten können die Betreiber der Social-Media-Portale Nutzerprofile erstellen, in denen Ihre Präferenzen und Interessen hinterlegt sind. Auf diese Weise kann Ihnen interessenbezogene Werbung in- und außerhalb der jeweiligen Social-Media-Präsenz angezeigt werden. Sofern Sie über einen Account beim jeweiligen sozialen Netzwerk verfügen, kann die interessenbezogene Werbung auf allen Geräten angezeigt werden, auf denen Sie eingeloggt sind oder eingeloggt waren.
+À l'aide des données ainsi collectées, les exploitants des portails de médias sociaux peuvent créer des profils d'utilisateurs dans lesquels vos préférences et vos intérêts sont enregistrés. De cette manière, de la publicité basée sur vos intérêts peut vous être présentée dans et en dehors de la présence des médias sociaux concernés. Dans la mesure où vous disposez d'un compte sur le réseau social concerné, la publicité basée sur les centres d'intérêt peut être affichée sur tous les appareils sur lesquels vous êtes ou avez été connecté.
 
-Bitte beachten Sie außerdem, dass wir nicht alle Verarbeitungsprozesse auf den Social-Media-Portalen nachvollziehen können. Je nach Anbieter können daher ggf. weitere Verarbeitungsvorgänge von den Betreibern der Social-Media-Portale durchgeführt werden. Details hierzu entnehmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen der jeweiligen Social-Media-Portale.
+Veuillez également noter que nous ne pouvons pas suivre tous les processus de traitement sur les portails de médias sociaux. Selon le fournisseur, d'autres processus de traitement peuvent donc éventuellement être effectués par les exploitants des portails de médias sociaux. Pour plus de détails à ce sujet, veuillez consulter les conditions d'utilisation et les dispositions relatives à la protection des données des portails de médias sociaux concernés.
 
-#### Rechtsgrundlage
+#### Base juridique
 
-Unsere Social-Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den sozialen Netzwerken initiierten Analyseprozesse beruhen ggf. auf abweichenden Rechtsgrundlagen, die von den Betreibern der sozialen Netzwerke anzugeben sind (z. B. Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO).
+Notre présence sur les médias sociaux doit garantir une présence aussi complète que possible sur Internet. Il s'agit ici d'un intérêt légitime au sens de l'article 6, paragraphe 1, point f) du RGPD. Les processus d'analyse initiés par les réseaux sociaux reposent le cas échéant sur des bases juridiques divergentes qui doivent être indiquées par les exploitants des réseaux sociaux (par ex. consentement au sens de l'art. 6, al. 1, let. a du RGPD).
 
-#### Verantwortlicher und Geltendmachung von Rechten
+#### Responsable et exercice des droits
 
-Wenn Sie einen unserer Social-Media-Auftritte (z. B. Facebook) besuchen, sind wir gemeinsam mit dem Betreiber der Social-Media-Plattform für die bei diesem Besuch ausgelösten Datenverarbeitungsvorgänge verantwortlich. Sie können Ihre Rechte (Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Beschwerde) grundsätzlich sowohl ggü. uns als auch ggü. dem Betreiber des jeweiligen Social-Media-Portals (z. B. ggü. Facebook) geltend machen.
+Lorsque vous visitez l'un de nos sites de médias sociaux (par ex. Facebook), nous sommes responsables, conjointement avec l'exploitant de la plateforme de médias sociaux, des processus de traitement des données déclenchés lors de cette visite. Vous pouvez en principe faire valoir vos droits (information, rectification, suppression, limitation du traitement, portabilité des données et réclamation) aussi bien à notre égard qu'à l'égard de l'exploitant du portail de médias sociaux concerné (par ex. à l'égard de Facebook).
 
-Bitte beachten Sie, dass wir trotz der gemeinsamen Verantwortlichkeit mit den Social-Media-Portal-Betreibern nicht vollumfänglich Einfluss auf die Datenverarbeitungsvorgänge der Social-Media-Portale haben. Unsere Möglichkeiten richten sich maßgeblich nach der Unternehmenspolitik des jeweiligen Anbieters.
+Veuillez noter que, malgré la responsabilité commune avec les exploitants des portails de médias sociaux, nous n'avons pas une influence totale sur les processus de traitement des données des portails de médias sociaux. Nos possibilités dépendent en grande partie de la politique d'entreprise du fournisseur concerné.
 
-#### Speicherdauer
+#### Durée de conservation
 
-Die unmittelbar von uns über die Social-Media-Präsenz erfassten Daten werden von unseren Systemen gelöscht, sobald Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Gespeicherte Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen. Zwingende gesetzliche Bestimmungen – insb. Aufbewahrungsfristen – bleiben unberührt.
+Les données que nous collectons directement via la présence sur les médias sociaux sont effacées de nos systèmes dès que vous nous demandez de les supprimer, que vous retirez votre consentement à leur stockage ou que la finalité du stockage des données n'est plus valable. Les cookies enregistrés restent sur votre terminal jusqu'à ce que vous les supprimiez. Les dispositions légales contraignantes - en particulier les délais de conservation - ne sont pas affectées.
 
-Auf die Speicherdauer Ihrer Daten, die von den Betreibern der sozialen Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der sozialen Netzwerke (z. B. in deren Datenschutzerklärung, siehe unten).
+Nous n'avons aucune influence sur la durée de conservation de vos données, qui sont enregistrées par les exploitants des réseaux sociaux à leurs propres fins. Pour plus de détails, veuillez vous informer directement auprès des exploitants des réseaux sociaux (par exemple dans leur déclaration de protection des données, voir ci-dessous).
 
-#### Soziale Netzwerke im Einzelnen
+#### Réseaux sociaux en détail
 
 ##### Facebook
 
-Wir verfügen über ein Profil bei Facebook. Anbieter dieses Dienstes ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland. Die erfassten Daten werden nach Aussage von Facebook auch in die USA und in andere Drittländer übertragen.
+Nous disposons d'un profil sur Facebook. Le fournisseur de ce service est Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irlande. Selon Facebook, les données collectées sont également transférées aux États-Unis et dans d'autres pays tiers.
 
-Wir haben mit Facebook eine Vereinbarung über gemeinsame Verarbeitung (Controller Addendum) geschlossen. In dieser Vereinbarung wird festgelegt, für welche Datenverarbeitungsvorgänge wir bzw. Facebook verantwortlich ist, wenn Sie unsere Facebook-Page besuchen. Diese Vereinbarung können Sie unter folgendem Link einsehen: [Facebook](https://www.facebook.com/legal/terms/page_controller_addendum).
+Nous avons conclu un accord de traitement conjoint (Controller Addendum) avec Facebook. Cet accord définit les opérations de traitement des données dont nous ou Facebook sommes responsables lorsque vous visitez notre page Facebook. Vous pouvez consulter cet accord en cliquant sur le lien suivant : [Facebook](https://www.facebook.com/legal/terms/page_controller_addendum).
 
-**Sie können Ihre Werbeeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** https://www.facebook.com/settings?tab=ads.
+**Vous pouvez adapter vous-même vos paramètres publicitaires dans votre compte utilisateur. Pour ce faire, cliquez sur le lien suivant et connectez-vous:** https://www.facebook.com/settings?tab=ads.
 
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Facebook](https://www.facebook.com/legal/EU_data_transfer_addendum) und [Facebook](https://de-de.facebook.com/help/566994660333381).
+Le transfert de données vers les États-Unis est basé sur les clauses contractuelles standard de la Commission européenne. Vous trouverez des détails ici : [Facebook](https://www.facebook.com/legal/EU_data_transfer_addendum) et [Facebook](https://de-de.facebook.com/help/566994660333381).
 
-Details entnehmen Sie der Datenschutzerklärung von Facebook: https://www.facebook.com/about/privacy/.
+Pour plus de détails, veuillez consulter la déclaration de confidentialité de Facebook : https://www.facebook.com/about/privacy/.
 
 ##### Twitter
 
-Wir nutzen den Kurznachrichtendienst Twitter. Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
+Nous utilisons le service de messages courts Twitter. Le fournisseur est Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irlande.
 
-**Sie können Ihre Twitter-Datenschutzeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** https://twitter.com/personalization.
+**Vous pouvez modifier vous-même vos paramètres de confidentialité Twitter dans votre compte utilisateur. Pour ce faire, cliquez sur le lien suivant et connectez-vous:** https://twitter.com/personalization.
 
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Controller-to-Controller Transfers](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
+Le transfert de données vers les États-Unis est basé sur les clauses contractuelles standard de la Commission européenne. Vous trouverez des détails ici : [Controller-to-Controller Transfers](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
 
-Details entnehmen Sie der Datenschutzerklärung von Twitter: [Twitter Datenschutzrichtlinien](https://twitter.com/de/privacy).
+Pour plus de détails, veuillez consulter la déclaration de confidentialité de Twitter : [Politique de confidentialité de Twitter](https://twitter.com/de/privacy).
 
 ##### Instagram
 
-Wir verfügen über ein Profil bei Instagram. Anbieter dieses Dienstes ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
+Nous disposons d'un profil sur Instagram. Le fournisseur de ce service est Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irlande.
 
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Facebook](https://www.facebook.com/legal/EU_data_transfer_addendum), https://help.instagram.com/519522125107875 und [Facebook](https://de-de.facebook.com/help/566994660333381).
+Le transfert de données vers les États-Unis est basé sur les clauses contractuelles standard de la Commission européenne. Vous trouverez des détails ici : [Facebook](https://www.facebook.com/legal/EU_data_transfer_addendum), https://help.instagram.com/519522125107875 et [Facebook](https://de-de.facebook.com/help/566994660333381).
 
-Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von Instagram: https://help.instagram.com/519522125107875.
+Pour plus de détails sur leur traitement de vos données personnelles, veuillez consulter la déclaration de confidentialité d'Instagram : https://help.instagram.com/519522125107875.
 
 ##### LinkedIn
 
-Wir verfügen über ein Profil bei LinkedIn. Anbieter ist die LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland. LinkedIn verwendet Werbecookies.
+Nous disposons d'un profil sur LinkedIn. Le fournisseur est LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irlande. LinkedIn utilise des cookies publicitaires.
 
-**Wenn Sie LinkedIn-Werbe-Cookies deaktivieren möchten, nutzen Sie bitte folgenden Link:** [Anzeigen abbestellen&nbsp;](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
+**Si vous souhaitez désactiver les cookies publicitaires de LinkedIn, veuillez utiliser le lien suivant:** [Se désabonner des annonces&nbsp ;](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
 
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [LinkedIn Data Processing Agreement (DPA)](https://www.linkedin.com/legal/l/dpa) und [EU SCCs](https://www.linkedin.com/legal/l/eu-sccs).
+Le transfert de données vers les États-Unis est basé sur les clauses contractuelles standard de la Commission européenne. Vous trouverez des détails ici : [LinkedIn Data Processing Agreement (DPA)](https://www.linkedin.com/legal/l/dpa) et [EU SCCs](https://www.linkedin.com/legal/l/eu-sccs).
 
-Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von LinkedIn: [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
+Pour plus de détails sur leur traitement de vos données personnelles, veuillez consulter la déclaration de confidentialité de LinkedIn : [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
 ##### YouTube
 
-Wir verfügen über ein Profil bei YouTube. Anbieter ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von YouTube: https://policies.google.com/privacy?hl=de.
+Nous disposons d'un profil sur YouTube. Le fournisseur est Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irlande. Pour plus de détails sur la manière dont ils traitent vos données personnelles, veuillez consulter la déclaration de confidentialité de YouTube : https://policies.google.com/privacy?hl=de.
