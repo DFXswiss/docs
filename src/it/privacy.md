@@ -1,5 +1,7 @@
 # La protezione dei dati in sintesi
 
+In caso di discrepanze, prevarrà la versione tedesca.
+
 ## Informazioni generali
 
 Le seguenti note forniscono una semplice panoramica di ciò che accade ai vostri dati personali quando visitate questo sito web. Per dati personali si intendono tutti i dati che consentono di identificarvi personalmente. Per informazioni più dettagliate sulla protezione dei dati, si prega di consultare la nostra politica sulla privacy elencata sotto questo testo.
