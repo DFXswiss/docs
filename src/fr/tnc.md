@@ -119,6 +119,18 @@ Chaque profil de client est unique, personnel et non transférable. La création
 
 Les clients peuvent à tout moment supprimer ou désactiver leur compte en adressant une demande au support technique de DFX. DFX est tenu de conserver les enregistrements des transactions pendant dix ans. Cette période commence à la fin de l'exécution des transactions ou, si plusieurs transactions forment un tout, à la fin de la dernière transaction. Ce n'est qu'à l'issue de cette période de conservation de dix ans que le compte est finalement supprimé.
 
+## Traitement des données de transaction
+
+Pour toutes les transactions d'actifs numériques, les informations suivantes sont mises à disposition du public :
+
+- Actif d'entrée
+- Montant d'entrée
+- Actif de sortie
+- Montant de sortie
+- Transaction ID
+
+Ces informations ne permettent pas d'identifier directement la personne qui a effectué cette transaction. 
+
 ## Processus d'achat de crypto-monnaies
 
 Le client doit effectuer l'achat en suivant les instructions données dans l'app DFX ou sur le site de paiement DFX. En cas d'indications non valables ou erronées, les fonds peuvent être perdus. DFX peut effectuer des recherches pour tenter de récupérer les crypto-monnaies perdues, mais n'est pas tenu de le faire. Ces recherches sont effectuées à la seule discrétion de DFX. Le Client doit prendre en charge les coûts d'une recherche, qui tiennent compte de la complexité technique et du temps nécessaire pour effectuer les recherches.
