@@ -56,6 +56,18 @@ Die Authentifizierung der von den Kunden im Rahmen des Registrierungsverfahrens 
 
 Weitere notwendige externe Anbieter können im Rahmen der Pflege und Verwaltung der aktuellen Prozesse, des Produkt- und Serviceangebotes sowie der DFX-Nutzerbasis ebenfalls Zugang zu Kundendaten erhalten. In solchen Fällen, in denen die Inanspruchnahme eines externen Anbieters oder Services erforderlich ist, stellt DFX sicher, dass der externe Anbieter dasselbe Mass an Wachsamkeit in Bezug auf Datenschutz und Datensicherheit walten lässt, wie es DFX tut. Kundendaten und/oder Kontaktinformationen werden von DFX in keiner Weise verkauft.
 
+## Umgang mit Transaktionsdaten
+
+Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informationen öffentlich zur Verfügung gestellt:
+
+- Input Asset
+- Input Amount
+- Output Asset
+- Output Amount
+- Transaction ID
+
+Diese Informationen lassen keinen direkten Rückschluss auf die Person zu, welche diese Transaktion ausgeführt hat. 
+
 ## Umgang mit Kundendaten bei Banktransaktionen
 
 Bei der Ausführung von Transaktionen werden automatisch Kundendaten mit der Transaktion mitgesendet. Konkret werden bei Banktransaktionen in der Regel folgende Informationen von der Absenderbank an die Empfänderbank übermittelt:

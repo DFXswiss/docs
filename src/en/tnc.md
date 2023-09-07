@@ -48,6 +48,18 @@ The authentication of the identification documents submitted by customers as par
 
 Other necessary external providers may also have access to customer data as part of the maintenance and management of current processes, the product and service offering, and the DFX user base. In such cases where the use of an external provider or service is required, DFX will ensure that the external provider exercises the same level of vigilance with respect to privacy and data security as DFX does. Customer data and/or contact information is not sold by DFX in any way.
 
+## Handling transaction data
+
+For all digital asset transactions, the following information is made publicly available:
+
+- Input Asset
+- Input Amount
+- Output Asset
+- Output Amount
+- Transaction ID
+
+This information does not allow direct identification of the person who executed the transaction. 
+
 ## Handling customer data during bank transactions
 When transactions are executed, customer data is automatically sent along with the transaction. Specifically, the following information is usually sent from the sending bank to the receiving bank during bank transactions:
 
