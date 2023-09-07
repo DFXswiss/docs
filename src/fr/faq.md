@@ -383,7 +383,7 @@ Das ist ganz einfach, Du brauchst nur den folgenden Code:
 ```
 <script defer="defer" src="https://services.dfx.swiss/widget/v1.0"></script>
 <div style="width:100%; max-width:450px; height:700px;">
-   <dfx-services mode="home" lang="de" refcode="000-000" wallet="IFRAME">Wird geladen ...</dfx-services>
+   <dfx-services mode="iframe" lang="de" refcode="000-000" wallet="IFRAME">Wird geladen ...</dfx-services>
 </div>
 ```
 
