@@ -24,7 +24,7 @@ wallet="IFRAME" is needed to give your own wallet id.
 This is useful if you want to use your own personal IFRAME solution with a specially selected selection of coins to be offered.   
    
 Note: Technically it is not an IFRAME but a web widget. This works much better than an IFRAME.    
-If you have any questions, our moderators in the Telegram group https://t.me/DFXswiss or our support at support@dfx.swiss will be happy to help you.    
+If you have any questions, our moderators in the Telegram group https://t.me/DFXswiss_en or our support at support@dfx.swiss will be happy to help you.    
 
 ## How can I "sell" Bitcoin in the DFX Wallet?
 
