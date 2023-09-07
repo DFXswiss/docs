@@ -119,6 +119,18 @@ Ogni profilo cliente è unico, personale e non trasferibile. È vietata la creaz
 
 I clienti possono cancellare o disattivare il proprio account in qualsiasi momento presentando una richiesta al supporto tecnico di DFX. DFX è obbligata a conservare le registrazioni delle transazioni per dieci anni. Questo periodo inizia con la fine dell'esecuzione delle transazioni o, se più transazioni formano un insieme, con la fine dell'ultima transazione. Solo dopo la scadenza di questo periodo di conservazione di dieci anni il conto viene definitivamente cancellato.
 
+## Gestione dei dati delle transazioni
+
+Per tutte le transazioni di asset digitali, le seguenti informazioni sono rese pubbliche:
+
+- Attività in ingresso
+- Importo di ingresso
+- Attività di uscita
+- Importo di uscita
+- ID della transazione
+
+Queste informazioni non consentono di trarre conclusioni dirette sulla persona che ha effettuato la transazione. 
+
 ## Processo di acquisto delle criptovalute
 
 Il cliente deve effettuare l'acquisto secondo le istruzioni contenute nell'app DFX o nella pagina di pagamento DFX. Informazioni non valide o errate possono comportare la perdita di fondi. DFX può effettuare indagini per cercare di recuperare le criptovalute perse, ma non è obbligata a farlo. Tali indagini sono a esclusiva discrezione di DFX. Il Cliente dovrà pagare il costo di qualsiasi indagine, che terrà conto della complessità tecnica e del tempo richiesto per l'indagine.
