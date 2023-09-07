@@ -2,20 +2,29 @@
 
 FAQ in English is currently being revised and is currently only available in a reduced form. The German FAQ is complete. 
 
+
 ## How can I integrate DFX's IFRAME widget into my own website?
 
 This is super easy, you just need the following code:
 
-``` 
+```
 <script defer="defer" src="https://services.dfx.swiss/widget/v1.0"></script>
-
 <div style="width:100%; max-width:450px; height:700px;">
-   <dfx-services>Loading ...</dfx-services>
-</div>`
+   <dfx-services mode="iframe" lang="en" refcode="000-000" wallet="IFRAME">Loading ...</dfx-services>
+</div>
 ```
 
-Note: Technically it is not an IFRAME but a web widget. This works much better than an IFRAME.  
-If you have any questions, our moderators in the Telegram group https://t.me/DFXswiss_en or our support at support@dfx.swiss will be happy to help. 
+The parameters can also be customized.    
+lang: "de" stands for German, "en" can be used for English.   
+mode="home" stands for the start page.   
+With mode="buy" you get directly to the buy page.   
+With mode="buy-erc20" you go directly to the ERC 20 selection page.   
+With refcode="000-000" you can enter your own personal Ref Code.   
+wallet="IFRAME" is needed to give your own wallet id.   
+This is useful if you want to use your own personal IFRAME solution with a specially selected selection of coins to be offered.   
+   
+Note: Technically it is not an IFRAME but a web widget. This works much better than an IFRAME.    
+If you have any questions, our moderators in the Telegram group https://t.me/DFXswiss or our support at support@dfx.swiss will be happy to help you.    
 
 ## How can I "sell" Bitcoin in the DFX Wallet?
 
