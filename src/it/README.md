@@ -1,7 +1,7 @@
-# DFX Docs Deutsch Inhalt 
+# DFX Docs Contenuto tedesco 
 
-[Haftungsausschluss](https://docs.dfx.swiss/it/disclaimer.html)  
-[Allgemeine Geschäftsbedingungen](https://docs.dfx.swiss/it/tnc.html)  
-[Datenschutz](https://docs.dfx.swiss/it/privacy.html)  
-[Impressum](https://docs.dfx.swiss/it/imprint.html)  
+[Esclusione di responsabilità](https://docs.dfx.swiss/it/disclaimer.html)  
+[Condizioni generali di contratto](https://docs.dfx.swiss/it/tnc.html)  
+[La protezione dei dati in sintesi](https://docs.dfx.swiss/it/privacy.html)  
+[Impronta](https://docs.dfx.swiss/it/imprint.html)  
 [FAQ](https://docs.dfx.swiss/it/faq.html)  
