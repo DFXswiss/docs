@@ -36,3 +36,11 @@ The sell function is unfortunately not yet built directly into the app itself, b
 4. once this sell route is created, you will receive a Blockcahin deposit address. Every time you send bitcoin to this address, you will receive fiat paid out to your IBAN.
 Copy the deposit address, go back to the DFX wallet and send the desired amount to this deposit address. Done.
 6. you will be informed about the status of the sale by email. 
+
+## How to use your own LND-Hub
+You can connect the DFX BTC Taro wallet to your own LND hub. The condition is that your server meets all the requirements according to the DFX protocol. 
+
+Hint:
+There is currently no plug and play solution! If you run a LND hub as a hobby you will most likely not get it working. 
+
+If you are interested in a professional solution and invest several days in setting up your own LND Hub and also have the necessary technical knowledge, then please contact our support. We are happy to help. 
