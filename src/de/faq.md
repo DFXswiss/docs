@@ -428,14 +428,12 @@ Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe htt
 Auf unserer Homepage gibt es dazu ausführliche Informationen: https://dfx.swiss/de/bitcoin/
 
 Nachfolgend findest du Links zu Artikeln, die zu diesem Thema z.B. in unserer Telegram Gruppe oder auf Youtube bereitgestellt wurden.
-Wie ist die Situation bzgl. On- / Offramp (Fiatschnittstelle) ?
 
-Meldung in der Btc only App „Backup nicht verifiziert“
+Meldung in der BTC only App „Backup nicht verifiziert“
 
-Hier die Erklärung dazu. [klick](https://t.me/DFXswiss/91021)
-YT-Tutorial von Oli. [klick](https://youtu.be/CPYjvBC2NRs)
-
-Global senden. [klick](https://t.me/DFXswiss/99843)
+- Hier die Erklärung dazu. [klick](https://t.me/DFXswiss/91021)
+- YT-Tutorial von Oli. [klick](https://youtu.be/CPYjvBC2NRs)
+- Global senden. [klick](https://t.me/DFXswiss/99843)
 
 BTC Wallet bereits vorhandenen? [klick](https://t.me/DFXswiss/84476)
 DFX Seed Phrase Template [PDF Download](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
@@ -447,6 +445,7 @@ DFX Seed Phrase Template [PDF Download](https://dfx.swiss/wp-content/uploads/202
 Die beiden Videos wurden vor der Einführung der neuen DFX Gebührenstruktur erstellt und zeigen daher noch die DFX-Gebühren vor dem 1. Dez. 2022.
 
 Bestehendes DFX KYC auch mit der BTC only App verwenden: [klick](https://t.me/DFXswiss/84097)
+
 Anschließend gerne SEPA instant oder Standard SEPA nutzen: [klick](https://t.me/DFXswiss/71068)
 
 Wichtige Info zum BTC-Kurs beim Kauf: [klick](https://t.me/DFXswiss/85437)
