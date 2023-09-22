@@ -10,6 +10,20 @@ Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderat
 
 ## Allgemeine Fragen
 
+### Was genau beinhaltet der Service von DFX?
+
+DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit Crypto Währungen zu kaufen und zu verkaufen. Wir arbeiten daran unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/)
+
+### Was bedeutet es für mich, dass DFX reguliert ist?
+
+Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen ein Verifizierung notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du den KYC bereits abgeschlossen hast.
+Wir sind ausserdem verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
+
+### Wie schnell wird meine Transaktion abgearbeitet?
+
+DFX bietet neben der gängigen Sepa Transaktion auch Sepa instant an, welches jedoch nur mit abgeschlossenem KYC nutzbar ist.
+Im Schnitt rechnen wir nach Zahlungseingang bei unserer Bank eine Verarbeitungszeit von ca. 10 Minuten. Die Dauer hängt jedoch von unterschiedlichen Faktoren ab, die nicht alle von DFX beeinflussbar sind. 
+
 ### Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei DFX getätigt habe?
 
 Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards).
@@ -33,10 +47,6 @@ Ja.
 
 Die IT Infrastruktur wird von einem professionellen Anbieter betrieben, überwacht und gesichert.
 
-### Wie wird der Service vor Betrug oder Täuschung geschützt?
-
-Betrug und Täuschung im Finanzbereich wird zusammengefasst zum Thema Geldwäsche. Das Unternehmen ist in der Schweiz reguliert und hält sich an alle geltenden Gesetze. Wir sind daher verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
-
 ### Warum meldet sich meine Bank bei mir?
 
 Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
@@ -44,10 +54,6 @@ Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überw
 ### Meine Bank unterstützt keine wöchentlichen Zahlungen. Was kann ich machen?
 
 In der Regel bietet jede Bank einen Dauerauftrag an. Wenn dies nicht möglich ist, da du es zum Beispiel per App oder via Online Banking probiert hast, nehme einfach Kontakt zu deiner Bank auf oder ziehe in Erwägung zu einer anderen Bank zu wechseln. Zudem kannst du auch 4 unterschiedliche Daueraufträge erstellen, die jeweils eine Woche versetzt sind, sodass jede Woche ein Dauerauftrag ausgeführt wird.
-
-### Wie kontaktiere ich unseren Support bzw. wie nehme ich Kontakt zur DFX auf?
-
-Unseren Support erreichst du über unsere Social Media Channels, [Twitter](https://twitter.com/DFX_swiss) und [Telegram](https://t.me/DFXswiss). Zudem kannst auch Kontakt über Email mit uns aufnehmen: [support@dfx.swiss](mailto:support@dfx.swiss)
 
 ### Welche Währungen werden von unserem Service unterstützt?
 
