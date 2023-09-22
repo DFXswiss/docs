@@ -5,8 +5,8 @@ Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 ## Wo erhalte ich Unterstützung?
 
 DFX bietet auf unterschiedliche Weise Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
-Da Updates im FAQ jedoch nicht immer alle berücksichtigt sind, empfehlen wir bei technischen Fragen die Unterstützung unserer Moderatoren zu nutzen. Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Dort erhältst du schnell Antwort auf deine Fragen.
-Andernfalls kannst du dich auch an unseren Support wenden: support@dfx.swiss
+Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu nehmen, da wir auf diesem Wege die schnellste Bearbeitung garantieren können. 
+Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatuses. Andernfalls kannst du dich auch an unseren Support wenden: support@dfx.swiss
 
 ## Allgemeine Fragen
 
