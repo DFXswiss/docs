@@ -12,11 +12,11 @@ Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderat
 
 ### Was genau beinhaltet der Service von DFX?
 
-DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit Crypto Währungen zu kaufen und zu verkaufen. Wir arbeiten daran unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/)
+DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit Crypto Währungen zu kaufen und zu verkaufen. Wir arbeiten daran unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/).
 
 ### Was bedeutet es für mich, dass DFX reguliert ist?
 
-Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen ein Verifizierung notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du den KYC bereits abgeschlossen hast.
+Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du den KYC bereits abgeschlossen hast.
 Wir sind ausserdem verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
 
 ### Wie schnell wird meine Transaktion abgearbeitet?
