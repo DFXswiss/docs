@@ -2,7 +2,27 @@
 
 Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 
+## Wo erhalte ich Unterstützung?
+
+DFX bietet auf unterschiedliche Weise Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
+Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu nehmen, da wir auf diesem Wege die schnellste Bearbeitung garantieren können. 
+Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: support@dfx.swiss
+
 ## Allgemeine Fragen
+
+### Was genau beinhaltet der Service von DFX?
+
+DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit Crypto Währungen zu kaufen und zu verkaufen. Wir arbeiten daran unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/).
+
+### Was bedeutet es für mich, dass DFX reguliert ist?
+
+Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du den KYC bereits abgeschlossen hast.
+Wir sind ausserdem verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
+
+### Wie schnell wird meine Transaktion abgearbeitet?
+
+DFX bietet neben der gängigen Sepa Transaktion auch Sepa instant an, welches jedoch nur mit abgeschlossenem KYC nutzbar ist.
+Im Schnitt rechnen wir nach Zahlungseingang bei unserer Bank eine Verarbeitungszeit von ca. 10 Minuten. Die Dauer hängt jedoch von unterschiedlichen Faktoren ab, die nicht alle von DFX beeinflussbar sind. 
 
 ### Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei DFX getätigt habe?
 
@@ -27,10 +47,6 @@ Ja.
 
 Die IT Infrastruktur wird von einem professionellen Anbieter betrieben, überwacht und gesichert.
 
-### Wie wird der Service vor Betrug oder Täuschung geschützt?
-
-Betrug und Täuschung im Finanzbereich wird zusammengefasst zum Thema Geldwäsche. Das Unternehmen ist in der Schweiz reguliert und hält sich an alle geltenden Gesetze. Wir sind daher verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
-
 ### Warum meldet sich meine Bank bei mir?
 
 Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
@@ -38,10 +54,6 @@ Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überw
 ### Meine Bank unterstützt keine wöchentlichen Zahlungen. Was kann ich machen?
 
 In der Regel bietet jede Bank einen Dauerauftrag an. Wenn dies nicht möglich ist, da du es zum Beispiel per App oder via Online Banking probiert hast, nehme einfach Kontakt zu deiner Bank auf oder ziehe in Erwägung zu einer anderen Bank zu wechseln. Zudem kannst du auch 4 unterschiedliche Daueraufträge erstellen, die jeweils eine Woche versetzt sind, sodass jede Woche ein Dauerauftrag ausgeführt wird.
-
-### Wie kontaktiere ich unseren Support bzw. wie nehme ich Kontakt zur DFX auf?
-
-Unseren Support erreichst du über unsere Social Media Channels, [Twitter](https://twitter.com/DFX_swiss) und [Telegram](https://t.me/DFXswiss). Zudem kannst auch Kontakt über Email mit uns aufnehmen: [support@dfx.swiss](mailto:support@dfx.swiss)
 
 ### Welche Währungen werden von unserem Service unterstützt?
 
@@ -376,6 +388,25 @@ Klicke in der Bluewallet auf "Wallet hinzufügen", dann auf "Wallet importieren"
 ## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Crypto Verkäufe, was muss ich tun?
 Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir die Auszahlung auf dein Bankkonto perfekt vorzubereiten um keine Probleme zu bekommen. Melde dich dazu einfach an support (at) dfx.swiss
 
+## Wie integriere ich die Hardware-Wallet?
+- BitBoxSwiss 
+- Ledger
+- Trezor 
+
+Krypto-Assets kaufen oder verkaufen mit der neuen Toolbox auf DFX.swiss
+
+Investiere entweder einmalig oder per Dauerauftrag  (DCA) direkt in deine Hardware-Wallet!
+
+Mehr dazu auf Youtube in diesen Tutorial-Videos:
+[DFX](https://youtu.be/-DV2xhPZG-w)
+[Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
+
+Hier noch weitere Info im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
+
+Crypto-Influencer (aber auch jeder andere Webseiten-Eigner) 
+können jetzt diese Toolbox auf der eigenen Webseite einbauen und 
+RefCode-Rewards damit generieren.
+
 ## Wie kann ich das IFRAME-Widget von DFX in meine eigene Website integrieren?
 
 Das ist ganz einfach, Du brauchst nur den folgenden Code:
@@ -398,6 +429,32 @@ Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möc
    
 Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME.    
 Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter.    
+
+## Wo finde ich Informationen zum Bitcoin spezifischen Service von DFX?
+Auf unserer Homepage gibt es dazu ausführliche Informationen: https://dfx.swiss/de/bitcoin/
+
+Nachfolgend findest du Links zu Artikeln, die zu diesem Thema z.B. in unserer Telegram Gruppe oder auf Youtube bereitgestellt wurden.
+
+Meldung in der BTC only App „Backup nicht verifiziert“
+
+- Hier die Erklärung dazu. [klick](https://t.me/DFXswiss/91021)
+- YT-Tutorial von Oli. [klick](https://youtu.be/CPYjvBC2NRs)
+- Global senden. [klick](https://t.me/DFXswiss/99843)
+
+BTC Wallet bereits vorhandenen? [klick](https://t.me/DFXswiss/84476)
+DFX Seed Phrase Template [PDF Download](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
+
+- geführter Kauf- oder Verkauf: „DFX Services“
+- native Bitcoin kaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
+- native Bitcoin verkaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
+
+Die beiden Videos wurden vor der Einführung der neuen DFX Gebührenstruktur erstellt und zeigen daher noch die DFX-Gebühren vor dem 1. Dez. 2022.
+
+Bestehendes DFX KYC auch mit der BTC only App verwenden: [klick](https://t.me/DFXswiss/84097)
+
+Anschließend gerne SEPA instant oder Standard SEPA nutzen: [klick](https://t.me/DFXswiss/71068)
+
+Wichtige Info zum BTC-Kurs beim Kauf: [klick](https://t.me/DFXswiss/85437)
 
 ## Wie kann ich in der DFX Bitcoin Wallet "verkaufen"?
 

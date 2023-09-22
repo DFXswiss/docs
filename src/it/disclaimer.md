@@ -1,6 +1,6 @@
-In caso di divergenze, prevale la versione tedesca.
-
 # Esclusione di responsabilità
+
+In caso di divergenze, prevale la versione tedesca.
 
 DFX non è responsabile di perdite o danni indiretti o diretti di qualsiasi tipo che possano derivare dall'accesso o dall'utilizzo dei prodotti forniti da DFX, in particolare il Portafoglio DFX, o delle informazioni o dall'impossibilità di accedere o utilizzare tali informazioni e prodotti. In particolare, si dichiara espressamente che in nessun caso DFX sarà responsabile di perdite o danni causati da errori tecnici o di altro tipo, guasti di trasmissione, sovraccarichi di sistema, problemi di utilizzo, interruzioni dei servizi (compresi, ma non solo, i servizi di manutenzione del sistema), ritardi nella trasmissione delle informazioni, incompatibilità tra il sito web e i file e/o i software (in particolare i browser) e/o i computer da parte del cliente, malfunzionamenti, interferenze, trasmissione di un virus al computer dell'utente, accesso non autorizzato (ad esempio tramite hacking o pirateria) o qualsiasi altra causa di danno. (ad esempio tramite hacking o pirateria), il blocco deliberato di strumenti o reti di telecomunicazione (ad esempio tramite mail bombing, attacchi denial of service) o altri guasti o inadeguatezze da parte dei fornitori di servizi di telecomunicazione o di rete. I clienti riconoscono e accettano che i servizi di DFX sono forniti "così come sono" e "come disponibili".
 
