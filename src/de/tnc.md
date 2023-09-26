@@ -174,7 +174,7 @@ DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen b
 
 Rückbuchungen von Verkäufen an Kunden der DFX AG werden ausschliesslich in der Kryptowährung getätigt, die an DFX zum Verkauf transferiert worden ist. Die Höhe der Rückbuchung entspricht exakt dem Betrag, die an DFX zum Verkauf transferiert worden ist.
 
-## Gebühren
+## Prozentuale Gebühren
 
 Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA Zahlungssystem [als auch für Krypto-zu-Krypto-Transaktionen]. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. [Bei einer Krypto-zu-Krypto-Transaktion würde das Volumen entsprechend mit dem Kurs in EUR umgerechnet (www.kraken.com), um die Höhe der Gebühren festlegen zu können].
 
@@ -197,6 +197,16 @@ Gebührenübersicht ab 01.12.2022
 | Kauf    | 1,49 %           | 1,99 %           |
 | Verkauf | 1,99 %           | 2,49 %           |
 
+## Mindestgebühren
+
+|           | Mindestgebühr  |
+| --------- | -------------- |
+| Bitcoin   | 1 EUR          |
+| Lightning | 0 EUR          |
+| Ethereum  | 5 EUR          |    
+| Arbitrum  | 1 EUR          |
+| Optimism  | 1 EUR          |
+| Polygon   | 1 EUR          |
 
 ## Referral System
 
