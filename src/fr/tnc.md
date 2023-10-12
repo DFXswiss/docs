@@ -154,8 +154,6 @@ Le client doit procéder à l'exécution de la vente en respectant les instructi
 
 DFX fournit ses services à hauteur du montant effectivement reçu par elle sur le DFX-Wallet. Les frais bancaires ou les frais de transaction sont à la charge du client et sont directement déduits du montant initialement versé, si cela n'a pas encore été fait lors de la réception de la transaction. Le cas échéant, des frais administratifs sont également facturés au client. DFX convertit ensuite la contre-valeur du montant effectivement reçu dans la monnaie étrangère [ou la crypto-monnaie] souhaitée, après déduction des éventuels frais bancaires ou de transaction supplémentaires et des frais propres à DFX (voir ci-dessous).
 
-Le change de crypto-monnaie pour le bitcoin est effectué via Kraken et pour tous les autres via Uniswap.
-
 Une fois que l'itinéraire de vente a été établi, que le montant versé par le client dans ce contexte a été corrigé de tous les frais applicables, DFX vend les crypto-monnaies indiquées dans le cadre de l'itinéraire de vente pour son propre portefeuille au sens d'une transaction principale et transfère ensuite les monnaies étrangères [respectivement les crypto-monnaies converties] sur le compte [portefeuille/] indiqué par le client.
 
 DFX attire l'attention sur le fait que la vente peut prendre jusqu'à sept jours ouvrables avant que le montant ne parvienne au destinataire.
