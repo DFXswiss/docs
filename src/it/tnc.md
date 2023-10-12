@@ -49,10 +49,6 @@ I clienti riconoscono che DFX può registrare e analizzare tutte le azioni dei p
 
 DFX conserverà queste informazioni in condizioni di sicurezza adeguate per un periodo di tempo limitato. DFX non divulgherà i dati personali a terzi, a meno che non sia obbligata a farlo per legge e/o regolamento. Si vedano i dettagli alla voce Gestione dei dati dei clienti nelle transazioni bancarie/blockchain.
 
-Il supporto tecnico di DFX è fornito da una terza parte incaricata da DFX. Quando si utilizza il supporto, i dati personali - come nome utente, nome e cognome, indirizzo e-mail, numero di telefono, indirizzo IP e informazioni di pagamento dei clienti - vengono memorizzati da questo fornitore esterno di servizi di supporto.
-
-Per poter offrire un'assistenza clienti semplice, il personale di assistenza volontaria ha accesso anche a una parte del database (i cosiddetti dati delle transazioni). Questi dati si riferiscono alle transazioni dell'utente e comprendono l'ID della transazione, l'ID dell'utente, l'indirizzo IBAN, l'importo della rispettiva transazione, il codice di riferimento, l'indirizzo della blockchain e le informazioni sulla transazione corrispondente, compresa la conferma della transazione con i dettagli della stessa. Il nome e il cognome e altri dati personali non fanno parte di questi dati.
-
 L'autenticazione dei documenti di identificazione presentati dai clienti nell'ambito del processo di registrazione viene effettuata da una società esterna specializzata. Di conseguenza, questa società ha accesso (esclusivamente) a questi documenti.
 
 Anche altri fornitori esterni necessari possono avere accesso ai dati dei clienti nell'ambito della manutenzione e della gestione dei processi in corso, dell'offerta di prodotti e servizi e della base di utenti di DFX. In questi casi in cui è richiesto l'uso di un fornitore o di un servizio esterno, DFX si assicurerà che il fornitore esterno eserciti lo stesso livello di vigilanza in relazione alla protezione e alla sicurezza dei dati di DFX. I dati dei clienti e/o le informazioni di contatto non vengono venduti da DFX in alcun modo.
@@ -139,9 +135,6 @@ Se lo scopo di pagamento richiesto non compare nell'ordine di pagamento, il dena
 Una transazione verso il DFX Wallet senza un percorso di acquisto precedentemente creato non sarà accettata da DFX e sarà immediatamente rimborsata al cliente. Eventuali spese bancarie sostenute saranno a carico del cliente. Al cliente possono essere addebitate anche le spese amministrative.
 
 DFX fornisce il proprio servizio nella misura dell'importo effettivamente ricevuto sul Portafoglio DFX. Le spese bancarie o le commissioni di transazione saranno a carico del cliente e saranno detratte direttamente dall'importo originariamente versato, a condizione che ciò non sia stato ancora fatto al momento della ricezione della transazione. Al cliente possono essere addebitate anche spese amministrative. DFX scambierà quindi il controvalore dell'importo effettivamente ricevuto meno eventuali commissioni bancarie o di transazione aggiuntive e meno le commissioni proprie di DFX (vedi sotto) nella criptovaluta desiderata. Lo scambio di criptovalute per il Bitcoin avviene tramite Kraken e per tutte le altre tramite Uniswap.
-
-Se il cliente ha pagato l'importo da cambiare in una valuta FIAT diversa dall'EUR, DFX cambierà prima questa valuta in EUR, il che potrebbe comportare ulteriori commissioni di cambio, che saranno anche detratte direttamente dall'importo pagato. 
-
 
 DFX precisa che l'acquisto può richiedere diversi giorni lavorativi prima che la criptovaluta desiderata arrivi nel portafoglio del cliente.
 

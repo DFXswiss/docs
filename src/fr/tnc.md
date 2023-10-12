@@ -48,10 +48,6 @@ Les clients reconnaissent que DFX peut enregistrer et analyser toutes les action
 
 DFX conservera ces informations pendant une période limitée, dans les conditions de sécurité appropriées. DFX ne transmettra pas les données personnelles à des tiers, sauf si DFX y est obligé par des dispositions légales et/ou réglementaires. Voir les détails sous Traitement des données des clients lors de transactions bancaires/de la blockchain.
 
-Le support technique de DFX est assuré par une tierce personne mandatée par DFX. En cas d'utilisation du support, les données à caractère personnel - telles que le nom d'utilisateur, le prénom et le nom de famille, l'adresse e-mail, le numéro de téléphone, l'adresse IP et les informations de paiement des clients - sont enregistrées par ce prestataire de services de support externe.
-
-Afin de pouvoir offrir un support client simple, des collaborateurs de support volontaires ont en outre accès à une certaine partie de la base de données (appelée données de transaction). Ces données concernent les transactions des utilisateurs et comprennent l'identifiant de la transaction, l'identifiant de l'utilisateur, l'adresse IBAN, le montant de la transaction, le code de référence, l'adresse de la chaîne de blocs ainsi que les informations de transaction correspondantes, y compris la confirmation de la transaction avec les détails de la transaction. Le prénom et le nom ainsi que d'autres données personnelles ne font pas partie de ces données.
-
 L'authentification des documents d'identité présentés par les clients dans le cadre de la procédure d'enregistrement est effectuée par une entreprise externe spécialisée. Par conséquent, cette entreprise a accès (exclusivement) à ces documents.
 
 D'autres prestataires externes nécessaires peuvent également avoir accès aux données des clients dans le cadre de la maintenance et de la gestion des processus actuels, de l'offre de produits et de services et de la base d'utilisateurs de DFX. Dans de tels cas, lorsque le recours à un fournisseur ou à des services externes est nécessaire, DFX veille à ce que le fournisseur externe fasse preuve du même niveau de vigilance en matière de protection et de sécurité des données que DFX. Les données des clients et/ou les informations de contact ne sont en aucun cas vendues par DFX.
@@ -142,7 +138,6 @@ DFX fournit ses services à hauteur du montant effectivement reçu sur le portef
 
 Dans la mesure où le client a versé le montant à changer dans une devise FIAT autre que l'EUR, DFX changera d'abord cette devise en EUR, des frais de change supplémentaires pouvant être facturés, qui seront également déduits directement du montant versé. 
 
-
 DFX attire l'attention sur le fait que l'achat peut prendre plusieurs jours ouvrables avant que la crypto-monnaie souhaitée n'arrive dans le portefeuille du client.
 
 Les frais de transaction des crypto-monnaies transmises au client sont inclus dans le prix de base. Les prix s'entendent en euros, en dollars américains ou en francs suisses, ou dans toute autre devise autorisée pour le paiement. [Pour les transactions de crypto à crypto, les prix sont indiqués dans la crypto-monnaie à changer]. De même, le prix comprend la taxe sur la valeur ajoutée suisse (ci-après : TVA), le cas échéant.
@@ -158,8 +153,6 @@ Frais de réseau liés à la création des itinéraires d'achat, DFX se réserve
 Le client doit procéder à l'exécution de la vente en respectant les instructions figurant sur la page de paiement / dans l'application. En cas d'indications non valables ou erronées, les fonds peuvent être perdus. Si un transfert est effectué vers le portefeuille DFX sans création préalable d'une route de vente correspondante ou si un transfert est effectué vers une adresse différente de celle indiquée par DFX, le montant transféré peut être perdu. DFX peut effectuer des recherches pour tenter de récupérer les crypto-monnaies perdues, mais n'est pas tenu de le faire. Ces recherches sont effectuées à la seule discrétion de DFX. Le Client doit prendre en charge les coûts d'une recherche, qui tiennent compte de la complexité technique et du temps nécessaire à la recherche.
 
 DFX fournit ses services à hauteur du montant effectivement reçu par elle sur le DFX-Wallet. Les frais bancaires ou les frais de transaction sont à la charge du client et sont directement déduits du montant initialement versé, si cela n'a pas encore été fait lors de la réception de la transaction. Le cas échéant, des frais administratifs sont également facturés au client. DFX convertit ensuite la contre-valeur du montant effectivement reçu dans la monnaie étrangère [ou la crypto-monnaie] souhaitée, après déduction des éventuels frais bancaires ou de transaction supplémentaires et des frais propres à DFX (voir ci-dessous).
-
-Si le client souhaite une autre monnaie de paiement que l'EUR, des frais de change supplémentaires peuvent être facturés, qui sont également déduits directement du montant versé. Le change de crypto-monnaie pour le bitcoin est effectué via Kraken et pour tous les autres via Uniswap.
 
 Une fois que l'itinéraire de vente a été établi, que le montant versé par le client dans ce contexte a été corrigé de tous les frais applicables, DFX vend les crypto-monnaies indiquées dans le cadre de l'itinéraire de vente pour son propre portefeuille au sens d'une transaction principale et transfère ensuite les monnaies étrangères [respectivement les crypto-monnaies converties] sur le compte [portefeuille/] indiqué par le client.
 

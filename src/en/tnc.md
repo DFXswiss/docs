@@ -40,10 +40,6 @@ Customers acknowledge that DFX may record and analyze all of its customers' acti
 
 DFX will store this information under appropriate security conditions for a limited period of time. DFX will not disclose personal data to third parties unless DFX is required to do so by law and/or regulation. See details under Handling customer data in bank/blockchain transactions.
 
-DFX's technical support is provided by a third party contracted by DFX. When using the support, the personal data - such as username, first and last name, email address, phone number, IP address and payment information of the customers - is stored by this third party support service provider.
-
-In order to be able to offer uncomplicated customer support, voluntary support staff also have access to a certain part of the database (so-called transaction data). This data relates to the transactions of the users and includes transaction ID, user ID, IBAN address, amount of the respective transaction, reference code, blockchain address as well as the corresponding transaction information including the transaction confirmation with the transaction details. The first name, last name and other personal data are not part of this data.
-
 The authentication of the identification documents submitted by customers as part of the registration process is performed by a specialized external company. Consequently, this company has access to (exclusively) these documents.
 
 Other necessary external providers may also have access to customer data as part of the maintenance and management of current processes, the product and service offering, and the DFX user base. In such cases where the use of an external provider or service is required, DFX will ensure that the external provider exercises the same level of vigilance with respect to privacy and data security as DFX does. Customer data and/or contact information is not sold by DFX in any way.
@@ -125,8 +121,6 @@ The customer shall execute the purchase by following the instructions in the DFX
 If the required payment purpose does not appear on the payment order, the money will be refunded to the corresponding customer. Bank fees will be charged to the customer, and an additional administrative fee may also be charged. A transaction to the DFX Wallet without a previously created purchase route will not be accepted by DFX and will be immediately refunded to the customer. Any bank charges incurred in the process will be borne by the customer. If necessary, administrative fees will also be charged to the customer.
 
 DFX provides its service to the extent of the amount actually received by it on the DFX Wallet. The bank charges or transaction fees shall be borne by the customer and shall be deducted directly from the amount originally paid in, provided that this had not yet been done when the transaction was received. If applicable, administrative fees will also be charged to the customer. DFX will then exchange the equivalent value of the amount actually received, minus any additional bank or transaction fees and minus DFX's own fees (see below), into the desired cryptocurrency. The cryptocurrency exchange for Bitcoin is done via Kraken and for all others via Uniswap.
-
-If the customer paid the amount to be exchanged in a FIAT currency other than EUR, DFX will first exchange this currency into EUR, whereby additional exchange fees may be incurred, which will also be deducted directly from the amount paid in.
 
 DFX points out that the purchase may take several business days until the desired cryptocurrency arrives in the customer's wallet.
 
