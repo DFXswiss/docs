@@ -192,6 +192,21 @@ Aperçu des frais à partir du 01.12.2022
 | Vente   | 1,99 %           | 2,49 %           |
 
 
+## Redevances minimales
+
+|           | Frais minimums |
+| --------- | -------------- |
+| Bitcoin   | 5 EUR          | 
+| Lightning | 0 EUR          | 
+| Ethereum  | 5 EUR          |  
+| Arbitrum  | 1 EUR          | 
+| Optimism  | 1 EUR          | 
+| Polygon   | 1 EUR          | 
+
+## frais supplémentaires pour la blockchain
+
+En plus des frais de DFX, il peut y avoir des frais de blockchain. Ces frais sont encourus afin de pouvoir payer la transaction de la blockchain. Les frais changent continuellement et sont affichés à l'utilisateur sur l'interface graphique lorsque l'achat est conclu. 
+
 ## Système de référence
 
 Notre programme de parrainage paie aux clients 0,25% sur le volume d'achat/d'investissement qui a été acheté par un nouveau client via le lien de parrainage du client.

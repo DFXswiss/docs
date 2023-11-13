@@ -178,7 +178,7 @@ Panoramica delle commissioni al 01.12.2022
 
 ### Commissioni DFX Investitori privati
 
-|         | Bitcoin          | Altro           |
+|         | Bitcoin          | Altro            |
 | ------- | ---------------- | ---------------- |
 | Acquisto| 0,99 %           | 1,49 %           |
 | Vendita | 1,49 %           | 2,49 %           |
@@ -186,10 +186,24 @@ Panoramica delle commissioni al 01.12.2022
 
 ### Commissioni DFX per i clienti aziendali
 
-|         | Bitcoin          | Altro           |
+|         | Bitcoin          | Altro            |
 | ------- | ---------------- | ---------------- |
 | Acquisto| 1,49 %           | 1,99 %           |
 | Vendita | 1,99 %           | 2,49 %           |
+
+## Tariffe minime
+
+
+| --------- | -------------- |
+| Bitcoin   | 5 EUR |
+| Lightning | 0 EUR |
+| Ethereum  | 5 EUR |    
+| Arbitrum  | 1 EUR |
+| Optimism  | 1 EUR |
+| Polygon   | 1 EUR |
+
+## commissione aggiuntiva per la blockchain
+Oltre alle commissioni DFX, può essere prevista una commissione per la blockchain. Questa commissione viene applicata per poter pagare la transazione blockchain. La tariffa varia continuamente e viene visualizzata dall'utente sull'interfaccia grafica al momento della conclusione dell'acquisto. 
 
 
 ## Sistema di referral
