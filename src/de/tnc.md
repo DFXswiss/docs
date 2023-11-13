@@ -195,12 +195,16 @@ Gebührenübersicht ab 01.12.2022
 
 |           | Mindestgebühr  |
 | --------- | -------------- |
-| Bitcoin   | 1 EUR          |
+| Bitcoin   | 5 EUR          |
 | Lightning | 0 EUR          |
 | Ethereum  | 5 EUR          |    
 | Arbitrum  | 1 EUR          |
 | Optimism  | 1 EUR          |
 | Polygon   | 1 EUR          |
+
+## zusätzliche Blockchain Gebühr
+
+Zusätzlich zu den DFX Gebühren kann es eine Blockchain Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
 ## Referral System
 
