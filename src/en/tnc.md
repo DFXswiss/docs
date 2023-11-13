@@ -174,6 +174,20 @@ Fee overview as of 01.12.2022
 | Purchase| 1,49 %           | 1,99 %           |
 | Sale    | 1,99 %           | 2,49 %           |
 
+## Minimum fees
+
+|           | Minimum fees  |
+| --------- | -------------- |
+| Bitcoin   | 5 EUR          |
+| Lightning | 0 EUR          |
+| Ethereum  | 5 EUR          |    
+| Arbitrum  | 1 EUR          |
+| Optimism  | 1 EUR          |
+| Polygon   | 1 EUR          |
+
+## additional blockchain fee
+In addition to the DFX fees, there may be a blockchain fee. This fee is incurred in order to be able to pay for the blockchain transaction. The fee changes continuously and is displayed to the user on the graphical user interface when the purchase is concluded. 
+
 ## Referral System
 Our referral program pays customers 0.25% on the purchase/investment volume purchased by a new customer through the customer's referral link.
 
