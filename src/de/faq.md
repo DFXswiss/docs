@@ -383,3 +383,7 @@ Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möc
    
 Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME.    
 Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter.   
+
+## Wie kann ich die DFX Services mittels Command Line verwenden?
+
+Du kannst dich auch mittels manueller eingabe von einer Blockchainadresse und passender Signatur bei DFX einloggen. Gehe dazu auf https://services.dfx.swiss/login und klicke aud "Command Line". Als erstes wirst du nach deiner Blockchain Adresse gefragt. Nach eingabe einer gültigen Blockchain Adresse erhältst du eine Nachricht zum signieren. Signiere diese Nachricht mit Deiner Wallet und trage die Signatur in das untere Feld ein. Mit Klick auf "Login" wird die Signatur geprüft und du wirst eingeloggt. 
