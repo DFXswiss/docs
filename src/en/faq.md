@@ -58,6 +58,10 @@ Copy the deposit address, go back to the DFX wallet and send the desired amount 
 You can connect the DFX BTC Taro wallet to your own LND hub. The condition is that your server meets all the requirements according to the DFX protocol. 
 
 Hint:
-There is currently no plug and play solution! If you run a LND hub as a hobby you will most likely not get it working. 
+There is currently no plug and play solution! If you run a LND hub as a hobby you will most likely not get it working. A plug and play solution is planned, but not yet available. 
 
 If you are interested in a professional solution and invest several days in setting up your own LND Hub and also have the necessary technical knowledge, then please contact our support. We are happy to help. 
+
+## How can I use the DFX services via Command Line?
+
+You can also log in to DFX by manually entering a blockchain address and a suitable signature. To do this, go to https://services.dfx.swiss/login and click on "Command Line". First you will be asked for your blockchain address. After entering a valid blockchain address, you will receive a message to sign. Sign this message with your wallet and enter the signature in the field below. Click on "Login" to verify the signature and you will be logged in. 
