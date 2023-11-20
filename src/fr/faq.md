@@ -408,4 +408,8 @@ Die Verkauf Funktion ist monentan leider noch nicht direkt in der App selbst ein
 3. Hier kann jetzt eine "Sell" Route angelegt werden, für den Verkauf von Bitcoin.
 4. Sobald diese Sell Route angelegt ist, erhältst du eine Blockcahin Deposit Adresse. Jedes mal wenn du auf diese Adresse Bitcoin sendest, erhältst du dafür Fiat auf deine hinterlegte IBAN ausgezahlt.
 5. Kopiere die Deposit Adresse, gehe zurück in die DFX Wallet und sende den gewünschten Betrag an diese Deposit Adresse. Fertig.
-6. Du wirst per E-Mail über den Stand des Verkaufs informiert. 
+6. Du wirst per E-Mail über den Stand des Verkaufs informiert.
+
+## Command Line Login
+
+You can also log in to DFX by manually entering a blockchain address and a suitable signature. To do this, go to https://services.dfx.swiss/login and click on "Command Line". First you will be asked for your blockchain address. After entering a valid blockchain address, you will receive a message to sign. Sign this message with your wallet and enter the signature in the field below. Click on "Login" to verify the signature and you will be logged in. 
