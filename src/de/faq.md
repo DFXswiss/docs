@@ -68,99 +68,6 @@ Es zählt das Kalenderjahr.
 
 Informationen zu unserem Umgang mit Kundendaten findest du in unseren [Datenschutzbestimmungen](https://docs.dfx.swiss/de/privacy.html).
 
-### Schritt-für-Schritt Anleitung KYC-Prozess
-
-Hier führen wir dich durch den Identifizierungsprozess (KYC = Know Your Customer) zur Erhöhung deines Limits. Dieser besteht aus mehreren Schritten.
-
-Rufe zuerst mit der DFX Wallet über "My DFX" deine persönliche DFX.swiss Paymentseite auf.
-
-<u>Achtung IOs Nutzer</u>: Stelle sicher, dass du für das anschließende Auto-Ident Safari als Standard Browser einstellst:
-
-<big>**Schritt 1: Benutzerdaten**</big>
-
-Bevor du dein Limit erhöhen kannst, musst du alle Benutzerdaten eingeben.
-
-Dazu auf den roten Pfeil für die Erhöhung des Einzahlungslimits klicken und zunächst die persönlichen Daten auf der Payment Seite eingegeben.
-
-<u>Tipp</u>: Kontrolliere nochmals deine Email-Adresse und die Rufnummer deines Mobiltelefons. Diese Angaben sind für die weiteren Schritte notwendig.
-
-<big>**Schritt 2: Limit erhöhen**</big>
-
-Nachdem du die persönlichen Daten auf der Payment Seite eingegeben hast, kannst du auf "Einzahlungslimit erhöhen" klicken. Dazu auf den roten Pfeil nach oben klicken.
-
-<big>**Schritt 3: Limit Legitimierung**</big>
-
-Hier wird dir per SMS ein Code an deine hinterlegte mobile Rufnummer gesendet (1. anfordern, 2. eingeben).
-Danach startet der Chatbot unseres KYC Dienstleisters (KYC Spider) auf der Paymentseite. Der Chatbot führt dich durch einige Fragen (z.B. wie viel man investieren will).
-Am Ende des Chats kannst du den Chatbot beenden.
-
-INFO: Dein DFX KYC Status ist nun in Bearbeitung (Chatbot).
-
-<big>**Schritt 4: Online Identifikation**</big>
-
-Es startet danach auf der Paymentseite das Online-Ident Verfahren, bei dem man seine Identität mit Hilfe eines gesetzlichen Ausweisdokuments belegt.
-
-**Wichtig:** Es werden nur Reisepass, ggf. Personalausweise im Schengenraum akzeptiert.
-
-INFO: Dein DFX KYC Status ist nun in Bearbeitung (Online-Identifikation).
-
-<u>Tipp</u>: Falls der Prozess nicht startet oder du nach einer Unterbrechung weitermachen möchtest, klicke bitte auf den roten "refresh" Pfeil
-
-<big>**Schritt 5: Video Identifikation**</big>
-
-Zu diesem Schritt wird man nur weitergeleitet, wenn das Online-Ident nicht erfolgreich war. Man startet durch das Anklicken des roten "refresh" Pfeil auf der Payment Seite einen Video Chat, wo eine reale Person die Identität überprüft. Auch hierzu wird ein gesetzliches Ausweisdokument benötigt.
-
-INFO: Dein DFX KYC Status ist nun in Bearbeitung (Video Identifikation).
-
-<big>**Schritt 6: Identifikation abgeschlossen**</big>
-
-Wenn das Ident Verfahren erfolgreich abgeschlossen ist, wird der Status auf "Verifizierung abgeschlossen" gesetzt. Auch bekommst du eine Bestätigungsmail von DFX.
-
-Von deiner Seite ist nichts mehr zu tun. Sobald DFX intern alles abgeschlossen hat, wird das Limit auf deiner Paymentseite automatisch angepasst.
-
-Falls höhere Jahresvolumen erwünscht sind, kann das Einzahlungslimit weiter erhöht werden, indem man den roten Pfeil in den Benutzerdaten klickt und den gewünschten Bereich für Einzahlungslimit auswählt. Optional ist auch möglich, eine Datei hochzuladen für Nachweise woher die erhöhte Summe zum Investieren stammt. Damit wird der Prozess für die Freigabeprüfung unter Umständen beschleunigt. Beantragen, bestätigen und DFX wird danach prüfen und dich kontaktieren.
-
-Vielen Dank für dein Vertrauen in DFX.
-Melde dich gerne bei weiteren Fragen und sende eine Nachricht an: [support@dfx.swiss](mailto:support@dfx.swiss)
-
-## Schritt-für-Schritt Anleitung KYC-Prozess/Onboarding Firmenkunden
-
-Firmenkunden liegen uns bei DFX besonders am Herzen, weshalb wir die Verifizierung innerhalb 24h garantieren. Dafür müssen folgende Schritte unternommen werden.
-
-<big>**Schritt 1: Firmen Wallet anlegen**</big>
-
-Zunächst muss das Unternehmen eine eigene DFX Wallet anlegen, die ausschließlich vom Unternehmen genutzt wird.
-
-Falls du bereits eine private Wallet nutzt, kannst du in deinem Portfolio eine zweite Adresse generieren, welche du dann für deine Firma verifizierst. Damit kannst du über dieselbe Wallet beide Adressen verwalten. Verwende auf keinen Fall die Mailadresse, die du für deine private Wallet nutzt, da das System deine neue Wallet sonst automatisch mit den vorhandenen KYC Daten koppelt.
-
-Rufe zuerst mit der DFX Wallet über "My DFX" deine persönliche DFX.swiss Paymentseite auf.
-
-<u>Achtung IOs Nutzer</u>: Stelle sicher, dass du für das anschließende AutoIdent Safari als Standard Browser vorher einstellst:
-
-<big>**Schritt 2: Benutzerdaten eintragen**</big>
-
-Bevor das Unternehmen verifiziert werden kann, müssen alle Benutzerdaten eingeben werden.
-
-Dazu auf den roten Pfeil für die Erhöhung des Einzahlungslimits klicken und zunächst die persönlichen Daten auf der Payment Seite eingegeben.
-
-WICHTIG: Als Account-Typ muss oben im Drop-Down Menü "Geschäftskonto" ausgewählt werden. Im Falle eines Einzelunternehmens, muss "Einzelunternehmen" ausgewählt werden. Bei den persönlichen Informationen, müssen die Daten eines Mitarbeiters oder des Inhabers des Unternehmens eingetragen werden, die weisungsbefugt sind. Bei der Sektion "Organisation" müssen dann noch die Daten der Firma eingetragen werden. Danach unten auf den Button "Speichern" klicken zur Übernahme der Daten.
-
-<u>Tipp</u>: Kontrolliere nochmals deine Email-Adresse und die Rufnummer deines Mobiltelefons. Diese Angaben sind für die weiteren Schritte notwendig.
-
-<big>**Schritt 3: Verifizierung starten**</big>
-
-Nachdem die persönlichen Daten auf der Payment Seite eingegeben worden sind, kann das Einzahlungslimit erhöht werden, welches den 1. Schritt der Verifizierung startet. Da ein Firmenaccount verifiziert wird und keine Privatperson, benötigen die Schweizer Behörden noch Dokumente, die die Weisungsbefugnis der verifizierten Person und die Inhaberstruktur der Firma bestätigen. Dies können z.B. ein Handelsregisterauszug, eine Kopie der Statuten bzw. Satzung des Unternehmens sein, welche im 1. Schritt hochgeladen werden können. Dazu einfach in den Benutzerdaten auf der Payment Seite auf den aufwärts gerichteten roten Pfeil klicken im Feld "Dein Limit" .
-
-<big>**Schritt 4: Chatbot ausfüllen**</big>
-
-Der 2. Schritt der Verifizierung ist ein Chatbot, bei dem verschiedene Fragen beantwortet werden müssen. Der Chatbot startet automatisch, nachdem das Firmen - Dokument erfolgreich hochgeladen worden ist.
-
-Die weiteren Schritte sind wie bei der Verifizierung der privaten Wallet. Siehe weiter oben.
-
-Vielen Dank für dein Vertrauen in DFX.
-
-Bei weiteren Fragen kannst du dich jederzeit an business@dfx.swiss wenden.
-
 ## Kaufprozess: FIAT -> Crypto
 
 DFX verarbeitet Transaktionen ab bestimmten Mindestbeträgen, die je nach Blockchain variieren.
@@ -224,37 +131,6 @@ Bist du dir unsicher, ob deine Bank SEPA Sofortüberweisungen anbietet?
 Über folgenden Link kannst du es prüfen: [eine IBAN validieren](https://www.iban-rechner.de/iban_validieren.html)
 
 Zur Info: Geldinstitute in der Schweiz bieten SEPA Instant kaum an.
-
-
-## Schritt-für-Schritt Anleitung - Verkaufen bei DFX
-
-<big>**SCHRITT 1: Payment-Seite**</big>
-
-Um auf die Payment-Seite zu gelangen, klickt man zunächst auf den "Kauf & Verkauf" Button in der Guthaben Ansicht der DFX Wallet, woraufhin sich ein Browserfenster öffnet und auf folgende Seite geleitet wird: [payment.dfx.swiss](https://payment.dfx.swiss). Dies wird in Zukunft alles nativ in der DFX App möglich sein!
-
-<big>**SCHRITT 2: Verkaufsrouten anlegen für den Verkauf von Crypto Assets auf der Payment-Seite**</big>
-
-Auf der Payment Seite angekommen, den roten "Verkaufen" Button anklicken, welcher sich unter den Benutzerdaten befindet.
-
-Wähle dann die gewünschte Währung (CHF oder EUR), die auf das Bankkonto ausgezahlt werden soll, aus.
-
-In das 2. Eingabefeld wird die IBAN eingetragen, auf die die verkauften DFI ausgezahlt werden sollen. Nach der Eingabe und Speicherung der gewünschten Währung und IBAN, wird eine Deposit Adresse generiert:
-
-<big>**SCHRITT 3: Generierte Deposit Adresse kopieren und DFI auf diese Adresse schicken**</big>
-
-Diese Deposit Adresse ist die Blockchain Adresse, auf die die Menge DFI geschickt wird, die der Nutzer verkaufen möchte. ACHTUNG: Derzeit können bei DFX nur DFI verkauft werden und KEINE anderen Kryptowährungen. Die Deposit Adresse kann einfach kopiert werden, indem man die Verkaufsroute noch einmal anklickt:
-
-Zudem werden noch einmal alle Details zu der jeweiligen Verkaufsroute angezeigt. Die kopierte Adresse befindet sich im Cache und kann beim Versenden der DFI in der DFX Wallet bei der Empfängeradresse einfach eingefügt werden:
-
-Nach dem Einfügen der Adresse und der Menge DFI, die verkauft werden soll, klickt man einfach auf den Button "Weiter" und bestätigt danach die Transaktion.
-Der Nutzer bekommt 3 Bestätigungsmails, die die einzelnen Schritte des Verkaufs dokumentieren:
-
-- Eine Mail, die bestätigt, dass das Asset von DFX empfangen worden ist.
-
-- Eine Mail, die den Verkauf des Assets bestätigt, inkl. aller Details zum Verkauf wie z.B. den Wechselkurs.
-
-- Eine Mail, die bestätigt, dass der Verkauf unser Bankkonto verlassen hat und sich auf dem Weg zum Bankkonto des Kunden befindet.
-
 
 # Referral-Programm
 
