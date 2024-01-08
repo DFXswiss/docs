@@ -90,9 +90,9 @@ Bei Blockchaintransaktionen von DFX an nicht self-hosted Wallets werden diese Da
 
 ## Benutzer-Registrierung
 
-Bevor die Finanzdienstleistungen von DFX genutzt werden können, muss sich der Kunde über die DFX-App beziehungsweise auf der Paymentseite registrieren. Die Registrierung ist kostenlos und führt nach Anerkennung der aktuellen Allgemeinen Geschäftsbedingungen zur Erstellung eines Nutzerprofils. Zudem wird eine non-custody wallet erstellt. DFX hat darauf keinen Zugriff, sondern nur der Kunde. Wenn sich ein Kunde registriert, hängen die Informationen und Dokumente, die der Kunde an DFX übermitteln muss, und der maximale Betrag, für den der Kunde Kryptowährungen kaufen oder verkaufen kann, von seiner Identifikationsstufe ab:
+Bevor die Finanzdienstleistungen von DFX genutzt werden können, muss sich der Kunde registrieren. Die Registrierung ist für Privatpersonen kostenlos und führt nach Anerkennung der aktuellen Allgemeinen Geschäftsbedingungen zur Erstellung eines Nutzerprofils. Wenn sich ein Kunde registriert, hängen die Informationen und Dokumente, die der Kunde an DFX übermitteln muss, und der maximale Betrag, für den der Kunde Kryptowährungen kaufen oder verkaufen kann, von seiner Identifikationsstufe ab:
 
-Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Angabe der E-Mail oder Telefonnummer des Kunden. Diese Registrierung gilt als Standard – light KYC (Know-your-Customer) – und erlaubt dem Kunden den Kauf/Verkauf von Kryptowährungen bis zum festgelegten Tageslimit, welches auf der persönlichen Paymentseite des Kunden ersichtlich ist. Übertragungen von Kryptowährungen an eine nicht verifizierte öffentliche Adresse werden nicht akzeptiert.
+Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Angabe der E-Mail oder Telefonnummer des Kunden. Diese Registrierung gilt als Standard – light KYC (Know-your-Customer) – und erlaubt dem Kunden den Kauf/Verkauf von Kryptowährungen bis zum festgelegten Tageslimit, welches auf der persönlichen Paymentseite des Kunden ersichtlich ist. 
 
 Für den Kauf/Verkauf von Kryptowährungen über dieses Tageslimits, bedarf es der detaillierteren Registrierung, welche als Erweiterter – voller KYC (Know-your-Customer) – Prozess gilt. Im Rahmen dieses Prozesses sind insbesondere folgende Informationen gegenüber DFX offenzulegen:
 
@@ -120,13 +120,13 @@ DFX kann jede Registrierung ohne Angabe von Gründen ablehnen, jeden registriert
 
 DFX behält sich das Recht vor, jede Registrierung ohne Angabe von Gründen abzulehnen sowie jeden registrierten Kunden auszuschliessen und die Geschäftsbeziehung zu beenden. Dieses Recht besteht explizit, wenn DFX im Rahmen ihrer Überprüfungen feststellt, dass ein Kunde auf einer FATF-Liste (schwarz oder grau) geführt wird, wegen einer Straftat oder im Zusammenhang mit einem Verwaltungsverfahren verurteilt respektive sanktioniert wurde, oder ein Straf- oder Verwaltungsverfahren gegen den Kunden hängig ist. Ferner behält sich DFX das Recht zur Beendigung der Geschäftsbeziehung auch vor, falls DFX aufgrund der Geschäftsbeziehung zum Kunden gegen zwingende Regularien, insbesondere auch Schweizer und internationale Sanktionsregulierungen, verstossen würde. Ebenso behält sich DFX in diesen Fällen das Recht vor, die Ausführung einer Transaktion abzulehnen.
 
-Gesperrte Kunden dürfen sich nicht erneut über die DFX-App beziehungsweise die Paymentseite registrieren. Falls sie dies dennoch tun, können diese Benutzer strafrechtlich verfolgt werden. Über die DFX- App beziehungsweise die Paymentseite können sich ausschliesslich natürliche oder juristische Personen registrieren.
+Gesperrte Kunden dürfen sich nicht erneut registrieren. Falls sie dies dennoch tun, können diese Benutzer strafrechtlich verfolgt werden. Es können sich ausschliesslich natürliche oder juristische Personen registrieren.
 
 Natürliche Personen müssen zudem handlungsfähig (urteilsfähig und mindestens 18 Jahre alt) sein. Personen unter 18 Jahren dürfen sich nicht auf der Website registrieren.
 
 Jedes Kundenprofil ist einzigartig, persönlich und nicht übertragbar. Die Einrichtung und Nutzung mehrerer Konten durch dieselbe Person ist verboten.
 
-Die Kunden können ihren Account jederzeit löschen respektive deaktivieren, indem sie eine Anfrage an den technischen Support von DFX stellen. DFX ist verpflichtet, Aufzeichnungen über Transaktionen zehn Jahre lang aufzubewahren. Dieser Zeitraum beginnt mit dem Ende der Ausführung der Transaktionen oder, wenn mehr als eine Transaktion ein Ganzes bildet, mit dem Ende der letzten Transaktion. Erst nach Ablauf dieser zehn Jahre Aufbewahrungsfrist wird das Konto schliesslich gelöscht.
+Die Kunden können ihren Account jederzeit im  My DFX Portal löschen respektive deaktivieren. DFX ist verpflichtet, Aufzeichnungen über Transaktionen zehn Jahre lang aufzubewahren. Dieser Zeitraum beginnt mit dem Ende der Ausführung der Transaktionen oder, wenn mehr als eine Transaktion ein Ganzes bildet, mit dem Ende der letzten Transaktion. Erst nach Ablauf dieser zehn Jahre Aufbewahrungsfrist wird das Konto schliesslich gelöscht.
 
 ## Prozess beim Kauf von Kryptowährungen
 
@@ -207,6 +207,10 @@ Gebührenübersicht ab 01.12.2022
 ## zusätzliche Blockchain Gebühr
 
 Zusätzlich zu den DFX Gebühren kann es eine Blockchain Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
+
+## zusätzliche Betreiber Gebühr
+
+Zusätzlich zu den DFX Gebühren kann es eine Betreiber Gebühr geben. Diese Gebühr fällt an, wenn die Finanzdienstleistungen in einer anderen Umgebung eingebaut wurden, und der Integrator ein eigene Gebühr verlangt. Zum Beispiel eine Integration in eine andere Blockchain Non Custodial Wallet. Die Gebühr wird in der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
 ## Referral System
 
