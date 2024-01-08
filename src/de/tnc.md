@@ -44,13 +44,15 @@ Die Kunden verpflichten sich, die Website sowie die Paymentseite in angemessener
 
 ## Allgemeiner Umgang mit kundenbezogenen Daten
 
-Die Kunden nehmen zur Kenntnis, dass DFX alle Aktionen ihrer Kunden auf DFX-eigenen Websites, APIs, Anwendungen und sonstigen Direktmarketing-Kampagnen zu Zwecken der Sicherheit, Systemüberwachung, Verwaltung, des Marketings und der Einhaltung der gesetzlichen und regulatorischen Anforderungen aufzeichnen und analysieren kann.
+Die Kunden nehmen zur Kenntnis, dass DFX alle Aktionen ihrer Kunden auf DFX-eigenen Websites, APIs, Anwendungen und sonstigen Direktmarketing-Kampagnen zu Zwecken der Sicherheit, Systemüberwachung, Verwaltung, des Marketings und der Einhaltung der gesetzlichen und regulatorischen Anforderungen aufzeichnen und analysieren kann. 
 
 DFX wird diese Informationen unter den entsprechenden Sicherheitsbedingungen für einen begrenzten Zeitraum speichern. DFX wird die personenbezogenen Daten nicht an Dritte weitergeben, ausser DFX ist hierzu aufgrund gesetzlicher und/oder regulatorischer Bestimmungen verpflichtet. Siehe Details unter Umgang mit Kundendaten bei Bank-/ Blockchaintransaktionen.
 
 Die Authentifizierung der von den Kunden im Rahmen des Registrierungsverfahrens eingereichten Ausweisdokumente wird von einem spezialisierten externen Unternehmen durchgeführt. Folglich hat dieses Unternehmen Zugriff auf (ausschliesslich) diese Dokumente.
 
 Weitere notwendige externe Anbieter können im Rahmen der Pflege und Verwaltung der aktuellen Prozesse, des Produkt- und Serviceangebotes sowie der DFX-Nutzerbasis ebenfalls Zugang zu Kundendaten erhalten. In solchen Fällen, in denen die Inanspruchnahme eines externen Anbieters oder Services erforderlich ist, stellt DFX sicher, dass der externe Anbieter dasselbe Mass an Wachsamkeit in Bezug auf Datenschutz und Datensicherheit walten lässt, wie es DFX tut. Kundendaten und/oder Kontaktinformationen werden von DFX in keiner Weise verkauft.
+
+DFX ist ein äusserst transparenter Blockchain Finanzdienstleider. DFX veröffentlicht alle Umsätze und alle Transaktionen auf der öffentlichen Blockchain von und zu DFX um eine maximale Transparenz zu schaffen und so dem Kunden das beste Produkt zu bieten. Die volle Transparenz aller Kundentransaktionen garantiert dass die Aktivitäten von DFX extern überwacht werden können und so keine versteckte Preise oder ähnliches von DFX praktiziert werden. Wir weisen darauf hin dass Nutzer welche sich dafür entscheiden die öffentliche Blockchain für Finanztransaktionen zu nutzen, ihre Transaktionen in einer öffentlichen nicht löschbaren Datenbank speichern. Es ist in der Verantwortung des Nutzers sicherzustellen, dass die Privatsphäre des Nutzers stehts geschützt bleibt. Die Blockchain Adressen und die Finanztransaktionen sind öffentlich, die Verbindung der Blockchain Adresse zum entsprechenden Eigentümer ist privat und sollte Privat bleiben. DFX veröffentlicht keine Informationen über die eigenen Kunden, bzw über die Eigentümer hinter den Blockchain Adressen. Aber DFX veröffentlicht Daten über die getätigten Blockchain Transaktionen sowie zu den entsprechenden Blockchain Adressen. So veröffentlicht DFX auch Informationen darüber ob eine bestimmte Blockchain Adresse Nutzer von DFX ist und wenn ja, ob es sich dabei um einen verifizierten Nutzer handelt oder nicht. DFX veröffentlicht aber nie Daten welche Rückschlüsse auf die Eigentümer eine Blockchain Adresse zulassen könnte. Weitere Details welche Daten zu öffentlichen Transaktionen von DFX zusätzlich veröffentlicht werden, finden sich in den nächsten Abschnitten. Bei Verständnisfragen zögern sie nicht, unseren Support anzufragen unter support@dfx.swiss.
 
 ## Umgang mit Transaktionsdaten
 
@@ -138,7 +140,6 @@ Eine Transaktion auf das DFX-Wallet ohne vorher erstellte Kaufroute wird von DFX
 DFX erbringt seine Dienstleistung im Umfang des bei ihr auf der DFX-Wallet tatsächlich eingegangenen Betrages. Die Bankgebühren respektive Transaktionsgebühren gehen zu Lasten des Kunden und werden direkt vom ursprünglich einbezahlten Betrag in Abzug gebracht, sofern dies beim Transaktionseingang noch nicht erfolgt war. Allenfalls werden dem Kunden auch Verwaltungsgebühren in Rechnung gestellt. DFX wechselt den Gegenwert des tatsächlich erhaltenen Betrags abzüglich allfälliger, zusätzlicher Bank- respektive Transaktionsgebühren und abzüglich der DFX-eigenen Gebühren (siehe weiter unten) anschliessend in die gewünschte Kryptowährung. Der Kryptowährungwechsel für Bitcoin wird über Kraken getätigt und für alle anderen über Uniswap.
 
 Sofern der Kunde den zu wechselnden Betrag in einer anderen FIAT-Währung als EUR leistete, wird DFX diese Währung zuerst in EUR wechseln, wobei zusätzlich Wechselgebühren anfallen können, welche ebenfalls direkt vom einbezahlten Betrag abgezogen werden. 
-
 
 DFX weist darauf hin, dass der Kauf mehrere Werktage dauern kann, bis die gewünschte Kryptowährung in der Wallet des Kunden eintrifft.
 
