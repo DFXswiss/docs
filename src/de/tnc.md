@@ -44,13 +44,15 @@ Die Kunden verpflichten sich, die Website sowie die Paymentseite in angemessener
 
 ## Allgemeiner Umgang mit kundenbezogenen Daten
 
-Die Kunden nehmen zur Kenntnis, dass DFX alle Aktionen ihrer Kunden auf DFX-eigenen Websites, APIs, Anwendungen und sonstigen Direktmarketing-Kampagnen zu Zwecken der Sicherheit, Systemüberwachung, Verwaltung, des Marketings und der Einhaltung der gesetzlichen und regulatorischen Anforderungen aufzeichnen und analysieren kann.
+Die Kunden nehmen zur Kenntnis, dass DFX alle Aktionen ihrer Kunden auf DFX-eigenen Websites, APIs, Anwendungen und sonstigen Direktmarketing-Kampagnen zu Zwecken der Sicherheit, Systemüberwachung, Verwaltung, des Marketings und der Einhaltung der gesetzlichen und regulatorischen Anforderungen aufzeichnen und analysieren kann. 
 
 DFX wird diese Informationen unter den entsprechenden Sicherheitsbedingungen für einen begrenzten Zeitraum speichern. DFX wird die personenbezogenen Daten nicht an Dritte weitergeben, ausser DFX ist hierzu aufgrund gesetzlicher und/oder regulatorischer Bestimmungen verpflichtet. Siehe Details unter Umgang mit Kundendaten bei Bank-/ Blockchaintransaktionen.
 
 Die Authentifizierung der von den Kunden im Rahmen des Registrierungsverfahrens eingereichten Ausweisdokumente wird von einem spezialisierten externen Unternehmen durchgeführt. Folglich hat dieses Unternehmen Zugriff auf (ausschliesslich) diese Dokumente.
 
 Weitere notwendige externe Anbieter können im Rahmen der Pflege und Verwaltung der aktuellen Prozesse, des Produkt- und Serviceangebotes sowie der DFX-Nutzerbasis ebenfalls Zugang zu Kundendaten erhalten. In solchen Fällen, in denen die Inanspruchnahme eines externen Anbieters oder Services erforderlich ist, stellt DFX sicher, dass der externe Anbieter dasselbe Mass an Wachsamkeit in Bezug auf Datenschutz und Datensicherheit walten lässt, wie es DFX tut. Kundendaten und/oder Kontaktinformationen werden von DFX in keiner Weise verkauft.
+
+DFX ist ein äusserst transparenter Blockchain Finanzdienstleider. DFX veröffentlicht alle Umsätze und alle Transaktionen auf der öffentlichen Blockchain von und zu DFX um eine maximale Transparenz zu schaffen und so dem Kunden das beste Produkt zu bieten. Die volle Transparenz aller Kundentransaktionen garantiert dass die Aktivitäten von DFX extern überwacht werden können und so keine versteckte Preise oder ähnliches von DFX praktiziert werden. Wir weisen darauf hin dass Nutzer welche sich dafür entscheiden die öffentliche Blockchain für Finanztransaktionen zu nutzen, ihre Transaktionen in einer öffentlichen nicht löschbaren Datenbank speichern. Es ist in der Verantwortung des Nutzers sicherzustellen, dass die Privatsphäre des Nutzers stehts geschützt bleibt. Die Blockchain Adressen und die Finanztransaktionen sind öffentlich, die Verbindung der Blockchain Adresse zum entsprechenden Eigentümer ist privat und sollte Privat bleiben. DFX veröffentlicht keine Informationen über die eigenen Kunden, bzw über die Eigentümer hinter den Blockchain Adressen, aber DFX veröffentlicht Daten über die getätigten Blockchain Transaktionen sowie zu den entsprechenden Blockchain Adressen. DFX veröffentlicht nie Daten welche Rückschlüsse auf die Eigentümer eine Blockchain Adresse zulassen könnten. Weitere Details welche Daten zu öffentlichen Transaktionen von DFX zusätzlich veröffentlicht werden, finden sich in den nächsten Abschnitten. Bei Verständnisfragen zögern sie nicht, unseren Support anzufragen unter support@dfx.swiss.
 
 ## Umgang mit Transaktionsdaten
 
@@ -61,8 +63,10 @@ Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informati
 - Output Asset
 - Output Amount
 - Transaction ID
+- Absender Adressen
+- Empfänger Adressen
 
-Diese Informationen lassen keinen direkten Rückschluss auf die Person zu, welche diese Transaktion ausgeführt hat. 
+Die Transaction ID lässt systembedingt einer öffentlichen Blockchain Rückschlüsse auf die involvierten Kundenadressen zu. Jedoch lassen diese Informationen keinen direkten Rückschluss auf die Person zu, welche diese Transaktion ausgeführt hat bzw welche hinter der öffentlichen Blockchain Adresse steht. 
 
 ## Umgang mit Kundendaten bei Banktransaktionen
 
@@ -88,9 +92,9 @@ Bei Blockchaintransaktionen von DFX an nicht self-hosted Wallets werden diese Da
 
 ## Benutzer-Registrierung
 
-Bevor die Finanzdienstleistungen von DFX genutzt werden können, muss sich der Kunde über die DFX-App beziehungsweise auf der Paymentseite registrieren. Die Registrierung ist kostenlos und führt nach Anerkennung der aktuellen Allgemeinen Geschäftsbedingungen zur Erstellung eines Nutzerprofils. Zudem wird eine non-custody wallet erstellt. DFX hat darauf keinen Zugriff, sondern nur der Kunde. Wenn sich ein Kunde registriert, hängen die Informationen und Dokumente, die der Kunde an DFX übermitteln muss, und der maximale Betrag, für den der Kunde Kryptowährungen kaufen oder verkaufen kann, von seiner Identifikationsstufe ab:
+Bevor die Finanzdienstleistungen von DFX genutzt werden können, muss sich der Kunde registrieren. Die Registrierung ist für Privatpersonen kostenlos und führt nach Anerkennung der aktuellen Allgemeinen Geschäftsbedingungen zur Erstellung eines Nutzerprofils. Wenn sich ein Kunde registriert, hängen die Informationen und Dokumente, die der Kunde an DFX übermitteln muss, und der maximale Betrag, für den der Kunde Kryptowährungen kaufen oder verkaufen kann, von seiner Identifikationsstufe ab:
 
-Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Angabe der E-Mail oder Telefonnummer des Kunden. Diese Registrierung gilt als Standard – light KYC (Know-your-Customer) – und erlaubt dem Kunden den Kauf/Verkauf von Kryptowährungen bis zum festgelegten Tageslimit, welches auf der persönlichen Paymentseite des Kunden ersichtlich ist. Übertragungen von Kryptowährungen an eine nicht verifizierte öffentliche Adresse werden nicht akzeptiert.
+Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Angabe der E-Mail oder Telefonnummer des Kunden. Diese Registrierung gilt als Standard – light KYC (Know-your-Customer) – und erlaubt dem Kunden den Kauf/Verkauf von Kryptowährungen bis zum festgelegten Tageslimit, welches auf der persönlichen Paymentseite des Kunden ersichtlich ist. 
 
 Für den Kauf/Verkauf von Kryptowährungen über dieses Tageslimits, bedarf es der detaillierteren Registrierung, welche als Erweiterter – voller KYC (Know-your-Customer) – Prozess gilt. Im Rahmen dieses Prozesses sind insbesondere folgende Informationen gegenüber DFX offenzulegen:
 
@@ -118,13 +122,13 @@ DFX kann jede Registrierung ohne Angabe von Gründen ablehnen, jeden registriert
 
 DFX behält sich das Recht vor, jede Registrierung ohne Angabe von Gründen abzulehnen sowie jeden registrierten Kunden auszuschliessen und die Geschäftsbeziehung zu beenden. Dieses Recht besteht explizit, wenn DFX im Rahmen ihrer Überprüfungen feststellt, dass ein Kunde auf einer FATF-Liste (schwarz oder grau) geführt wird, wegen einer Straftat oder im Zusammenhang mit einem Verwaltungsverfahren verurteilt respektive sanktioniert wurde, oder ein Straf- oder Verwaltungsverfahren gegen den Kunden hängig ist. Ferner behält sich DFX das Recht zur Beendigung der Geschäftsbeziehung auch vor, falls DFX aufgrund der Geschäftsbeziehung zum Kunden gegen zwingende Regularien, insbesondere auch Schweizer und internationale Sanktionsregulierungen, verstossen würde. Ebenso behält sich DFX in diesen Fällen das Recht vor, die Ausführung einer Transaktion abzulehnen.
 
-Gesperrte Kunden dürfen sich nicht erneut über die DFX-App beziehungsweise die Paymentseite registrieren. Falls sie dies dennoch tun, können diese Benutzer strafrechtlich verfolgt werden. Über die DFX- App beziehungsweise die Paymentseite können sich ausschliesslich natürliche oder juristische Personen registrieren.
+Gesperrte Kunden dürfen sich nicht erneut registrieren. Falls sie dies dennoch tun, können diese Benutzer strafrechtlich verfolgt werden. Es können sich ausschliesslich natürliche oder juristische Personen registrieren.
 
 Natürliche Personen müssen zudem handlungsfähig (urteilsfähig und mindestens 18 Jahre alt) sein. Personen unter 18 Jahren dürfen sich nicht auf der Website registrieren.
 
 Jedes Kundenprofil ist einzigartig, persönlich und nicht übertragbar. Die Einrichtung und Nutzung mehrerer Konten durch dieselbe Person ist verboten.
 
-Die Kunden können ihren Account jederzeit löschen respektive deaktivieren, indem sie eine Anfrage an den technischen Support von DFX stellen. DFX ist verpflichtet, Aufzeichnungen über Transaktionen zehn Jahre lang aufzubewahren. Dieser Zeitraum beginnt mit dem Ende der Ausführung der Transaktionen oder, wenn mehr als eine Transaktion ein Ganzes bildet, mit dem Ende der letzten Transaktion. Erst nach Ablauf dieser zehn Jahre Aufbewahrungsfrist wird das Konto schliesslich gelöscht.
+Die Kunden können ihren Account jederzeit im  My DFX Portal löschen respektive deaktivieren. DFX ist verpflichtet, Aufzeichnungen über Transaktionen zehn Jahre lang aufzubewahren. Dieser Zeitraum beginnt mit dem Ende der Ausführung der Transaktionen oder, wenn mehr als eine Transaktion ein Ganzes bildet, mit dem Ende der letzten Transaktion. Erst nach Ablauf dieser zehn Jahre Aufbewahrungsfrist wird das Konto schliesslich gelöscht.
 
 ## Prozess beim Kauf von Kryptowährungen
 
@@ -136,7 +140,6 @@ Eine Transaktion auf das DFX-Wallet ohne vorher erstellte Kaufroute wird von DFX
 DFX erbringt seine Dienstleistung im Umfang des bei ihr auf der DFX-Wallet tatsächlich eingegangenen Betrages. Die Bankgebühren respektive Transaktionsgebühren gehen zu Lasten des Kunden und werden direkt vom ursprünglich einbezahlten Betrag in Abzug gebracht, sofern dies beim Transaktionseingang noch nicht erfolgt war. Allenfalls werden dem Kunden auch Verwaltungsgebühren in Rechnung gestellt. DFX wechselt den Gegenwert des tatsächlich erhaltenen Betrags abzüglich allfälliger, zusätzlicher Bank- respektive Transaktionsgebühren und abzüglich der DFX-eigenen Gebühren (siehe weiter unten) anschliessend in die gewünschte Kryptowährung. Der Kryptowährungwechsel für Bitcoin wird über Kraken getätigt und für alle anderen über Uniswap.
 
 Sofern der Kunde den zu wechselnden Betrag in einer anderen FIAT-Währung als EUR leistete, wird DFX diese Währung zuerst in EUR wechseln, wobei zusätzlich Wechselgebühren anfallen können, welche ebenfalls direkt vom einbezahlten Betrag abgezogen werden. 
-
 
 DFX weist darauf hin, dass der Kauf mehrere Werktage dauern kann, bis die gewünschte Kryptowährung in der Wallet des Kunden eintrifft.
 
@@ -205,6 +208,10 @@ Gebührenübersicht ab 01.12.2022
 ## zusätzliche Blockchain Gebühr
 
 Zusätzlich zu den DFX Gebühren kann es eine Blockchain Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
+
+## zusätzliche Betreiber Gebühr
+
+Zusätzlich zu den DFX Gebühren kann es eine Betreiber Gebühr geben. Diese Gebühr fällt an, wenn die Finanzdienstleistungen in einer anderen Umgebung eingebaut wurden, und der Integrator ein eigene Gebühr verlangt. Zum Beispiel eine Integration in eine andere Blockchain Non Custodial Wallet. Die Gebühr wird in der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
 ## Referral System
 
