@@ -61,8 +61,10 @@ Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informati
 - Output Asset
 - Output Amount
 - Transaction ID
+- Absender Adressen
+- Empfänger Adressen
 
-Diese Informationen lassen keinen direkten Rückschluss auf die Person zu, welche diese Transaktion ausgeführt hat. 
+Die Transaction ID lässt systembedingt einer öffentlichen Blockchain Rückschlüsse auf die involvierten Kundenadressen zu. Jedoch lassen diese Informationen keinen direkten Rückschluss auf die Person zu, welche diese Transaktion ausgeführt hat bzw welche hinter der öffentlichen Blockchain Adresse steht. 
 
 ## Umgang mit Kundendaten bei Banktransaktionen
 
