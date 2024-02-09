@@ -72,3 +72,8 @@ If DFX requires a complete KYC, this will be explained in the e-mail sent to the
 
 - The amount of 1'000 per 24h was exceeded because several transactions were made. The time at which the money actually arrives at DFX is decisive for the time stamp. 
 - The sender has a name that appears on sanction or PEP lists. You can check whether this applies to you with this free tool: https://dilisense.com/en
+- The amount of CHF 50'000 per calendar year was exceeded.
+- Money was sent to our bank in Luxembourg. IBAN starting with LU. This bank offers SEPA Instant and only accepts funds from fully verified customers. 
+- The money was sent by a bank that is very often associated with fraud. (Very rare)
+
+The customer has 2 days to execute the KYC. As a rule, the KYC process only takes 5 minutes. If the customer decides against the KYC, or if the customer does not respond to the email from DFX, then the money will be returned to the customer in full after 2 days. 
