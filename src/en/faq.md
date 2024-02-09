@@ -65,3 +65,10 @@ If you are interested in a professional solution and invest several days in sett
 ## Command Line Login
 
 You can also log in to DFX by manually entering a blockchain address and a suitable signature. To do this, go to https://services.dfx.swiss/login and click on "Command Line". First you will be asked for your blockchain address. After entering a valid blockchain address, you will receive a message to sign. Sign this message with your wallet and enter the signature in the field below. Click on "Login" to verify the signature and you will be logged in. 
+
+## Why does DFX require a full KYC, even if I have sent less than CHF 1'000?
+
+If DFX requires a complete KYC, this will be explained in the e-mail sent to the customer. So the best way to find out more details is to read this email. In general, the reasons can be as follows:
+
+- The amount of 1'000 per 24h was exceeded because several transactions were made. The time at which the money actually arrives at DFX is decisive for the time stamp. 
+- The sender has a name that appears on sanction or PEP lists. You can check whether this applies to you with this free tool: https://dilisense.com/en
