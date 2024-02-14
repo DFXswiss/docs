@@ -148,13 +148,13 @@ Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparpla
 
 Im Bezahlprozess auf unserer [Payment Seite](https://payment.dfx.swiss/login) gibt es das Eingabefeld für den Referral-Link/-Code solange kein Code eingegeben wurde.
 
-## Was passiert, wenn mein/-e Freund/-in vergessen hat, seinen/ihren Referral-Link/-Code anzugeben? Kann ich trotzdem einen Referral-Bonus bekommen?
-
-Leider nein. Sollte es sich allerdings um einen Sparplan handeln, kann er oder sie deinen Referral-Code im nächsten Dauerauftrag für einen Sparplan im Verwendungszweck angeben, um einen Bonus zu bekommen.
-
 ## Gibt es ein Limit für die Anzahl der Empfehlungen, für die ich einen Bonus erhalten kann?
 
 Nein, wir möchten, dass du so viele Freunde wie möglich von unserem Service überzeugst. Beide Seiten profitieren vom Referral-Programm.
+
+## Gibt es Banken die das Einzahlen an DFX blockieren?
+
+Nach umserem Wissen blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX AG. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
 
 ## DFX Metamask Exchange
 
