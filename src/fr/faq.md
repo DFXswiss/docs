@@ -413,3 +413,17 @@ Die Verkauf Funktion ist monentan leider noch nicht direkt in der App selbst ein
 ## Command Line Login
 
 You can also log in to DFX by manually entering a blockchain address and a suitable signature. To do this, go to https://services.dfx.swiss/login and click on "Command Line". First you will be asked for your blockchain address. After entering a valid blockchain address, you will receive a message to sign. Sign this message with your wallet and enter the signature in the field below. Click on "Login" to verify the signature and you will be logged in. 
+
+## Quel est l'état de ma transaction ? Je n'ai pas reçu mes crypto-actifs.
+Si tu as effectué une transaction et que tu as des questions sur cette transaction parce que tu n'as pas encore reçu tes crypto-actifs, tu as les possibilités suivantes :
+- S'il s'agit d'une transaction bancaire, nous recommandons d'attendre impérativement 2 jours ouvrables. Les transactions bancaires sont généralement traitées en quelques heures, mais peuvent aussi prendre 3 jours dans des cas extrêmes. Nous recommandons donc d'attendre 2 jours avant de lancer une recherche.
+- Tu peux poser des questions dans le chat Telegram de l'IAD (https://t.me/DFXswiss). Les modérateurs y réagissent très rapidement aux demandes et peuvent généralement aider rapidement. Veuillez noter qu'aucun employé de l'IAD ne vous contactera par message privé ! Si un prétendu employé de l'IAD te contacte par message privé, il s'agit d'un escroc et non d'un véritable employé de l'IAD. Les employés de l'IAD ne t'écrivent que dans un groupe Telegram public ou dans un chat privé que tu as ouvert, mais jamais dans un chat privé que tu n'as pas ouvert toi-même !
+- Tu peux envoyer un e-mail à support (at) dfx.swiss. Il est important d'envoyer toutes les informations pertinentes concernant la transaction.
+
+## Quelles données doivent être envoyées dans une demande de support ?
+
+Pour les transactions bancaires :
+1. la référence du paiement. Le plus important est ta référence personnelle. Aussi appelé avis de paiement ou référence. C'est le plus important lors de l'admission au support. Il permet d'attribuer chaque transaction à un compte client correspondant et à l'actif d'achat souhaité. Sans ce motif d'utilisation, ta demande ne peut pas être traitée. La référence d'utilisation a le format suivant : xxxx-xxxx-xxxx et tu la trouves dans l'écran d'achat correspondant, juste en dessous de l'IBAN et du BIC.
+2. ton IBAN
+3. ton nom correct, qui est aussi celui de ton compte bancaire. 
+     
