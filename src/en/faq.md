@@ -77,3 +77,17 @@ If DFX requires a complete KYC, this will be explained in the e-mail sent to the
 - The money was sent by a bank that is very often associated with fraud. (Very rare)
 
 The customer has 2 days to execute the KYC. As a rule, the KYC process only takes 5 minutes. If the customer decides against the KYC, or if the customer does not respond to the email from DFX, then the money will be returned to the customer in full after 2 days. 
+
+## What is the status of my transaction? I have not received my crypto assets.
+If you have made a transaction and have questions about this transaction because you have not yet received the crypto assets, you have the following options:
+- If it was a bank transaction, we strongly recommend waiting 2 working days. Bank transactions are usually processed within a few hours, but in extreme cases can take up to 3 days. We therefore recommend waiting 2 days before starting a follow-up enquiry.
+- You can ask in the DFX Telegram chat https://t.me/DFXswiss. The moderators there respond very quickly to enquiries and can usually help quickly. Please note that a DFX employee will never write to you via private message! If a supposed DFX employee writes to you via private message, then it is a scammer and not a real DFX employee. DFX employees will only write to you in a public Telegram group or in a private chat that was started and opened by you, but never in a private chat that was not started by you!
+- You can write an e-mail to support (at) dfx.swiss. It is important to include all relevant information about the transaction.
+
+## Which data must be included in a support request?
+
+For bank transactions:
+1. the purpose of use. The most important thing in your personal purpose of use. Also called payment notification or reference. This is the most important information when contacting support. It is used to assign each transaction to a corresponding customer account and the desired purchase asset. Your enquiry cannot be processed without this reference. The reference has the following format: xxxx-xxxx-xxxx-xxxx and you will find it in the corresponding purchase screen directly below the IBAN and BIC.
+2. your IBAN
+3. your correct name, which is also the name of your bank account. 
+     
