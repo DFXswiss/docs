@@ -263,3 +263,17 @@ Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe htt
 ## Command Line Login
 
 Du kannst dich auch mittels manueller eingabe von einer Blockchainadresse und passender Signatur bei DFX einloggen. Gehe dazu auf https://services.dfx.swiss/login und klicke aud "Command Line". Als erstes wirst du nach deiner Blockchain Adresse gefragt. Nach eingabe einer gültigen Blockchain Adresse erhältst du eine Nachricht zum signieren. Signiere diese Nachricht mit Deiner Wallet und trage die Signatur in das untere Feld ein. Mit Klick auf "Login" wird die Signatur geprüft und du wirst eingeloggt. 
+
+## Wie ist der Stand meiner Transaktion? Ich habe meine Crypto Assets nicht erhalten.
+Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast, weil du die Crypto Assets noch nicht erhalten hast, dann hast du folgende Möglichkeiten:
+- Wenn es eine Banktransaktion war, empfehlen wir zwingend 2 Arbeitstage abzuwarten. Banktransaktionen werden in der Regel innert weniger Stunden verarbeitet, können im Extremfall aber auch einmal 3 Tage benötigen. Wir empfehlen also zuerst 2 Tage abzuwarten, bevor eine Nachvorschung gestartet wird.
+- Du kannst im DFX Telegram Chat https://t.me/DFXswiss nachfragen. Die Moderatoren reagieren dort sehr schnell auf Anfragen und können meistens rasch helfen. Bitte beachte, dass dich nie ein DFX Mitarbeiter per Privater Nachricht anschreiben wird! Wenn dich ein vermeintlicher DFX Mitarbeiter per private nachricht anschreibt, dann ist es ein Betrüger und kein echter DFX Mitarbeiter. DFX Mitarbeiter schreiben Dir nur in öffentlichen Telegram Gruppe oder nur in einem Privaten Chat, der von Dir begonnen und eröffnet wurde, niemals aber in einam privaten Chat der nicht von Dir selbst gestartet wurde!
+- Du kannst eine E-Mail an support (at) dfx.swiss schreiben. Es ist wichtig alle relevanten Informationen zur Transaktion mitzusenden.
+
+## Welche Daten müssen in einer support Anfrage mitgesendet werden?
+
+Bei Banktransaktionen:
+1. der Verwendungszweck. Das wichtigste in dein persönlicher Verwendungszweck. Auch Zahlungsmitteilung oder Reference genannt. Dieser ist das wichtigste bei der Aufnahme zum Support. Darüber wird jede Transaktion einem entsprechenden Kundenkonto und dem gewünschten Kauf Asset zugeordnet. Ohne diesen Verwendugnszweck kann deine Anfrage nicht bearbeitet werden. Der Verwendungszweck hat folgendes Format: xxxx-xxxx-xxxx und du findest ihn im ensprechenden Kaufscreen direkt unterhalb der IBAN und der BIC.
+2. Deine IBAN
+3. Dein korrekter Name auf den auch dein Bankkonto lautet. 
+     
