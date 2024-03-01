@@ -424,6 +424,8 @@ Si tu as effectué une transaction et que tu as des questions sur cette transact
 
 Pour les transactions bancaires :
 1. la référence du paiement. Le plus important est ta référence personnelle. Aussi appelé avis de paiement ou référence. C'est le plus important lors de l'admission au support. Il permet d'attribuer chaque transaction à un compte client correspondant et à l'actif d'achat souhaité. Sans ce motif d'utilisation, ta demande ne peut pas être traitée. La référence d'utilisation a le format suivant : xxxx-xxxx-xxxx et tu la trouves dans l'écran d'achat correspondant, juste en dessous de l'IBAN et du BIC.
-2. ton IBAN
-3. ton nom correct, qui est aussi celui de ton compte bancaire. 
+<img width="675" alt="Bildschirmfoto 2024-03-01 um 17 30 46" src="https://github.com/DFXswiss/docs/assets/142087526/272d5611-be70-44bf-9ade-24d128e873ce">
+
+3. ton IBAN
+4. ton nom correct, qui est aussi celui de ton compte bancaire. 
      
