@@ -274,6 +274,8 @@ Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast
 
 Bei Banktransaktionen:
 1. der Verwendungszweck. Das wichtigste in dein persönlicher Verwendungszweck. Auch Zahlungsmitteilung oder Reference genannt. Dieser ist das wichtigste bei der Aufnahme zum Support. Darüber wird jede Transaktion einem entsprechenden Kundenkonto und dem gewünschten Kauf Asset zugeordnet. Ohne diesen Verwendugnszweck kann deine Anfrage nicht bearbeitet werden. Der Verwendungszweck hat folgendes Format: xxxx-xxxx-xxxx und du findest ihn im ensprechenden Kaufscreen direkt unterhalb der IBAN und der BIC.
-2. Deine IBAN
-3. Dein korrekter Name auf den auch dein Bankkonto lautet. 
+<img width="675" alt="Bildschirmfoto 2024-03-01 um 17 30 46" src="https://github.com/DFXswiss/docs/assets/142087526/272d5611-be70-44bf-9ade-24d128e873ce">
+
+3. Deine IBAN
+4. Dein korrekter Name auf den auch dein Bankkonto lautet. 
      
