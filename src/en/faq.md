@@ -88,6 +88,8 @@ If you have made a transaction and have questions about this transaction because
 
 For bank transactions:
 1. the purpose of use. The most important thing in your personal purpose of use. Also called payment notification or reference. This is the most important information when contacting support. It is used to assign each transaction to a corresponding customer account and the desired purchase asset. Your enquiry cannot be processed without this reference. The reference has the following format: xxxx-xxxx-xxxx and you will find it in the corresponding purchase screen directly below the IBAN and BIC.
-2. your IBAN
-3. your correct name, which is also the name of your bank account. 
+<img width="675" alt="Bildschirmfoto 2024-03-01 um 17 30 46" src="https://github.com/DFXswiss/docs/assets/142087526/272d5611-be70-44bf-9ade-24d128e873ce">
+
+3. your IBAN
+4. your correct name, which is also the name of your bank account. 
      
