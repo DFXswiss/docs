@@ -87,7 +87,7 @@ If you have made a transaction and have questions about this transaction because
 ## Which data must be included in a support request?
 
 For bank transactions:
-1. the purpose of use. The most important thing in your personal purpose of use. Also called payment notification or reference. This is the most important information when contacting support. It is used to assign each transaction to a corresponding customer account and the desired purchase asset. Your enquiry cannot be processed without this reference. The reference has the following format: xxxx-xxxx-xxxx-xxxx and you will find it in the corresponding purchase screen directly below the IBAN and BIC.
+1. the purpose of use. The most important thing in your personal purpose of use. Also called payment notification or reference. This is the most important information when contacting support. It is used to assign each transaction to a corresponding customer account and the desired purchase asset. Your enquiry cannot be processed without this reference. The reference has the following format: xxxx-xxxx-xxxx and you will find it in the corresponding purchase screen directly below the IBAN and BIC.
 2. your IBAN
 3. your correct name, which is also the name of your bank account. 
      
