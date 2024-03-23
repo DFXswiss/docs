@@ -1,5 +1,6 @@
-# Terms of Service
+# Terms of use
 
+--> Text wird noch angepasst auf Frankencoin
 Toshi Holdings Pte. Ltd (“Toshi Holdings” or “we” or “us” or “our”) makes available to users certain software services accessible via a mobile device application, including the Toshi Wallet (commonly known as Coinbase Wallet) (the “App”). Toshi Holdings is a wholly owned subsidiary of Coinbase Global, Inc. The App enables users to (i) store digital assets; (ii) access a digital asset browser and link to third party decentralized exchanges (“DEXs”) and third party decentralized applications (together with DEXs, collectively “Dapp(s)”); (iii) view addresses and information that are part of digital asset networks and broadcast transactions; (iv) participate in retail DEX trades and associated DEX activity; and (v) additional functionality as Toshi Holdings may add to the App from time to time (collectively the “Services”). Toshi Holdings developed these Terms of Service (these “Terms”) to describe the terms that govern your use of all versions of the App and the Services. These terms and additional information about the App can be found at https://www.coinbase.com/wallet (the “Site”).
 
 Agreement to Terms
