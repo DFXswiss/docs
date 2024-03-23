@@ -24,6 +24,7 @@ module.exports = {
       {
         text: "English",
         link: "/en/",
+      }
       {
         text: "DFX.swiss",
         link: "https://dfx.swiss",
