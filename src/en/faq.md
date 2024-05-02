@@ -91,5 +91,15 @@ For bank transactions:
 <img width="675" alt="Bildschirmfoto 2024-03-01 um 17 30 46" src="https://github.com/DFXswiss/docs/assets/142087526/272d5611-be70-44bf-9ade-24d128e873ce">
 
 3. your IBAN
-4. your correct name, which is also the name of your bank account. 
-     
+4. your correct name, which is also the name of your bank account.
+
+## Transaction overview for Cake Wallet users
+
+Cake Wallet users who have purchased crypto assets via DFX can view all transactions made. The following steps are necessary for this:
+1. open the Cake Wallet
+2. select the corresponding wallet
+3. click on Buy
+4. select DFX.swiss
+5. click on Menu in the top right corner
+6. select transactions
+All transactions made and their status will then be displayed. 
