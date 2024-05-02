@@ -279,3 +279,16 @@ Bei Banktransaktionen:
 3. Deine IBAN
 4. Dein korrekter Name auf den auch dein Bankkonto lautet. 
      
+## Transaktionsübersicht für Cake Wallet-Benutzer
+
+Cake Wallet Nutzer, die Krypto Assets über DFX erworben haben, können alle getätigten Transaktionen einsehen. Dazu sind folgende Schritte notwendig:
+1. Öffnen Sie die Cake Wallet
+2. Wählen Sie die entsprechende Wallet aus
+3. klicken Sie auf Kaufen
+4. wählen Sie DFX.swiss
+5. klicken Sie auf Menü in der oberen rechten Ecke
+6. wählen Sie Transaktionen
+
+Alle getätigten Transaktionen und deren Status werden dann angezeigt. 
+In der Transaktionsübersicht ist es auch möglich nicht zugeordnete Transaktionen manuell nachträglich zuzuordnen. 
+Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der „Meine Transaktion felht“ Button benutzt werden. 
