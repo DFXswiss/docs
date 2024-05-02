@@ -102,4 +102,7 @@ Cake Wallet users who have purchased crypto assets via DFX can view all transact
 4. select DFX.swiss
 5. click on Menu in the top right corner
 6. select transactions
-All transactions made and their status will then be displayed. 
+
+All completed transactions and their status are then displayed. 
+In the transaction overview, it is also possible to assign unassigned transactions manually at a later date. 
+If a specific transaction cannot be found, the "my transaction is missing" button should be used. 
