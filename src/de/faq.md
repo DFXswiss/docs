@@ -60,6 +60,15 @@ Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, w
 
 Sobald du die o.g. Freigrenze überschreitest, wird ein KYC-Prozess erforderlich. Nach der ersten erfolgreichen Transaktion gibt es in der App die Möglichkeit, die persönliche Verifizierung (KYC) vorzunehmen. Falls der KYC nach Überschreitung des Limits nicht abgeschlossen wird, retourniert DFX die Transaktion nach Ablauf von 7 Tagen automatisch.
 
+## Was bedeuten die verschiedenen KYC-Level?
+
+Das KYC-Level eines Nutzers steigt, je mehr Daten DFX von diesem Nutzer erhalten hat. Nachfolgend ist eine Erklärung der verschiedenen Level:
+- Level 10: Kontaktdaten erfasst (Mail)
+- Level 20: Persönliche Daten erfasst (Kontotyp, Name, Adresse, Telefonnummer)
+- Level 30: Erfolgreiche Identifizierung mit Personalausweis oder Reisepass
+- Level 40: Finanzieller Hintergrund abgefragt (Einkommen, Vermögen, Geschäftstätigkeit)
+- Level 50: Risikoanalyse durchgeführt (Beginn der Geschäftsbeziehung zwischen DFX und dem Nutzer)
+
 ### Zählt für die Jahresobergrenze, bei der man KYC frei investieren kann, das Kalenderjahr oder ein Jahr ab meiner ersten Überweisung?
 
 Es zählt das Kalenderjahr.
