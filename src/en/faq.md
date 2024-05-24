@@ -20,6 +20,14 @@ Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, F
 ## What happens if I exceed my individual trading limit?
 Once you exceed the above limit, a KYC process is required. After the first successful transaction, there is an option in the app to complete the personal verification (KYC). If the KYC is not completed after exceeding the limit, DFX will automatically return the transaction after 7 days.
 
+## What do the different KYC levels mean?
+The KYC level of a user increases the more data DFX has received from this user. Below is an explanation of the different levels:
+- Level 10: Contact data recorded (mail)
+- Level 20: Personal data recorded (account type, name, address, telephone number)
+- Level 30: Successful identification with identity card or passport
+- Level 40: Financial background queried (income, assets, business activity)
+- Level 50: Risk analysis carried out (start of business relationship between DFX and the user)
+
 ## Why should I use a wallet with RFB support?
 We strongly recommend that you only use wallets with RBF support. It is necessary to use a wallet format that corresponds to BIP84 Bech32 Native or newer. If you use an older format in the BTC Taro wallet, for example, a warning will be displayed. This means that we recommend that you switch to a newer wallet. Bitcoin transactions must be recorded in the Bitcoin blockchain by a miner. If you have selected too low a fee for the transaction, it is possible that no miner will be found to add your transaction to the blockchain. In such a case, you can use RFB to increase the fee so that the transaction is still included in the blockchain. You also have the option of cancelling a transaction with RBF as long as it has not yet been added to the blockchain. So if you use a wallet with the older format that does not support RBF, you run the risk of making a transaction that will not be included in the blockchain by the miners. Without RBF, this money is then blocked and you can neither cancel nor accelerate the transaction, which can be very unpleasant. We therefore recommend using only RBF-capable wallets. If you have an outdated wallet without funds, you can delete the wallet and simply create a new wallet, which then automatically corresponds to the new format. Nevertheless, make sure that you have a backup. If you have a Bitcoin balance on the existing ‘non-RBF capable wallet’, then the easiest way is to set up a new wallet using the BTC Taro app on another device, and then transfer the Bitcoin from the existing wallet to the new wallet. When transferring, make sure that you select enough fee! A good overview can be found at https://mempool.space/. 
 
