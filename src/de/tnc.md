@@ -70,7 +70,7 @@ Die Transaction ID lässt systembedingt einer öffentlichen Blockchain Rückschl
 
 ## Umgang mit Kundendaten bei Banktransaktionen
 
-Bei der Ausführung von Transaktionen werden automatisch Kundendaten mit der Transaktion mitgesendet. Konkret werden bei Banktransaktionen in der Regel folgende Informationen von der Absenderbank an die Empfänderbank übermittelt:
+Bei der Ausführung von Transaktionen werden automatisch Kundendaten mit der Transaktion mitgesendet. Konkret werden bei Banktransaktionen in der Regel folgende Informationen von der Absenderbank an die Empfängerbank übermittelt:
 
 - Name des Absenders und des Empfängers
 - Anschriftsadresse des Absenders und des Empfängers
