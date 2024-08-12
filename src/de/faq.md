@@ -4,23 +4,23 @@ Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 
 ## Wo erhalte ich bei Fragen Unterstützung?
 
-DFX bietet auf unterschiedliche Weise Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
+DFX bietet auf unterschiedlichen Weisen Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
 Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu nehmen, da wir auf diesem Wege die schnellste Bearbeitung garantieren können. 
-Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: support@dfx.swiss
+Tritt dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: support@dfx.swiss
 
 ## Was genau beinhaltet der Service von DFX?
 
-DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit Privat- & Firmenkunden Crypto Währungen zu kaufen und zu verkaufen. Wir arbeiten daran unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/).
+DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit Privat- & Firmenkunden Crypto Währungen zu kaufen und zu verkaufen. Wir arbeiten daran, unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/).
 
 ## Ist DFX reguliert? Was bedeutet das für mich?
 
 Ja. Die Regulierung kann [hier](https://www.finma.ch/de/bewilligung/selbstregulierungsorganisationen-sro/sro-mitglieder-suche/) abgerufen werden.
-Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du den KYC bereits abgeschlossen hast.
-Wir sind ausserdem verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
+Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Diese beinhalten unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung (KYC) notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC-Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du diesen Prozess bereits abgeschlossen hast.
+Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Dies umfasst beispielsweise den gleichzeitigen Kauf und Verkauf von Crypto.
 
 ## Inwiefern hat DFX Zugriff auf mein Geld?
 
-DFX hat nur während des Kaufs/ Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine non-custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
+DFX hat nur während des Kaufs/Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine non-custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
 
 ## Welche Länder werden durch DFX bedient?
 
@@ -28,14 +28,14 @@ Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einsc
 
 ## Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei DFX getätigt habe?
 
-Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch fürs Finanzamt verwenden.
+Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch für das Finanzamt verwenden.
 
 Dazu kannst du auf der Payment Seite unter **Transaktionshistorie** in zwei Varianten auswählen.
 
 - csv-Format als Download (Cointracking kompatibel) und
 - API für Cointracking (nur Lesen)
 
-Wichtig: Pop Up Blocker deaktivieren!
+Wichtig: Pop-Up-Blocker deaktivieren!
 
 
 ## Ist der Service auch für Unternehmenskunden verfügbar?
@@ -44,14 +44,14 @@ Ja.
 
 ### Warum meldet sich meine Bank bei mir?
 
-Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
+Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften vermutet werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit sie die Zahlung freigibt.
 
 ## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Crypto Verkäufe, was muss ich tun?
-Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir die Auszahlung auf dein Bankkonto perfekt vorzubereiten um keine Probleme zu bekommen. Melde dich dazu einfach an support (at) dfx.swiss
+Gerne helfen wir dir dabei und unterstützen dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen die Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach bei support (at) dfx.swiss
 
 ### Welche Währungen werden von unserem Service unterstützt?
 
-Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: [support@dfx.swiss](mailto:support@dfx.swiss)
+Wir akzeptieren CHF und EUR. Bei Transaktionen, die CHF 50'000 überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: [support@dfx.swiss](mailto:support@dfx.swiss)
 
 
 ## Nutzer-relevante Fragen & KYC-Prozess
@@ -97,7 +97,7 @@ Die Gebühren bei DFX findest du in unseren AGB unter diesem [Link](https://docs
 
 ### Wie kann ich Fiatgeld an DFX überweisen?
 
-Eine Überweisung tätigst du ja, um in ein DeFi-Asset zu investieren. Dazu kannst du unsere [Paymentseite](https://payment.dfx.swiss/login) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
+Eine Überweisung tätigst du, um in ein DeFi-Asset zu investieren. Dazu kannst du unsere [Paymentseite](https://payment.dfx.swiss/login) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
 
 ### Wie richte ich eine Aufteilung der Investition in den verschiedenen Assets ein, wenn ich Einzahlungen via Dauerauftrag bei der Hausbank tätige?
 
@@ -109,10 +109,10 @@ Ja, sobald diese von uns erworben sind, werden sie direkt und automatisch von un
 
 ### Welcher Wechselkurs wird beim Kauf verwendet?
 
-Wir können nur den Wechselkurs gewährleisten, den wir in dem Moment bekommen, in welchem wir den Transfer durchführen. Das wird immer so schnell wie möglich nach deiner Einzahlung sein und immer innerhalb eines Arbeitstages nach Erhalt des Geldes. Daraus ergibt sich für dich mal ein Vorteil (bei geringeren Kursen) und mal ein Nachteil (bei höheren Kursen). Wenn du allerdings einen Sparplan laufen hast, sind die Schwankungen durch regelmäßige Ausführung vernachlässigbar. Wir geben den erhaltenen Wechselkurs 1 zu 1 an dich weiter zzgl. den Gebühren.
+Wir können nur den Wechselkurs gewährleisten, den wir in dem Moment bekommen, in welchem wir den Transfer durchführen. Das wird immer so schnell wie möglich nach deiner Einzahlung sein, beziehungsweise spätestens innerhalb eines Arbeitstages nach Erhalt des Geldes. Daraus kann sich für dich manchmal ein Vorteil (bei geringeren Kursen) und manchmal ein Nachteil (bei höheren Kursen). Wenn du allerdings einen Sparplan am laufen hast, sind die Schwankungen durch regelmässige Ausführung vernachlässigbar. Wir geben den erhaltenen Wechselkurs 1 zu 1 an dich weiter zzgl. den Gebühren.
 
 ### Warum verlangt meine Bank Gebühren für SEPA Transaktionen in die Schweiz? 
-SEPA ist ein Zahlungsnetzwerk, in welchem Transaktionen kostenlos abgewickelt werden können. Einige wenige Banken (z.B. Bank Austria) halten sich nicht an diese Vereinbarung und verlangen trotzdem Gebühren für SEPA Transaktionen in die Schweiz. Das ist äusserst kundenunfreundlich und wir empfehlen den betroffenen Personen den Wechsel zu einer anderen Bank in Betracht zu ziehen. Alternativ besteht auch die Möglichkeit das Geld zuerst zu einer normalen Bank zu transferieren und danach an DFX zu übertragen. Bei Banken wie zum Beispiel Revolut funktionieren Transaktionen meistens sehr zuverlässig.
+SEPA ist ein Zahlungsnetzwerk, in welchem Transaktionen kostenlos abgewickelt werden können. Einige wenige Banken (z.B. Bank Austria) halten sich nicht an diese Vereinbarung und verlangen trotzdem Gebühren für SEPA Transaktionen in die Schweiz. Das ist äusserst kundenunfreundlich und wir empfehlen den betroffenen Personen den Wechsel zu einer anderen Bank in Betracht zu ziehen. Alternativ besteht auch die Möglichkeit, das Geld zuerst zu einer normalen Bank zu transferieren und danach an DFX zu übertragen. Bei Banken wie Revolut funktionieren Transaktionen in der Regel sehr zuverlässig.
 
 ### Werden Echtzeittransaktionen unterstützt?
 Ja, mit abgeschlossenem KYC können per SEPA Instant Käufe durchgeführt werden. Die Verarbeitung dauert dadurch wenige Minuten.
@@ -145,11 +145,11 @@ Zur Info: Geldinstitute in der Schweiz bieten SEPA Instant kaum an.
 
 ## Gibt es ein Affiliate-Program und wie funktioniert es?
 
-Ja, haben wir und du kannst dir über deinen Affiliate-/Referral-Link ein zusätzliches passives Einkommen aufbauen.
+Ja, und du kannst dir über deinen Affiliate-/Referral-Link ein zusätzliches passives Einkommen aufbauen.
 
 Unser Referral Programm zahlt Kunden 0.25% auf das Kauf-/Investitionsvolumen, welches über den Referral Link des Kunden von einem neuen Kunden gekauft worden ist. Werden Käufe anstelle von Fiat-Währung mit Bitcoin bezahlt, beträgt die Ref-Rendite 0.1%.
 
-! Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Referral-Programm handelt.
+! Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Weiterempfehlungsprogramm handelt.
 
 Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen DeFi-Assets verwendet wird, bekommst du 0,5% des Transaktionsvolumens wöchentlich ausbezahlt.
 
@@ -169,7 +169,7 @@ Nach umserem Wissen blockiert die Sparkasse in Deutschland systematisch alle Tra
 
 ### Wie kann ich meine Tel Nummer nachträglich ändern?
 
-Öffne [exchange.DFX.swiss](https://exchange.DFX.swiss)
+Ja, öffne hierfür [exchange.DFX.swiss](https://exchange.DFX.swiss)
 
 Klicke auf "My DFX" --> Klicke auf das Zahnrad --> Ändere die Tel Nummer und klicke auf Speichern --> Fertig! 
 
@@ -300,4 +300,4 @@ Cake Wallet Nutzer, die Krypto Assets über DFX erworben haben, können alle get
 
 Alle getätigten Transaktionen und deren Status werden dann angezeigt. 
 In der Transaktionsübersicht ist es auch möglich nicht zugeordnete Transaktionen manuell nachträglich zuzuordnen. 
-Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der „Meine Transaktion felht“ Button benutzt werden. 
+Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der „Meine Transaktion fehlt“ Button benutzt werden. 
