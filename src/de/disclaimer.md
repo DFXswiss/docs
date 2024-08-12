@@ -1,6 +1,6 @@
 # Haftungsausschluss
 
-Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend.
+Im Falle von Unstimmigkeiten ist die deutsche Version maßgebend Test.
 
 DFX übernimmt, soweit gesetzlich zulässig, keine Haftung für indirekte oder direkte Verluste oder Schäden jeglicher Art, die durch den Zugriff auf von DFX zur Verfügung gestellten Produkten, insbesondere die DFX Wallet, oder Informationen oder durch die Unmöglichkeit, auf die genannten Informationen und Produkte zuzugreifen oder diese zu nutzen, entstehen können. Insbesondere wird ausdrücklich darauf hingewiesen, dass DFX in keinem Fall für Verluste oder Schäden haftbar gemacht werden kann, die durch technische oder sonstige Fehler, Übertragungsfehler, Systemüberlastungen, Nutzungsprobleme, Unterbrechungen von Diensten (einschliesslich, aber nicht beschränkt auf Systemwartungsdienste), Verzögerungen bei der Übertragung von Informationen, Inkompatibilität zwischen der Website und Dateien und/oder Software (insbesondere Browser) und/oder Computer von Seiten des Kunden, Fehlfunktionen, Interferenzen, die Übertragung eines Virus auf Ihren Computer, unbefugten Zugriff (z. B. durch Hacking oder Piraterie), die vorsätzliche Blockade von Telekommunikationswerkzeugen oder -netzen (z. B. durch Mail- Bombing, Denial-of-Service-Angriffe) oder andere Ausfälle oder Unzulänglichkeiten seitens der Telekommunikations- oder Netzwerkdienstleister entstehen. Die Kunden erkennen an und stimmen zu, dass die Dienstleistungen von DFX ohne Mängelgewähr und ohne Verfügbarkeitsgarantie erbracht werden.
 
