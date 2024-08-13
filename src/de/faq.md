@@ -6,7 +6,7 @@ Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 
 DFX bietet auf unterschiedliche Weise Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
 Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu nehmen, da wir auf diesem Wege die schnellste Bearbeitung garantieren können. 
-Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: support@dfx.swiss
+Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: http://dfx.swiss/help
 
 ## Was genau beinhaltet der Service von DFX?
 
@@ -51,7 +51,7 @@ Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem
 
 ### Welche Währungen werden von unserem Service unterstützt?
 
-Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: [support@dfx.swiss](mailto:support@dfx.swiss)
+Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: [http://dfx.swiss/help]
 
 
 ## Nutzer-relevante Fragen & KYC-Prozess
@@ -267,7 +267,7 @@ wallet="IFRAME" wird benötigt um eine eigene wallet id mitgeben zu können.
 Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möchte mit einer eigens ausgewählten Auswahl an Coins die angeboten werden sollen.   
    
 Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME.    
-Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter.   
+Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter http://dfx.swiss/help gerne weiter.   
 
 ## Command Line Login
 
