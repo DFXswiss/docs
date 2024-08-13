@@ -16,11 +16,11 @@ DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit
 
 Ja. Die Regulierung kann [hier](https://www.finma.ch/de/bewilligung/selbstregulierungsorganisationen-sro/sro-mitglieder-suche/) abgerufen werden.
 Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du den KYC bereits abgeschlossen hast.
-Wir sind ausserdem verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
+Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmässigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
 
 ## Inwiefern hat DFX Zugriff auf mein Geld?
 
-DFX hat nur während des Kaufs/ Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine non-custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
+DFX hat nur während des Kaufs/Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine non-custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
 
 ## Welche Länder werden durch DFX bedient?
 
@@ -291,12 +291,12 @@ Bei Banktransaktionen:
 ## Transaktionsübersicht für Cake Wallet-Benutzer
 
 Cake Wallet Nutzer, die Krypto Assets über DFX erworben haben, können alle getätigten Transaktionen einsehen. Dazu sind folgende Schritte notwendig:
-1. Öffnen Sie die Cake Wallet
-2. Wählen Sie die entsprechende Wallet aus
-3. klicken Sie auf Kaufen
-4. wählen Sie DFX.swiss
-5. klicken Sie auf Menü in der oberen rechten Ecke
-6. wählen Sie Transaktionen
+1. Öffne die Cake Wallet
+2. Wähle die entsprechende Wallet aus
+3. Klicken auf "Kaufen"
+4. Wähle DFX.swiss
+5. Klicken auf "Menü" in der oberen rechten Ecke
+6. Wähle "Transaktionen"
 
 Alle getätigten Transaktionen und deren Status werden dann angezeigt. 
 In der Transaktionsübersicht ist es auch möglich nicht zugeordnete Transaktionen manuell nachträglich zuzuordnen. 
