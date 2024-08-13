@@ -47,7 +47,7 @@ Ja.
 Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
 
 ## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Crypto Verkäufe, was muss ich tun?
-Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir die Auszahlung auf dein Bankkonto perfekt vorzubereiten um keine Probleme zu bekommen. Melde dich dazu einfach an support (at) dfx.swiss
+Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach an support (at) dfx.swiss
 
 ### Welche Währungen werden von unserem Service unterstützt?
 
@@ -159,11 +159,11 @@ Im Bezahlprozess auf unserer [Payment Seite](https://payment.dfx.swiss/login) gi
 
 ## Gibt es ein Limit für die Anzahl der Empfehlungen, für die ich einen Bonus erhalten kann?
 
-Nein, wir möchten, dass du so viele Freunde wie möglich von unserem Service überzeugst. Beide Seiten profitieren vom Referral-Programm.
+Nein, wir möchten, dass du so viele Freunde und Bekannte wie möglich von unserem Service überzeugst. Beide Seiten profitieren daher vom Referral-Programm.
 
 ## Gibt es Banken die das Einzahlen an DFX blockieren?
 
-Nach umserem Wissen blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX AG. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
+Nach umserem aktuellen Wissensstand blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX AG. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
 
 ## DFX Metamask Exchange
 
@@ -240,9 +240,9 @@ Mehr dazu auf Youtube in diesen Tutorial-Videos:
 [DFX](https://youtu.be/-DV2xhPZG-w)
 [Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
 
-Hier noch weitere Info im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
+Hier findest du weitere Informationen im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
 
-Crypto-Influencer (aber auch jeder andere Webseiten-Eigner) 
+Crypto-Influencer (sowie alle anderen Webseiten-Eigner) 
 können jetzt diese Toolbox auf der eigenen Webseite einbauen und 
 RefCode-Rewards damit generieren. 
 
