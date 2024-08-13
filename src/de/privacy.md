@@ -28,7 +28,7 @@ Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit
 
 ### Analyse-Tools und Tools von Dritt­anbietern
 
-DFX erhebt keine zusätzlichen Daten um Surf-Verhalten statistisch auszuwerten und verwendet keine dieser sogenannten Analyseprogrammen.
+DFX erhebt keine zusätzlichen Daten, um Surf-Verhalten statistisch auszuwerten und verwendet keine der sogenannten Analyseprogramme.
 
 ## 2. Hosting
 
@@ -59,7 +59,7 @@ Bahnhofstrasse 7
 Schweiz
 
 Telefon: +41 41 511 46 35  
-E-Mail: support@DFX.swiss
+Website: https://dfx.swiss
 
 ### Speicherdauer
 
@@ -67,15 +67,15 @@ Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer ge
 
 ### Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
 
-Die Website DFX.swiss speichert und verarbeitet lediglich die Daten welche als minimum notwendig sind um die Website zu betreiben. Es werden keine zusätzlichen Daten gespeichert oder erhoben. 
+Die Website DFX.swiss speichert und verarbeitet lediglich die Daten welche als Minimum notwendig sind, um die Website zu betreiben. Es werden keine zusätzlichen Daten gespeichert oder erhoben. 
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
-Wir verwenden für das Hosting GitHub, ein Unternehmen aus den USA. Wenn diese Tools aufgerufen wird, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden. Wir weisen darauf hin, dass in diesen Ländern kein mit der Schweiz vergleichbares Datenschutzniveau garantiert werden kann. Beispielsweise sind US-Unternehmen dazu verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass Sie als Betroffener hiergegen gerichtlich vorgehen könnten. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (z. B. Geheimdienste) Ihre auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungstätigkeiten keinen Einfluss.
+Wir verwenden für das Hosting „Github“, ein Unternehmen aus den USA. Wenn diese Tools aufgerufen wird, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden. Wir weisen darauf hin, dass in diesen Ländern kein mit der Schweiz vergleichbares Datenschutzniveau garantiert werden kann. Beispielsweise sind US-Unternehmen dazu verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass Sie als betroffene Person hiergegen gerichtlich vorgehen könnten. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (z. B. Geheimdienste) Ihre auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungstätigkeiten keinen Einfluss.
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 
-Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
+Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmässigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
 
 ### Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)
 
@@ -114,7 +114,7 @@ Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, d�
 
 ### Widerspruch gegen Werbe-E-Mails
 
-Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
+Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, wie etwa durch Spam-E-Mails, vor.
 
 ## 4. Datenerfassung auf dieser Website
 
