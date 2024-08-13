@@ -300,4 +300,4 @@ Cake Wallet Nutzer, die Krypto Assets über DFX erworben haben, können alle get
 
 Alle getätigten Transaktionen und deren Status werden dann angezeigt. 
 In der Transaktionsübersicht ist es auch möglich nicht zugeordnete Transaktionen manuell nachträglich zuzuordnen. 
-Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der „Meine Transaktion felht“ Button benutzt werden. 
+Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der „Meine Transaktion fehlt“ Button benutzt werden. 
