@@ -4,9 +4,9 @@ Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 
 ## Wo erhalte ich bei Fragen Unterstützung?
 
-DFX bietet auf unterschiedliche Weise Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
+DFX bietet auf unterschiedliche Weisen Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
 Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu nehmen, da wir auf diesem Wege die schnellste Bearbeitung garantieren können. 
-Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: support@dfx.swiss
+Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: http://dfx.swiss/help
 
 ## Was genau beinhaltet der Service von DFX?
 
@@ -16,11 +16,11 @@ DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit
 
 Ja. Die Regulierung kann [hier](https://www.finma.ch/de/bewilligung/selbstregulierungsorganisationen-sro/sro-mitglieder-suche/) abgerufen werden.
 Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du den KYC bereits abgeschlossen hast.
-Wir sind ausserdem verpflichtet alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmäßigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
+Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmässigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
 
 ## Inwiefern hat DFX Zugriff auf mein Geld?
 
-DFX hat nur während des Kaufs/ Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine non-custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
+DFX hat nur während des Kaufs/Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine non-custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
 
 ## Welche Länder werden durch DFX bedient?
 
@@ -47,11 +47,11 @@ Ja.
 Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
 
 ## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Crypto Verkäufe, was muss ich tun?
-Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir die Auszahlung auf dein Bankkonto perfekt vorzubereiten um keine Probleme zu bekommen. Melde dich dazu einfach an support (at) dfx.swiss
+Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach an support (at) dfx.swiss
 
 ### Welche Währungen werden von unserem Service unterstützt?
 
-Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: [support@dfx.swiss](mailto:support@dfx.swiss)
+Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: [http://dfx.swiss/help]
 
 
 ## Nutzer-relevante Fragen & KYC-Prozess
@@ -159,11 +159,11 @@ Im Bezahlprozess auf unserer [Payment Seite](https://payment.dfx.swiss/login) gi
 
 ## Gibt es ein Limit für die Anzahl der Empfehlungen, für die ich einen Bonus erhalten kann?
 
-Nein, wir möchten, dass du so viele Freunde wie möglich von unserem Service überzeugst. Beide Seiten profitieren vom Referral-Programm.
+Nein, wir möchten, dass du so viele Freunde und Bekannte wie möglich von unserem Service überzeugst. Beide Seiten profitieren daher vom Referral-Programm.
 
 ## Gibt es Banken die das Einzahlen an DFX blockieren?
 
-Nach umserem Wissen blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX AG. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
+Nach umserem aktuellen Wissensstand blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX AG. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
 
 ## DFX Metamask Exchange
 
@@ -240,9 +240,9 @@ Mehr dazu auf Youtube in diesen Tutorial-Videos:
 [DFX](https://youtu.be/-DV2xhPZG-w)
 [Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
 
-Hier noch weitere Info im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
+Hier findest du weitere Informationen im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
 
-Crypto-Influencer (aber auch jeder andere Webseiten-Eigner) 
+Crypto-Influencer (sowie alle anderen Webseiten-Eigner) 
 können jetzt diese Toolbox auf der eigenen Webseite einbauen und 
 RefCode-Rewards damit generieren. 
 
@@ -267,7 +267,7 @@ wallet="IFRAME" wird benötigt um eine eigene wallet id mitgeben zu können.
 Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möchte mit einer eigens ausgewählten Auswahl an Coins die angeboten werden sollen.   
    
 Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME.    
-Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter support@dfx.swiss gerne weiter.   
+Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter http://dfx.swiss/help gerne weiter.   
 
 ## Command Line Login
 
@@ -291,13 +291,13 @@ Bei Banktransaktionen:
 ## Transaktionsübersicht für Cake Wallet-Benutzer
 
 Cake Wallet Nutzer, die Krypto Assets über DFX erworben haben, können alle getätigten Transaktionen einsehen. Dazu sind folgende Schritte notwendig:
-1. Öffnen Sie die Cake Wallet
-2. Wählen Sie die entsprechende Wallet aus
-3. klicken Sie auf Kaufen
-4. wählen Sie DFX.swiss
-5. klicken Sie auf Menü in der oberen rechten Ecke
-6. wählen Sie Transaktionen
+1. Öffne die Cake Wallet
+2. Wähle die entsprechende Wallet aus
+3. Klicken auf "Kaufen"
+4. Wähle DFX.swiss
+5. Klicken auf "Menü" in der oberen rechten Ecke
+6. Wähle "Transaktionen"
 
 Alle getätigten Transaktionen und deren Status werden dann angezeigt. 
 In der Transaktionsübersicht ist es auch möglich nicht zugeordnete Transaktionen manuell nachträglich zuzuordnen. 
-Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der „Meine Transaktion felht“ Button benutzt werden. 
+Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der „Meine Transaktion fehlt“ Button benutzt werden. 
