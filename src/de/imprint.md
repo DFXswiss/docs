@@ -11,4 +11,4 @@ Registergericht: Zug
 Telefon: +41 41 511 46 35  
 E-Mail: support@DFX.swiss
 
-Bitte beachten Sie, dass die Mail Adresse support@dfx.swiss nicht für Kundensupport benutzt werden kann. Als DFX Kunde sollten Sie für persönliche Support Anfragen immer https://services.dfx.swiss/support benutzen oder für allgemeiner Fragen die Telgram Gruppe unter https://t.me/DFXswiss_en. Die Mail Adresse support@dfx.swiss ist für alles andere was nicht Kundensupport ist und was nicht generelle Fragen sind. 
+Bitte beachten Sie, dass die E-Mail-Adresse support@dfx.swiss nicht für Kundensupport benutzt werden kann. Als DFX-Kunde sollten Sie für persönliche Supportanfragen immer https://services.dfx.swiss/support benutzen. Alternativ finden Sie für allgemeine Fragen die Telegram Gruppe unter https://t.me/DFXswiss_en. Für alle weiteren Fragen steht die E-Mail-Adresse support@dfx.swiss zur Verfügung. 
