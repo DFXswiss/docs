@@ -1,3 +1,6 @@
+Questa pagina contiene le domande più frequenti su DFX.swiss.
+Purtroppo, al momento non esiste una versione italiana. Si consiglia pertanto di leggere la versione tedesca o quella inglese.
+
 # FAQ
 
 Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.

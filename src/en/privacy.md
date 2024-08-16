@@ -55,7 +55,7 @@ Bahnhofstrasse 7
 Switzerland
 
 Phone: +41 41 511 46 35
-E-mail: support@DFX.swiss
+Contact: https://dfx.swiss/help
 
 The controller is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data (e.g. names, e-mail addresses or similar).
 
