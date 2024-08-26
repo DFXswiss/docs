@@ -3,9 +3,9 @@ Malheureusement, aucune version française n'est actuellement disponible. Nous v
 
 # FAQ
 
-Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
+Cette page contient les questions les plus fréquemment posées sur DFX.swiss.
 
-## Allgemeine Fragen
+## Questions générales
 
 ### Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei DFX getätigt habe?
 
