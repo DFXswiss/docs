@@ -86,7 +86,7 @@ If DFX requires a complete KYC, this will be explained in the e-mail sent to the
 - Money was sent to our bank in Luxembourg. The corresponding IBAN start with the letters "LU". This bank offers SEPA Instant and only accepts funds from fully verified customers. 
 - The money was sent by a bank that is very often associated with fraud. (Very rare)
 
-The customer has 2 days to execute the KYC. As a rule, the KYC process only takes 5 minutes. If the customer decides against the KYC, or if the customer does not respond to the e-mail from DFX, then the money will be returned to the customer in full after 2 days.
+The customer has 2 days to execute the KYC. The KYC process usually only takes about 5 minutes. If the customer decides against the KYC, or if the customer does not respond to the e-mail from DFX, the money will be returned to the customer in full after 2 days.
 
 ## What is the status of my transaction? I have not received my crypto assets.
 If you have made a transaction and have questions about this transaction because you have not yet received the crypto assets, you have the following options:
