@@ -1,6 +1,6 @@
 # Impressum
 
-DFX SA  
+DFX AG  
 Bahnhofstrasse 7  
 6300 Zug  
 Suisse
