@@ -3,7 +3,7 @@
 DFX AG  
 Bahnhofstrasse 7  
 6300 Zug  
-Schweiz
+Switzerland
 
 Commercial Register: CHE-429.856.521  
 Registration court: Zug
