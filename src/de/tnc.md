@@ -205,11 +205,11 @@ Gebührenübersicht ab 01.12.2022
 | Optimism  | 1 EUR          |
 | Polygon   | 1 EUR          |
 
-## zusätzliche Blockchain Gebühr
+## Zusätzliche Blockchain Gebühr
 
 Zusätzlich zu den DFX Gebühren kann es eine Blockchain Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
-## zusätzliche Betreiber Gebühr
+## Zusätzliche Betreiber Gebühr
 
 Zusätzlich zu den DFX Gebühren kann es eine Betreiber Gebühr geben. Diese Gebühr fällt an, wenn die Finanzdienstleistungen in einer anderen Umgebung eingebaut wurden, und der Integrator ein eigene Gebühr verlangt. Zum Beispiel eine Integration in eine andere Blockchain Non Custodial Wallet. Die Gebühr wird in der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
