@@ -1,6 +1,6 @@
 # Impronta
 
-DFX S.p.A.  
+DFX AG 
 Bahnhofstrasse 7  
 6300 Zug  
 Svizzera
