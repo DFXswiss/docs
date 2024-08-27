@@ -47,11 +47,10 @@ Ja.
 Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
 
 ## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Crypto Verkäufe, was muss ich tun?
-Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach an support (at) dfx.swiss
-
+Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach an https://dfx.swiss/help
 ### Welche Währungen werden von unserem Service unterstützt?
 
-Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: [http://dfx.swiss/help]
+Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: https://dfx.swiss/help
 
 
 ## Nutzer-relevante Fragen & KYC-Prozess
@@ -276,13 +275,13 @@ Du kannst dich auch mittels manueller eingabe von einer Blockchainadresse und pa
 ## Wie ist der Stand meiner Transaktion? Ich habe meine Crypto Assets nicht erhalten.
 Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast, weil du die Crypto Assets noch nicht erhalten hast, dann hast du folgende Möglichkeiten:
 - Wenn es eine Banktransaktion war, empfehlen wir zwingend 2 Arbeitstage abzuwarten. Banktransaktionen werden in der Regel innert weniger Stunden verarbeitet, können im Extremfall aber auch einmal 3 Tage benötigen. Wir empfehlen also zuerst 2 Tage abzuwarten, bevor eine Nachvorschung gestartet wird.
-- Du kannst im DFX Telegram Chat https://t.me/DFXswiss nachfragen. Die Moderatoren reagieren dort sehr schnell auf Anfragen und können meistens rasch helfen. Bitte beachte, dass dich nie ein DFX Mitarbeiter per Privater Nachricht anschreiben wird! Wenn dich ein vermeintlicher DFX Mitarbeiter per private nachricht anschreibt, dann ist es ein Betrüger und kein echter DFX Mitarbeiter. DFX Mitarbeiter schreiben Dir nur in öffentlichen Telegram Gruppe oder nur in einem Privaten Chat, der von Dir begonnen und eröffnet wurde, niemals aber in einam privaten Chat der nicht von Dir selbst gestartet wurde!
+- Du kannst im DFX Telegram Chat https://t.me/DFXswiss nachfragen. Die Moderatoren reagieren dort sehr schnell auf Anfragen und können meistens rasch helfen. Bitte beachte, dass dich nie ein (echter) DFX-Mitarbeiter per Privatnachricht anschreiben wird! Wenn dich ein vermeintlicher DFX-Mitarbeiter per privater nachricht anschreibt, dann ist es ein Betrüger und kein echter DFX-Mitarbeiter. DFX-Mitarbeiter schreiben Dir nur in der öffentlichen Telegram-Gruppe oder nur dann in einem privaten Chat, der von Dir begonnen und eröffnet wurde, niemals aber in einam privaten Chat, der nicht von Dir selbst gestartet wurde!
 - Du kannst eine E-Mail an support (at) dfx.swiss schreiben. Es ist wichtig alle relevanten Informationen zur Transaktion mitzusenden.
 
-## Welche Daten müssen in einer support Anfrage mitgesendet werden?
+## Welche Daten müssen in einer Support-Anfrage mitgesendet werden?
 
 Bei Banktransaktionen:
-1. der Verwendungszweck. Das wichtigste in dein persönlicher Verwendungszweck. Auch Zahlungsmitteilung oder Reference genannt. Dieser ist das wichtigste bei der Aufnahme zum Support. Darüber wird jede Transaktion einem entsprechenden Kundenkonto und dem gewünschten Kauf Asset zugeordnet. Ohne diesen Verwendugnszweck kann deine Anfrage nicht bearbeitet werden. Der Verwendungszweck hat folgendes Format: xxxx-xxxx-xxxx und du findest ihn im ensprechenden Kaufscreen direkt unterhalb der IBAN und der BIC.
+1. Der Verwendungszweck. Das wichtigste in dein persönlicher Verwendungszweck. Auch Zahlungsmitteilung oder Reference genannt. Dieser ist das wichtigste bei der Aufnahme zum Support. Darüber wird jede Transaktion einem entsprechenden Kundenkonto und dem gewünschten Kauf Asset zugeordnet. Ohne diesen Verwendugnszweck kann deine Anfrage nicht bearbeitet werden. Der Verwendungszweck hat folgendes Format: xxxx-xxxx-xxxx und du findest ihn im ensprechenden Kaufscreen direkt unterhalb der IBAN und der BIC.
 <img width="675" alt="Bildschirmfoto 2024-03-01 um 17 30 46" src="https://github.com/DFXswiss/docs/assets/142087526/272d5611-be70-44bf-9ade-24d128e873ce">
 
 3. Deine IBAN
