@@ -1,6 +1,6 @@
 # Imprint
 
-DFX AG  
+DFX Ltd. 
 Bahnhofstrasse 7  
 6300 Zug  
 Switzerland
