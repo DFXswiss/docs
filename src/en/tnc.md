@@ -44,8 +44,9 @@ The authentication of the identification documents submitted by customers as par
 
 Other necessary external providers may also have access to customer data as part of the maintenance and management of current processes, the product and service offering, and the DFX user base. In such cases where the use of an external provider or service is required, DFX will ensure that the external provider exercises the same level of vigilance with respect to privacy and data security as DFX does. Customer data and/or contact information is not sold by DFX in any way.
 
-## Handling transaction data
+DFX is an exceptionally transparent blockchain financial services provider. DFX publishes all sales and all transactions on the public blockchain to and from DFX in order to create maximum transparency and thus offer the customer the best product. The full transparency of all customer transactions guarantees that the activities of DFX can be monitored externally and that no hidden prices or similar are practised by DFX. We would like to point out that users who choose to use the public blockchain for financial transactions store their transactions in a public, non-erasable database. It is the user's responsibility to ensure that the user's privacy remains protected at all times. The blockchain addresses and the financial transactions are public, while the connection of the blockchain address to the corresponding owner is private and should remain private. DFX does not publish any information about its own customers or about the owners behind the blockchain addresses, but DFX does publish data about the blockchain transactions carried out and the corresponding blockchain addresses. DFX never publishes data that could allow conclusions to be drawn about the owners of a blockchain address. Further details on which additional data on public transactions is published by DFX can be found in the following sections. If you have any questions, please contact support at support@dfx.swiss.
 
+## Handling transaction data
 For all digital asset transactions, the following information is made publicly available:
 
 - Input Asset
@@ -53,8 +54,10 @@ For all digital asset transactions, the following information is made publicly a
 - Output Asset
 - Output Amount
 - Transaction ID
+- Sender address
+- Recipient address
 
-This information does not allow direct identification of the person who executed the transaction. 
+The Transaction ID allows a public blockchain to draw conclusions about the customer addresses involved. However, this information does not allow any direct conclusions to be drawn about the person who carried out this transaction or who is behind the public blockchain address.
 
 ## Handling customer data during bank transactions
 When transactions are executed, customer data is automatically sent along with the transaction. Specifically, the following information is usually sent from the sending bank to the receiving bank during bank transactions:
@@ -119,8 +122,11 @@ Customers may delete or deactivate their account at any time by submitting a req
 The customer shall execute the purchase by following the instructions in the DFX app or on the DFX payment page, respectively. In case of invalid or incorrect information, the funds may be lost. DFX may make inquiries to attempt to recover lost cryptocurrencies, but is under no obligation to do so. These inquiries are at DFX's sole discretion. Customer shall pay for the cost of any investigation, which shall take into account the technical complexity and time required for the investigation.
 
 If the required payment purpose does not appear on the payment order, the money will be refunded to the corresponding customer. Bank fees will be charged to the customer, and an additional administrative fee may also be charged. A transaction to the DFX Wallet without a previously created purchase route will not be accepted by DFX and will be immediately refunded to the customer. Any bank charges incurred in the process will be borne by the customer. If necessary, administrative fees will also be charged to the customer.
+A transaction to the DFX wallet without a previously created purchase route will not be accepted by DFX and will be refunded to the customer immediately. The resulting bank charges shall be borne by the customer. The customer may also be charged administrative fees.
 
 DFX provides its service to the extent of the amount actually received by it on the DFX Wallet. The bank charges or transaction fees shall be borne by the customer and shall be deducted directly from the amount originally paid in, provided that this had not yet been done when the transaction was received. If applicable, administrative fees will also be charged to the customer. DFX will then exchange the equivalent value of the amount actually received, minus any additional bank or transaction fees and minus DFX's own fees (see below), into the desired cryptocurrency. The cryptocurrency exchange for Bitcoin is done via Kraken and for all others via Uniswap.
+
+If the customer paid the amount to be exchanged in a FIAT currency other than EUR, DFX will first exchange this currency into EUR, whereby additional exchange fees may be incurred, which will also be deducted directly from the amount paid in. 
 
 DFX points out that the purchase may take several business days until the desired cryptocurrency arrives in the customer's wallet.
 
@@ -136,8 +142,6 @@ Network fees related to the creation of the purchase routes DFX reserves the rig
 The customer has to execute the sale following the instructions on the payment page/in the app. In case of invalid or incorrect information, the funds may be lost. If a transfer is executed without first creating an appropriate sale route to the DFX wallet, or if a transfer is made to an address other than the one specified by DFX, the amount transferred may be lost. DFX may make inquiries to attempt to recover lost cryptocurrencies, but is under no obligation to do so. These inquiries are at the sole discretion of DFX. Customer shall pay for the cost of any investigation, which shall take into account the technical complexity and time required for the investigation.
 
 DFX will provide its service to the extent of the amount actually received by it on the DFX Wallet. The bank charges or transaction fees will be borne by the customer and will be deducted directly from the amount originally paid in, if this had not already been done when the transaction was received. If applicable, administrative fees will also be charged to the customer. DFX will then exchange the equivalent of the amount actually received less any additional bank or transaction fees and less DFX's own fees (see below) into the desired foreign currency [or cryptocurrency].
-
-If the customer wishes to withdraw in a currency other than EUR, additional exchange fees may apply, which will also be deducted directly from the deposited amount. The cryptocurrency exchange for Bitcoin is made via Kraken and for all others via Uniswap.
 
 After creating the sales route, the amount paid in by the customer in this context and after adjustment for all applicable fees, DFX will sell the cryptocurrencies specified in the sales route for its own holdings in the sense of a principal transaction and subsequently transfer the foreign currencies [or converted cryptocurrencies] to the [wallet/]account specified by the customer.
 
@@ -185,8 +189,11 @@ Fee overview as of 01.12.2022
 | Optimism  | 1 EUR          |
 | Polygon   | 1 EUR          |
 
-## additional blockchain fee
+## Additional blockchain fee
 In addition to the DFX fees, there may be a blockchain fee. This fee is incurred in order to be able to pay for the blockchain transaction. The fee changes continuously and is displayed to the user on the graphical user interface when the purchase is concluded. 
+
+## Additional operator fee
+In addition to the DFX fees, there may be an operator fee. This fee applies if the financial services have been integrated into another environment and the integrator charges a separate fee. For example, an integration into another blockchain non-custodial wallet. The fee is displayed in the graphical interface when the purchase is completed. 
 
 ## Referral System
 Our referral program pays customers 0.25% on the purchase/investment volume purchased by a new customer through the customer's referral link.
