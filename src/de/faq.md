@@ -5,8 +5,8 @@ Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 ## Wo erhalte ich bei Fragen Unterstützung?
 
 DFX bietet auf unterschiedliche Weisen Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
-Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu nehmen, da wir auf diesem Wege die schnellste Bearbeitung garantieren können. 
-Trete dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: http://dfx.swiss/help
+Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu nehmen. 
+Tritt dafür unserer Telegram Gruppe (https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und auch bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren Support wenden: http://dfx.swiss/help.
 
 ## Was genau beinhaltet der Service von DFX?
 
@@ -24,7 +24,7 @@ DFX hat nur während des Kaufs/Verkaufs Zugriff auf das Geld des Kunden. Sobald 
 
 ## Welche Länder werden durch DFX bedient?
 
-Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschl. Überseegebiete, DOM, keine TOM), Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Niederlande (einschl. Überseegebiete), Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Zypern, Island, Liechtenstein, Norwegen, Schweiz, Feröer, Grönland, Guernsey Insel, Jersey Insel, Monaco, San Marino, Vereinigtes Königreich, Israel
+Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschl. Überseegebiete, DOM, keine TOM), Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Niederlande (einschl. Überseegebiete), Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Zypern, Island, Liechtenstein, Norwegen, Schweiz, Feröer, Grönland, Guernsey Insel, Jersey Insel, Monaco, San Marino, Vereinigte Arabische Emirate, Vereinigtes Königreich, Israel
 
 ## Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei DFX getätigt habe?
 
@@ -68,10 +68,6 @@ Das KYC-Level eines Nutzers steigt, je mehr Daten DFX von diesem Nutzer erhalten
 - Level 40: Finanzieller Hintergrund abgefragt (Einkommen, Vermögen, Geschäftstätigkeit)
 - Level 50: Risikoanalyse durchgeführt (Beginn der Geschäftsbeziehung zwischen DFX und dem Nutzer)
 
-### Zählt für die Jahresobergrenze, bei der man KYC frei investieren kann, das Kalenderjahr oder ein Jahr ab meiner ersten Überweisung?
-
-Es zählt das Kalenderjahr.
-
 ### Was passiert mit meinen Daten bei DFX?
 
 Informationen zu unserem Umgang mit Kundendaten findest du in unseren [Datenschutzbestimmungen](https://docs.dfx.swiss/de/privacy.html).
@@ -96,7 +92,7 @@ Die Gebühren bei DFX findest du in unseren AGB unter diesem [Link](https://docs
 
 ### Wie kann ich Fiatgeld an DFX überweisen?
 
-Eine Überweisung tätigst du ja, um in ein DeFi-Asset zu investieren. Dazu kannst du unsere [Paymentseite](https://payment.dfx.swiss/login) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
+Eine Überweisung tätigst du ja, um in ein Crypto-Asset zu investieren. Dazu kannst du unsere [Paymentseite](https://payment.dfx.swiss/login) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
 
 ### Wie richte ich eine Aufteilung der Investition in den verschiedenen Assets ein, wenn ich Einzahlungen via Dauerauftrag bei der Hausbank tätige?
 
@@ -150,7 +146,7 @@ Unser Referral Programm zahlt Kunden 0.25% auf das Kauf-/Investitionsvolumen, we
 
 ! Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Referral-Programm handelt.
 
-Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen DeFi-Assets verwendet wird, bekommst du 0,5% des Transaktionsvolumens wöchentlich ausbezahlt.
+Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen Crypto-Assets verwendet wird, bekommst du 0,25% des Transaktionsvolumens wöchentlich ausbezahlt.
 
 ## Wie verwende ich einen Referral-Link?
 
