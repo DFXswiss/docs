@@ -203,16 +203,16 @@ Nachfolgend findest du Links zu Artikeln, die zu diesem Thema z.B. in unserer Te
 
 Meldung in der BTC only App „Backup nicht verifiziert“
 
-- Hier die Erklärung dazu. [klick](https://t.me/DFXswiss/91021)
-- YT-Tutorial von Oli. [klick](https://youtu.be/CPYjvBC2NRs)
-- Global senden. [klick](https://t.me/DFXswiss/99843)
+- Erklärung: [klick](https://t.me/DFXswiss/91021)
+- YouTube-Tutorial von Oliver Rummel, CMO bei DFX: [klick](https://youtu.be/CPYjvBC2NRs)
+- Global senden: [klick](https://t.me/DFXswiss/99843)
 
 BTC Wallet bereits vorhandenen? [klick](https://t.me/DFXswiss/84476)
 DFX Seed Phrase Template [PDF Download](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
 
-- geführter Kauf- oder Verkauf: „DFX Services“
-- native Bitcoin kaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
-- native Bitcoin verkaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
+- Geführter Kauf- oder Verkauf: „DFX Services“
+- Native Bitcoin kaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
+- Native Bitcoin verkaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
 
 Die beiden Videos wurden vor der Einführung der neuen DFX Gebührenstruktur erstellt und zeigen daher noch die DFX-Gebühren vor dem 1. Dez. 2022.
 
