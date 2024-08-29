@@ -144,7 +144,7 @@ Ja, haben wir und du kannst dir über deinen Affiliate-/Referral-Link ein zusät
 
 Unser Referral Programm zahlt Kunden 0.25% auf das Kauf-/Investitionsvolumen, welches über den Referral Link des Kunden von einem neuen Kunden gekauft worden ist. Werden Käufe anstelle von Fiat-Währung mit Bitcoin bezahlt, beträgt die Ref-Rendite 0.1%.
 
-! Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Referral-Programm handelt.
+Achtung: Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Referral-Programm handelt.
 
 Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen Crypto-Assets verwendet wird, bekommst du 0,25% des Transaktionsvolumens wöchentlich ausbezahlt.
 
@@ -198,9 +198,9 @@ Mit hoher Wahrscheinlichkeit sind die meisten Wallets kompatibel. Wir haben die 
 Klicke in der BlueWallet auf "Wallet hinzufügen". Klicke anschliessend auf "Wallet importieren", trage die 12 Wörter (Seed) ein und klicke auf "Importieren". Nun hast du deine Wallet erfolgreich in die BlueWallet übertragen. 
 
 ### Wo finde ich Informationen zum Bitcoin spezifischen Service von DFX?
-Auf unserer Homepage gibt es dazu ausführliche Informationen: https://dfx.swiss/de/bitcoin/
+Auf unserer Homepage gibt es hierzu ausführliche Informationen: https://dfx.swiss/de/bitcoin/
 
-Nachfolgend findest du Links zu Artikeln, die zu diesem Thema z.B. in unserer Telegram Gruppe oder auf YouTube bereitgestellt wurden.
+Nachfolgend findest du Links zu Artikeln und Videos, die zu diesem Thema z.B. in unserer Telegram Gruppe oder auf YouTube bereitgestellt wurden.
 
 Meldung in der BTC only App „Backup nicht verifiziert“
 
@@ -215,13 +215,13 @@ DFX Seed Phrase Template [PDF Download](https://dfx.swiss/wp-content/uploads/202
 - Native Bitcoin kaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
 - Native Bitcoin verkaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
 
-Die beiden Videos wurden vor der Einführung der neuen DFX Gebührenstruktur erstellt und zeigen daher noch die DFX-Gebühren vor dem 1. Dez. 2022.
+Achtung: Die beiden Videos wurden vor der Einführung der neuen DFX Gebührenstruktur erstellt und zeigen daher noch die DFX-Gebühren vor dem 1. Dezember 2022.
 
 Bestehendes DFX KYC auch mit der BTC only App verwenden: [klick](https://t.me/DFXswiss/84097)
 
-Anschließend gerne SEPA instant oder Standard SEPA nutzen: [klick](https://t.me/DFXswiss/71068)
+Anschliessend kann gerne SEPA Instant oder Standard SEPA benutzt werden: [klick](https://t.me/DFXswiss/71068)
 
-Wichtige Info zum BTC-Kurs beim Kauf: [klick](https://t.me/DFXswiss/85437)
+Wichtige Informationen zum BTC-Kurs beim Kauf: [klick](https://t.me/DFXswiss/85437)
 
 ## Wie integriere ich die Hardware-Wallet?
 - BitBoxSwiss 
@@ -232,7 +232,7 @@ Krypto-Assets kaufen oder verkaufen mit der neuen Toolbox auf DFX.swiss
 
 Investiere entweder einmalig oder per Dauerauftrag  (DCA) direkt in deine Hardware-Wallet!
 
-Mehr dazu auf Youtube in diesen Tutorial-Videos:
+Mehr dazu auf YouTube in diesen Tutorial-Videos:
 [DFX](https://youtu.be/-DV2xhPZG-w)
 [Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
 
