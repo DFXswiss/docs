@@ -43,7 +43,6 @@ Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem
 
 Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: https://dfx.swiss/help
 
-
 ## Nutzer-relevante Fragen & KYC-Prozess
 
 ### Was passiert, wenn ich mein individuelles Handelslimit überschreite?
