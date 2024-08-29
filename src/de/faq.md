@@ -162,7 +162,7 @@ Nach umserem aktuellen Wissensstand blockiert die Sparkasse in Deutschland syste
 
 ## DFX Metamask Exchange
 
-### Wie kann ich meine Tel Nummer nachträglich ändern?
+### Wie kann ich meine Telefonnummer nachträglich ändern?
 
 Öffne [exchange.DFX.swiss](https://exchange.DFX.swiss)
 
