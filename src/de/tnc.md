@@ -116,7 +116,7 @@ Natürliche Personen müssen zudem handlungsfähig (urteilsfähig und mindestens
 
 Jedes Kundenprofil ist einzigartig, persönlich und nicht übertragbar. Die Einrichtung und Nutzung mehrerer Konten durch dieselbe Person ist verboten.
 
-Die Kunden können ihren Account jederzeit im  My DFX Portal löschen respektive deaktivieren. DFX ist verpflichtet, Aufzeichnungen über Transaktionen zehn Jahre lang aufzubewahren. Dieser Zeitraum beginnt mit dem Ende der Ausführung der Transaktionen oder, wenn mehr als eine Transaktion ein Ganzes bildet, mit dem Ende der letzten Transaktion. Erst nach Ablauf dieser zehn Jahre Aufbewahrungsfrist wird das Konto schliesslich gelöscht.
+Die Kunden können ihr Kundenprofil jederzeit löschen respektive deaktivieren. DFX ist verpflichtet, Aufzeichnungen über Transaktionen zehn Jahre lang aufzubewahren. Dieser Zeitraum beginnt mit dem Ende der Ausführung der Transaktionen oder, wenn mehr als eine Transaktion ein Ganzes bildet, mit dem Ende der letzten Transaktion. Erst nach Ablauf dieser zehn Jahre Aufbewahrungsfrist wird das Konto schliesslich gelöscht.
 
 ## Prozess beim Kauf von Kryptowährungen
 Der Kunde hat die Ausführung des Kaufs unter Beachtung der Anweisungen in der DFX-App beziehungsweise auf der DFX-Payment Seite vorzunehmen. Bei ungültigen oder falschen Angaben können die Gelder verloren gehen. DFX kann Nachforschungen anstellen, um zu versuchen, verlorene Kryptowährungen zurückzuerlangen, ist jedoch nicht dazu verpflichtet. Diese Nachforschungen liegen im alleinigen Ermessen von DFX. Der Kunde hat für die Kosten einer Nachforschung aufzukommen, welche die technische Komplexität und den Zeitaufwand für die Nachforschungen berücksichtigen.
