@@ -224,7 +224,3 @@ Wir verfügen über ein Profil bei LinkedIn. Anbieter ist die LinkedIn Ireland U
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [LinkedIn Data Processing Agreement (DPA)](https://www.linkedin.com/legal/l/dpa) und [EU SCCs](https://www.linkedin.com/legal/l/eu-sccs).
 
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von LinkedIn: [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
-
-##### YouTube
-
-Wir verfügen über ein Profil bei YouTube. Anbieter ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von YouTube: https://policies.google.com/privacy?hl=de.
