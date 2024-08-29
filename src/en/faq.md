@@ -1,5 +1,4 @@
 # FAQ
-
 The FAQ in English is currently being revised and is only available in a reduced form. The German FAQ, however, is complete. 
 
 ## Where can I get support if I have questions?
@@ -54,7 +53,6 @@ Note: Technically it is not an IFRAME but a web widget. This works much better t
 If you have any questions, please feel free to contact our moderators in the Telegram group https://t.me/DFXswiss_en or use https://dfx.swiss/help.html and we will be happy to help you.    
 
 ## How can I "sell" Bitcoin in the DFX Wallet?
-
 The sell function is unfortunately not yet built directly into the app itself, but we are working at full speed to build this in as well. Until then, selling is only possible via the MyDFX function. This works as follows:
 
 1. Click on "DFX Services" in the DFX Bitcoin Wallet.
@@ -73,11 +71,9 @@ There is currently no plug and play solution! If you run a LND hub as a hobby, y
 If you are interested in a professional solution and invest several days in setting up your own LND Hub and also have the necessary technical knowledge, then please feel free to contact our support by using https://dfx.swiss/help.html. We are happy to help. 
 
 ## Command Line Login
-
 You can also log in to DFX by manually entering a blockchain address and a suitable signature. To do this, go to https://services.dfx.swiss/login and click on "Command Line". First you will be asked for your blockchain address. After entering a valid blockchain address, you will receive a message to sign. Sign this message with your wallet and enter the signature in the field below. Click on "Login" to verify the signature and you will be logged in. 
 
 ## Why does DFX require a full KYC, even if I have sent less than CHF 1'000?
-
 If DFX requires a complete KYC, this will be explained in the e-mail sent to the customer. So the best way to find out more details is to read this e-mail. In general, the reasons can be as follows:
 
 - The amount of CHF 1'000 per 24h was exceeded because several transactions were made. The time at which the money actually arrives at DFX is decisive for the time stamp. 
@@ -95,7 +91,6 @@ If you have made a transaction and have questions about this transaction because
 - You can write an e-mail to support (at) dfx.swiss. It is important to include all relevant information about the transaction.
 
 ## Which data must be included in a support request?
-
 For bank transactions:
 1. The purpose of use. The most important thing in your personal purpose of use. Also called payment notification or reference. This is the most important information when contacting support. It is used to assign each transaction to a corresponding customer account and the desired purchase asset. Your enquiry cannot be processed without this reference. The reference has the following format: xxxx-xxxx-xxxx and you will find it in the corresponding purchase screen directly below the IBAN and BIC.
 <img width="675" alt="Bildschirmfoto 2024-03-01 um 17 30 46" src="https://github.com/DFXswiss/docs/assets/142087526/272d5611-be70-44bf-9ade-24d128e873ce">
@@ -104,7 +99,6 @@ For bank transactions:
 4. Your correct name, which is also the name of your bank account
 
 ## Transaction overview for Cake Wallet users
-
 Cake Wallet users who have purchased crypto assets via DFX can view all transactions made. The following steps are necessary for this:
 1. Open the Cake Wallet
 2. Select the corresponding wallet
