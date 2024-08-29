@@ -61,7 +61,7 @@ Bahnhofstrasse 7
 Suisse
 
 Téléphone: +41 41 511 46 35  
-E-Mail: support@DFX.swiss
+Le contact électronique avec DFX est possible sur https://services.dfx.swiss/support.
 
 ### Durée de stockage
 
