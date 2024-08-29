@@ -225,7 +225,3 @@ Abbiamo un profilo su LinkedIn. Il fornitore è LinkedIn Ireland Unlimited Compa
 Il trasferimento dei dati negli Stati Uniti si basa sulle clausole contrattuali standard della Commissione UE. I dettagli sono disponibili qui: [LinkedIn Data Processing Agreement (DPA)](https://www.linkedin.com/legal/l/dpa) e [EU SCCs](https://www.linkedin.com/legal/l/eu-sccs).
 
 Per maggiori dettagli sul trattamento dei dati personali, consultare l'informativa sulla privacy di LinkedIn: [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
-
-##### YouTube
-
-Abbiamo un profilo su YouTube. Il provider è Google Ireland Limited, Gordon House, Barrow Street, Dublino 4, Irlanda. I dettagli sul trattamento dei dati personali sono riportati nell'informativa sulla privacy di YouTube: https://policies.google.com/privacy?hl=de.
