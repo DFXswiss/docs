@@ -188,18 +188,19 @@ Mehr Details findest du [hier](https://t.me/DFXswiss/92213).
 
 ## Bitcoin
 ### Wie kann ich meine Bitcoin Wallet von der DFX Bitcoin Wallet exportieren, um sie in einer anderen Wallet importieren zu können?
-Klicke dazu auf das Menü Symbol [...] oben rechts in der DFX Bitcoin Wallet. Dann auf "Wallet" und dann auf "Export/Backup". Dann bekommst du deinen "Seed" angezeigt, bestehend aus 12 Wörtern. Diese 12 Wörter kannst du in jeder anderen kompatiblen Bitcoin Wallet importieren. 
+Klicke dazu auf das Menü Symbol [...] oben rechts in der DFX Bitcoin Wallet. Klicke anschliessend auf "Wallet" und dann auf "Export/Backup". Im Anschluss bekommst du deinen "Seed" angezeigt, welcher aus insgesamt 12 Wörtern besteht. Diese 12 Wörter kannst du in jeder anderen kompatiblen Bitcoin Wallet importieren.
+Achtung: Diese 12 Wörter sollten unter keinen Umständen mit Dritten geteilt werden – unabhängig davon, wer danach fragt. Weder DFX noch andere seriöse Dienstleister werden jemals nach deiner Seed Phrase verlangen. Bedenke: Wer Zugriff auf deine Seed Phrase hat, besitzt auch die Kontrolle über deine Wallet.
 
 ### Welche Wallets sind mit der DFX Bitcoin Wallet Kompatibel?
-Wahrscheinlich sind die meisten Wallets kompatibel. Getestet haben wie es aber insbesondere mit der Bluewallet, weshalb wir sagen können, dass die Bluewallet sicher die Wallet ist mit der höchsten Kompatibilität. 
+Mit hoher Wahrscheinlichkeit sind die meisten Wallets kompatibel. Wir haben die Kompatibilität insbesondere mit der BlueWallet, weshalb wir sagen können, dass die BlueWallet die höchste Kompatabilität aufweist.
 
 ### Wie kann ich den Seed meiner DFX Bitcoin Wallet bei der Bluewallet importieren. 
-Klicke in der Bluewallet auf "Wallet hinzufügen", dann auf "Wallet importieren" und trage dann die 12 Wörter ein. Dann klicke auf "Importieren" und du hast deine Wallet erfolgreich in die Bluewallet übertragen. 
+Klicke in der BlueWallet auf "Wallet hinzufügen". Klicke anschliessend auf "Wallet importieren", trage die 12 Wörter (Seed) ein und klicke auf "Importieren". Nun hast du deine Wallet erfolgreich in die BlueWallet übertragen. 
 
 ### Wo finde ich Informationen zum Bitcoin spezifischen Service von DFX?
 Auf unserer Homepage gibt es dazu ausführliche Informationen: https://dfx.swiss/de/bitcoin/
 
-Nachfolgend findest du Links zu Artikeln, die zu diesem Thema z.B. in unserer Telegram Gruppe oder auf Youtube bereitgestellt wurden.
+Nachfolgend findest du Links zu Artikeln, die zu diesem Thema z.B. in unserer Telegram Gruppe oder auf YouTube bereitgestellt wurden.
 
 Meldung in der BTC only App „Backup nicht verifiziert“
 
