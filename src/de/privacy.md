@@ -2,7 +2,7 @@
 
 ## Allgemeine Hinweise
 
-Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+Die folgenden Hinweise bieten einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Informationen, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz finden Sie in unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
 ## 1. Datenerfassung auf DFX.swiss Website
 
