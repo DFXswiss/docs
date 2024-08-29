@@ -122,7 +122,7 @@ Unser Referral Programm zahlt Kunden 0.25% auf das Kauf-/Investitionsvolumen, we
 
 Achtung: Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Referral-Programm handelt.
 
-Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen Crypto-Assets verwendet wird, bekommst du 0,25% des Transaktionsvolumens wöchentlich ausbezahlt.
+Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen Crypto-Assets verwendet wird, bekommst du 0,25% des Transaktionsvolumens täglich ausbezahlt.
 
 ## Wie verwende ich einen Referral-Link?
 Im Bezahlprozess auf unserer [Payment Seite](https://payment.dfx.swiss/login) gibt es das Eingabefeld für den Referral-Link/-Code, solange kein Code eingegeben wurde.
