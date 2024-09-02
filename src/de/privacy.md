@@ -2,7 +2,7 @@
 
 Sehr geehrte Damen und Herren  
 
-Die DFX AG (nachfolgend DFX genannt) nimmt den Schutz Ihrer persönlichen Daten ernst. Der Datenschutz hat für die DFX einen hohen Stellenwert.  
+Die DFX AG (nachfolgend DFX genannt) nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Der Datenschutz hat für die DFX einen hohen Stellenwert.  
 
 Der vertrauliche und verantwortungsvolle Umgang mit personenbezogenen Daten aus unseren Beziehungen zu Kunden, Geschäftspartnern, Mitarbeitenden, Bewerbenden und Lieferanten ist die Grundlage unseres unternehmerischen Erfolgs. Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen. 
 Deshalb halten wir uns beim Umgang mit personenbezogenen Daten an die folgenden Grundsätze:
@@ -56,21 +56,13 @@ Wir hosten unsere Website bei [GitHub](https://github.com/). Details entnehmen S
 
 ## 4. Allgemeine Hinweise und Pflicht­informationen
 
-### Datenschutz
-
-Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
-
-Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
-
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
-
 ### Speicherdauer
 
 Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
 
 ### Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
 
-Die Website DFX.swiss speichert und verarbeitet lediglich die Daten welche als Minimum notwendig sind, um die Website zu betreiben. Es werden keine zusätzlichen Daten gespeichert oder erhoben. 
+Die Website [DFX.swiss](https://dfx.swiss/) speichert und verarbeitet lediglich die Daten welche als Minimum notwendig sind, um die Website zu betreiben. Es werden keine zusätzlichen Daten gespeichert oder erhoben. 
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
