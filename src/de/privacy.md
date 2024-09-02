@@ -1,4 +1,4 @@
-# Datenschutz auf einen Blick
+# Datenschutzerklärung
 
 Sehr geehrte Damen und Herren,
 Die DFX AG (nachfolgend DFX genannt) nimmt den Schutz Ihrer persönlichen Daten ernst. Der Datenschutz hat für die DFX einen hohen Stellenwert.
