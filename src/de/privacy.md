@@ -226,9 +226,9 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von LinkedIn: [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
 ## 8. Anwendbares Recht und Gerichtsstand
-Für die Website von CFG mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht, insbesondere die EU-Datenschutz-grundverordnung (DSGVO), auf die betroffene natürliche Person anwendbar ist.
+Für die Website von DFX mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht, insbesondere die EU-Datenschutz-Grundverordnung (DSGVO), auf die betroffene natürliche Person anwendbar ist.
 
-Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von CFG, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von CFG (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
+Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von DFX, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von DFX (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
 
 ## 9. Änderungen der Datenschutzerklärung
 DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, dass sie stets aktuell ist, und behält sich das Recht vor, sie bei Bedarf zu ändern. Es wird empfohlen, diese Seite regelmässig auf mögliche Änderungen zu überprüfen, da keine individuelle Benachrichtigung bei Änderungen erfolgt.
