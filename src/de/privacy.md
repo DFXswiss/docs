@@ -197,11 +197,11 @@ Wir verfügen über ein Profil bei X (ehemals: Twitter). Anbieter ist die Twitte
 
 Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch X erhalten.
 
-**Sie können Ihre Twitter-Datenschutzeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** https://x.com/settings/account/personalization.
+**Sie können Ihre X-Datenschutzeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** https://x.com/settings/account/personalization.
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Controller-to-Controller Transfers](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
 
-Details entnehmen Sie der Datenschutzerklärung von Twitter: [Twitter Datenschutzrichtlinien](https://twitter.com/de/privacy).
+Details entnehmen Sie der Datenschutzerklärung von X: [X Datenschutzrichtlinien](https://x.com/de/privacy)).
 
 ##### Instagram
 
