@@ -201,7 +201,7 @@ Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhal
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Controller-to-Controller Transfers](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
 
-Details entnehmen Sie der Datenschutzerklärung von X: [X Datenschutzrichtlinien](https://x.com/de/privacy)).
+Details entnehmen Sie der [Datenschutzrichtlinie von X](https://x.com/de/privacy)).
 
 ##### Instagram
 
@@ -209,9 +209,9 @@ Wir verfügen über ein Profil bei Instagram. Anbieter ist die Meta Platforms Ir
 
 Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Instagram erhalten.
 
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Facebook](https://www.facebook.com/legal/EU_data_transfer_addendum), https://help.instagram.com/519522125107875 und [Facebook](https://de-de.facebook.com/help/566994660333381).
+Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Meta-Vertragszusatz für die Übermittlung europäischer Daten](https://www.facebook.com/legal/EU_data_transfer_addendum) und [Standardvertragsklauseln](https://de-de.facebook.com/help/566994660333381).
 
-Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von [Instagram](https://help.instagram.com/519522125107875).
+Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der [Datenschutzrichtlinie von Instagram](https://help.instagram.com/519522125107875).
 
 ##### LinkedIn
 
