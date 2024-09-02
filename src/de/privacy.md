@@ -149,7 +149,8 @@ Im Falle des Erstkontakts sind wir gemäss Art. 12, 13 DSGVO verpflichtet, Ihnen
 
 Wir unterhalten öffentlich zugängliche Profile in Social Media-Netzwerken. Die im Einzelnen von uns genutzten Social Media-Netzwerken finden Sie weiter unten.
 
-Social Media-Netzwerke wie Facebook, Instagram, etc. können Ihr Nutzerverhalten in der Regel umfassend analysieren, wenn Sie deren Website oder eine Website mit integrierten Social Media-Inhalten (zum Beispiel Like-Buttons oder Werbebannern) besuchen. Durch den Besuch unserer Social Media-Präsenzen werden zahlreiche datenschutzrelevante Verarbeitungsvorgänge ausgelöst. Im Einzelnen:
+Social Media-Netzwerke wie Facebook, Instagram, etc. können Ihr Nutzerverhalten in der Regel umfassend analysieren, wenn Sie deren Website oder eine Website mit integrierten Social Media-Inhalten (zum Beispiel Like-Buttons oder Werbebannern) besuchen. Durch den Besuch unserer Social Media-Präsenzen werden zahlreiche datenschutzrelevante Verarbeitungsvorgänge ausgelöst.  
+Hierzu zählen:
 
 Wenn Sie in Ihrem Social Media-Account eingeloggt sind und unsere Social Media-Präsenz besuchen, kann der Betreiber des Social Media-Portals diesen Besuch Ihrem Benutzerkonto zuordnen. Ihre personenbezogenen Daten können unter Umständen aber auch dann erfasst werden, wenn Sie nicht eingeloggt sind oder keinen Account beim jeweiligen Social Media-Portal besitzen. Diese Datenerfassung erfolgt in diesem Fall beispielsweise über Cookies, die auf Ihrem Endgerät gespeichert werden oder durch Erfassung Ihrer IP-Adresse.
 
