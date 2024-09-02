@@ -21,7 +21,7 @@ Telefon: +41 41 511 46 35 
 Website: https://dfx.swiss   
 Elektronische Kontaktaufnahme: https://services.dfx.swiss/support  
 
-## 2. Datenschutz – Allgemeine Informationen
+## 2. Allgemeine Informationen zum Datenschutz
 
 DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere gemäss dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung. DFX bearbeitet personenbezogene Daten des Vertragspartners in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Vertrages (Rechtfertigung).  
 
