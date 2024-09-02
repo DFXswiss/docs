@@ -29,7 +29,7 @@ Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (zum Beispiel bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
 
-Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Es wird empfohlen, einen im Handel erhältlichen Virenschutz zu installieren und diesen regelmäßig zu aktualisieren.
+Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Es wird empfohlen, einen im Handel erhältlichen Virenschutz zu installieren und diesen regelmässig zu aktualisieren.
 
 #### Wofür nutzen wir Ihre Daten?
 
@@ -232,7 +232,7 @@ Wenn Sie sich auf ein von uns ausgeschriebenes Stellenangebot bewerben, gelten d
 
 Die Bewerbung erfolgt ausschliesslich über LinkedIn. Wenn Sie sich über LinkedIn auf eine offene Stelle bewerben, beachten Sie bitte, dass LinkedIn Ihre personenbezogenen Daten speichern und eventuell weitere Datenerhebungen in Bezug auf den Verlauf Ihrer Bewerbung vornehmen kann. Jegliche Nutzung Ihrer Daten durch LinkedIn erfolgt gemäss den Datenschutzbestimmungen von LinkedIn. LinkedIn verpflichtet sich, den gleichen hohen Standard in Bezug auf Datenschutz und Datensicherheit wie wir zu wahren.
 
-Sollte der für die Bearbeitung Verantwortliche einen Arbeitsvertrag mit einer Bewerberin oder einem Bewerber abschließen, werden die übermittelten Daten zum Zweck der Abwicklung des Arbeitsverhältnisses unter Beachtung der gesetzlichen Vorschriften und der Sicherstellung des Zugangs für unbefugte Personen bei DFX gespeichert.
+Sollte der für die Bearbeitung Verantwortliche einen Arbeitsvertrag mit einer Bewerberin oder einem Bewerber abschliessen, werden die übermittelten Daten zum Zweck der Abwicklung des Arbeitsverhältnisses unter Beachtung der gesetzlichen Vorschriften und der Sicherstellung des Zugangs für unbefugte Personen bei DFX gespeichert.
 
 Wird kein Arbeitsvertrag abgeschlossen, werden die Bewerbungsunterlagen 12 Monate nach Bekanntgabe der Ablehnungsentscheidung automatisch und ohne weitere Benachrichtigung gelöscht, sofern keine sonstigen berechtigten Interessen der datenverarbeitenden Stelle der Löschung entgegenstehen. Berechtigte Interessen können beispielsweise Nachweispflichten in Verfahren nach dem Gleichstellungsgesetz (GlG) sein.
 
