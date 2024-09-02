@@ -29,7 +29,7 @@ Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (zum Beispiel bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
 
-Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Installieren Sie bitte einen im Handel erhältlichen Virenschutz («Internet Security») und aktualisieren Sie diesen in regelmässigen Abständen.  
+Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Installieren Sie bitte einen im Handel erhältlichen Virenschutz und aktualisieren Sie diesen in regelmässigen Abständen.  
 
 #### Wofür nutzen wir Ihre Daten?
 
