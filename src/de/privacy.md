@@ -195,7 +195,7 @@ Details entnehmen Sie der [Datenschutzrichtlinie von Facebook](https://www.faceb
 
 Wir verfügen über ein Profil bei X (ehemals: Twitter). Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
 
-Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch X erhalten.
+Wir weisen darauf hin, dass wir als Betreiber dieser Seiten keinen Einfluss auf die Verarbeitung der übermittelten Daten durch X haben und nicht über deren genauen Inhalt oder Nutzung informiert werden.
 
 **Sie können Ihre X-Datenschutzeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** [Personalisierung von Ihrem Nutzer-Account auf X](https://x.com/settings/account/personalization).
 
@@ -207,7 +207,7 @@ Details entnehmen Sie der [Datenschutzrichtlinie von X](https://x.com/de/privacy
 
 Wir verfügen über ein Profil bei Instagram. Anbieter ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
 
-Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Instagram erhalten.
+Wir weisen darauf hin, dass wir als Betreiber dieser Seiten keinen Einfluss auf die Verarbeitung der übermittelten Daten durch Instagram haben und nicht über deren genauen Inhalt oder Nutzung informiert werden.
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Meta-Vertragszusatz für die Übermittlung europäischer Daten](https://www.facebook.com/legal/EU_data_transfer_addendum) und [Standardvertragsklauseln](https://de-de.facebook.com/help/566994660333381).
 
@@ -217,7 +217,7 @@ Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der [Dat
 
 Wir verfügen über ein Profil bei LinkedIn. Anbieter ist die LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland. LinkedIn verwendet Werbecookies.
 
-Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch LinkedIn erhalten.
+Wir weisen darauf hin, dass wir als Betreiber dieser Seiten keinen Einfluss auf die Verarbeitung der übermittelten Daten durch LinkedIn haben und nicht über deren genauen Inhalt oder Nutzung informiert werden.
 
 **Wenn Sie LinkedIn-Werbe-Cookies deaktivieren möchten, nutzen Sie bitte folgenden Link:** [Anzeigen abbestellen](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
 
