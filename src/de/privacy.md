@@ -29,7 +29,7 @@ Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
 
-Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Installieren Sie bitte einen im Handel erhältlichen Virenschutz (“Internet Security”) und aktualisieren Sie diesen in regelmäßigen Abständen.  
+Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Installieren Sie bitte einen im Handel erhältlichen Virenschutz (“Internet Security”) und aktualisieren Sie diesen in regelmässigen Abständen.  
 
 #### Wofür nutzen wir Ihre Daten?
 
@@ -62,7 +62,7 @@ Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer ge
 
 ### Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
 
-Die Website [DFX.swiss](https://dfx.swiss/) speichert und verarbeitet lediglich die Daten welche als Minimum notwendig sind, um die Website zu betreiben. Es werden keine zusätzlichen Daten gespeichert oder erhoben. 
+Die Website speichert und verarbeitet lediglich die Daten welche als Minimum notwendig sind, um die Website zu betreiben. Es werden keine zusätzlichen Daten gespeichert oder erhoben. 
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
@@ -74,9 +74,9 @@ Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligun
 
 ### Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)
 
-WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR KÖNNEN ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN ÜBERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON RECHTSANSPRÜCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).
+Wenn die Datenverarbeitung auf Grundlage von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, haben Sie jederzeit das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, gegen die Verarbeitung Ihrer personenbezogenen Daten Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. Die jeweilige Rechtsgrundlage, auf der eine Verarbeitung beruht, entnehmen Sie dieser Datenschutzerklärung. Wenn Sie Widerspruch einlegen, werden wir Ihre betroffenen personenbezogenen Daten nicht mehr verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen (Widerspruch nach Art. 21 Abs. 1 DSGVO).
 
-WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).
+Werden Ihre personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, so haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung Sie betreffender personenbezogener Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. Wenn Sie widersprechen, werden Ihre personenbezogenen Daten anschliessend nicht mehr zum Zwecke der Direktwerbung verwendet (Widerspruch nach Art. 21 Abs. 2 DSGVO).
 
 ### Beschwerde­recht bei der zuständigen Aufsichts­behörde
 
@@ -140,7 +140,7 @@ DFX verwendet keine Analyse-Tools wie zum Beispiel Google Analytics.
 
 ### Newsletter­daten
 
-Wenn Sie den auf der Website angebotenen Newsletter empfangen möchten, benötigen wir von Ihnen eine gültige E-Mail-Adresse, die für den direkten Zugriff auf die Website vorgesehen ist, sowie Informationen, die uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind (sog. Bestätigungs-E-Mail im “Double-Opt-In-Verfahren”). Weitere Daten werden nicht erhoben. Wir verwenden diese Daten ausschließlich für den Versand der angeforderten Informationen und geben sie nicht an Dritte weiter.
+Wenn Sie den auf der Website angebotenen Newsletter empfangen möchten, benötigen wir von Ihnen eine gültige E-Mail-Adresse, die für den direkten Zugriff auf die Website vorgesehen ist, sowie Informationen, die uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind (sog. Bestätigungs-E-Mail im “Double-Opt-In-Verfahren”). Weitere Daten werden nicht erhoben. Wir verwenden diese Daten ausschliesslich für den Versand der angeforderten Informationen und geben sie nicht an Dritte weiter.
 
 ### Emails
 
