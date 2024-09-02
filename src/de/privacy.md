@@ -4,7 +4,7 @@ Sehr geehrte Damen und Herren,
 
 Die DFX AG (nachfolgend DFX genannt) nimmt den Schutz Ihrer persönlichen Daten ernst. Der Datenschutz hat für die DFX einen hohen Stellenwert.  
 
-Der vertrauliche und verantwortungsvolle Umgang mit personenbezogenen Daten aus unseren Beziehungen zu Kunden, Geschäftspartnern, Mitarbeitenden oder Bewerbenden und Lieferanten ist die Grundlage unseres unternehmerischen Erfolgs. Deshalb halten wir uns beim Umgang mit personenbezogenen Daten an die folgenden Grundsätze:
+Der vertrauliche und verantwortungsvolle Umgang mit personenbezogenen Daten aus unseren Beziehungen zu Kunden, Geschäftspartnern, Mitarbeitenden oder Bewerbenden und Lieferanten ist die Grundlage unseres unternehmerischen Erfolgs. Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen. Deshalb halten wir uns beim Umgang mit personenbezogenen Daten an die folgenden Grundsätze:
 * Vertraulichkeit und Transparenz
 * Einhaltung unserer Unternehmensrichtlinien
 * Einhaltung aller geltenden Gesetze und Vorschriften
