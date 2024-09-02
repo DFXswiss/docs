@@ -27,7 +27,7 @@ DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlic
 
 Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir nach angemessener Information die Einwilligung der betroffenen Person in geeigneter Form ein.  
 
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
+Wir weisen darauf hin, dass die Datenübertragung im Internet (zum Beispiel bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
 
 Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Installieren Sie bitte einen im Handel erhältlichen Virenschutz (“Internet Security”) und aktualisieren Sie diesen in regelmässigen Abständen.  
 
@@ -54,7 +54,7 @@ Unsere Website wird bei [GitHub](https://github.com/) gehostet. Details entnehme
 
 ### Speicherdauer
 
-Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
+Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (zum Beispiel steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
 
 ### Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
 
@@ -62,7 +62,7 @@ Die Website speichert und verarbeitet lediglich die Daten welche als Minimum not
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
-Wir verwenden für das Hosting namens GitHub, ein Unternehmen aus den USA. Wenn diese Tools aufgerufen wird, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden. Wir weisen darauf hin, dass in diesen Ländern kein mit der Schweiz vergleichbares Datenschutzniveau garantiert werden kann. Beispielsweise sind US-Unternehmen dazu verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass Sie als betroffene Person hiergegen gerichtlich vorgehen könnten. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (z. B. Geheimdienste) Ihre auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungstätigkeiten keinen Einfluss.
+Wir verwenden für das Hosting namens GitHub, ein Unternehmen aus den USA. Wenn diese Tools aufgerufen wird, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden. Wir weisen darauf hin, dass in diesen Ländern kein mit der Schweiz vergleichbares Datenschutzniveau garantiert werden kann. Beispielsweise sind US-Unternehmen dazu verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass Sie als betroffene Person hiergegen gerichtlich vorgehen könnten. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (zum Beispiel Geheimdienste) Ihre auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungstätigkeiten keinen Einfluss.
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 
@@ -84,7 +84,7 @@ Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erf
 
 ### SSL- bzw. TLS-Verschlüsselung
 
-Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie z.B. Anfragen, die Sie an uns als Seitenbetreiber senden, verwendet diese Seite eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
+Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Anfragen, die Sie an uns als Seitenbetreiber senden, verwendet diese Seite eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
 Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten gelesen werden.
 
 ### Auskunft, Löschung und Berichtigung
@@ -112,11 +112,11 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten z
 
 Unsere Internetseiten verwenden so genannte „Cookies“. Cookies sind kleine Textdateien und richten auf Ihrem Endgerät keinen Schaden an. Sie werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente Cookies) auf Ihrem Endgerät gespeichert. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder eine automatische Löschung durch Ihren Webbrowser erfolgt.
 
-Teilweise können auch Cookies von Drittunternehmen auf Ihrem Endgerät gespeichert werden, wenn Sie unsere Seite betreten (Third-Party-Cookies). Diese ermöglichen uns oder Ihnen die Nutzung bestimmter Dienstleistungen des Drittunternehmens (z. B. Cookies zur Abwicklung von Zahlungsdienstleistungen).
+Teilweise können auch Cookies von Drittunternehmen auf Ihrem Endgerät gespeichert werden, wenn Sie unsere Seite betreten (Third-Party-Cookies). Diese ermöglichen uns oder Ihnen die Nutzung bestimmter Dienstleistungen des Drittunternehmens (zum Beispiel Cookies zur Abwicklung von Zahlungsdienstleistungen).
 
-Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da bestimmte Websitefunktionen ohne diese nicht funktionieren würden (z. B. die Warenkorbfunktion oder die Anzeige von Videos). Andere Cookies dienen dazu, das Nutzerverhalten auszuwerten oder Werbung anzuzeigen.
+Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da bestimmte Websitefunktionen ohne diese nicht funktionieren würden (zum Beispiel die Warenkorbfunktion oder die Anzeige von Videos). Andere Cookies dienen dazu, das Nutzerverhalten auszuwerten oder Werbung anzuzeigen.
 
-Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs, zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (z. B. für die Warenkorbfunktion) oder zur Optimierung der Website (z. B. Cookies zur Messung des Webpublikums) erforderlich sind (notwendige Cookies), werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird. Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von notwendigen Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. DFX verwendet nur zwingend notwendige Cookies. 
+Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs, zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (zum Beispiel für die Warenkorbfunktion) oder zur Optimierung der Website (zum Beispiel Cookies zur Messung des Webpublikums) erforderlich sind (notwendige Cookies), werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird. Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von notwendigen Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. DFX verwendet nur zwingend notwendige Cookies. 
 
 Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschliessen sowie das automatische Löschen der Cookies beim Schliessen des Browsers aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
 
@@ -126,7 +126,7 @@ Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage in
 
 Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Massnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.
 
-Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
+Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (zum Beispiel nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
 ## 6. Analyse-Tools und Werbung
 
@@ -141,7 +141,7 @@ Wenn Sie den auf der Website angebotenen Newsletter empfangen möchten, benötig
 ### Emails
 
 **Pflichtinformationen gemäss Artikel 13 DSGVO**  
-Im Falle des Erstkontakts sind wir gemäss Art. 12, 13 DSGVO verpflichtet, Ihnen folgende datenschutzrechtliche Pflichtinformationen zur Verfügung zu stellen: Wenn Sie uns per E-Mail kontaktieren, verarbeiten wir Ihre personenbezogenen Daten nur, soweit an der Verarbeitung ein berechtigtes Interesse besteht (Art. 6 Abs. 1 lit. f DSGVO), Sie in die Datenverarbeitung eingewilligt haben (Art. 6 Abs. 1 lit. a DSGVO), die Verarbeitung für die Anbahnung, Begründung, inhaltliche Ausgestaltung oder Änderung eines Rechtsverhältnisses zwischen Ihnen und uns erforderlich sind (Art. 6 Abs. 1 lit. b DSGVO) oder eine sonstige Rechtsnorm die Verarbeitung gestattet. Ihre personenbezogenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere steuer- und handelsrechtliche Aufbewahrungsfristen – bleiben unberührt. Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Ihnen steht ausserdem ein Recht auf Widerspruch, auf Datenübertragbarkeit und ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Ferner können Sie die Berichtigung, die Löschung und unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten verlangen. Details entnehmen Sie unserer [Datenschutzerklärung](https://dfx.swiss/de/datenschutz/).
+Im Falle des Erstkontakts sind wir gemäss Art. 12, 13 DSGVO verpflichtet, Ihnen folgende datenschutzrechtliche Pflichtinformationen zur Verfügung zu stellen: Wenn Sie uns per E-Mail kontaktieren, verarbeiten wir Ihre personenbezogenen Daten nur, soweit an der Verarbeitung ein berechtigtes Interesse besteht (Art. 6 Abs. 1 lit. f DSGVO), Sie in die Datenverarbeitung eingewilligt haben (Art. 6 Abs. 1 lit. a DSGVO), die Verarbeitung für die Anbahnung, Begründung, inhaltliche Ausgestaltung oder Änderung eines Rechtsverhältnisses zwischen Ihnen und uns erforderlich sind (Art. 6 Abs. 1 lit. b DSGVO) oder eine sonstige Rechtsnorm die Verarbeitung gestattet. Ihre personenbezogenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (zum Beispiel nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere steuer- und handelsrechtliche Aufbewahrungsfristen – bleiben unberührt. Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Ihnen steht ausserdem ein Recht auf Widerspruch, auf Datenübertragbarkeit und ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Ferner können Sie die Berichtigung, die Löschung und unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten verlangen. Details entnehmen Sie unserer [Datenschutzerklärung](https://dfx.swiss/de/datenschutz/).
 
 ### Unsere Social-Media-Auftritte
 
@@ -149,7 +149,7 @@ Im Falle des Erstkontakts sind wir gemäss Art. 12, 13 DSGVO verpflichtet, Ihnen
 
 Wir unterhalten öffentlich zugängliche Profile in sozialen Netzwerken. Die im Einzelnen von uns genutzten sozialen Netzwerke finden Sie weiter unten.
 
-Soziale Netzwerke wie Facebook, Instagram, etc. können Ihr Nutzerverhalten in der Regel umfassend analysieren, wenn Sie deren Website oder eine Website mit integrierten Social-Media-Inhalten (z. B. Like-Buttons oder Werbebannern) besuchen. Durch den Besuch unserer Social-Media-Präsenzen werden zahlreiche datenschutzrelevante Verarbeitungsvorgänge ausgelöst. Im Einzelnen:
+Soziale Netzwerke wie Facebook, Instagram, etc. können Ihr Nutzerverhalten in der Regel umfassend analysieren, wenn Sie deren Website oder eine Website mit integrierten Social-Media-Inhalten (zum Beispiel Like-Buttons oder Werbebannern) besuchen. Durch den Besuch unserer Social-Media-Präsenzen werden zahlreiche datenschutzrelevante Verarbeitungsvorgänge ausgelöst. Im Einzelnen:
 
 Wenn Sie in Ihrem Social-Media-Account eingeloggt sind und unsere Social-Media-Präsenz besuchen, kann der Betreiber des Social-Media-Portals diesen Besuch Ihrem Benutzerkonto zuordnen. Ihre personenbezogenen Daten können unter Umständen aber auch dann erfasst werden, wenn Sie nicht eingeloggt sind oder keinen Account beim jeweiligen Social-Media-Portal besitzen. Diese Datenerfassung erfolgt in diesem Fall beispielsweise über Cookies, die auf Ihrem Endgerät gespeichert werden oder durch Erfassung Ihrer IP-Adresse.
 
@@ -159,23 +159,23 @@ Bitte beachten Sie ausserdem, dass wir nicht alle Verarbeitungsprozesse auf den 
 
 #### Rechtsgrundlage
 
-Unsere Social-Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den sozialen Netzwerken initiierten Analyseprozesse beruhen ggf. auf abweichenden Rechtsgrundlagen, die von den Betreibern der sozialen Netzwerke anzugeben sind (z. B. Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO).
+Unsere Social-Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den sozialen Netzwerken initiierten Analyseprozesse beruhen ggf. auf abweichenden Rechtsgrundlagen, die von den Betreibern der sozialen Netzwerke anzugeben sind (zum Beispiel Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO).
 
 #### Verantwortlicher und Geltendmachung von Rechten
 
-Wenn Sie einen unserer Social-Media-Auftritte (z. B. Facebook) besuchen, sind wir gemeinsam mit dem Betreiber der Social-Media-Plattform für die bei diesem Besuch ausgelösten Datenverarbeitungsvorgänge verantwortlich. Sie können Ihre Rechte (Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Beschwerde) grundsätzlich sowohl ggü. uns als auch ggü. dem Betreiber des jeweiligen Social-Media-Portals (z. B. ggü. Facebook) geltend machen.
+Wenn Sie einen unserer Social-Media-Auftritte (zum Beispiel Facebook) besuchen, sind wir gemeinsam mit dem Betreiber der Social-Media-Plattform für die bei diesem Besuch ausgelösten Datenverarbeitungsvorgänge verantwortlich. Sie können Ihre Rechte (Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Beschwerde) grundsätzlich sowohl gegenüber uns als auch gegenüber dem Betreiber des jeweiligen Social-Media-Portals (zum Beispiel gegenüber Facebook) geltend machen.
 
 Bitte beachten Sie, dass wir trotz der gemeinsamen Verantwortlichkeit mit den Social-Media-Portal-Betreibern nicht vollumfänglich Einfluss auf die Datenverarbeitungsvorgänge der Social-Media-Portale haben. Unsere Möglichkeiten richten sich massgeblich nach der Unternehmenspolitik des jeweiligen Anbieters.
 
 #### Speicherdauer
 
-Die unmittelbar von uns über die Social-Media-Präsenz erfassten Daten werden von unseren Systemen gelöscht, sobald Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Gespeicherte Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen. Zwingende gesetzliche Bestimmungen – insb. Aufbewahrungsfristen – bleiben unberührt.
+Die unmittelbar von uns über die Social-Media-Präsenz erfassten Daten werden von unseren Systemen gelöscht, sobald Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Gespeicherte Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen. Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
 
-Auf die Speicherdauer Ihrer Daten, die von den Betreibern der sozialen Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der sozialen Netzwerke (z. B. in deren Datenschutzerklärung, siehe unten).
+Auf die Speicherdauer Ihrer Daten, die von den Betreibern der sozialen Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der sozialen Netzwerke (zum Beispiel in deren Datenschutzerklärung, siehe unten).
 
 #### Schaltflächen mit Zugang zu sozialen Medien
 
-Sofern auf der DFX-Website Funktionen (Plugins) von Drittanbietern oder Social-Media-Plattformen (z.B. Facebook, X, LinkedIn, etc.) eingebunden sind, ermöglichen diese Plugins dem Nutzer das Teilen von Inhalten in den vorgenannten sozialen Netzwerken. Die Schaltflächen sind beim Aufruf der Website standardmässig deaktiviert. Das bedeutet, dass ohne Zutun des Nutzers keine personenbezogenen Daten an die jeweiligen Drittanbieter übermittelt werden. Aktiviert der Nutzer die Schaltflächen, übermitteln die Plugins automatisch Daten, auch personenbezogene Daten, an den jeweiligen Drittanbieter. Ist der Nutzer zum Zeitpunkt des Besuchs der Website im Netzwerk des jeweiligen Drittanbieters eingeloggt, kann der Anbieter den Besuch dem Netzwerkkonto des Nutzers zuordnen. DFX hat hierauf keinen Einfluss. Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der personenbezogenen Daten können den Datenschutzhinweisen der jeweiligen sozialen Netzwerke entnommen werden. Dort kann sich der Nutzer auch über seine Rechte und Einstellungen zum Schutz der Privatsphäre informieren.
+Sofern auf der DFX-Website Funktionen (Plugins) von Drittanbietern oder Social-Media-Plattformen (zum Beispiel Facebook, X, LinkedIn, etc.) eingebunden sind, ermöglichen diese Plugins dem Nutzer das Teilen von Inhalten in den vorgenannten sozialen Netzwerken. Die Schaltflächen sind beim Aufruf der Website standardmässig deaktiviert. Das bedeutet, dass ohne Zutun des Nutzers keine personenbezogenen Daten an die jeweiligen Drittanbieter übermittelt werden. Aktiviert der Nutzer die Schaltflächen, übermitteln die Plugins automatisch Daten, auch personenbezogene Daten, an den jeweiligen Drittanbieter. Ist der Nutzer zum Zeitpunkt des Besuchs der Website im Netzwerk des jeweiligen Drittanbieters eingeloggt, kann der Anbieter den Besuch dem Netzwerkkonto des Nutzers zuordnen. DFX hat hierauf keinen Einfluss. Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der personenbezogenen Daten können den Datenschutzhinweisen der jeweiligen sozialen Netzwerke entnommen werden. Dort kann sich der Nutzer auch über seine Rechte und Einstellungen zum Schutz der Privatsphäre informieren.
 
 #### Soziale Netzwerke im Einzelnen
 
@@ -226,7 +226,7 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von LinkedIn: [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
 ## 8. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
-Der für die Bearbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbenden zum Zweck der Durchführung des Bewerbungsverfahrens. Diese Verarbeitung kann auch elektronisch erfolgen, insbesondere wenn Bewerbende zusätzlich relevante Bewerbungsunterlagen per E-Mail (z. B. im PDF-Format oder anderen Dateitypen) übermitteln.
+Der für die Bearbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbenden zum Zweck der Durchführung des Bewerbungsverfahrens. Diese Verarbeitung kann auch elektronisch erfolgen, insbesondere wenn Bewerbende zusätzlich relevante Bewerbungsunterlagen per E-Mail (zum Beispiel im PDF-Format oder anderen Dateitypen) übermitteln.
 
 Wenn Sie sich auf ein von uns ausgeschriebenes Stellenangebot bewerben, gelten diese Datenschutzbestimmungen zusätzlich zu unseren anderen Datenschutzbestimmungen, die Ihnen gesondert mitgeteilt wurden oder auf unserer Website verfügbar sind.
 
@@ -252,7 +252,7 @@ Haftungsansprüche, die sich auf Schäden materieller oder ideeller Art beziehen
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
 ## 12. Haftung für Links
-Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von DFX. Jegliche Verantwortung für Websites von Dritten, d.h. ausserhalb der zu DFX gehörenden Unternehmen, wird abgelehnt. Der Zugang zu und die Nutzung von solchen Websites erfolgt auf eigenes Risiko des Nutzers.
+Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von DFX. Jegliche Verantwortung für Websites von Dritten, das heisst ausserhalb der zu DFX gehörenden Unternehmen, wird abgelehnt. Der Zugang zu und die Nutzung von solchen Websites erfolgt auf eigenes Risiko des Nutzers.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
