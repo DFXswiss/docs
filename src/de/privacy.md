@@ -201,7 +201,7 @@ Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhal
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Controller-to-Controller Transfers](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
 
-Details entnehmen Sie der [Datenschutzrichtlinie von X](https://x.com/de/privacy)).
+Details entnehmen Sie der [Datenschutzrichtlinie von X](https://x.com/de/privacy).
 
 ##### Instagram
 
