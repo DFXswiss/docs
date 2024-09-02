@@ -215,7 +215,7 @@ Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der [Dat
 
 ##### LinkedIn
 
-Wir verfügen über ein Profil bei LinkedIn. Anbieter ist die LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland. LinkedIn verwendet Werbecookies.
+Wir verfügen über ein [Profil bei LinkedIn](https://www.linkedin.com/company/dfxswiss/). Anbieter ist die LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland. LinkedIn verwendet Werbecookies.
 
 Wir weisen darauf hin, dass wir als Betreiber dieser Seiten keinen Einfluss auf die Verarbeitung der übermittelten Daten durch LinkedIn haben und nicht über deren genauen Inhalt oder Nutzung informiert werden.
 
