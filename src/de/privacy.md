@@ -25,7 +25,7 @@ Elektronische Kontaktaufnahme: https://services.dfx.swiss/support
 
 DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere gemäss dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung. DFX bearbeitet personenbezogene Daten des Vertragspartners in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Vertrages (Rechtfertigung).  
 
-Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir nach angemessener Information die Einwilligung der betroffenen Person in geeigneter Form ein.  
+Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir nach angemessener Information die Einwilligung der betroffenen Person in geeigneter Form ein.  
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
 
@@ -148,7 +148,9 @@ DFX verwendet keine Analyse-Tools wie zum Beispiel Google Analytics.
 
 ### Newsletter­daten
 
-Wenn Sie den auf der Website angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht bzw. nur auf freiwilliger Basis erhoben.
+Wenn Sie den auf der Website angebotenen Newsletter empfangen möchten, benötigen wir von Ihnen eine gültige E-Mail-Adresse, die für den direkten Zugriff auf die Website vorgesehen ist, sowie Informationen, die uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind (sog. Bestätigungs-E-Mail im “Double-Opt-In-Verfahren”). Weitere Daten werden nicht erhoben. Wir verwenden diese Daten ausschließlich für den Versand der angeforderten Informationen und geben sie nicht an Dritte weiter.
+
+Ihre Einwilligung zur Speicherung der Daten, der Email-Adresse sowie deren Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen, etwa über den dafür vorgesehenen Link im Newsletter.
 
 ### Emails
 
