@@ -21,7 +21,7 @@ Telefon: +41 41 511 46 35 
 Website: https://dfx.swiss   
 Elektronische Kontaktaufnahme: https://services.dfx.swiss/support  
 
-## Datenschutz – Allgemeine Informationen
+## 2. Datenschutz – Allgemeine Informationen
 
 DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere gemäss dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung. DFX bearbeitet personenbezogene Daten des Vertragspartners in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Vertrages (Rechtfertigung).  
 
@@ -45,7 +45,7 @@ Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit
 
 DFX erhebt keine zusätzlichen Daten, um Surf-Verhalten statistisch auszuwerten und verwendet keine der sogenannten Analyseprogramme.
 
-## 2. Hosting
+## 3. Hosting
 
 ### Hosting mit GitHub
 
@@ -54,7 +54,7 @@ Wir hosten unsere Website bei [GitHub](https://github.com/). Details entnehmen S
 [GitHub-Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement/).  
 
 
-## 3. Allgemeine Hinweise und Pflicht­informationen
+## 4. Allgemeine Hinweise und Pflicht­informationen
 
 ### Datenschutz
 
@@ -118,7 +118,7 @@ Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, d�
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, wie etwa durch Spam-E-Mails, vor.
 
-## 4. Datenerfassung auf dieser Website
+## 5. Datenerfassung auf dieser Website
 
 ### Cookies
 
@@ -140,11 +140,11 @@ Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSG
 
 Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
-## 5. Analyse-Tools und Werbung
+## 6. Analyse-Tools und Werbung
 
 DFX verwendet keine Analyse-Tools wie zum Beispiel Google Analytics.
 
-## 6. Newsletter
+## 7. Newsletter
 
 ### Newsletter­daten
 
