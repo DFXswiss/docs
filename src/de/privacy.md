@@ -130,7 +130,7 @@ Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, 
 
 ## 6. Analyse-Tools und Werbung
 
-DFX verwendet keine Webseiten-Analyse-Tools wie zum Beispiel Google Analytics, Adobe Analytics oder andere.
+DFX verwendet keine Website-Analyse-Tools wie zum Beispiel Google Analytics, Adobe Analytics oder andere.
 
 ## 7. Newsletter und Social Media
 
