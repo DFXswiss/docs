@@ -181,7 +181,7 @@ Sofern auf der DFX-Website Funktionen (Plugins) von Drittanbietern oder Social M
 
 ##### Facebook
 
-Wir verfügen über ein Profil bei Facebook. Anbieter dieses Dienstes ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland. Die erfassten Daten werden nach Aussage von Facebook auch in die USA und in andere Drittländer übertragen.
+Wir verfügen über ein [Profil bei Facebook](https://www.facebook.com/p/DFX-Swiss-100075868787795/?_rdr). Anbieter dieses Dienstes ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland. Die erfassten Daten werden nach Aussage von Facebook auch in die USA und in andere Drittländer übertragen.
 
 Wir haben mit Facebook eine Vereinbarung über gemeinsame Verarbeitung (Controller Addendum) geschlossen. In dieser Vereinbarung wird festgelegt, für welche Datenverarbeitungsvorgänge wir bzw. Facebook verantwortlich ist, wenn Sie unsere Facebook-Page besuchen. Diese Vereinbarung können Sie unter folgendem Link einsehen: [Informationen zu Seiten-Insights](https://www.facebook.com/legal/terms/page_controller_addendum).
 
@@ -193,7 +193,7 @@ Details entnehmen Sie der [Datenschutzrichtlinie von Facebook](https://www.faceb
 
 ##### X
 
-Wir verfügen über ein Profil bei X (ehemals: Twitter). Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
+Wir verfügen über ein [Profil bei X (ehemals: Twitter)](https://x.com/DFX_Swiss). Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
 
 Wir weisen darauf hin, dass wir als Betreiber dieser Seiten keinen Einfluss auf die Verarbeitung der übermittelten Daten durch X haben und nicht über deren genauen Inhalt oder Nutzung informiert werden.
 
@@ -205,7 +205,7 @@ Details entnehmen Sie der [Datenschutzrichtlinie von X](https://x.com/de/privacy
 
 ##### Instagram
 
-Wir verfügen über ein Profil bei Instagram. Anbieter ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
+Wir verfügen über ein [Profil bei Instagram](https://www.instagram.com/dfx.swiss/). Anbieter ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
 
 Wir weisen darauf hin, dass wir als Betreiber dieser Seiten keinen Einfluss auf die Verarbeitung der übermittelten Daten durch Instagram haben und nicht über deren genauen Inhalt oder Nutzung informiert werden.
 
