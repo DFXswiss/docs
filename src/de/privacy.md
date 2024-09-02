@@ -110,7 +110,7 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten z
 
 ### Cookies
 
-Unsere Internetseiten verwenden so genannte „Cookies“. Cookies sind kleine Textdateien und richten auf Ihrem Endgerät keinen Schaden an. Sie werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente Cookies) auf Ihrem Endgerät gespeichert. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder eine automatische Löschung durch Ihren Webbrowser erfolgt.
+Unsere Internetseiten verwenden so genannte «Cookies». Cookies sind kleine Textdateien und richten auf Ihrem Endgerät keinen Schaden an. Sie werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente Cookies) auf Ihrem Endgerät gespeichert. Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder eine automatische Löschung durch Ihren Webbrowser erfolgt.
 
 Teilweise können auch Cookies von Drittunternehmen auf Ihrem Endgerät gespeichert werden, wenn Sie unsere Seite betreten (Third-Party-Cookies). Diese ermöglichen uns oder Ihnen die Nutzung bestimmter Dienstleistungen des Drittunternehmens (zum Beispiel Cookies zur Abwicklung von Zahlungsdienstleistungen).
 
@@ -136,7 +136,7 @@ DFX verwendet keine Webseiten-Analyse-Tools wie zum Beispiel Google Analytics, A
 
 ### Newsletter­daten
 
-Wenn Sie den auf der Website angebotenen Newsletter empfangen möchten, benötigen wir von Ihnen eine gültige E-Mail-Adresse, die für den direkten Zugriff auf die Website vorgesehen ist, sowie Informationen, die uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind (sogenannte Bestätigungs-E-Mail im “Double-Opt-In-Verfahren”). Weitere Daten werden nicht erhoben. Wir verwenden diese Daten ausschliesslich für den Versand der angeforderten Informationen und geben sie nicht an Dritte weiter.
+Wenn Sie den auf der Website angebotenen Newsletter empfangen möchten, benötigen wir von Ihnen eine gültige E-Mail-Adresse, die für den direkten Zugriff auf die Website vorgesehen ist, sowie Informationen, die uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind (sogenannte Bestätigungs-E-Mail im «Double-Opt-In-Verfahren»). Weitere Daten werden nicht erhoben. Wir verwenden diese Daten ausschliesslich für den Versand der angeforderten Informationen und geben sie nicht an Dritte weiter.
 
 ### E-Mails
 
