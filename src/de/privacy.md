@@ -45,7 +45,7 @@ Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit
 
 ### Hosting mit GitHub
 
-Unsere Website wird bei [GitHub](https://github.com/) gehostet. Details entnehmen Sie der Website von GitHub:   
+Unsere Website wird bei [GitHub](https://github.com/) gehostet. Weitere Informationen zum Thema Datenschutz entnehmen Sie den folgenden Seiten auf der Website von GitHub:   
 [GitHub-Nutzungsbedingungen](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service/).  
 [GitHub-Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement/).  
 
@@ -155,7 +155,7 @@ Wenn Sie in Ihrem Social Media-Account eingeloggt sind und unsere Social Media-P
 
 Mit Hilfe der so erfassten Daten können die Betreiber der Social Media-Portale Nutzerprofile erstellen, in denen Ihre Präferenzen und Interessen hinterlegt sind. Auf diese Weise kann Ihnen interessenbezogene Werbung in- und ausserhalb der jeweiligen Social Media-Präsenz angezeigt werden. Sofern Sie über einen Account beim jeweiligen Social Media-Netzwerk verfügen, kann die interessenbezogene Werbung auf allen Geräten angezeigt werden, auf denen Sie eingeloggt sind oder eingeloggt waren.
 
-Bitte beachten Sie ausserdem, dass wir nicht alle Verarbeitungsprozesse auf den Social Media-Portalen nachvollziehen können. Je nach Anbieter können daher ggf. weitere Verarbeitungsvorgänge von den Betreibern der Social Media-Portale durchgeführt werden. Details hierzu entnehmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen der jeweiligen Social Media-Portale.
+Bitte beachten Sie ausserdem, dass wir nicht alle Verarbeitungsprozesse auf den Social Media-Portalen nachvollziehen können. Je nach Anbieter können daher gegebenenfalls weitere Verarbeitungsvorgänge von den Betreibern der Social Media-Portale durchgeführt werden. Details hierzu entnehmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen der jeweiligen Social Media-Portale.
 
 #### Rechtsgrundlage
 
@@ -230,7 +230,7 @@ Der für die Bearbeitung Verantwortliche erhebt und verarbeitet die personenbezo
 
 Wenn Sie sich auf ein von uns ausgeschriebenes Stellenangebot bewerben, gelten diese Datenschutzbestimmungen zusätzlich zu unseren anderen Datenschutzbestimmungen, die Ihnen gesondert mitgeteilt wurden oder auf unserer Website verfügbar sind.
 
-Die Bewerbung erfolgt ausschliesslich über LinkedIn. Wenn Sie sich über LinkedIn auf eine offene Stelle bewerben, beachten Sie bitte, dass LinkedIn Ihre personenbezogenen Daten speichern und eventuell weitere Datenerhebungen in Bezug auf den Verlauf Ihrer Bewerbung vornehmen kann. Jegliche Nutzung Ihrer Daten durch LinkedIn erfolgt gemäss den Datenschutzbestimmungen von LinkedIn. LinkedIn verpflichtet sich, den gleichen hohen Standard in Bezug auf Datenschutz und Datensicherheit wie wir zu wahren.
+Die Bewerbung erfolgt ausschliesslich über LinkedIn. Wenn Sie sich über LinkedIn auf eine offene Stelle bewerben, beachten Sie, dass LinkedIn Ihre personenbezogenen Daten speichern und eventuell weitere Datenerhebungen in Bezug auf den Verlauf Ihrer Bewerbung vornehmen kann. Jegliche Nutzung Ihrer Daten durch LinkedIn erfolgt gemäss den Datenschutzbestimmungen von LinkedIn. LinkedIn verpflichtet sich, den gleichen hohen Standard in Bezug auf Datenschutz und Datensicherheit wie wir zu wahren.
 
 Sollte der für die Bearbeitung Verantwortliche einen Arbeitsvertrag mit einer Bewerberin oder einem Bewerber abschliessen, werden die übermittelten Daten zum Zweck der Abwicklung des Arbeitsverhältnisses unter Beachtung der gesetzlichen Vorschriften und der Sicherstellung des Zugangs für unbefugte Personen bei DFX gespeichert.
 
