@@ -185,7 +185,7 @@ Wir verfügen über ein Profil bei Facebook. Anbieter dieses Dienstes ist die Me
 
 Wir haben mit Facebook eine Vereinbarung über gemeinsame Verarbeitung (Controller Addendum) geschlossen. In dieser Vereinbarung wird festgelegt, für welche Datenverarbeitungsvorgänge wir bzw. Facebook verantwortlich ist, wenn Sie unsere Facebook-Page besuchen. Diese Vereinbarung können Sie unter folgendem Link einsehen: [Informationen zu Seiten-Insights](https://www.facebook.com/legal/terms/page_controller_addendum).
 
-**Sie können Ihre Werbeeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** https://www.facebook.com/settings?tab=ads.
+**Sie können Ihre Werbeeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** [Personalisierung von Ihrem Nutzer-Account auf Facebook](https://www.facebook.com/settings?tab=ads).
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Vertragszusatz für die Übermittlung europäischer Daten](https://www.facebook.com/legal/EU_data_transfer_addendum) und [Standardvertragsklauseln](https://de-de.facebook.com/help/566994660333381).
 
@@ -197,7 +197,7 @@ Wir verfügen über ein Profil bei X (ehemals: Twitter). Anbieter ist die Twitte
 
 Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch X erhalten.
 
-**Sie können Ihre X-Datenschutzeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** [Personalisierung](https://x.com/settings/account/personalization).
+**Sie können Ihre X-Datenschutzeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** [Personalisierung von Ihrem Nutzer-Account auf X](https://x.com/settings/account/personalization).
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Controller-to-Controller Transfers](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
 
