@@ -199,9 +199,9 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 
 Details entnehmen Sie der Datenschutzerklärung von Facebook: https://www.facebook.com/about/privacy/.
 
-##### Twitter
+##### X (ehemals: Twitter)
 
-Wir nutzen den Kurznachrichtendienst Twitter. Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
+Wir nutzen den Kurznachrichtendienst X (ehemals: Twitter). Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
 
 **Sie können Ihre Twitter-Datenschutzeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** https://twitter.com/personalization.
 
@@ -211,7 +211,7 @@ Details entnehmen Sie der Datenschutzerklärung von Twitter: [Twitter Datenschu
 
 ##### Instagram
 
-Wir verfügen über ein Profil bei Instagram. Anbieter dieses Dienstes ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
+Wir verfügen über ein Profil bei Instagram. Anbieter ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Facebook](https://www.facebook.com/legal/EU_data_transfer_addendum), https://help.instagram.com/519522125107875 und [Facebook](https://de-de.facebook.com/help/566994660333381).
 
