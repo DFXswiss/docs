@@ -132,7 +132,7 @@ Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, 
 
 DFX verwendet keine Webseiten-Analyse-Tools wie zum Beispiel Google Analytics, Adobe Analytics oder andere.
 
-## 7. Newsletter und soziale Medien
+## 7. Newsletter und Social Media
 
 ### Newsletter­daten
 
@@ -143,41 +143,41 @@ Wenn Sie den auf der Website angebotenen Newsletter empfangen möchten, benötig
 **Pflichtinformationen gemäss Artikel 13 DSGVO**  
 Im Falle des Erstkontakts sind wir gemäss Art. 12, 13 DSGVO verpflichtet, Ihnen folgende datenschutzrechtliche Pflichtinformationen zur Verfügung zu stellen: Wenn Sie uns per E-Mail kontaktieren, verarbeiten wir Ihre personenbezogenen Daten nur, soweit an der Verarbeitung ein berechtigtes Interesse besteht (Art. 6 Abs. 1 lit. f DSGVO), Sie in die Datenverarbeitung eingewilligt haben (Art. 6 Abs. 1 lit. a DSGVO), die Verarbeitung für die Anbahnung, Begründung, inhaltliche Ausgestaltung oder Änderung eines Rechtsverhältnisses zwischen Ihnen und uns erforderlich sind (Art. 6 Abs. 1 lit. b DSGVO) oder eine sonstige Rechtsnorm die Verarbeitung gestattet. Ihre personenbezogenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (zum Beispiel nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere steuer- und handelsrechtliche Aufbewahrungsfristen – bleiben unberührt. Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Ihnen steht ausserdem ein Recht auf Widerspruch, auf Datenübertragbarkeit und ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Ferner können Sie die Berichtigung, die Löschung und unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten verlangen. Details entnehmen Sie unserer [Datenschutzerklärung](https://dfx.swiss/de/datenschutz/).
 
-### Unsere Social-Media-Auftritte
+### Unsere Social Media-Auftritte
 
-#### Datenverarbeitung durch soziale Netzwerke
+#### Datenverarbeitung durch Social Media-Netzwerke
 
-Wir unterhalten öffentlich zugängliche Profile in sozialen Netzwerken. Die im Einzelnen von uns genutzten sozialen Netzwerke finden Sie weiter unten.
+Wir unterhalten öffentlich zugängliche Profile in Social Media-Netzwerken. Die im Einzelnen von uns genutzten Social Media-Netzwerken finden Sie weiter unten.
 
-Soziale Netzwerke wie Facebook, Instagram, etc. können Ihr Nutzerverhalten in der Regel umfassend analysieren, wenn Sie deren Website oder eine Website mit integrierten Social-Media-Inhalten (zum Beispiel Like-Buttons oder Werbebannern) besuchen. Durch den Besuch unserer Social-Media-Präsenzen werden zahlreiche datenschutzrelevante Verarbeitungsvorgänge ausgelöst. Im Einzelnen:
+Social Media-Netzwerke wie Facebook, Instagram, etc. können Ihr Nutzerverhalten in der Regel umfassend analysieren, wenn Sie deren Website oder eine Website mit integrierten Social Media-Inhalten (zum Beispiel Like-Buttons oder Werbebannern) besuchen. Durch den Besuch unserer Social Media-Präsenzen werden zahlreiche datenschutzrelevante Verarbeitungsvorgänge ausgelöst. Im Einzelnen:
 
-Wenn Sie in Ihrem Social-Media-Account eingeloggt sind und unsere Social-Media-Präsenz besuchen, kann der Betreiber des Social-Media-Portals diesen Besuch Ihrem Benutzerkonto zuordnen. Ihre personenbezogenen Daten können unter Umständen aber auch dann erfasst werden, wenn Sie nicht eingeloggt sind oder keinen Account beim jeweiligen Social-Media-Portal besitzen. Diese Datenerfassung erfolgt in diesem Fall beispielsweise über Cookies, die auf Ihrem Endgerät gespeichert werden oder durch Erfassung Ihrer IP-Adresse.
+Wenn Sie in Ihrem Social Media-Account eingeloggt sind und unsere Social Media-Präsenz besuchen, kann der Betreiber des Social Media-Portals diesen Besuch Ihrem Benutzerkonto zuordnen. Ihre personenbezogenen Daten können unter Umständen aber auch dann erfasst werden, wenn Sie nicht eingeloggt sind oder keinen Account beim jeweiligen Social Media-Portal besitzen. Diese Datenerfassung erfolgt in diesem Fall beispielsweise über Cookies, die auf Ihrem Endgerät gespeichert werden oder durch Erfassung Ihrer IP-Adresse.
 
-Mit Hilfe der so erfassten Daten können die Betreiber der Social-Media-Portale Nutzerprofile erstellen, in denen Ihre Präferenzen und Interessen hinterlegt sind. Auf diese Weise kann Ihnen interessenbezogene Werbung in- und ausserhalb der jeweiligen Social-Media-Präsenz angezeigt werden. Sofern Sie über einen Account beim jeweiligen sozialen Netzwerk verfügen, kann die interessenbezogene Werbung auf allen Geräten angezeigt werden, auf denen Sie eingeloggt sind oder eingeloggt waren.
+Mit Hilfe der so erfassten Daten können die Betreiber der Social Media-Portale Nutzerprofile erstellen, in denen Ihre Präferenzen und Interessen hinterlegt sind. Auf diese Weise kann Ihnen interessenbezogene Werbung in- und ausserhalb der jeweiligen Social Media-Präsenz angezeigt werden. Sofern Sie über einen Account beim jeweiligen Social Media-Netzwerk verfügen, kann die interessenbezogene Werbung auf allen Geräten angezeigt werden, auf denen Sie eingeloggt sind oder eingeloggt waren.
 
-Bitte beachten Sie ausserdem, dass wir nicht alle Verarbeitungsprozesse auf den Social-Media-Portalen nachvollziehen können. Je nach Anbieter können daher ggf. weitere Verarbeitungsvorgänge von den Betreibern der Social-Media-Portale durchgeführt werden. Details hierzu entnehmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen der jeweiligen Social-Media-Portale.
+Bitte beachten Sie ausserdem, dass wir nicht alle Verarbeitungsprozesse auf den Social Media-Portalen nachvollziehen können. Je nach Anbieter können daher ggf. weitere Verarbeitungsvorgänge von den Betreibern der Social Media-Portale durchgeführt werden. Details hierzu entnehmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen der jeweiligen Social Media-Portale.
 
 #### Rechtsgrundlage
 
-Unsere Social-Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den sozialen Netzwerken initiierten Analyseprozesse beruhen ggf. auf abweichenden Rechtsgrundlagen, die von den Betreibern der sozialen Netzwerke anzugeben sind (zum Beispiel Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO).
+Unsere Social Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den Social Media-Netzwerken initiierten Analyseprozesse beruhen ggf. auf abweichenden Rechtsgrundlagen, die von den Betreibern der Social Media-Netzwerke anzugeben sind (zum Beispiel Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO).
 
 #### Verantwortlicher und Geltendmachung von Rechten
 
-Wenn Sie einen unserer Social-Media-Auftritte (zum Beispiel Facebook) besuchen, sind wir gemeinsam mit dem Betreiber der Social-Media-Plattform für die bei diesem Besuch ausgelösten Datenverarbeitungsvorgänge verantwortlich. Sie können Ihre Rechte (Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Beschwerde) grundsätzlich sowohl gegenüber uns als auch gegenüber dem Betreiber des jeweiligen Social-Media-Portals (zum Beispiel gegenüber Facebook) geltend machen.
+Wenn Sie einen unserer Social Media-Auftritte (zum Beispiel Facebook) besuchen, sind wir gemeinsam mit dem Betreiber der Social Media-Plattform für die bei diesem Besuch ausgelösten Datenverarbeitungsvorgänge verantwortlich. Sie können Ihre Rechte (Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Beschwerde) grundsätzlich sowohl gegenüber uns als auch gegenüber dem Betreiber des jeweiligen Social Media-Portals (zum Beispiel gegenüber Facebook) geltend machen.
 
-Bitte beachten Sie, dass wir trotz der gemeinsamen Verantwortlichkeit mit den Social-Media-Portal-Betreibern nicht vollumfänglich Einfluss auf die Datenverarbeitungsvorgänge der Social-Media-Portale haben. Unsere Möglichkeiten richten sich massgeblich nach der Unternehmenspolitik des jeweiligen Anbieters.
+Bitte beachten Sie, dass wir trotz der gemeinsamen Verantwortlichkeit mit den Social Media-Portal-Betreibern nicht vollumfänglich Einfluss auf die Datenverarbeitungsvorgänge der Social Media-Portale haben. Unsere Möglichkeiten richten sich massgeblich nach der Unternehmenspolitik des jeweiligen Anbieters.
 
 #### Speicherdauer
 
-Die unmittelbar von uns über die Social-Media-Präsenz erfassten Daten werden von unseren Systemen gelöscht, sobald Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Gespeicherte Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen. Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
+Die unmittelbar von uns über die Social Media-Präsenz erfassten Daten werden von unseren Systemen gelöscht, sobald Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Gespeicherte Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen. Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
 
-Auf die Speicherdauer Ihrer Daten, die von den Betreibern der sozialen Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der sozialen Netzwerke (zum Beispiel in deren Datenschutzerklärung, siehe unten).
+Auf die Speicherdauer Ihrer Daten, die von den Betreibern der Social Media-Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der Social Media-Netzwerke (zum Beispiel in deren Datenschutzerklärung, siehe unten).
 
-#### Schaltflächen mit Zugang zu sozialen Medien
+#### Schaltflächen mit Zugang zu Social Media
 
-Sofern auf der DFX-Website Funktionen (Plugins) von Drittanbietern oder Social-Media-Plattformen (zum Beispiel Facebook, X, LinkedIn, etc.) eingebunden sind, ermöglichen diese Plugins dem Nutzer das Teilen von Inhalten in den vorgenannten sozialen Netzwerken. Die Schaltflächen sind beim Aufruf der Website standardmässig deaktiviert. Das bedeutet, dass ohne Zutun des Nutzers keine personenbezogenen Daten an die jeweiligen Drittanbieter übermittelt werden. Aktiviert der Nutzer die Schaltflächen, übermitteln die Plugins automatisch Daten, auch personenbezogene Daten, an den jeweiligen Drittanbieter. Ist der Nutzer zum Zeitpunkt des Besuchs der Website im Netzwerk des jeweiligen Drittanbieters eingeloggt, kann der Anbieter den Besuch dem Netzwerkkonto des Nutzers zuordnen. DFX hat hierauf keinen Einfluss. Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der personenbezogenen Daten können den Datenschutzhinweisen der jeweiligen sozialen Netzwerke entnommen werden. Dort kann sich der Nutzer auch über seine Rechte und Einstellungen zum Schutz der Privatsphäre informieren.
+Sofern auf der DFX-Website Funktionen (Plugins) von Drittanbietern oder Social Media-Plattformen (zum Beispiel Facebook, X, LinkedIn, etc.) eingebunden sind, ermöglichen diese Plugins dem Nutzer das Teilen von Inhalten in den vorgenannten Social Media-Netzwerken. Die Schaltflächen sind beim Aufruf der Website standardmässig deaktiviert. Das bedeutet, dass ohne Zutun des Nutzers keine personenbezogenen Daten an die jeweiligen Drittanbieter übermittelt werden. Aktiviert der Nutzer die Schaltflächen, übermitteln die Plugins automatisch Daten, auch personenbezogene Daten, an den jeweiligen Drittanbieter. Ist der Nutzer zum Zeitpunkt des Besuchs der Website im Netzwerk des jeweiligen Drittanbieters eingeloggt, kann der Anbieter den Besuch dem Netzwerkkonto des Nutzers zuordnen. DFX hat hierauf keinen Einfluss. Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der personenbezogenen Daten können den Datenschutzhinweisen der jeweiligen Social Media-Netzwerke entnommen werden. Dort kann sich der Nutzer auch über seine Rechte und Einstellungen zum Schutz der Privatsphäre informieren.
 
-#### Soziale Netzwerke im Einzelnen
+#### Social Media-Netzwerke im Einzelnen
 
 ##### Facebook
 
