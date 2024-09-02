@@ -41,10 +41,6 @@ Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger
 
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns unter https://services.dfx.swiss/support wenden.
 
-### Analyse-Tools und Tools von Dritt­anbietern
-
-DFX erhebt keine zusätzlichen Daten, um Surf-Verhalten statistisch auszuwerten und verwendet keine der sogenannten Analyseprogramme.
-
 ## 3. Hosting
 
 ### Hosting mit GitHub
@@ -134,7 +130,7 @@ Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, 
 
 ## 6. Analyse-Tools und Werbung
 
-DFX verwendet keine Analyse-Tools wie zum Beispiel Google Analytics.
+DFX verwendet keine Webseiten-Analyse-Tools wie zum Beispiel Google Analytics, Adobe Analytics oder andere.
 
 ## 7. Newsletter und soziale Medien
 
