@@ -11,7 +11,7 @@ Der vertrauliche und verantwortungsvolle Umgang mit personenbezogenen Daten aus 
 
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
-## Hinweis zur verantwortlichen Stelle (Impressum)
+## 1. Hinweis zur verantwortlichen Stelle (Impressum)
 
 Verantwortlicher auf der Grundlage des Schweizerischen Datenschutzgesetzes (DSG) ist:  
 DFX AG, Bahnhofstrasse 7, 6300 Zug (Schweiz)  
