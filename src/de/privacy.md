@@ -11,7 +11,7 @@ Der vertrauliche und verantwortungsvolle Umgang mit personenbezogenen Daten aus 
 
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
-## Datenschutz – Allgemeine Informationen
+## Hinweis zur verantwortlichen Stelle (Impressum)
 
 Verantwortlicher auf der Grundlage des Schweizerischen Datenschutzgesetzes (DSG) ist:  
 DFX AG, Bahnhofstrasse 7, 6300 Zug (Schweiz)  
@@ -21,7 +21,7 @@ Telefon: +41 41 511 46 35 
 Website: https://dfx.swiss   
 Elektronische Kontaktaufnahme: https://services.dfx.swiss/support  
 
-#### Wie erfassen wir Ihre Daten?
+## Datenschutz – Allgemeine Informationen
 
 DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere gemäss dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung. DFX bearbeitet personenbezogene Daten des Vertragspartners in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Vertrages (Rechtfertigung).  
 
