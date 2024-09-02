@@ -49,7 +49,7 @@ DFX erhebt keine zusätzlichen Daten, um Surf-Verhalten statistisch auszuwerten 
 
 ### Hosting mit GitHub
 
-Unsere Website wird bei GitHub [GitHub](https://github.com/) gehostet. Details entnehmen Sie der Website von GitHub:   
+Unsere Website wird bei [GitHub](https://github.com/) gehostet. Details entnehmen Sie der Website von GitHub:   
 [GitHub-Nutzungsbedingungen](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service/).  
 [GitHub-Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement/).  
 
