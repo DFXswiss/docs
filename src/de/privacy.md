@@ -189,7 +189,7 @@ Wir haben mit Facebook eine Vereinbarung über gemeinsame Verarbeitung (Controll
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Vertragszusatz für die Übermittlung europäischer Daten](https://www.facebook.com/legal/EU_data_transfer_addendum) und [Standardvertragsklauseln](https://de-de.facebook.com/help/566994660333381).
 
-Details entnehmen Sie der [Datenschutzrichtlinie](https://www.facebook.com/about/privacy).
+Details entnehmen Sie der [Datenschutzrichtlinie von Facebook](https://www.facebook.com/about/privacy).
 
 ##### X
 
@@ -223,7 +223,7 @@ Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhal
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [LinkedIn Data Processing Agreement (DPA)](https://www.linkedin.com/legal/l/dpa) und [EU SCCs](https://www.linkedin.com/legal/l/eu-sccs).
 
-Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von LinkedIn: [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
+Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der [Datenschutzrichtlinie von LinkedIn](https://www.linkedin.com/legal/privacy-policy).
 
 ## 8. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
 Der für die Bearbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbenden zum Zweck der Durchführung des Bewerbungsverfahrens. Diese Verarbeitung kann auch elektronisch erfolgen, insbesondere wenn Bewerbende zusätzlich relevante Bewerbungsunterlagen per E-Mail (zum Beispiel im PDF-Format oder anderen Dateitypen) übermitteln.
