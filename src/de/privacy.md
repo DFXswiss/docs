@@ -14,9 +14,9 @@ Deshalb halten wir uns beim Umgang mit personenbezogenen Daten an die folgenden 
 
 Verantwortlicher auf der Grundlage des Schweizerischen Datenschutzgesetzes (DSG) ist:  
 
-Anschrift: DFX AG, Bahnhofstrasse 7, 6300 Zug (Schweiz)  
+Anschrift: DFX AG, Bahnhofstrasse 7, 6300 Zug, Schweiz   
 Handelsregister: CHE-429.856.521  
-Registergericht: Zug (Schweiz)  
+Registergericht: Zug, Schweiz    
 Telefon: +41 41 511 46 35   
 Website: https://dfx.swiss   
 Elektronische Kontaktaufnahme: https://services.dfx.swiss/support  
