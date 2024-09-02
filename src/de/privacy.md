@@ -136,7 +136,7 @@ Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, 
 
 DFX verwendet keine Analyse-Tools wie zum Beispiel Google Analytics.
 
-## 7. Newsletter
+## 7. Newsletter und soziale Medien
 
 ### Newsletter­daten
 
