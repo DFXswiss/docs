@@ -189,7 +189,7 @@ Wir haben mit Facebook eine Vereinbarung über gemeinsame Verarbeitung (Controll
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Vertragszusatz für die Übermittlung europäischer Daten](https://www.facebook.com/legal/EU_data_transfer_addendum) und [Standardvertragsklauseln](https://de-de.facebook.com/help/566994660333381).
 
-Details entnehmen Sie der Datenschutzerklärung von Facebook: https://www.facebook.com/about/privacy/.
+Details entnehmen Sie der [Datenschutzerklärung von Facebook](https://www.facebook.com/about/privacy).
 
 ##### X
 
