@@ -225,20 +225,28 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von LinkedIn: [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
-## 8. Zustimmung zur Datenschutzerklärung
+## 8. Anwendbares Recht und Gerichtsstand
+Für die Website von CFG mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht, insbesondere die EU-Datenschutz-grundverordnung (DSGVO), auf die betroffene natürliche Person anwendbar ist.
+
+Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von CFG, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von CFG (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
+
+## 9. Zustimmung zur Datenschutzerklärung
 Der Kunde akzeptiert den Inhalt der Datenschutzerklärung in der jeweils aktuellen Fassung vollumfänglich. Die Datenschutzerklärung hat im Falle von Widersprüchen Vorrang vor den Allgemeinen Geschäftsbedingungen von DFX.
 
-## 9. Rechtliche Hinweise / Haftungsausschluss
+## 10. Änderungen der Datenschutzerklärung
+DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, dass sie stets aktuell ist, und behält sich das Recht vor, sie bei Bedarf zu ändern. Es wird empfohlen, diese Seite regelmässig auf mögliche Änderungen zu überprüfen, da keine individuelle Benachrichtigung bei Änderungen erfolgt.
+
+## 11. Rechtliche Hinweise und Haftungsausschluss
 DFX übernimmt keine Haftung für die Richtigkeit und Vollständigkeit des Inhalts der Informationen.
 
 Haftungsansprüche, die sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-## 10. Haftung für Links
+## 12. Haftung für Links
 Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von DFX. Jegliche Verantwortung für Websites von Dritten, d.h. ausserhalb der zu DFX gehörenden Unternehmen, wird abgelehnt. Der Zugang zu und die Nutzung von solchen Websites erfolgt auf eigenes Risiko des Nutzers.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-## 11. Urheberrechte und Geistiges Eigentum
+## 13. Urheberrechte und Geistiges Eigentum
 Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern. Für die Vervielfältigung oder Verwendung jeglicher Elemente muss im Voraus die schriftliche Zustimmung des jeweiligen Rechteinhabers eingeholt werden.
