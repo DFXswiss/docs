@@ -1,20 +1,32 @@
 # Datenschutz auf einen Blick
 
+Sehr geehrte Damen und Herren,
+Die DFX AG (nachfolgend DFX genannt) nimmt den Schutz Ihrer persönlichen Daten ernst. Der Datenschutz hat für die DFX einen hohen Stellenwert.
+Der vertrauliche und verantwortungsvolle Umgang mit personenbezogenen Daten aus unseren Beziehungen zu Kunden, Geschäftspartnern, Mitarbeitenden oder Bewerbenden und Lieferanten ist die Grundlage unseres unternehmerischen Erfolgs. Deshalb halten wir uns beim Umgang mit personenbezogenen Daten an die folgenden Grundsätze:
+* Vertraulichkeit und Transparenz
+* Einhaltung unserer Unternehmensrichtlinien
+* Einhaltung aller geltenden Gesetze und Vorschriften
+
 ## Allgemeine Hinweise
 
-Die folgenden Hinweise bieten einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Informationen, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz finden Sie in unserer unter diesem Text aufgeführten Datenschutzerklärung.
+Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
-## 1. Datenerfassung auf DFX.swiss Website
+## Datenschutz – Allgemeine Informationen
 
-#### Wer ist verantwortlich für die Datenerfassung auf dieser Website?
-
-Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.
+Verantwortlicher auf der Grundlage des Schweizerischen Datenschutzgesetzes (DSG) ist:
+DFX AG Bahnhofstrasse 7 6300 Zug Schweiz
+Handelsregister: CHE-429.856.521
+Registergericht: Zug
+Telefon: +41 41 511 46 35 Website: https://dfx.swiss 
+Elektronische Kontaktaufnahme: https://services.dfx.swiss/support
 
 #### Wie erfassen wir Ihre Daten?
 
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
-
-Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
+DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere gemäss dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung.
+DFX bearbeitet personenbezogene Daten des Vertragspartners in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Vertrages (Rechtfertigung).
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir nach angemessener Information die Einwilligung der betroffenen Person in geeigneter Form ein.
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Installieren Sie bitte einen im Handel erhältlichen Virenschutz (“Internet Security”) und aktualisieren Sie diesen in regelmäßigen Abständen.
 
 #### Wofür nutzen wir Ihre Daten?
 
@@ -48,18 +60,6 @@ Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ern
 Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
-
-### Hinweis zur verantwortlichen Stelle
-
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
-
-DFX AG  
-Bahnhofstrasse 7  
-6300 Zug  
-Schweiz
-
-Telefon: +41 41 511 46 35  
-Website: https://dfx.swiss
 
 ### Speicherdauer
 
