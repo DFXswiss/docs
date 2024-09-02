@@ -23,11 +23,13 @@ Elektronische Kontaktaufnahme: https://services.dfx.swiss/support
 
 #### Wie erfassen wir Ihre Daten?
 
-DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere gemäss dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung.
-DFX bearbeitet personenbezogene Daten des Vertragspartners in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Vertrages (Rechtfertigung).
-Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir nach angemessener Information die Einwilligung der betroffenen Person in geeigneter Form ein.
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
-Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Installieren Sie bitte einen im Handel erhältlichen Virenschutz (“Internet Security”) und aktualisieren Sie diesen in regelmäßigen Abständen.
+DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere gemäss dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung. DFX bearbeitet personenbezogene Daten des Vertragspartners in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Vertrages (Rechtfertigung).  
+
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir nach angemessener Information die Einwilligung der betroffenen Person in geeigneter Form ein.  
+
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) trotz der von uns getroffenen Sicherheitsvorkehrungen Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.  
+
+Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Installieren Sie bitte einen im Handel erhältlichen Virenschutz (“Internet Security”) und aktualisieren Sie diesen in regelmäßigen Abständen.  
 
 #### Wofür nutzen wir Ihre Daten?
 
