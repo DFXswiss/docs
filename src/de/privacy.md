@@ -219,7 +219,7 @@ Wir verfügen über ein Profil bei LinkedIn. Anbieter ist die LinkedIn Ireland U
 
 Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch LinkedIn erhalten.
 
-**Wenn Sie LinkedIn-Werbe-Cookies deaktivieren möchten, nutzen Sie bitte folgenden Link:** [Anzeigen abbestellen&nbsp;](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
+**Wenn Sie LinkedIn-Werbe-Cookies deaktivieren möchten, nutzen Sie bitte folgenden Link:** [Anzeigen abbestellen](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [LinkedIn Data Processing Agreement (DPA)](https://www.linkedin.com/legal/l/dpa) und [EU SCCs](https://www.linkedin.com/legal/l/eu-sccs).
 
