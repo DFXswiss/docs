@@ -229,28 +229,39 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von LinkedIn: [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
-## 8. Anwendbares Recht und Gerichtsstand
+## 8. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
+Der für die Bearbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbenden zum Zweck der Durchführung des Bewerbungsverfahrens. Diese Verarbeitung kann auch elektronisch erfolgen, insbesondere wenn Bewerbende zusätzlich relevante Bewerbungsunterlagen per E-Mail (z. B. im PDF-Format oder anderen Dateitypen) übermitteln.
+
+Wenn Sie sich auf ein von uns ausgeschriebenes Stellenangebot bewerben, gelten diese Datenschutzbestimmungen zusätzlich zu unseren anderen Datenschutzbestimmungen, die Ihnen gesondert mitgeteilt wurden oder auf unserer Website verfügbar sind.
+
+Die Bewerbung erfolgt ausschliesslich über LinkedIn. Wenn Sie sich über LinkedIn auf eine offene Stelle bewerben, beachten Sie bitte, dass LinkedIn Ihre personenbezogenen Daten speichern und eventuell weitere Datenerhebungen in Bezug auf den Verlauf Ihrer Bewerbung vornehmen kann. Jegliche Nutzung Ihrer Daten durch LinkedIn erfolgt gemäss den Datenschutzbestimmungen von LinkedIn. LinkedIn verpflichtet sich, den gleichen hohen Standard in Bezug auf Datenschutz und Datensicherheit wie wir zu wahren.
+
+Sollte der für die Bearbeitung Verantwortliche einen Arbeitsvertrag mit einer Bewerberin oder einem Bewerber abschließen, werden die übermittelten Daten zum Zweck der Abwicklung des Arbeitsverhältnisses unter Beachtung der gesetzlichen Vorschriften und der Sicherstellung des Zugangs für unbefugte Personen bei DFX gespeichert.
+
+Wird kein Arbeitsvertrag abgeschlossen, werden die Bewerbungsunterlagen 12 Monate nach Bekanntgabe der Ablehnungsentscheidung automatisch und ohne weitere Benachrichtigung gelöscht, sofern keine sonstigen berechtigten Interessen der datenverarbeitenden Stelle der Löschung entgegenstehen. Berechtigte Interessen können beispielsweise Nachweispflichten in Verfahren nach dem Gleichstellungsgesetz (GlG) sein.
+
+## 9. Anwendbares Recht und Gerichtsstand
 Für die Website von DFX mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht, insbesondere die EU-Datenschutz-Grundverordnung (DSGVO), auf die betroffene natürliche Person anwendbar ist.
 
 Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von DFX, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von DFX (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
 
-## 9. Änderungen der Datenschutzerklärung
+## 10. Änderungen der Datenschutzerklärung
 DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, dass sie stets aktuell ist, und behält sich das Recht vor, sie bei Bedarf zu ändern. Es wird empfohlen, diese Seite regelmässig auf mögliche Änderungen zu überprüfen, da keine individuelle Benachrichtigung bei Änderungen erfolgt.
 
-## 10. Rechtliche Hinweise und Haftungsausschluss
+## 11. Rechtliche Hinweise und Haftungsausschluss
 DFX übernimmt keine Haftung für die Richtigkeit und Vollständigkeit des Inhalts der Informationen.
 
 Haftungsansprüche, die sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-## 11. Haftung für Links
+## 12. Haftung für Links
 Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von DFX. Jegliche Verantwortung für Websites von Dritten, d.h. ausserhalb der zu DFX gehörenden Unternehmen, wird abgelehnt. Der Zugang zu und die Nutzung von solchen Websites erfolgt auf eigenes Risiko des Nutzers.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-## 12. Urheberrechte und Geistiges Eigentum 
+## 13. Urheberrechte und Geistiges Eigentum 
 Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern. Für die Vervielfältigung oder Verwendung jeglicher Elemente muss im Voraus die schriftliche Zustimmung des jeweiligen Rechteinhabers eingeholt werden.
 
-## 13. Zustimmung zur Datenschutzerklärung
+## 14. Zustimmung zur Datenschutzerklärung
 Der Kunde akzeptiert den Inhalt der Datenschutzerklärung in der jeweils aktuellen Fassung vollumfänglich. Die Datenschutzerklärung hat im Falle von Widersprüchen Vorrang vor den Allgemeinen Geschäftsbedingungen von DFX.
