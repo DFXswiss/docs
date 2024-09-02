@@ -89,7 +89,7 @@ Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Si
 
 ### Auskunft, Löschung und Berichtigung
 
-Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.
+Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und gegebenenfalls ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.
 
 ### Recht auf Einschränkung der Verarbeitung
 
@@ -159,7 +159,7 @@ Bitte beachten Sie ausserdem, dass wir nicht alle Verarbeitungsprozesse auf den 
 
 #### Rechtsgrundlage
 
-Unsere Social Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den Social Media-Netzwerken initiierten Analyseprozesse beruhen ggf. auf abweichenden Rechtsgrundlagen, die von den Betreibern der Social Media-Netzwerke anzugeben sind (zum Beispiel Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO).
+Unsere Social Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den Social Media-Netzwerken initiierten Analyseprozesse beruhen gegebenenfalls auf abweichenden Rechtsgrundlagen, die von den Betreibern der Social Media-Netzwerke anzugeben sind (zum Beispiel Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO).
 
 #### Verantwortlicher und Geltendmachung von Rechten
 
