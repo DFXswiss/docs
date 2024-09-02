@@ -193,7 +193,7 @@ Details entnehmen Sie der [Datenschutzrichtlinie von Facebook](https://www.faceb
 
 ##### X
 
-Wir verfügen über ein [Profil bei X (ehemals: Twitter)](https://x.com/DFX_Swiss). Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
+Wir verfügen über ein [Profil bei X](https://x.com/DFX_Swiss) (ehemals: Twitter)]. Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
 
 Wir weisen darauf hin, dass wir als Betreiber dieser Seiten keinen Einfluss auf die Verarbeitung der übermittelten Daten durch X haben und nicht über deren genauen Inhalt oder Nutzung informiert werden.
 
