@@ -191,9 +191,11 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 
 Details entnehmen Sie der Datenschutzerklärung von Facebook: https://www.facebook.com/about/privacy/.
 
-##### X (ehemals: Twitter)
+##### X
 
-Wir nutzen den Kurznachrichtendienst X (ehemals: Twitter). Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
+Wir verfügen über ein Profil bei X (ehemals: Twitter). Anbieter ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irland.
+
+Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch X erhalten.
 
 **Sie können Ihre Twitter-Datenschutzeinstellungen selbstständig in Ihrem Nutzer-Account anpassen. Klicken Sie hierzu auf folgenden Link und loggen Sie sich ein:** https://twitter.com/personalization.
 
@@ -205,6 +207,8 @@ Details entnehmen Sie der Datenschutzerklärung von Twitter: [Twitter Datenschu
 
 Wir verfügen über ein Profil bei Instagram. Anbieter ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
 
+Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Instagram erhalten.
+
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Facebook](https://www.facebook.com/legal/EU_data_transfer_addendum), https://help.instagram.com/519522125107875 und [Facebook](https://de-de.facebook.com/help/566994660333381).
 
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Datenschutzerklärung von Instagram: https://help.instagram.com/519522125107875.
@@ -212,6 +216,8 @@ Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der Date
 ##### LinkedIn
 
 Wir verfügen über ein Profil bei LinkedIn. Anbieter ist die LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland. LinkedIn verwendet Werbecookies.
+
+Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch LinkedIn erhalten.
 
 **Wenn Sie LinkedIn-Werbe-Cookies deaktivieren möchten, nutzen Sie bitte folgenden Link:** [Anzeigen abbestellen&nbsp;](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
 
