@@ -150,8 +150,6 @@ DFX verwendet keine Analyse-Tools wie zum Beispiel Google Analytics.
 
 Wenn Sie den auf der Website angebotenen Newsletter empfangen möchten, benötigen wir von Ihnen eine gültige E-Mail-Adresse, die für den direkten Zugriff auf die Website vorgesehen ist, sowie Informationen, die uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind (sog. Bestätigungs-E-Mail im “Double-Opt-In-Verfahren”). Weitere Daten werden nicht erhoben. Wir verwenden diese Daten ausschließlich für den Versand der angeforderten Informationen und geben sie nicht an Dritte weiter.
 
-Ihre Einwilligung zur Speicherung der Daten, der Email-Adresse sowie deren Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen, etwa über den dafür vorgesehenen Link im Newsletter.
-
 ### Emails
 
 **Pflichtinformationen gemäss Artikel 13 DSGVO**  
