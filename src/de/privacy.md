@@ -136,10 +136,6 @@ Die unmittelbar von uns über die Social Media-Präsenz erfassten Daten werden v
 
 Auf die Speicherdauer Ihrer Daten, die von den Betreibern der Social Media-Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der Social Media-Netzwerke (zum Beispiel in deren Datenschutzrichtlinien und -erklärungen, siehe unten).
 
-#### Schaltflächen mit Zugang zu Social Media
-
-Sofern auf der DFX-Website Funktionen (Plugins) von Drittanbietern oder Social Media-Plattformen (zum Beispiel Facebook, X, LinkedIn, etc.) eingebunden sind, ermöglichen diese Plugins dem Nutzer das Teilen von Inhalten in den vorgenannten Social Media-Netzwerken. Die Schaltflächen sind beim Aufruf der Website standardmässig deaktiviert. Das bedeutet, dass ohne Zutun des Nutzers keine personenbezogenen Daten an die jeweiligen Drittanbieter übermittelt werden. Aktiviert der Nutzer die Schaltflächen, übermitteln die Plugins automatisch Daten, auch personenbezogene Daten, an den jeweiligen Drittanbieter. Ist der Nutzer zum Zeitpunkt des Besuchs der Website im Netzwerk des jeweiligen Drittanbieters eingeloggt, kann der Anbieter den Besuch dem Netzwerkkonto des Nutzers zuordnen. DFX hat hierauf keinen Einfluss. Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der personenbezogenen Daten können den Datenschutzhinweisen der jeweiligen Social Media-Netzwerke entnommen werden. Dort kann sich der Nutzer auch über seine Rechte und Einstellungen zum Schutz der Privatsphäre informieren.
-
 #### Social Media-Netzwerke im Einzelnen
 
 ##### Facebook
