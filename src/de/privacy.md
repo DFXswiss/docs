@@ -165,7 +165,7 @@ Wir weisen darauf hin, dass wir als Betreiber dieser Seiten keinen Einfluss auf 
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [Controller-to-Controller Transfers](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
 
 Details entnehmen Sie der [Datenschutzrichtlinie von X](https://x.com/de/privacy).
-
+ 
 ##### Instagram
 
 Wir verfügen über ein [Profil bei Instagram](https://www.instagram.com/dfx.swiss/). Anbieter ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.
