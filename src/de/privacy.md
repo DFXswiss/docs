@@ -209,7 +209,7 @@ DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, da
 Bei Unstimmigkeiten mit der englischen Version ist die deutsche Fassung dieser Datenschutzerklärung massgebend.
 
 ## 11. Rechtliche Hinweise und Haftungsausschluss
-DFX übernimmt keine Haftung für die Richtigkeit und Vollständigkeit des Inhalts der Informationen.
+DFX übernimmt keine Haftung für die Richtigkeit und Vollständigkeit des Inhalts der Informationen. 
 
 Haftungsansprüche, die sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen.
 
