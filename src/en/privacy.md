@@ -299,6 +299,3 @@ If you would like to disable LinkedIn advertising cookies, please use the follow
 Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: LinkedIn Data Processing Agreement (DPA) (opens new window) and EU SCCs (opens new window).
 
 For details on their handling of your personal data, see LinkedIn's privacy policy: LinkedIn Privacy Policy (opens new window).
-
-#### YouTube
-We have a profile on YouTube. The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. For details on how they handle your personal data, please refer to YouTube's privacy policy: https://policies.google.com/privacy?hl=de.

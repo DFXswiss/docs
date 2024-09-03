@@ -61,7 +61,7 @@ Bahnhofstrasse 7
 Suisse
 
 Téléphone: +41 41 511 46 35  
-E-Mail: support@DFX.swiss
+Le contact électronique avec DFX est possible sur https://services.dfx.swiss/support.
 
 ### Durée de stockage
 
@@ -226,7 +226,3 @@ Nous disposons d'un profil sur LinkedIn. Le fournisseur est LinkedIn Ireland Unl
 Le transfert de données vers les États-Unis est basé sur les clauses contractuelles standard de la Commission européenne. Vous trouverez des détails ici : [LinkedIn Data Processing Agreement (DPA)](https://www.linkedin.com/legal/l/dpa) et [EU SCCs](https://www.linkedin.com/legal/l/eu-sccs).
 
 Pour plus de détails sur leur traitement de vos données personnelles, veuillez consulter la déclaration de confidentialité de LinkedIn : [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
-
-##### YouTube
-
-Nous disposons d'un profil sur YouTube. Le fournisseur est Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irlande. Pour plus de détails sur la manière dont ils traitent vos données personnelles, veuillez consulter la déclaration de confidentialité de YouTube : https://policies.google.com/privacy?hl=de.
