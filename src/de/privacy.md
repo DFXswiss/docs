@@ -43,11 +43,13 @@ Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit
 
 ## 3. Hosting
 
-### Hosting mit GitHub
+### Hosting mit All-Inkl
 
-Unsere Website wird bei [GitHub](https://github.com/) gehostet. Weitere Informationen zum Thema Datenschutz entnehmen Sie den folgenden Seiten auf der Website von GitHub:   
-[GitHub-Nutzungsbedingungen](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service/).  
-[GitHub-Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement/).  
+Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstraße 68, 02742 Friedersdorf (im Folgenden: All-Inkl). Einzelheiten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+
+Die Nutzung von All-Inkl erfolgt auf Grundlage von Art. 6 Abs.. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse daran, dass unsere Website möglichst zuverlässig dargestellt wird. Soweit eine entsprechende Einwilligung eingeholt wurde, erfolgt die Verarbeitung ausschließlich auf der Grundlage von Art. 6 Abs.. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, sofern die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z.B. Device Fingerprinting) im Sinne des TTDSG umfasst. Die Einwilligung kann jederzeit widerrufen werden.
+
+Übersetzt mit DeepL.com (kostenlose Version)
 
 
 ## 4. Allgemeine Hinweise und Pflicht­informationen
