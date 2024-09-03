@@ -144,7 +144,7 @@ Bitte beachten Sie, dass wir trotz der gemeinsamen Verantwortlichkeit mit den So
 
 Die unmittelbar von uns über die Social Media-Präsenz erfassten Daten werden von unseren Systemen gelöscht, sobald Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Gespeicherte Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen. Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
 
-Auf die Speicherdauer Ihrer Daten, die von den Betreibern der Social Media-Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der Social Media-Netzwerke (zum Beispiel in deren Datenschutzerklärung, siehe unten).
+Auf die Speicherdauer Ihrer Daten, die von den Betreibern der Social Media-Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der Social Media-Netzwerke (zum Beispiel in deren Datenschutzrichtlinien und -erklärungen, siehe unten).
 
 #### Schaltflächen mit Zugang zu Social Media
 
