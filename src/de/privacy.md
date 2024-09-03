@@ -130,16 +130,6 @@ Mit Hilfe der so erfassten Daten können die Betreiber der Social Media-Portale 
 
 Bitte beachten Sie ausserdem, dass wir nicht alle Verarbeitungsprozesse auf den Social Media-Portalen nachvollziehen können. Je nach Anbieter können daher gegebenenfalls weitere Verarbeitungsvorgänge von den Betreibern der Social Media-Portale durchgeführt werden. Details hierzu entnehmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen der jeweiligen Social Media-Portale.
 
-#### Rechtsgrundlage
-
-Unsere Social Media-Auftritte sollen eine möglichst umfassende Präsenz im Internet gewährleisten. Hierbei handelt es sich um ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO. Die von den Social Media-Netzwerken initiierten Analyseprozesse beruhen gegebenenfalls auf abweichenden Rechtsgrundlagen, die von den Betreibern der Social Media-Netzwerke anzugeben sind (zum Beispiel Einwilligung im Sinne des Art. 6 Abs. 1 lit. a DSGVO).
-
-#### Verantwortlicher und Geltendmachung von Rechten
-
-Wenn Sie einen unserer Social Media-Auftritte (zum Beispiel Facebook) besuchen, sind wir gemeinsam mit dem Betreiber der Social Media-Plattform für die bei diesem Besuch ausgelösten Datenverarbeitungsvorgänge verantwortlich. Sie können Ihre Rechte (Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Beschwerde) grundsätzlich sowohl gegenüber uns als auch gegenüber dem Betreiber des jeweiligen Social Media-Portals (zum Beispiel gegenüber Facebook) geltend machen.
-
-Bitte beachten Sie, dass wir trotz der gemeinsamen Verantwortlichkeit mit den Social Media-Portal-Betreibern nicht vollumfänglich Einfluss auf die Datenverarbeitungsvorgänge der Social Media-Portale haben. Unsere Möglichkeiten richten sich massgeblich nach der Unternehmenspolitik des jeweiligen Anbieters.
-
 #### Speicherdauer
 
 Die unmittelbar von uns über die Social Media-Präsenz erfassten Daten werden von unseren Systemen gelöscht, sobald Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Gespeicherte Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen. Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
