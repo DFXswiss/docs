@@ -215,7 +215,8 @@ Für die Website von DFX mit Sitz in der Schweiz ist ausschliesslich Schweizer (
 Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von DFX, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von DFX (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
 
 ## 10. Änderungen der Datenschutzerklärung
-DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, dass sie stets aktuell ist, und behält sich das Recht vor, sie bei Bedarf zu ändern. Es wird empfohlen, diese Seite regelmässig auf mögliche Änderungen zu überprüfen, da keine individuelle Benachrichtigung bei Änderungen erfolgt.
+DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, dass sie stets aktuell ist, und behält sich das Recht vor, sie bei Bedarf zu ändern. Es wird empfohlen, diese Seite regelmässig auf mögliche Änderungen zu überprüfen, da keine individuelle Benachrichtigung bei Änderungen erfolgt.  
+Bei Unstimmigkeiten mit der englischen Version ist die deutsche Fassung dieser Datenschutzerklärung massgebend.
 
 ## 11. Rechtliche Hinweise und Haftungsausschluss
 DFX übernimmt keine Haftung für die Richtigkeit und Vollständigkeit des Inhalts der Informationen.
