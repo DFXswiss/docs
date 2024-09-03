@@ -64,7 +64,7 @@ Die Website speichert und verarbeitet lediglich die Daten welche als Minimum not
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
-Wir verwenden für das Hosting namens GitHub, ein Unternehmen aus den USA. Wenn diese Tools aufgerufen wird, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden. Wir weisen darauf hin, dass in diesen Ländern kein mit der Schweiz vergleichbares Datenschutzniveau garantiert werden kann. Beispielsweise sind US-Unternehmen dazu verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass Sie als betroffene Person hiergegen gerichtlich vorgehen könnten. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (zum Beispiel Geheimdienste) Ihre auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungstätigkeiten keinen Einfluss.
+Wir verwenden für das Hosting namens All-Inkl, ein Unternehmen aus Deutschland. Wenn diese Tools aufgerufen werden, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden.
 
 ### SSL- bzw. TLS-Verschlüsselung
 
