@@ -11,7 +11,7 @@ DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit
 
 ## Ist DFX reguliert? Was bedeutet das für mich?
 Ja. Die Regulierung kann [hier](https://www.finma.ch/de/bewilligung/selbstregulierungsorganisationen-sro/sro-mitglieder-suche/) abgerufen werden.
-Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung notwendig ist. Dein freigeschaltetes Handelsvolumen kannst du auf deiner Paymentseite einsehen, welche du über dein Portfolio unter "My DFX" ereichst. Du kannst den KYC Prozess direkt dort starten oder auch ein höheres Limit beantragen, falls du den KYC bereits abgeschlossen hast.
+Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung notwendig ist.
 Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmässigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
 
 ## Inwiefern hat DFX Zugriff auf mein Geld?
@@ -21,14 +21,7 @@ DFX hat nur während des Kaufs/Verkaufs Zugriff auf das Geld des Kunden. Sobald 
 Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschl. Überseegebiete, DOM, keine TOM), Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Niederlande (einschl. Überseegebiete), Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Zypern, Island, Liechtenstein, Norwegen, Schweiz, Feröer, Grönland, Guernsey Insel, Jersey Insel, Monaco, San Marino, Vereinigte Arabische Emirate, Vereinigtes Königreich, Israel
 
 ## Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei DFX getätigt habe?
-Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch fürs Finanzamt verwenden.
-
-Dazu kannst du auf der Payment Seite unter **Transaktionshistorie** in zwei Varianten auswählen.
-
-- csv-Format als Download (Cointracking kompatibel) und
-- API für Cointracking (nur Lesen)
-
-Wichtig: Pop Up Blocker deaktivieren!
+Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch fürs Finanzamt verwenden. Bei Fragen und Unklarheiten hierzu kannst du dich einfach an: https://dfx.swiss/help melden.
 
 ## Ist der Service auch für Unternehmenskunden verfügbar?
 Ja.
