@@ -67,7 +67,7 @@ Im Schnitt rechnen wir nach Zahlungseingang bei unserer Bank eine Verarbeitungsz
 Die Gebühren bei DFX findest du in unseren AGB unter diesem [Link](https://docs.dfx.swiss/de/tnc.html#gebuhren).
 
 ### Wie kann ich Fiatgeld an DFX überweisen?
-Eine Überweisung tätigst du ja, um in ein Crypto-Asset zu investieren. Dazu kannst du unsere [Paymentseite](https://payment.dfx.swiss/login) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
+Eine Überweisung tätigst du ja, um in ein Crypto-Asset zu investieren. Dazu kannst du unsere [Seite](https://services.dfx.swiss/) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
 
 ### Wie richte ich eine Aufteilung der Investition in den verschiedenen Assets ein, wenn ich Einzahlungen via Dauerauftrag bei der Hausbank tätige?
 Du kannst, nachdem du einmal eine Investition in ein bestimmtes Asset getätigt hast, durch wiederholte Überweisungen (Dauerauftrag) mit dem korrekten Verwendungszweck einen Sparplan für dieses Asset erzeugen. Sobald du neue Assets sparen möchtest, wiederholst du einfach den Prozess für dieses Asset und richtest danach wieder einen Dauerauftrag bei deiner Bank ein.
@@ -118,7 +118,7 @@ Achtung: Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben ka
 Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen Crypto-Assets verwendet wird, bekommst du 0,25% des Transaktionsvolumens täglich ausbezahlt.
 
 ## Wie verwende ich einen Referral-Link?
-Im Bezahlprozess auf unserer [Payment Seite](https://payment.dfx.swiss/login) gibt es das Eingabefeld für den Referral-Link/-Code, solange kein Code eingegeben wurde.
+Im Bezahlprozess auf unserer [Seite](https://services.dfx.swiss/) gibt es das Eingabefeld für den Referral-Link/-Code, solange kein Code eingegeben wurde.
 
 ## Gibt es ein Limit für die Anzahl der Empfehlungen, für die ich einen Bonus erhalten kann?
 Nein, wir möchten, dass du so viele Freunde und Bekannte wie möglich von unserem Service überzeugst. Beide Seiten profitieren daher vom Referral-Programm.
