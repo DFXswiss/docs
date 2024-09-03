@@ -175,7 +175,7 @@ Nachfolgend findest du Links zu Artikeln und Videos, die zu diesem Thema z.B. in
 Meldung in der BTC only App „Backup nicht verifiziert“
 
 - Erklärung: [klick](https://t.me/DFXswiss/91021)
-- YouTube-Tutorial von Oliver Rummel, CMO bei DFX: [klick](https://youtu.be/CPYjvBC2NRs)
+- YouTube-Tutorial von Oli: [klick](https://youtu.be/CPYjvBC2NRs)
 - Global senden: [klick](https://t.me/DFXswiss/99843)
 
 BTC Wallet bereits vorhandenen? [klick](https://t.me/DFXswiss/84476)
