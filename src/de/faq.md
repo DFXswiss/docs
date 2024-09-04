@@ -164,21 +164,19 @@ Meldung in der Bitcoin (BTC) only App "Backup nicht verifiziert"
 - [Erklärung](https://t.me/DFXswiss/91021)
 - [YouTube-Tutorial von Oli](https://youtu.be/CPYjvBC2NRs)
 - [Global senden](https://t.me/DFXswiss/99843)
+- [BTC Wallet bereits vorhanden?](https://t.me/DFXswiss/84476)  
+- [DFX Seed Phrase Template (PDF-Download)](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
+- Geführter Kauf- oder Verkauf: "DFX Services"
+- [Native Bitcoin kaufen](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
+- [Native Bitcoin verkaufen](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
 
-BTC Wallet bereits vorhandenen? [BTC Wallet bereits vorhandenen?](https://t.me/DFXswiss/84476)  
-[DFX Seed Phrase Template (PDF-Download)](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
+Achtung: Die Videos wurden vor der Einführung der neuen DFX-Gebührenstruktur erstellt und zeigen daher noch die DFX-Gebühren vor dem 01. Dezember 2022.
 
-- Geführter Kauf- oder Verkauf: „DFX Services“
-- Native Bitcoin kaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
-- Native Bitcoin verkaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
+- [Bestehendes DFX KYC auch mit der BTC only App verwenden](https://t.me/DFXswiss/84097)
 
-Achtung: Die beiden Videos wurden vor der Einführung der neuen DFX Gebührenstruktur erstellt und zeigen daher noch die DFX-Gebühren vor dem 1. Dezember 2022.
+Anschliessend kann gerne SEPA Instant oder Standard SEPA benutzt werden. Weitere Informationen hierzu finden sich [hier](https://t.me/DFXswiss/71068).
 
-Bestehendes DFX KYC auch mit der BTC only App verwenden: [klick](https://t.me/DFXswiss/84097)
-
-Anschliessend kann gerne SEPA Instant oder Standard SEPA benutzt werden: [klick](https://t.me/DFXswiss/71068)
-
-Wichtige Informationen zum BTC-Kurs beim Kauf: [klick](https://t.me/DFXswiss/85437)
+- [Wichtige Informationen zum BTC-Kurs beim Kauf](https://t.me/DFXswiss/85437)
 
 Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://dfx.swiss/help) wenden.
 
@@ -187,19 +185,16 @@ Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](h
 - Ledger
 - Trezor 
 
-Krypto-Assets kaufen oder verkaufen mit der neuen Toolbox auf DFX.swiss
-
+Krypto-Assets kaufen oder verkaufen mit der neuen Toolbox auf [DFX.swiss](https://t.me/DFXswiss/85437](https://dfx.swiss/).  
 Investiere entweder einmalig oder per Dauerauftrag (DCA) direkt in deine Hardware-Wallet!
 
 Mehr dazu auf YouTube in diesen Tutorial-Videos:
 [DFX](https://youtu.be/-DV2xhPZG-w)
 [Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
 
-Hier findest du weitere Informationen im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
+Hier findest du weitere Informationen zu DFX im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
 
-Crypto-Influencer (sowie alle anderen Webseiten-Eigner) 
-können jetzt diese Toolbox auf der eigenen Webseite einbauen und 
-RefCode-Rewards damit generieren. 
+Crypto-Influencer (sowie alle anderen Webseiten-Eigner) können jetzt diese Toolbox auf der eigenen Webseite einbauen und Referral Code-Belohnungen damit generieren. 
 
 ## Wie kann ich das IFRAME-Widget von DFX in meine eigene Website integrieren?
 Das ist ganz einfach, Du brauchst nur den folgenden Code:
@@ -221,24 +216,25 @@ wallet="IFRAME" wird benötigt um eine eigene wallet id mitgeben zu können.
 Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möchte mit einer eigens ausgewählten Auswahl an Coins die angeboten werden sollen.   
    
 Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME.    
-Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der Telegram-Gruppe https://t.me/DFXswiss oder unser Support unter http://dfx.swiss/help gerne weiter.   
+Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der [Telegram-Gruppe](https://t.me/DFXswiss) oder unser [Support](https://dfx.swiss/help) gerne weiter.   
 
 ## Command Line Login
-Du kannst dich auch mittels manueller eingabe von einer Blockchainadresse und passender Signatur bei DFX einloggen. Gehe dazu auf https://services.dfx.swiss/login und klicke aud "Command Line". Als erstes wirst du nach deiner Blockchain Adresse gefragt. Nach eingabe einer gültigen Blockchain Adresse erhältst du eine Nachricht zum signieren. Signiere diese Nachricht mit Deiner Wallet und trage die Signatur in das untere Feld ein. Mit Klick auf "Login" wird die Signatur geprüft und du wirst eingeloggt. 
+Du kannst dich auch mittels manueller Eingabe von einer Blockchainadresse und passender Signatur bei DFX einloggen. Gehe dazu auf https://services.dfx.swiss/login und klicke auf "Command Line". Als erstes wirst du nach deiner Blockchain-Adresse gefragt. Nach eingabe einer gültigen Blockchain-Adresse erhältst du eine Nachricht zum signieren. Signiere diese Nachricht mit deiner Wallet und trage die Signatur in das untere Feld ein. Mit einem Klick auf "Login" wird die Signatur geprüft und du wirst eingeloggt. 
 
 ## Wie ist der Stand meiner Transaktion? Ich habe meine Crypto Assets nicht erhalten.
 Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast, weil du die Crypto Assets noch nicht erhalten hast, dann hast du folgende Möglichkeiten:
-- Wenn es eine Banktransaktion war, empfehlen wir zwingend 2 Arbeitstage abzuwarten. Banktransaktionen werden in der Regel innert weniger Stunden verarbeitet, können im Extremfall aber auch einmal 3 Tage benötigen. Wir empfehlen also zuerst 2 Tage abzuwarten, bevor eine Nachvorschung gestartet wird.
-- Du kannst im DFX Telegram Chat https://t.me/DFXswiss nachfragen. Die Moderatoren reagieren dort sehr schnell auf Anfragen und können meistens rasch helfen. Bitte beachte, dass dich nie ein (echter) DFX-Mitarbeiter per Privatnachricht anschreiben wird! Wenn dich ein vermeintlicher DFX-Mitarbeiter per privater nachricht anschreibt, dann ist es ein Betrüger und kein echter DFX-Mitarbeiter. DFX-Mitarbeiter schreiben Dir nur in der öffentlichen Telegram-Gruppe oder nur dann in einem privaten Chat, der von Dir begonnen und eröffnet wurde, niemals aber in einam privaten Chat, der nicht von Dir selbst gestartet wurde!
-- Du kannst eine E-Mail an support (at) dfx.swiss schreiben. Es ist wichtig alle relevanten Informationen zur Transaktion mitzusenden.
+- Wenn es eine Banktransaktion war, empfehlen wir zwingend 2 Arbeitstage abzuwarten. Banktransaktionen werden in der Regel innert weniger Stunden verarbeitet, können im Extremfall aber auch einmal 3 Arbeitstage benötigen. Wir empfehlen daher, zuerst 2 Arbeitstage abzuwarten, bevor eine Nachforschung gestartet wird.
+- Du kannst im [DFX Telegram Chat](https://t.me/DFXswiss) nachfragen. Die Moderatoren reagieren dort sehr schnell auf Anfragen und können meistens rasch helfen. Bitte beachte, dass dich nie ein (echter) DFX-Mitarbeiter per Privatnachricht anschreiben wird! Wenn dich ein vermeintlicher DFX-Mitarbeiter per privater nachricht anschreibt, dann ist es ein Betrüger und kein echter DFX-Mitarbeiter. DFX-Mitarbeiter schreiben dir nur in der öffentlichen Telegram-Gruppe oder nur in einem privaten Chat, der von dir begonnen und eröffnet wurde, niemals aber in einam privaten Chat, der nicht von dir selbst gestartet wurde!
+- Des Weiteren kann auch der [Support](https://dfx.swiss/help) über die Webseite kontaktiert werden.
 
 ## Welche Daten müssen in einer Support-Anfrage mitgesendet werden?
-Bei Banktransaktionen:
-1. Der Verwendungszweck. Das wichtigste in dein persönlicher Verwendungszweck. Auch Zahlungsmitteilung oder Reference genannt. Dieser ist das wichtigste bei der Aufnahme zum Support. Darüber wird jede Transaktion einem entsprechenden Kundenkonto und dem gewünschten Kauf Asset zugeordnet. Ohne diesen Verwendugnszweck kann deine Anfrage nicht bearbeitet werden. Der Verwendungszweck hat folgendes Format: xxxx-xxxx-xxxx und du findest ihn im ensprechenden Kaufscreen direkt unterhalb der IBAN und der BIC.
+Bei Banktransaktionen benötigt der Support folgende Informationen:
+- Dein Verwendungszweck: Das wichtigste ist dein persönlicher Verwendungszweck, welcher auch Zahlungsmitteilung oder Reference genannt wird. Dies ist der wichtigste Punkt bei der Aufnahme in den Support. Darüber wird jede Transaktion einem entsprechenden Kundenkonto und dem gewünschten Kaufasset zugeordnet. Ohne diesen Verwendungszweck kann deine Anfrage nicht bearbeitet werden. Der Verwendungszweck hat folgendes Format: xxxx-xxxx-xxxx und ist im entsprechenden Kaufscreen direkt unterhalb der IBAN und der BIC zu finden.
+
 <img width="675" alt="Bildschirmfoto 2024-03-01 um 17 30 46" src="https://github.com/DFXswiss/docs/assets/142087526/272d5611-be70-44bf-9ade-24d128e873ce">
 
-3. Deine IBAN
-4. Dein korrekter Name auf den auch dein Bankkonto lautet. 
+- Deine IBAN
+- Dein korrekter Name auf den auch dein Bankkonto lautet
      
 ## Transaktionsübersicht für Cake Wallet-Benutzer
 Cake Wallet Nutzer, die Krypto Assets über DFX erworben haben, können alle getätigten Transaktionen einsehen. Dazu sind folgende Schritte notwendig:
