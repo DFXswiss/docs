@@ -160,18 +160,21 @@ Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der 
 ## Prozentuale Gebühren
 Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
 
-DFX verrechnet bei Käufen von Bitcoin 0,99% Gebühren und bei allen anderen* 1.49%. Für Verkäufe gelten die genannten Gebühren zuzüglich 0.5%, also für Bitcoin 1.49% und alle anderen* 1.99%. Für Firmenkunden werden auf die geltende Gebührenstruktur pauschal 0,5% zusätzlich erhoben.
+DFX verrechnet bei Käufen von Bitcoin 0,99 % Gebühren und bei allen anderen 1,49 %.  
+Für Verkäufe gelten die genannten Gebühren zuzüglich 0,5 %, also 1,49 % für Bitcoin und 1,99 % für alle anderen.  
+Für Firmenkunden werden auf die geltende Gebührenstruktur pauschal 0,5 % zusätzlich erhoben.  
+Des Weiteren sind die unten angegebenen Mindestgebühren für die jeweiligen Transaktionen zu beachten und einzuhalten.
 
 Gebührenübersicht ab 01.12.2022
 
-### DFX Gebühren Privatinvestoren
+### DFX-Gebühren für Privatkunden
 
 |         | Bitcoin          | Andere           |
 | ------- | ---------------- | ---------------- |
 | Kauf    | 0,99 %           | 1,49 %           |
 | Verkauf | 1,49 %           | 2,49 %           |
 
-### DFX Gebühren Firmenkunden
+### DFX-Gebühren für Firmenkunden
 
 |         | Bitcoin          | Andere           |
 | ------- | ---------------- | ---------------- |
@@ -189,24 +192,25 @@ Gebührenübersicht ab 01.12.2022
 | Optimism  | 1 EUR          |
 | Polygon   | 1 EUR          |
 
-## Zusätzliche Blockchain Gebühr
-Zusätzlich zu den DFX Gebühren kann es eine Blockchain Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
+## Zusätzliche Blockchain-Gebühr
+Zusätzlich zu den DFX-Gebühren kann es eine Blockchain-Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
-## Zusätzliche Betreiber Gebühr
-Zusätzlich zu den DFX Gebühren kann es eine Betreiber Gebühr geben. Diese Gebühr fällt an, wenn die Finanzdienstleistungen in einer anderen Umgebung eingebaut wurden, und der Integrator ein eigene Gebühr verlangt. Zum Beispiel eine Integration in eine andere Blockchain Non Custodial Wallet. Die Gebühr wird in der grafischen Oberfläche bei Kaufabschluss angezeigt. 
+## Zusätzliche Betreiber-Gebühr
+Zusätzlich zu den DFX-Gebühren kann es eine Betreiber-Gebühr geben. Diese Gebühr fällt an, wenn die Finanzdienstleistungen in einer anderen Umgebung eingebaut wurden, und der Integrator ein eigene Gebühr verlangt. Zum Beispiel eine Integration in eine andere Blockchain Non-Custodial Wallet. Die Gebühr wird in der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
-## Referral System
-Unser Referral Programm zahlt Kunden 0.25% auf das Kauf-/Investitionsvolumen, welches über den Referral Link des Kunden von einem neuen Kunden gekauft worden ist.
+## Referral-System
+Unser Referral-Programm zahlt Kunden 0,25% auf das Kauf-/Investitionsvolumen, welches über den Referral-Link des Kunden von einem neuen Kunden gekauft worden ist.  
+Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist.
 
 ## Risiken
-DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin Blockchain, Ethereum Blockchain und Binance Smart Chain sind. Decentralized Finance ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
+DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
 
 DFX hält sich stets an das aktuelle schweizerische Recht und ist im ständigen Austausch mit den Behörden, um dies umzusetzen. DFX behält sich jederzeit das Recht vor, den Handel von einzelnen Kryptowährungen auszusetzen oder weitere Kryptowährungen und Produkte in ihr Angebot aufzunehmen. Kunden des DFX Brokerage Service haben keinen Anspruch auf den Handel von Kryptowährungen, wenn diese zuvor vom Handel ausgesetzt worden sind. Dies gilt auch, wenn diese Kryptowährungen zuvor über den DFX Brokerage Service erworben worden sind.
 
-Weiterhin können Kryptowährungen, die aus dem Konstrukt Decentralized Finance stammen, z.B. durch den Handel auf einer Decentralized Exchange (DEX) oder durch einen Tausch durch einen Atomic Swap, als Coins mit erhöhtem Risiko deklariert werden und in Zukunft anders behandelt werden als Coins, welche sich nicht in solchen DeFi Protokollen befunden haben. DFX hat keinen Einfluss darauf, wie der DeFi Markt in Zukunft reguliert wird und welche Konsequenzen durch die Nutzung von DeFi Protokollen für Nutzer in Zukunft entstehen können. DFX kann nicht dafür garantieren, den Service jederzeit weiter zu betreiben und DFX kann auch nicht garantieren, verkaufte Coins zurückzunehmen, falls sich das regulatorische Umfeld ändern sollte.
+Weiterhin können Kryptowährungen, die aus dem Konstrukt Decentralized Finance stammen, zum Beispiel durch den Handel auf einer Decentralized Exchange (DEX) oder durch einen Tausch durch einen Atomic Swap, als Coins mit erhöhtem Risiko deklariert werden und in Zukunft anders behandelt werden als Coins, welche sich nicht in solchen DeFi-Protokollen befunden haben. DFX hat keinen Einfluss darauf, wie der DeFi-Markt in Zukunft reguliert wird und welche Konsequenzen durch die Nutzung von DeFi-Protokollen für Nutzer in Zukunft entstehen können. DFX kann nicht dafür garantieren, den Service jederzeit weiter zu betreiben und DFX kann auch nicht garantieren, verkaufte Coins zurückzunehmen, falls sich das regulatorische Umfeld ändern sollte.
 
 ## Teilnichtigkeit und Rechtswahl
 Sollte eine Klausel der Allgemeinen Geschäftsbedingungen nichtig, aufgehoben oder anderweitig ungültig sein, so wird die Gültigkeit der übrigen Allgemeinen Geschäftsbedingungen davon nicht berührt oder beeinträchtigt.
 
 ## Anwendbares Recht und Gerichtsstand
-Die Allgemeinen Geschäftsbedingungen unterliegen dem schweizerischen Recht und werden in Übereinstimmung mit diesem ausgelegt, unter Ausschluss der kollisionsrechtlichen Bestimmungen der Schweiz oder des tatsächlichen (Wohn-)Sitzlandes oder -bundesstaats des Kunden. Jegliche Streitigkeiten, die sich aus oder in Bezug auf die Allgemeinen Geschäftsbedingungen, die Beziehung des Kunden zu DFX, einschliesslich ausservertraglicher Verpflichtungen, ergeben, unterliegen ausschliesslich der Zuständigkeit des Gerichtsstands Zug, Schweiz.
+Die Allgemeinen Geschäftsbedingungen unterliegen dem schweizerischen Recht und werden in Übereinstimmung mit diesem ausgelegt, unter Ausschluss der kollisionsrechtlichen Bestimmungen der Schweiz oder des tatsächlichen (Wohn-)Sitzlandes oder -bundesstaats des Kunden. Jegliche Streitigkeiten, die sich aus oder in Bezug auf die Allgemeinen Geschäftsbedingungen, die Beziehung des Kunden zu DFX, einschliesslich ausservertraglicher Verpflichtungen, ergeben, unterliegen ausschliesslich der Zuständigkeit des Gerichtsstands in Zug, Schweiz.
