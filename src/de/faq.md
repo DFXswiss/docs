@@ -4,7 +4,7 @@ Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 ## Wo erhalte ich bei Fragen Unterstützung?
 DFX bietet auf unterschiedliche Weisen Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
 Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu nehmen. 
-Tritt dafür unserer [Telegram Gruppe](https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren [Support](http://dfx.swiss/help).
+Tritt dafür unserer [Telegram Gruppe](https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren [Support](http://dfx.swiss/help) wenden.
 
 ## Was genau beinhaltet der Service von DFX?
 DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit Privat- & Firmenkunden Crypto Währungen zu kaufen und zu verkaufen. Wir arbeiten daran unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/).
