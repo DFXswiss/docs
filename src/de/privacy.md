@@ -92,7 +92,7 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten z
 
 ### Cookies
 
-Unsere Internetseiten verwenden keine Cookies.
+DFX verwendet Cookies ausschliesslich, um den Betrieb der IT-Systeme und deren Funktionsweise aufrechtzuerhalten. Es werden keine Cookies für das Tracking des Nutzerverhaltens oder ähnliche Zwecke verwendet.
 
 ### Anfrage per E-Mail, Telefon oder Telefax
 
