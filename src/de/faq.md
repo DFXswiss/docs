@@ -98,7 +98,8 @@ Die Vorgehensweise ist denkbar einfach und nutzerfreundlich:
 - einfach die neue IBAN: '''LU11 6060 0020 0000 5040''' verwenden.
 - BIC: OLKILUL1
 - Gleicher Verwendungszweck aus deiner Kaufroute (hashcode).
-- **Kann mein Bankkonto in Echtzeit überweisen?**
+
+**Kann mein Bankkonto in Echtzeit überweisen?**
 
 Bist du dir unsicher, ob deine Bank SEPA Sofortüberweisungen anbietet?
 
@@ -111,9 +112,9 @@ Zur Info: Geldinstitute in der Schweiz bieten SEPA Instant kaum an.
 ## Gibt es ein Affiliate-Program und wie funktioniert es?
 Ja, haben wir und du kannst dir über deinen Affiliate-/Referral-Link ein zusätzliches passives Einkommen aufbauen.
 
-Unser Referral Programm zahlt Kunden 0.25% auf das Kauf-/Investitionsvolumen, welches über den Referral Link des Kunden von einem neuen Kunden gekauft worden ist. Werden Käufe anstelle von Fiat-Währung mit Bitcoin bezahlt, beträgt die Ref-Rendite 0.1%.
+Unser Referral Programm zahlt Kunden 0,25% auf das Kauf-/Investitionsvolumen, welches über den Referral Link des Kunden von einem neuen Kunden gekauft worden ist.
 
-Achtung: Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Referral-Programm handelt.
+Achtung: Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Referral-Programm handelt. Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Wir weisen zudem darauf hin, dass das Referral-Programm jederzeit und ohne Ankündigung eingestellt beziehungsweise verändert werden kann.
 
 Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen Crypto-Assets verwendet wird, bekommst du 0,25% des Transaktionsvolumens täglich ausbezahlt.
 
