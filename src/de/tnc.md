@@ -182,7 +182,7 @@ Zusätzlich zu den DFX-Gebühren kann es eine Betreiber-Gebühr geben. Diese Geb
 
 ## Referral-System
 Unser Referral-Programm zahlt Kunden 0,25% auf das Kauf-/Investitionsvolumen, welches über den Referral-Link des Kunden von einem neuen Kunden gekauft worden ist.  
-Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist.
+Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Wir weisen zudem darauf hin, dass das Referral-Programm jederzeit und ohne Ankündigung eingestellt beziehungsweise verändert werden kann.
 
 ## Risiken
 DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
