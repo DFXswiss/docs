@@ -7,33 +7,34 @@ Wir empfehlen generell, die Unterstützung unserer Moderatoren in Anspruch zu ne
 Tritt dafür unserer [Telegram Gruppe](https://t.me/DFXswiss) bei. Unsere Moderatoren unterstützen dich bei technischen Unklarheiten und bei Fragen bezüglich des Transaktionsstatus. Andernfalls kannst du dich auch an unseren [Support](http://dfx.swiss/help) wenden.
 
 ## Was genau beinhaltet der Service von DFX?
-DFX ist die Brücke zwischen der Bank und dem Crypto Space und ermöglicht somit Privat- & Firmenkunden Crypto Währungen zu kaufen und zu verkaufen. Wir arbeiten daran unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/).
+DFX ist die Brücke zwischen der Bank und dem Krypto-Space und ermöglicht somit Privat- & Firmenkunden Kryptowährungen zu kaufen und zu verkaufen. Wir arbeiten daran, unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/).
 
 ## Ist DFX reguliert? Was bedeutet das für mich?
 Ja. Die Regulierung kann [hier](https://www.finma.ch/de/bewilligung/selbstregulierungsorganisationen-sro/sro-mitglieder-suche/) abgerufen werden.
-Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung notwendig ist.
-Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmässigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Zum Beispiel, wenn jemand gleichzeitig kauft und verkauft.
+Als in der Schweiz reguliertes Unternehmen ist DFX ist verpflichtet, die geltenden Gesetze bezüglich der Geldwäschebekämpfung einzuhalten. Dies beinhaltet unter anderem, dass für Transaktionen ab einem bestimmten Volumen eine Verifizierung, ein sogenannter KYC-Prozess, notwendig ist.
+Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den Nutzer dazu zu verwenden, Unregelmässigkeiten oder Auffälligkeiten im Verhalten des Nutzers zu erkennen. Dies ist beispielsweise der Fall, wenn jemand gleichzeitig kauft und verkauft.
 
 ## Inwiefern hat DFX Zugriff auf mein Geld?
-DFX hat nur während des Kaufs/Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine non-custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
+DFX hat nur während des Kaufs beziehungsweise Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine Non-Custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
 
 ## Welche Länder werden durch DFX bedient?
-Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschl. Überseegebiete, DOM, keine TOM), Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Niederlande (einschl. Überseegebiete), Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Zypern, Island, Liechtenstein, Norwegen, Schweiz, Feröer, Grönland, Guernsey Insel, Jersey Insel, Monaco, San Marino, Vereinigte Arabische Emirate, Vereinigtes Königreich, Israel
+Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschliesslich Überseegebiete, DOM, keine TOM), Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Niederlande (einschliesslich Überseegebiete), Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Zypern, Island, Liechtenstein, Norwegen, Schweiz, Feröer, Grönland, Guernsey Insel, Jersey Insel, Monaco, San Marino, Vereinigte Arabische Emirate, Vereinigtes Königreich, Israel
 
-## Erhalte ich eine Übersicht aller Transaktionen, inkl. Fees, die ich während des Jahres bei DFX getätigt habe?
-Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch fürs Finanzamt verwenden. Bei Fragen und Unklarheiten hierzu kannst du dich einfach an: https://dfx.swiss/help melden.
+## Erhalte ich eine Übersicht aller Transaktionen, inklusive Fees, die ich während des Jahres bei DFX getätigt habe?
+Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch für das Finanzamt verwenden. Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://dfx.swiss/help) wenden.
 
 ## Ist der Service auch für Unternehmenskunden verfügbar?
 Ja.
 
 ### Warum meldet sich meine Bank bei mir?
-Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet bzw. eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
+Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet beziehungsweise eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
 
-## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Crypto Verkäufe, was muss ich tun?
-Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach an https://dfx.swiss/help
+## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Krypto-Verkäufe. Was muss ich tun?
+Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach bei unserem [Support](https://dfx.swiss/help).
+
 ### Welche Währungen werden von unserem Service unterstützt?
 
-Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000 CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich dafür beim Support: https://dfx.swiss/help
+Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000,- CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich in diesem Fall einfach bei unserem [Support](https://dfx.swiss/help).
 
 ## Nutzer-relevante Fragen & KYC-Prozess
 
