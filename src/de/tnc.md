@@ -181,7 +181,7 @@ Gebührenübersicht ab 01.12.2022
 | Kauf    | 1,49 %           | 1,99 %           |
 | Verkauf | 1,99 %           | 2,49 %           |
 
-## Mindestgebühren
+### Mindestgebühren
 
 |           | Mindestgebühr  |
 | --------- | -------------- |
