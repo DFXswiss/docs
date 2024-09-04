@@ -143,7 +143,7 @@ Der Kunde hat die Ausführung des Verkaufs unter Beachtung der Anweisungen auf d
 
 DFX erbringt seine Dienstleistung im Umfang des bei ihr auf der DFX-Wallet tatsächlich eingegangenen Betrages. Die Bankgebühren respektive Transaktionsgebühren gehen zu Lasten des Kunden und werden direkt vom ursprünglich einbezahlten Betrag in Abzug gebracht, sofern dies beim Transaktionseingang noch nicht erfolgt war. Allenfalls werden dem Kunden auch Verwaltungsgebühren in Rechnung gestellt. DFX wechselt den Gegenwert des tatsächlich erhaltenen Betrags abzüglich allfälliger, zusätzlicher Bank- respektive Transaktionsgebühren und abzüglich der DFX-eigenen Gebühren (siehe weiter unten) anschliessend in die gewünschte Fremdwährung (respektive Kryptowährung).
 
-Nach Erstellung der Verkaufsroute, des vom Kunden in diesem Zusammenhang einbezahlten Betrages und nach erfolgter Bereinigung um sämtliche anfallenden Gebühren, verkauft DFX die im Rahmen der Verkaufsroute angegebenen Kryptowährungen für den Eigenbestand im Sinne eines Principal-Geschäfts und überträgt die Fremdwährungen [respektive umgewandelten Kryptowährungen] anschliessend auf das vom Kunden angegebene [Wallet/]Konto.
+Nach Erstellung der Verkaufsroute, des vom Kunden in diesem Zusammenhang einbezahlten Betrages und nach erfolgter Bereinigung um sämtliche anfallenden Gebühren, verkauft DFX die im Rahmen der Verkaufsroute angegebenen Kryptowährungen für den Eigenbestand im Sinne eines Principal-Geschäfts und überträgt die Fremdwährungen (respektive umgewandelten Kryptowährungen) anschliessend auf die/das vom Kunden angegebene Wallet/Konto.
 
 DFX weist darauf hin, dass der Verkauf bis zu sieben Werktage dauern kann, bis der Betrag beim Empfänger eintrifft.
 
