@@ -165,8 +165,8 @@ Meldung in der Bitcoin (BTC) only App "Backup nicht verifiziert"
 - [YouTube-Tutorial von Oli](https://youtu.be/CPYjvBC2NRs)
 - [Global senden](https://t.me/DFXswiss/99843)
 
-BTC Wallet bereits vorhandenen? [BTC Wallet bereits vorhandenen?](https://t.me/DFXswiss/84476)
-DFX Seed Phrase Template [PDF Download](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
+BTC Wallet bereits vorhandenen? [BTC Wallet bereits vorhandenen?](https://t.me/DFXswiss/84476)  
+[DFX Seed Phrase Template (PDF-Download)](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
 
 - Geführter Kauf- oder Verkauf: „DFX Services“
 - Native Bitcoin kaufen: [klick](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
