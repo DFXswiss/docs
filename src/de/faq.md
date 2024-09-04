@@ -116,7 +116,7 @@ Unser Referral Programm zahlt Kunden 0,25% auf das Kauf-/Investitionsvolumen, we
 
 Achtung: Bitte beachte, dass du deinen eigenen Ref-Code nicht selber eingeben kannst, da es sich um ein Referral-Programm handelt. Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Wir weisen zudem darauf hin, dass das Referral-Programm jederzeit und ohne Ankündigung eingestellt beziehungsweise verändert werden kann.
 
-Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen Crypto-Assets verwendet wird, bekommst du 0,25% des Transaktionsvolumens täglich ausbezahlt.
+Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparplans, wird dir ein Referral-Link zugewiesen. Wenn du diesen Link weiterschickst und dieser bei einer Transaktionsausführung durch ein Investment in eines unserer angebotenen Krypto-Assets verwendet wird, bekommst du 0,25% des Transaktionsvolumens täglich ausbezahlt.
 
 ## Wie verwende ich einen Referral-Link?
 Im Bezahlprozess auf unserer [Seite](https://services.dfx.swiss/) gibt es das Eingabefeld für den Referral-Link/-Code, solange kein Code eingegeben wurde.
@@ -237,7 +237,8 @@ Bei Banktransaktionen benötigt der Support folgende Informationen:
 - Dein korrekter Name auf den auch dein Bankkonto lautet
      
 ## Transaktionsübersicht für Cake Wallet-Benutzer
-Cake Wallet Nutzer, die Krypto Assets über DFX erworben haben, können alle getätigten Transaktionen einsehen. Dazu sind folgende Schritte notwendig:
+Cake Wallet-Benutzer, die Krypto-Assets über DFX erworben haben, können alle getätigten Transaktionen einsehen.  
+Dazu sind folgende Schritte notwendig:
 1. Öffne die Cake Wallet
 2. Wähle die entsprechende Wallet aus
 3. Klicke auf "Kaufen"
@@ -245,6 +246,6 @@ Cake Wallet Nutzer, die Krypto Assets über DFX erworben haben, können alle get
 5. Klicke auf "Menü" in der oberen rechten Ecke
 6. Wähle "Transaktionen"
 
-Alle getätigten Transaktionen und deren Status werden dann angezeigt. 
-In der Transaktionsübersicht ist es auch möglich nicht zugeordnete Transaktionen manuell nachträglich zuzuordnen. 
-Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der „Meine Transaktion fehlt“ Button benutzt werden. 
+Alle getätigten Transaktionen und deren Status werden anschliessend angezeigt. 
+In der Transaktionsübersicht ist es ausserdem möglich, nicht zugeordnete Transaktionen nachträglich manuell zuzuordnen.
+Wenn eine bestimmte Transaktion nicht auffindbar ist, soll der "Meine Transaktion fehlt" Button benutzt werden. 
