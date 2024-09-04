@@ -39,58 +39,57 @@ Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000,- CHF überschreiten,
 ## Nutzer-relevante Fragen & KYC-Prozess
 
 ### Was passiert, wenn ich mein individuelles Handelslimit überschreite?
-Sobald du die o.g. Freigrenze überschreitest, wird ein KYC-Prozess erforderlich. Nach der ersten erfolgreichen Transaktion gibt es in der App die Möglichkeit, die persönliche Verifizierung (KYC) vorzunehmen. Falls der KYC nach Überschreitung des Limits nicht abgeschlossen wird, retourniert DFX die Transaktion nach Ablauf von 7 Tagen automatisch.
+Sobald du die oben genannte Freigrenze überschreitest, wird ein Verifizierungsprozess, ein sogenannter KYC-Prozess, erforderlich. Nach der ersten erfolgreichen Transaktion gibt es in der App die Möglichkeit, die persönliche Verifizierung (KYC) vorzunehmen. Falls der KYC nach Überschreitung des Limits nicht abgeschlossen wird, retourniert DFX die Transaktion nach Ablauf von 7 Tagen automatisch.
 
 ## Was bedeuten die verschiedenen KYC-Level?
-Das KYC-Level eines Nutzers steigt, je mehr Daten DFX von diesem Nutzer erhalten hat. Nachfolgend ist eine Erklärung der verschiedenen Level:
-- Level 10: Kontaktdaten erfasst (Mail)
+Das KYC-Level eines Nutzers steigt, je mehr Daten DFX von diesem Nutzer erhalten hat. Nachfolgend findet sich eine Erklärung der verschiedenen Level:
+- Level 10: Kontaktdaten erfasst (E-Mail)
 - Level 20: Persönliche Daten erfasst (Kontotyp, Name, Adresse, Telefonnummer)
 - Level 30: Erfolgreiche Identifizierung mit Personalausweis oder Reisepass
 - Level 40: Finanzieller Hintergrund abgefragt (Einkommen, Vermögen, Geschäftstätigkeit)
 - Level 50: Risikoanalyse durchgeführt (Beginn der Geschäftsbeziehung zwischen DFX und dem Nutzer)
 
 ### Was passiert mit meinen Daten bei DFX?
-Informationen zu unserem Umgang mit Kundendaten findest du in unseren [Datenschutzbestimmungen](https://docs.dfx.swiss/de/privacy.html).
+Informationen zu unserem Umgang mit Kundendaten findest du in unserer [Datenschutzerklärung](https://docs.dfx.swiss/de/privacy.html).
 
-## Kaufprozess: FIAT -> Crypto
-DFX verarbeitet Transaktionen ab bestimmten Mindestbeträgen, die je nach Blockchain variieren.
+## Kaufprozess: Fiat -> Crypto
+DFX verarbeitet Transaktionen ab bestimmten Mindestbeträgen, die je nach Blockchain variieren.  
 
-Es gelten folgende Bestimmungen:
-- Bitcoin, Ethereum und Binance Smart Chain ab 10 USD/EUR/CHF
+Zusätzlich zu den DFX-Gebühren kann es eine Blockchain-Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
 Wir empfehlen unseren Kunden zuerst eine Testtransaktion durchzuführen, um den Service und die Funktionsweise kennenzulernen.
 
 ### Wie schnell wird meine Transaktion abgearbeitet?
-DFX bietet neben der gängigen Sepa Transaktion auch Sepa instant an, welches jedoch nur mit abgeschlossenem KYC nutzbar ist.
-Im Schnitt rechnen wir nach Zahlungseingang bei unserer Bank eine Verarbeitungszeit von ca. 10 Minuten. Die Dauer hängt jedoch von unterschiedlichen Faktoren ab, die nicht alle von DFX beeinflussbar sind. 
+DFX bietet neben der gängigen SEPA-Transaktion auch SEPA Instant an, welches jedoch nur mit abgeschlossenem KYC nutzbar ist.
+Im Schnitt rechnen wir nach Zahlungseingang bei unserer Bank eine Verarbeitungszeit von circa 10 Minuten. Die Dauer hängt jedoch von unterschiedlichen Faktoren ab, die nicht alle von DFX beeinflussbar sind. 
 
 ### Mit welchen Kosten muss ich rechnen?
-Die Gebühren bei DFX findest du in unseren AGB unter diesem [Link](https://docs.dfx.swiss/de/tnc.html#gebuhren).
+Die Gebühren bei DFX findest du in unseren [Allgemeinen Geschäftsbedingungen](https://docs.dfx.swiss/de/tnc.html#prozentuale-gebuhren).
 
 ### Wie kann ich Fiatgeld an DFX überweisen?
-Eine Überweisung tätigst du ja, um in ein Crypto-Asset zu investieren. Dazu kannst du unsere [Seite](https://services.dfx.swiss/) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst ggf. einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
+Eine Überweisung tätigst du ja, um in ein Krypto-Asset zu investieren. Dazu kannst du unsere [Seite](https://services.dfx.swiss/) benutzen. Auf dieser Seite wirst du durch den Prozess geleitet, indem du einen Auftrag an uns definierst. Du kannst gegebenenfalls einen Referral Code eines Freundes nutzen und bekommst bei der ersten Transaktion auch deinen eigenen Referral Code, um dein passives Einkommen durch Referrals ebenfalls zu erhalten. Am Ende des Prozesses musst du dann deinen gewünschten Betrag per Banküberweisung an die dort angegebene IBAN tätigen. 
 
 ### Wie richte ich eine Aufteilung der Investition in den verschiedenen Assets ein, wenn ich Einzahlungen via Dauerauftrag bei der Hausbank tätige?
 Du kannst, nachdem du einmal eine Investition in ein bestimmtes Asset getätigt hast, durch wiederholte Überweisungen (Dauerauftrag) mit dem korrekten Verwendungszweck einen Sparplan für dieses Asset erzeugen. Sobald du neue Assets sparen möchtest, wiederholst du einfach den Prozess für dieses Asset und richtest danach wieder einen Dauerauftrag bei deiner Bank ein.
 
-### Werden die erworbenen Assets direkt/automatisch auf meine Blockchain Adresse überwiesen?
+### Werden die erworbenen Assets direkt und automatisch auf meine Blockchain Adresse überwiesen?
 Ja, sobald diese von uns erworben sind, werden sie direkt und automatisch von uns an deine Blockchain Wallet Adresse überwiesen.
 
 ### Welcher Wechselkurs wird beim Kauf verwendet?
-Wir können nur den Wechselkurs gewährleisten, den wir in dem Moment bekommen, in welchem wir den Transfer durchführen. Das wird immer so schnell wie möglich nach deiner Einzahlung sein und immer innerhalb eines Arbeitstages nach Erhalt des Geldes. Daraus ergibt sich für dich mal ein Vorteil (bei geringeren Kursen) und mal ein Nachteil (bei höheren Kursen). Wenn du allerdings einen Sparplan laufen hast, sind die Schwankungen durch regelmäßige Ausführung vernachlässigbar. Wir geben den erhaltenen Wechselkurs 1 zu 1 an dich weiter zzgl. den Gebühren.
+Wir können nur den Wechselkurs garantieren, der zum Zeitpunkt des Transfers gültig ist. Dieser Transfer erfolgt immer so schnell wie möglich nach deiner Einzahlung und in jedem Fall innerhalb eines Arbeitstags nach Erhalt des Geldes. Daher kann es für dich sowohl vorteilhaft sein (bei niedrigeren Kursen) als auch nachteilig (bei höheren Kursen). Wenn du jedoch einen Sparplan nutzt, sind die Schwankungen durch die regelmässige Ausführung meist vernachlässigbar. Den erhaltenen Wechselkurs geben wir 1 zu 1 weiter, zuzüglich der anfallenden Gebühren.
 
-### Warum verlangt meine Bank Gebühren für SEPA Transaktionen in die Schweiz? 
-SEPA ist ein Zahlungsnetzwerk, in welchem Transaktionen kostenlos abgewickelt werden können. Einige wenige Banken (z.B. Bank Austria) halten sich nicht an diese Vereinbarung und verlangen trotzdem Gebühren für SEPA Transaktionen in die Schweiz. Das ist äusserst kundenunfreundlich und wir empfehlen den betroffenen Personen den Wechsel zu einer anderen Bank in Betracht zu ziehen. Alternativ besteht auch die Möglichkeit das Geld zuerst zu einer normalen Bank zu transferieren und danach an DFX zu übertragen. Bei Banken wie zum Beispiel Revolut funktionieren Transaktionen meistens sehr zuverlässig.
+### Warum verlangt meine Bank Gebühren für SEPA-Transaktionen in die Schweiz? 
+SEPA ist ein Zahlungsnetzwerk, in welchem Transaktionen kostenlos abgewickelt werden können. Einige wenige Banken (zum Beispiel die Bank Austria) halten sich nicht an diese Vereinbarung und verlangen trotzdem Gebühren für SEPA Transaktionen in die Schweiz. Unserer Ansicht nach ist dies äusserst kundenunfreundlich, und wir empfehlen den betroffenen Personen, den Wechsel zu einer anderen Bank in Betracht zu ziehen. Alternativ besteht auch die Möglichkeit, das Geld zuerst zu einer normalen Bank zu transferieren und danach an DFX zu übertragen. Bei Banken wie zum Beispiel Revolut funktionieren Transaktionen meistens sehr zuverlässig.
 
 ### Werden Echtzeittransaktionen unterstützt?
-Ja, mit abgeschlossenem KYC können per SEPA Instant Käufe durchgeführt werden. Die Verarbeitung dauert dadurch wenige Minuten.
+Ja, mit abgeschlossenem KYC können per SEPA Instant Käufe durchgeführt werden. Die Verarbeitung dauert dadurch nur wenige Minuten.
 
 Du möchtest Crypto Assets KAUFEN und sie SOFORT in deiner Wallet haben? Kein Problem. Mit der neuen SEPA Instant Integration bei DFX hast du nach dem Absenden der Überweisung alles in wenigen Minuten in deiner Wallet. 24h pro Tag, 7 Tage die Woche, 365 Tage pro Jahr.
 
 **Wie funktioniert es?**
-Einfach! Verwende deine existierenden Kaufrouten, oder lege dir eine neue Kaufroute an und sende deine Überweisung mit dem Verwendungszweck an das DFX SEPA instantfähiges Bankkonto.
+Das ist sehr einfach. Verwende deine existierenden Kaufrouten, oder lege dir eine neue Kaufroute an und sende deine Überweisung mit dem Verwendungszweck an das DFX SEPA Instant-fähige Bankkonto.
 
-**Wo finde ich die Bankverbindung für den instant?**
+**Wo finde ich die Bankverbindung für den Instant?**
 Klicke einfach auf "My DFX" in der App und scroll ganz nach unten. Bitte beachte, dass du diesen Service nur verwenden kannst, wenn deine Bank SEPA Sofortüberweisungen anbietet
 
 Die Vorgehensweise ist denkbar einfach und nutzerfreundlich:
@@ -103,7 +102,7 @@ Die Vorgehensweise ist denkbar einfach und nutzerfreundlich:
 
 Bist du dir unsicher, ob deine Bank SEPA Sofortüberweisungen anbietet?
 
-Über folgenden Link kannst du es prüfen: [eine IBAN validieren](https://www.iban-rechner.de/iban_validieren.html)
+Über folgenden Link kannst du es prüfen: [Validierung der IBAN](https://www.iban-rechner.de/iban_validieren.html)
 
 Zur Info: Geldinstitute in der Schweiz bieten SEPA Instant kaum an.
 
