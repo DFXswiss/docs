@@ -151,16 +151,16 @@ Verkaufsrouten werden von DFX innerhalb von sieben Werktagen nach erfolgter Tran
 
 Verkaufsrouten können storniert werden, solange die umzuwandelnde Kryptowährung noch nicht bei DFX eingegangen ist.
 
-Die Transaktionskosten der [Krypto- respektive] Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer (im Folgenden: MWST), falls zutreffend. Nachdem die Überweisung [der gewünschten Kryptowährung respektive] der gewünschten Fremdwährung auf das Konto[/Wallet] des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E- Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
+Die Transaktionskosten der Krypto- respektive Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer (im Folgenden: MWST), falls zutreffend. Nachdem die Überweisung der gewünschten Kryptowährung respektive der gewünschten Fremdwährung auf die/das Wallet/Konto des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E-Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
 
-DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen besteht, welches auf der Payementseite des Kunden eingesehen werden kann. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert. 
+DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen besteht. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert. 
 
-Rückbuchungen von Verkäufen an Kunden der DFX AG werden ausschliesslich in der Kryptowährung getätigt, die an DFX zum Verkauf transferiert worden ist. Die Höhe der Rückbuchung entspricht exakt dem Betrag, die an DFX zum Verkauf transferiert worden ist.
+Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der ursprünglich transferierten Kryptowährung. Der zurückerstattete Betrag entspricht genau dem Wert, der zum Verkauf an DFX übertragen wurde.
 
 ## Prozentuale Gebühren
-Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA Zahlungssystem [als auch für Krypto-zu-Krypto-Transaktionen]. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. [Bei einer Krypto-zu-Krypto-Transaktion würde das Volumen entsprechend mit dem Kurs in EUR umgerechnet (www.kraken.com), um die Höhe der Gebühren festlegen zu können].
+Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
 
-DFX verrechnet bei Käufen von Bitcoin 0.99% Gebühren und bei allen anderen* 1.49%. Für Verkäufe gelten die genannten Gebühren zuzüglich 0.5%, also für Bitcoin 1.49% und alle anderen* 1.99%. Für Firmenkunden werden auf die geltende Gebührenstruktur pauschal 0.5% zusätzlich erhoben.
+DFX verrechnet bei Käufen von Bitcoin 0,99% Gebühren und bei allen anderen* 1.49%. Für Verkäufe gelten die genannten Gebühren zuzüglich 0.5%, also für Bitcoin 1.49% und alle anderen* 1.99%. Für Firmenkunden werden auf die geltende Gebührenstruktur pauschal 0,5% zusätzlich erhoben.
 
 Gebührenübersicht ab 01.12.2022
 
