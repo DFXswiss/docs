@@ -122,17 +122,12 @@ Bei deiner ersten Transaktion über uns oder bei Abschluss deines ersten Sparpla
 Im Bezahlprozess auf unserer [Seite](https://services.dfx.swiss/) gibt es das Eingabefeld für den Referral-Link/-Code, solange kein Code eingegeben wurde.
 
 ## Gibt es ein Limit für die Anzahl der Empfehlungen, für die ich einen Bonus erhalten kann?
-Nein, wir möchten, dass du so viele Freunde und Bekannte wie möglich von unserem Service überzeugst. Beide Seiten profitieren daher vom Referral-Programm.
+Nein. Wir möchten, dass du so viele Freunde und Bekannte wie möglich von unserem Service überzeugst. Beide Seiten profitieren daher vom Referral-Programm.
 
 ## Gibt es Banken die das Einzahlen an DFX blockieren?
-Nach umserem aktuellen Wissensstand blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX AG. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
+Nach umserem aktuellen Wissensstand blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
 
 ## DFX Metamask Exchange
-
-### Wie kann ich meine Telefonnummer nachträglich ändern?
-Öffne [exchange.DFX.swiss](https://exchange.DFX.swiss)
-
-Klicke auf "My DFX" --> Klicke auf das Zahnrad --> Ändere die Tel Nummer und klicke auf Speichern --> Fertig! 
 
 ## Wo finde ich Informationen zur MetaMask?
 Das gesamte MetaMask Kompendium findest du [hier](https://t.me/DFXswiss/86011).
@@ -144,35 +139,33 @@ Einige Unterthemen kannst du folgenden Beiträgen entnehmen:
 - [DFX Exchange - Verkauf (Sell)](https://t.me/DFXswiss/96022)
 
 ### MetaMask & Arbitrum 
-Arbitrum ist eine Second Layer Lösung für die ETH-Blockchain.
+Arbitrum ist eine Second-Layer-Lösung für die ETH-Blockchain.
 Es reduziert die hohen Transaktionsgebühren & Mindesttransaktionsbeträge.
 
 Mehr Details findest du [hier](https://t.me/DFXswiss/92213).
 
 ## Bitcoin
-### Wie kann ich meine Bitcoin Wallet von der DFX Bitcoin Wallet exportieren, um sie in einer anderen Wallet importieren zu können?
-Klicke dazu auf das Menü Symbol [...] oben rechts in der DFX Bitcoin Wallet. Klicke anschliessend auf "Wallet" und dann auf "Export/Backup". Im Anschluss bekommst du deinen "Seed" angezeigt, welcher aus insgesamt 12 Wörtern besteht. Diese 12 Wörter kannst du in jeder anderen kompatiblen Bitcoin Wallet importieren.
+### Wie kann ich meine Bitcoin-Wallet von der DFX-Bitcoin-Wallet exportieren, um sie in einer anderen Wallet importieren zu können?
+Klicke dazu auf das Menü-Symbol [...] oben rechts in der DFX-Bitcoin-Wallet. Klicke anschliessend auf "Wallet" und dann auf "Export/Backup". Im Anschluss bekommst du deinen "Seed" angezeigt, welcher aus insgesamt 12 Wörtern besteht. Diese 12 Wörter kannst du in jeder anderen kompatiblen Bitcoin-Wallet importieren.
 
 Achtung: Diese 12 Wörter sollten unter keinen Umständen mit Dritten geteilt werden – unabhängig davon, wer danach fragt. Weder DFX noch andere seriöse Dienstleister werden jemals nach deiner Seed Phrase verlangen. Bedenke: Wer Zugriff auf deine Seed Phrase hat, besitzt auch die Kontrolle über deine Wallet.
 
-### Welche Wallets sind mit der DFX Bitcoin Wallet Kompatibel?
-Mit hoher Wahrscheinlichkeit sind die meisten Wallets kompatibel. Wir haben die Kompatibilität insbesondere mit der BlueWallet, weshalb wir sagen können, dass die BlueWallet die höchste Kompatabilität aufweist.
+### Welche Wallets sind mit der DFX Bitcoin-Wallet kompatibel?
+Mit hoher Wahrscheinlichkeit sind die meisten Wallets kompatibel. Wir haben die Kompatibilität insbesondere mit der BlueWallet getestet, weshalb wir sagen können, dass die BlueWallet die höchste Kompatibilität aufweist.
 
-### Wie kann ich den Seed meiner DFX Bitcoin Wallet bei der Bluewallet importieren. 
+### Wie kann ich den Seed meiner DFX Bitcoin-Wallet bei der Bluewallet importieren. 
 Klicke in der BlueWallet auf "Wallet hinzufügen". Klicke anschliessend auf "Wallet importieren", trage die 12 Wörter (Seed) ein und klicke auf "Importieren". Nun hast du deine Wallet erfolgreich in die BlueWallet übertragen. 
 
-### Wo finde ich Informationen zum Bitcoin spezifischen Service von DFX?
-Auf unserer Homepage gibt es hierzu ausführliche Informationen: https://dfx.swiss/de/bitcoin/
-
+### Wo finde ich Informationen zum Bitcoin-spezifischen Service von DFX?
 Nachfolgend findest du Links zu Artikeln und Videos, die zu diesem Thema z.B. in unserer Telegram Gruppe oder auf YouTube bereitgestellt wurden.
 
-Meldung in der BTC only App „Backup nicht verifiziert“
+Meldung in der Bitcoin (BTC) only App "Backup nicht verifiziert"
 
-- Erklärung: [klick](https://t.me/DFXswiss/91021)
-- YouTube-Tutorial von Oli: [klick](https://youtu.be/CPYjvBC2NRs)
-- Global senden: [klick](https://t.me/DFXswiss/99843)
+- [Erklärung](https://t.me/DFXswiss/91021)
+- [YouTube-Tutorial von Oli](https://youtu.be/CPYjvBC2NRs)
+- [Global senden](https://t.me/DFXswiss/99843)
 
-BTC Wallet bereits vorhandenen? [klick](https://t.me/DFXswiss/84476)
+BTC Wallet bereits vorhandenen? [BTC Wallet bereits vorhandenen?](https://t.me/DFXswiss/84476)
 DFX Seed Phrase Template [PDF Download](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
 
 - Geführter Kauf- oder Verkauf: „DFX Services“
@@ -186,6 +179,8 @@ Bestehendes DFX KYC auch mit der BTC only App verwenden: [klick](https://t.me/DF
 Anschliessend kann gerne SEPA Instant oder Standard SEPA benutzt werden: [klick](https://t.me/DFXswiss/71068)
 
 Wichtige Informationen zum BTC-Kurs beim Kauf: [klick](https://t.me/DFXswiss/85437)
+
+Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://dfx.swiss/help) wenden.
 
 ## Wie integriere ich die Hardware-Wallet?
 - BitBoxSwiss 
