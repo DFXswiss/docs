@@ -160,19 +160,12 @@ Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der 
 ## Prozentuale Gebühren
 Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
 
-DFX verrechnet bei Käufen von Bitcoin 0,99 % Gebühren und bei allen anderen 1,49 %.  
-Für Verkäufe gelten die genannten Gebühren zuzüglich 0,5 %, also 1,49 % für Bitcoin und 1,99 % für alle anderen.  
-Für Firmenkunden werden auf die geltende Gebührenstruktur pauschal 0,5 % zusätzlich erhoben.  
-Des Weiteren sind die unten angegebenen Mindestgebühren für die jeweiligen Transaktionen zu beachten und einzuhalten.
-
-Gebührenübersicht ab 01.12.2022
-
 ### DFX-Gebühren für Privatkunden
 
 |         | Bitcoin          | Andere           |
 | ------- | ---------------- | ---------------- |
 | Kauf    | 0,99 %           | 1,49 %           |
-| Verkauf | 1,49 %           | 2,49 %           |
+| Verkauf | 1,49 %           | 1,99 %           |
 
 ### DFX-Gebühren für Firmenkunden
 
@@ -180,17 +173,6 @@ Gebührenübersicht ab 01.12.2022
 | ------- | ---------------- | ---------------- |
 | Kauf    | 1,49 %           | 1,99 %           |
 | Verkauf | 1,99 %           | 2,49 %           |
-
-## Mindestgebühren
-
-|           | Mindestgebühr  |
-| --------- | -------------- |
-| Bitcoin   | 5 EUR          |
-| Lightning | 0 EUR          |
-| Ethereum  | 5 EUR          |    
-| Arbitrum  | 1 EUR          |
-| Optimism  | 1 EUR          |
-| Polygon   | 1 EUR          |
 
 ## Zusätzliche Blockchain-Gebühr
 Zusätzlich zu den DFX-Gebühren kann es eine Blockchain-Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
@@ -200,7 +182,7 @@ Zusätzlich zu den DFX-Gebühren kann es eine Betreiber-Gebühr geben. Diese Geb
 
 ## Referral-System
 Unser Referral-Programm zahlt Kunden 0,25% auf das Kauf-/Investitionsvolumen, welches über den Referral-Link des Kunden von einem neuen Kunden gekauft worden ist.  
-Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist.
+Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Wir weisen zudem darauf hin, dass das Referral-Programm jederzeit und ohne Ankündigung eingestellt beziehungsweise verändert werden kann.
 
 ## Risiken
 DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
