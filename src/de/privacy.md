@@ -206,7 +206,7 @@ Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
 ## 13. Urheberrechte und Geistiges Eigentum 
-Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern. Für die Vervielfältigung oder Verwendung jeglicher Elemente muss im Voraus die schriftliche Zustimmung des jeweiligen Rechteinhabers eingeholt werden.
+Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern.
 
 ## 14. Zustimmung zur Datenschutzerklärung
 Der Kunde akzeptiert den Inhalt der Datenschutzerklärung in der jeweils aktuellen Fassung vollumfänglich. Die Datenschutzerklärung hat im Falle von Widersprüchen Vorrang vor den Allgemeinen Geschäftsbedingungen von DFX.
