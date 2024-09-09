@@ -49,9 +49,6 @@ Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien 
 
 Die Nutzung von All-Inkl erfolgt auf Grundlage von Art. 6 Abs.. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse daran, dass unsere Website möglichst zuverlässig dargestellt wird. Soweit eine entsprechende Einwilligung eingeholt wurde, erfolgt die Verarbeitung ausschließlich auf der Grundlage von Art. 6 Abs.. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, sofern die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z.B. Device Fingerprinting) im Sinne des TTDSG umfasst. Die Einwilligung kann jederzeit widerrufen werden.
 
-Übersetzt mit DeepL.com (kostenlose Version)
-
-
 ## 4. Allgemeine Hinweise und Pflicht­informationen
 
 ### Speicherdauer
