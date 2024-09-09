@@ -47,11 +47,6 @@ Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit
 
 Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstraße 68, 02742 Friedersdorf (im Folgenden: All-Inkl). Einzelheiten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
 
-Die Nutzung von All-Inkl erfolgt auf Grundlage von Art. 6 Abs.. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse daran, dass unsere Website möglichst zuverlässig dargestellt wird. Soweit eine entsprechende Einwilligung eingeholt wurde, erfolgt die Verarbeitung ausschließlich auf der Grundlage von Art. 6 Abs.. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, sofern die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z.B. Device Fingerprinting) im Sinne des TTDSG umfasst. Die Einwilligung kann jederzeit widerrufen werden.
-
-Übersetzt mit DeepL.com (kostenlose Version)
-
-
 ## 4. Allgemeine Hinweise und Pflicht­informationen
 
 ### Speicherdauer
@@ -211,7 +206,7 @@ Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
 ## 13. Urheberrechte und Geistiges Eigentum 
-Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern. Für die Vervielfältigung oder Verwendung jeglicher Elemente muss im Voraus die schriftliche Zustimmung des jeweiligen Rechteinhabers eingeholt werden.
+Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern.
 
 ## 14. Zustimmung zur Datenschutzerklärung
 Der Kunde akzeptiert den Inhalt der Datenschutzerklärung in der jeweils aktuellen Fassung vollumfänglich. Die Datenschutzerklärung hat im Falle von Widersprüchen Vorrang vor den Allgemeinen Geschäftsbedingungen von DFX.
