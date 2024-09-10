@@ -33,7 +33,6 @@ Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet beziehungsweise 
 Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach bei unserem [Support](https://dfx.swiss/help).
 
 ### Welche Währungen werden von unserem Service unterstützt?
-
 Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000,- CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich in diesem Fall einfach bei unserem [Support](https://dfx.swiss/help).
 
 ## Nutzer-relevante Fragen & KYC-Prozess
