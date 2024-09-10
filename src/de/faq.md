@@ -52,7 +52,7 @@ Das KYC-Level eines Nutzers steigt, je mehr Daten DFX von diesem Nutzer erhalten
 ### Was passiert mit meinen Daten bei DFX?
 Informationen zu unserem Umgang mit Kundendaten findest du in unserer [Datenschutzerklärung](https://docs.dfx.swiss/de/privacy.html).
 
-## Kaufprozess: Fiat -> Crypto
+## Kaufprozess: Fiat -> Krypto
 DFX verarbeitet Transaktionen ab bestimmten Mindestbeträgen, die je nach Blockchain variieren.  
 
 Zusätzlich zu den DFX-Gebühren kann es eine Blockchain-Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
@@ -84,7 +84,7 @@ SEPA ist ein Zahlungsnetzwerk, in welchem Transaktionen kostenlos abgewickelt we
 ### Werden Echtzeittransaktionen unterstützt?
 Ja, mit abgeschlossenem KYC können per SEPA Instant Käufe durchgeführt werden. Die Verarbeitung dauert dadurch nur wenige Minuten.
 
-Du möchtest Crypto Assets KAUFEN und sie SOFORT in deiner Wallet haben? Kein Problem. Mit der neuen SEPA Instant Integration bei DFX hast du nach dem Absenden der Überweisung alles in wenigen Minuten in deiner Wallet. 24h pro Tag, 7 Tage die Woche, 365 Tage pro Jahr.
+Du möchtest Krypto-Assets KAUFEN und sie SOFORT in deiner Wallet haben? Kein Problem. Mit der neuen SEPA Instant Integration bei DFX hast du nach dem Absenden der Überweisung alles in wenigen Minuten in deiner Wallet. 24h pro Tag, 7 Tage die Woche, 365 Tage pro Jahr.
 
 **Wie funktioniert es?**
 Das ist sehr einfach. Verwende deine existierenden Kaufrouten, oder lege dir eine neue Kaufroute an und sende deine Überweisung mit dem Verwendungszweck an das DFX SEPA Instant-fähige Bankkonto.
@@ -193,7 +193,7 @@ Mehr dazu auf YouTube in diesen Tutorial-Videos:
 
 Hier findest du weitere Informationen zu DFX im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
 
-Crypto-Influencer (sowie alle anderen Webseiten-Eigner) können jetzt diese Toolbox auf der eigenen Webseite einbauen und Referral Code-Belohnungen damit generieren. 
+Krypto-Influencer (sowie alle anderen Webseiten-Eigner) können jetzt diese Toolbox auf der eigenen Webseite einbauen und Referral Code-Belohnungen damit generieren. 
 
 ## Wie kann ich das IFRAME-Widget von DFX in meine eigene Website integrieren?
 Das ist ganz einfach, Du brauchst nur den folgenden Code:
@@ -220,8 +220,8 @@ Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der [Telegram-Gruppe](h
 ## Command Line Login
 Du kannst dich auch mittels manueller Eingabe von einer Blockchainadresse und passender Signatur bei DFX einloggen. Gehe dazu auf https://services.dfx.swiss/login und klicke auf "Command Line". Als erstes wirst du nach deiner Blockchain-Adresse gefragt. Nach eingabe einer gültigen Blockchain-Adresse erhältst du eine Nachricht zum signieren. Signiere diese Nachricht mit deiner Wallet und trage die Signatur in das untere Feld ein. Mit einem Klick auf "Login" wird die Signatur geprüft und du wirst eingeloggt. 
 
-## Wie ist der Stand meiner Transaktion? Ich habe meine Crypto Assets nicht erhalten.
-Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast, weil du die Crypto Assets noch nicht erhalten hast, dann hast du folgende Möglichkeiten:
+## Wie ist der Stand meiner Transaktion? Ich habe meine Krypto-Assets nicht erhalten.
+Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast, weil du die Krypto-Assets noch nicht erhalten hast, dann hast du folgende Möglichkeiten:
 - Wenn es eine Banktransaktion war, empfehlen wir zwingend 2 Arbeitstage abzuwarten. Banktransaktionen werden in der Regel innert weniger Stunden verarbeitet, können im Extremfall aber auch einmal 3 Arbeitstage benötigen. Wir empfehlen daher, zuerst 2 Arbeitstage abzuwarten, bevor eine Nachforschung gestartet wird.
 - Du kannst im [DFX Telegram Chat](https://t.me/DFXswiss) nachfragen. Die Moderatoren reagieren dort sehr schnell auf Anfragen und können meistens rasch helfen. Bitte beachte, dass dich nie ein (echter) DFX-Mitarbeiter per Privatnachricht anschreiben wird! Wenn dich ein vermeintlicher DFX-Mitarbeiter per privater nachricht anschreibt, dann ist es ein Betrüger und kein echter DFX-Mitarbeiter. DFX-Mitarbeiter schreiben dir nur in der öffentlichen Telegram-Gruppe oder nur in einem privaten Chat, der von dir begonnen und eröffnet wurde, niemals aber in einam privaten Chat, der nicht von dir selbst gestartet wurde!
 - Des Weiteren kann auch der [Support](https://dfx.swiss/help) über die Webseite kontaktiert werden.
