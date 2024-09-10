@@ -144,6 +144,7 @@ Es reduziert die hohen Transaktionsgebühren & Mindesttransaktionsbeträge.
 Mehr Details findest du [hier](https://t.me/DFXswiss/92213).
 
 ## Bitcoin
+
 ### Wie kann ich meine Bitcoin-Wallet von der DFX-Bitcoin-Wallet exportieren, um sie in einer anderen Wallet importieren zu können?
 Klicke dazu auf das Menü-Symbol [...] oben rechts in der DFX-Bitcoin-Wallet. Klicke anschliessend auf "Wallet" und dann auf "Export/Backup". Im Anschluss bekommst du deinen "Seed" angezeigt, welcher aus insgesamt 12 Wörtern besteht. Diese 12 Wörter kannst du in jeder anderen kompatiblen Bitcoin-Wallet importieren.
 
