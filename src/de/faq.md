@@ -187,9 +187,7 @@ Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](h
 [Klicke hier um zu erfahren, wie man Krypto-Assets mit der neuen Toolbox kauft oder verkauft](https://t.me/DFXswiss/85437)  
 Investiere entweder einmalig oder per Dauerauftrag (DCA) direkt in deine Hardware-Wallet!
 
-Mehr dazu auf YouTube in diesen Tutorial-Videos:
-[DFX](https://youtu.be/-DV2xhPZG-w)
-[Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
+Mehr dazu auf YouTube in diesem Tutorial-Video: [Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
 
 Hier findest du weitere Informationen zu DFX im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
 
