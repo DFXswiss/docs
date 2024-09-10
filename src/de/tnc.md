@@ -94,7 +94,7 @@ Für den Kauf/Verkauf von Kryptowährungen überhalb dieses Tageslimits bedarf e
 - Erste Transaktion von einem auf den Namen des Kunden lautenden Bankkonto an DFX
 - Bei Registrierung des Kunden mittels Telefonnummer, hat der Kunde den per SMS erhaltenen Code (sogenannter TAN-Code) gegenüber DFX zu bestätigen
 
-Bis zu welchen Limits die Käufe/Verkäufe von Kryptowährungen ausgeführt werden, wird benutzerspezifisch durch DFX entschieden. Detaillierte Informationen sind beim Support unter (https://dfx.swiss/help) erhältlich.
+Bis zu welchen Limits die Käufe/Verkäufe von Kryptowährungen ausgeführt werden, wird benutzerspezifisch durch DFX entschieden. Detaillierte Informationen sind beim [Support](https://dfx.swiss/help) erhältlich.
 
 DFX behält sich das Recht vor, eine Videokonferenz zur Überprüfung der Identität des Kunden durchzuführen. Dies gilt unter anderem, wenn DFX der Ansicht ist, dass die zur Verfügung gestellten Unterlagen unvollständig sind, sich der Wohn- oder Geschäftssitz des Kunden in einem Risikoland befindet, oder die erste seitens des Kunden getätigte Transaktion aus einem Risikoland oder über ein Bankkonto, welches nicht auf den Namen des Kunden lautet, erfolgt ist.
 
