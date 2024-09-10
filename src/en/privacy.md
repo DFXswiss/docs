@@ -43,7 +43,7 @@ You have the right to receive information about the origin, recipient and purpos
 
 You can contact our [Support](https://services.dfx.swiss/support) at any time with regard to this and other questions on the subject of data protection.
 
-## 3. hosting
+## 3. Hosting
 
 ### Hosting with All-Inkl
 
