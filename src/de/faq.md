@@ -166,7 +166,6 @@ Meldung in der Bitcoin (BTC) only App "Backup nicht verifiziert"
 - [Global senden](https://t.me/DFXswiss/99843)
 - [BTC Wallet bereits vorhanden?](https://t.me/DFXswiss/84476)  
 - [DFX Seed Phrase Template (PDF-Download)](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
-- Geführter Kauf- oder Verkauf: "DFX Services"
 - [Native Bitcoin kaufen](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
 - [Native Bitcoin verkaufen](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
 
@@ -185,7 +184,7 @@ Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](h
 - Ledger
 - Trezor 
 
-Krypto-Assets kaufen oder verkaufen mit der neuen Toolbox auf [DFX.swiss](https://t.me/DFXswiss/85437](https://dfx.swiss/).  
+[Klicke hier um zu erfahren, wie man Krypto-Assets mit der neuen Toolbox kauft oder verkauft](https://t.me/DFXswiss/85437)  
 Investiere entweder einmalig oder per Dauerauftrag (DCA) direkt in deine Hardware-Wallet!
 
 Mehr dazu auf YouTube in diesen Tutorial-Videos:
