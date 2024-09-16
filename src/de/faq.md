@@ -18,7 +18,7 @@ Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den 
 DFX hat nur während des Kaufs beziehungsweise Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine Non-Custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
 
 ## Welche Länder werden durch DFX bedient?
-Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschliesslich Überseegebiete, DOM, keine TOM), Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Niederlande (einschliesslich Überseegebiete), Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Zypern, Island, Liechtenstein, Norwegen, Schweiz, Feröer, Grönland, Guernsey Insel, Jersey Insel, Monaco, San Marino, Vereinigte Arabische Emirate, Vereinigtes Königreich, Israel
+Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschliesslich Überseegebiete, DOM, keine TOM), Färöer, Griechenland, Grönland, Guernsey Insel, Irland, Island, Israel, Italien, Jersey, Kroatien, Lettland, Liechtenstein, Litauen, Luxemburg, Monaco, Niederlande (einschliesslich Überseegebiete), Norwegen, Österreich, Polen, Portugal, Rumänien, San Marino, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Vereinigte Arabische Emirate, Vereinigtes Königreich, Zypern
 
 ## Erhalte ich eine Übersicht aller Transaktionen, inklusive Fees, die ich während des Jahres bei DFX getätigt habe?
 Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch für das Finanzamt verwenden. Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://dfx.swiss/help) wenden.
@@ -33,7 +33,6 @@ Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet beziehungsweise 
 Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach bei unserem [Support](https://dfx.swiss/help).
 
 ### Welche Währungen werden von unserem Service unterstützt?
-
 Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000,- CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich in diesem Fall einfach bei unserem [Support](https://dfx.swiss/help).
 
 ## Nutzer-relevante Fragen & KYC-Prozess
@@ -52,7 +51,7 @@ Das KYC-Level eines Nutzers steigt, je mehr Daten DFX von diesem Nutzer erhalten
 ### Was passiert mit meinen Daten bei DFX?
 Informationen zu unserem Umgang mit Kundendaten findest du in unserer [Datenschutzerklärung](https://docs.dfx.swiss/de/privacy.html).
 
-## Kaufprozess: Fiat -> Crypto
+## Kaufprozess: Fiat -> Krypto
 DFX verarbeitet Transaktionen ab bestimmten Mindestbeträgen, die je nach Blockchain variieren.  
 
 Zusätzlich zu den DFX-Gebühren kann es eine Blockchain-Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
@@ -84,7 +83,7 @@ SEPA ist ein Zahlungsnetzwerk, in welchem Transaktionen kostenlos abgewickelt we
 ### Werden Echtzeittransaktionen unterstützt?
 Ja, mit abgeschlossenem KYC können per SEPA Instant Käufe durchgeführt werden. Die Verarbeitung dauert dadurch nur wenige Minuten.
 
-Du möchtest Crypto Assets KAUFEN und sie SOFORT in deiner Wallet haben? Kein Problem. Mit der neuen SEPA Instant Integration bei DFX hast du nach dem Absenden der Überweisung alles in wenigen Minuten in deiner Wallet. 24h pro Tag, 7 Tage die Woche, 365 Tage pro Jahr.
+Du möchtest Krypto-Assets KAUFEN und sie SOFORT in deiner Wallet haben? Kein Problem. Mit der neuen SEPA Instant Integration bei DFX hast du nach dem Absenden der Überweisung alles in wenigen Minuten in deiner Wallet. 24h pro Tag, 7 Tage die Woche, 365 Tage pro Jahr.
 
 **Wie funktioniert es?**
 Das ist sehr einfach. Verwende deine existierenden Kaufrouten, oder lege dir eine neue Kaufroute an und sende deine Überweisung mit dem Verwendungszweck an das DFX SEPA Instant-fähige Bankkonto.
@@ -145,6 +144,7 @@ Es reduziert die hohen Transaktionsgebühren & Mindesttransaktionsbeträge.
 Mehr Details findest du [hier](https://t.me/DFXswiss/92213).
 
 ## Bitcoin
+
 ### Wie kann ich meine Bitcoin-Wallet von der DFX-Bitcoin-Wallet exportieren, um sie in einer anderen Wallet importieren zu können?
 Klicke dazu auf das Menü-Symbol [...] oben rechts in der DFX-Bitcoin-Wallet. Klicke anschliessend auf "Wallet" und dann auf "Export/Backup". Im Anschluss bekommst du deinen "Seed" angezeigt, welcher aus insgesamt 12 Wörtern besteht. Diese 12 Wörter kannst du in jeder anderen kompatiblen Bitcoin-Wallet importieren.
 
@@ -166,7 +166,6 @@ Meldung in der Bitcoin (BTC) only App "Backup nicht verifiziert"
 - [Global senden](https://t.me/DFXswiss/99843)
 - [BTC Wallet bereits vorhanden?](https://t.me/DFXswiss/84476)  
 - [DFX Seed Phrase Template (PDF-Download)](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
-- Geführter Kauf- oder Verkauf: "DFX Services"
 - [Native Bitcoin kaufen](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
 - [Native Bitcoin verkaufen](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
 
@@ -185,16 +184,14 @@ Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](h
 - Ledger
 - Trezor 
 
-Krypto-Assets kaufen oder verkaufen mit der neuen Toolbox auf [DFX.swiss](https://t.me/DFXswiss/85437](https://dfx.swiss/).  
+[Klicke hier um zu erfahren, wie man Krypto-Assets mit der neuen Toolbox kauft oder verkauft](https://t.me/DFXswiss/85437)  
 Investiere entweder einmalig oder per Dauerauftrag (DCA) direkt in deine Hardware-Wallet!
 
-Mehr dazu auf YouTube in diesen Tutorial-Videos:
-[DFX](https://youtu.be/-DV2xhPZG-w)
-[Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
+Mehr dazu auf YouTube in diesem Tutorial-Video: [Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
 
 Hier findest du weitere Informationen zu DFX im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
 
-Crypto-Influencer (sowie alle anderen Webseiten-Eigner) können jetzt diese Toolbox auf der eigenen Webseite einbauen und Referral Code-Belohnungen damit generieren. 
+Krypto-Influencer (sowie alle anderen Webseiten-Eigner) können jetzt diese Toolbox auf der eigenen Webseite einbauen und Referral Code-Belohnungen damit generieren. 
 
 ## Wie kann ich das IFRAME-Widget von DFX in meine eigene Website integrieren?
 Das ist ganz einfach, Du brauchst nur den folgenden Code:
@@ -221,8 +218,8 @@ Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der [Telegram-Gruppe](h
 ## Command Line Login
 Du kannst dich auch mittels manueller Eingabe von einer Blockchainadresse und passender Signatur bei DFX einloggen. Gehe dazu auf https://services.dfx.swiss/login und klicke auf "Command Line". Als erstes wirst du nach deiner Blockchain-Adresse gefragt. Nach eingabe einer gültigen Blockchain-Adresse erhältst du eine Nachricht zum signieren. Signiere diese Nachricht mit deiner Wallet und trage die Signatur in das untere Feld ein. Mit einem Klick auf "Login" wird die Signatur geprüft und du wirst eingeloggt. 
 
-## Wie ist der Stand meiner Transaktion? Ich habe meine Crypto Assets nicht erhalten.
-Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast, weil du die Crypto Assets noch nicht erhalten hast, dann hast du folgende Möglichkeiten:
+## Wie ist der Stand meiner Transaktion? Ich habe meine Krypto-Assets nicht erhalten.
+Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast, weil du die Krypto-Assets noch nicht erhalten hast, dann hast du folgende Möglichkeiten:
 - Wenn es eine Banktransaktion war, empfehlen wir zwingend 2 Arbeitstage abzuwarten. Banktransaktionen werden in der Regel innert weniger Stunden verarbeitet, können im Extremfall aber auch einmal 3 Arbeitstage benötigen. Wir empfehlen daher, zuerst 2 Arbeitstage abzuwarten, bevor eine Nachforschung gestartet wird.
 - Du kannst im [DFX Telegram Chat](https://t.me/DFXswiss) nachfragen. Die Moderatoren reagieren dort sehr schnell auf Anfragen und können meistens rasch helfen. Bitte beachte, dass dich nie ein (echter) DFX-Mitarbeiter per Privatnachricht anschreiben wird! Wenn dich ein vermeintlicher DFX-Mitarbeiter per privater nachricht anschreibt, dann ist es ein Betrüger und kein echter DFX-Mitarbeiter. DFX-Mitarbeiter schreiben dir nur in der öffentlichen Telegram-Gruppe oder nur in einem privaten Chat, der von dir begonnen und eröffnet wurde, niemals aber in einam privaten Chat, der nicht von dir selbst gestartet wurde!
 - Des Weiteren kann auch der [Support](https://dfx.swiss/help) über die Webseite kontaktiert werden.
