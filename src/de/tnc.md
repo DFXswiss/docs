@@ -161,23 +161,23 @@ Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der 
 
 # Informationsangebot
 Das Informationsangebot der DFX umfasst:
-- Website
-- Newsletter
-- Social Media-Kanäle
-- Kundenaccounts mit Kundendaten
+* Website
+* Newsletter
+* Social Media-Kanäle
+* Kundenaccounts mit Kundendaten
 
 # Finanzdienstleistungen
 Die Finanzdienstleistungen von DFX umfassen:
-- Buy (Kaufen)
-- Sell (Verkaufen)
-- Swap (Tauschen)
-- Send (Senden)
+* Buy (Kaufen)
+* Sell (Verkaufen)
+* Swap (Tauschen)
+* Send (Senden)
 
 Die Payment-Optionen umfassen:
-- Banküberweisung
-- SEPA Instant Banküberweisung
-- Kreditkarte
-- Krypto-Einzahlung
+* Banküberweisung
+* SEPA Instant Banküberweisung
+* Kreditkarte
+* Krypto-Einzahlung
 
 # Inkasso-Geschäft
 Das Inkasso-Geschäft von DFX umfasst:
