@@ -208,6 +208,7 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards und Konditionen an:
      * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
 
 * Lightning BOLT11
+  * Lightning BOLT11
     * Der Nutzer trägt die Routing-Gebühr.
     * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
 
