@@ -86,13 +86,13 @@ Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Anga
 
 Für den Kauf/Verkauf von Kryptowährungen überhalb dieses Tageslimits bedarf es einer detaillierteren Registrierung, welche als Erweiterter – voller KYC (Know-Your-Customer) – Prozess gilt. Im Rahmen dieses Prozesses sind insbesondere folgende Informationen gegenüber DFX offenzulegen:
 
-- Adresse, wobei deren Nachweis über die Zustellung eines Briefes an die angegebene Adresse erfolgt
-- Kopie des Ausweisdokuments (Personalausweis oder Reisepass), das eine Unterschrift, einen lesbaren MRZ-Code und ein Foto aufweisen muss
-- Aktuelles Foto des Kunden
-- Ordnungsgemäss ausgefülltes DFX-Registrierungsformular (sogenanntes Chatbot-Formular nach den Vorgaben des Vereins zur Qualitätssicherung von Finanzdienstleistungen (VQF))
-- Ordnungsgemäss ausgefülltes Formular für den wirtschaftlichen Eigentümer
-- Erste Transaktion von einem auf den Namen des Kunden lautenden Bankkonto an DFX
-- Bei Registrierung des Kunden mittels Telefonnummer, hat der Kunde den per SMS erhaltenen Code (sogenannter TAN-Code) gegenüber DFX zu bestätigen
+* Adresse, wobei deren Nachweis über die Zustellung eines Briefes an die angegebene Adresse erfolgt
+* Kopie des Ausweisdokuments (Personalausweis oder Reisepass), das eine Unterschrift, einen lesbaren MRZ-Code und ein Foto aufweisen muss
+* Aktuelles Foto des Kunden
+* Ordnungsgemäss ausgefülltes DFX-Registrierungsformular (sogenanntes Chatbot-Formular nach den Vorgaben des Vereins zur Qualitätssicherung von Finanzdienstleistungen (VQF))
+* Ordnungsgemäss ausgefülltes Formular für den wirtschaftlichen Eigentümer
+* Erste Transaktion von einem auf den Namen des Kunden lautenden Bankkonto an DFX
+* Bei Registrierung des Kunden mittels Telefonnummer, hat der Kunde den per SMS erhaltenen Code (sogenannter TAN-Code) gegenüber DFX zu bestätigen
 
 Bis zu welchen Limits die Käufe/Verkäufe von Kryptowährungen ausgeführt werden, wird benutzerspezifisch durch DFX entschieden. Detaillierte Informationen sind beim [Support](https://dfx.swiss/help) erhältlich.
 
