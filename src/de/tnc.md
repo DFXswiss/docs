@@ -179,6 +179,8 @@ Die Payment-Optionen umfassen:
 * Kreditkarte
 * Krypto-Einzahlung
 
+TO DO: GEBüHREN ERWäHNEN: WERDEN IM FRONTEND ANGEZEIGT (siehe Pull Request KOmmentare und eigene Notizen)
+
 # Inkasso-Geschäft
 Das Inkasso-Geschäft von DFX umfasst:
 * Payment-Link
@@ -189,7 +191,7 @@ Hierbei gelten folgende Bestimmungen:
   * Jede Forderung hat eine definierte Gültigkeitsdauer, die in UTC angegeben ist. Die Zahlung muss innerhalb dieser Frist erfolgen.
   * Technische Manipulationen, um DFX über die Bezahlung zu täuschen, sind nicht gestattet und werden zur Anzeige gebracht. Insbesondere sind „doppelte Ausgaben“ (Double Spending) nicht erlaubt und werden als Betrug strafrechtlich verfolgt.
 
-Die technischen Definitionen und Grundsatzbeschreibungen der zugelassenen Zahlungsmethoden sind den jeweiligen DFX-Richtlinien zu entnehmen.
+TO DO: UTXO ETC ERKLäREN (ALSO SO GRUNDSäTZLICH; WIE WENN MAN NICHT WEISS WAS ES üBERHAUPT IST)
 
 DFX bietet hierbei die Bezahlung mittels folgender Standards an:
 * FrankencoinPay
@@ -211,6 +213,11 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards an:
 
 Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
 
+# Referral-Programm
+Unser Referral-Programm zahlt Kunden 0,25 % auf das Kauf-/Investitionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird. Die Referral-Zahlungen betragen 0,25 % auf Buy-, Sell- und Swap-Transaktionen sowie 0,1 % auf Payment-Link-Transaktionen.
+
+Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter services.dfx.swiss/account einsehbar.
+
 ### DFX-Gebühren für Privatkunden
 Die Gebühren variieren je nach Kundentyp, wobei unterschiedliche Tarife für Firmen- und Privatkunden gelten. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen.
 
@@ -222,10 +229,6 @@ Zusätzlich zu den DFX-Gebühren kann es eine Blockchaingebühr geben. Diese Geb
 
 ## Zusätzliche Betreiber-Gebühr
 Zusätzlich zu den DFX-Gebühren kann es eine Betreibergebühr geben. Diese Gebühr wird erhoben, wenn Finanzdienstleistungen in einer anderen Umgebung integriert sind und der Integrator eine eigene Gebühr verlangt, wie beispielsweise bei der Integration in eine andere Blockchain oder eine Non-Custodial Wallet. Die Gebühr wird in der grafischen Oberfläche bei Kaufabschluss angezeigt. 
-
-## Referral-System
-Unser Referral-Programm zahlt Kunden 0,25% auf das Kauf-/Investitionsvolumen, welches über den Referral-Link des Kunden von einem neuen Kunden gekauft worden ist.  
-Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem weisen wir darauf hin, dass das Referral-Programm jederzeit und ohne Ankündigung eingestellt beziehungsweise verändert werden kann.
 
 ## Risiken
 DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
