@@ -188,9 +188,14 @@ Hierbei gelten folgende Bestimmungen:
 * Nutzer, die sich entscheiden, eine ausstehende Forderung über den DFX-Inkasso-Service zu begleichen, können dies gemäss den folgenden Bedingungen tun:
   * Jede Forderung hat eine definierte Gültigkeitsdauer, die in UTC angegeben ist. Die Zahlung muss innerhalb dieser Frist erfolgen.
   * Technische Manipulationen, um DFX über die Bezahlung zu täuschen, sind nicht gestattet und werden zur Anzeige gebracht. Insbesondere sind „doppelte Ausgaben“ (Double Spending) nicht erlaubt und werden als Betrug strafrechtlich verfolgt.
-  * Technische Definition und Grundsatzbeschreibungen.
-  * DFX bietet die Bezahlung mittels folgender Standards an:
 
+Die technischen Definitionen und Grundsatzbeschreibungen der zugelassenen Zahlungsmethoden sind den jeweiligen DFX-Richtlinien zu entnehmen.
+
+DFX bietet hierbei die Bezahlung mittels folgender Standards an:
+* FrankencoinPay
+  * Lightning BOLT11
+  * EVM
+  * UTXO
 * Text
   * Text
     * Text
