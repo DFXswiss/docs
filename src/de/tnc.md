@@ -157,7 +157,34 @@ DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen b
 
 Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der ursprünglich transferierten Kryptowährung. Der zurückerstattete Betrag entspricht genau dem Wert, der zum Verkauf an DFX übertragen wurde.
 
-## Prozentuale Gebühren
+## Dienstleistungen der DFX 
+
+# Informationsangebot
+Das Informationsangebot der DFX umfasst:
+- Website
+- Newsletter
+- Social Media-Kanäle
+- Kundenaccounts mit Kundendaten
+
+# Finanzdienstleistungen
+Die Finanzdienstleistungen von DFX umfassen:
+- Buy (Kaufen)
+- Sell (Verkaufen)
+- Swap (Tauschen)
+- Send (Senden)
+
+Die Payment-Optionen umfassen:
+- Banküberweisung
+- SEPA Instant Banküberweisung
+- Kreditkarte
+- Krypto-Einzahlung
+
+# Inkasso-Geschäft
+Das Inkasso-Geschäft von DFX umfasst:
+- Payment-Link
+  - Text
+    -    
+
 Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
 
 ### DFX-Gebühren für Privatkunden
