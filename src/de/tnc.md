@@ -191,8 +191,6 @@ Hierbei gelten folgende Bestimmungen:
   * Jede Forderung hat eine definierte Gültigkeitsdauer, die in UTC angegeben ist. Die Zahlung muss innerhalb dieser Frist erfolgen.
   * Technische Manipulationen, um DFX über die Bezahlung zu täuschen, sind nicht gestattet und werden zur Anzeige gebracht. Insbesondere sind „doppelte Ausgaben“ (Double Spending) nicht erlaubt und werden als Betrug strafrechtlich verfolgt.
 
-TO DO: UTXO ETC ERKLäREN (ALSO SO GRUNDSäTZLICH; WIE WENN MAN NICHT WEISS WAS ES üBERHAUPT IST)
-
 DFX bietet hierbei die Bezahlung mittels folgender Standards und Konditionen an:
 * FrankencoinPay und OpenCryptoPay
   * Lightning BOLT11
