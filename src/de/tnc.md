@@ -181,7 +181,15 @@ Die Payment-Optionen umfassen:
 
 # Inkasso-Geschäft
 Das Inkasso-Geschäft von DFX umfasst:
-- Payment-Link
+* Payment-Link
+
+Hierbei gelten folgende Bestimmungen: 
+* Vertragsparteien, die Forderungen an DFX per Inkasso-Geschäft abtreten möchten, müssen dies mittels eines gesonderten Vertrags mit DFX vereinbaren. Sofern im Vertrag nichts anderes geregelt ist, gelten Gebühren von 0,1 % auf den Umsatz.
+* Nutzer, die sich entscheiden, eine ausstehende Forderung über den DFX-Inkasso-Service zu begleichen, können dies gemäss den folgenden Bedingungen tun:
+  * Jede Forderung hat eine definierte Gültigkeitsdauer, die in UTC angegeben ist. Die Zahlung muss innerhalb dieser Frist erfolgen.
+  * Technische Manipulationen, um DFX über die Bezahlung zu täuschen, sind nicht gestattet und werden zur Anzeige gebracht. Insbesondere sind „doppelte Ausgaben“ (Double Spending) nicht erlaubt und werden als Betrug strafrechtlich verfolgt.
+  * Technische Definition und Grundsatzbeschreibungen.
+  * DFX bietet die Bezahlung mittels folgender Standards an:
 
 * Text
   * Text
