@@ -159,14 +159,14 @@ Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der 
 
 ## Dienstleistungen der DFX 
 
-# Informationsangebot
+### Informationsangebot
 Das Informationsangebot der DFX umfasst:
 * Website
 * Newsletter
 * Social Media-Kanäle
 * Kundenaccounts mit Kundendaten
 
-# Finanzdienstleistungen
+### Finanzdienstleistungen
 Die Finanzdienstleistungen von DFX umfassen:
 * Buy (Kaufen)
 * Sell (Verkaufen)
@@ -181,7 +181,7 @@ Die Payment-Optionen umfassen:
 
 TO DO: GEBüHREN ERWäHNEN: WERDEN IM FRONTEND ANGEZEIGT (siehe Pull Request KOmmentare und eigene Notizen)
 
-# Inkasso-Geschäft
+### Inkasso-Geschäft
 Das Inkasso-Geschäft von DFX umfasst:
 * Payment-Link
 
@@ -213,7 +213,7 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards an:
 
 Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
 
-# Referral-Programm
+### Referral-Programm
 Unser Referral-Programm zahlt Kunden 0,25 % auf das Kauf-/Investitionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird. Die Referral-Zahlungen betragen 0,25 % auf Buy-, Sell- und Swap-Transaktionen sowie 0,1 % auf Payment-Link-Transaktionen.
 
 Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter services.dfx.swiss/account einsehbar.
