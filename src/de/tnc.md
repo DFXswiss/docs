@@ -49,22 +49,22 @@ DFX ist ein äusserst transparenter Blockchain-Finanzdienstleister. DFX veröffe
 ## Umgang mit Transaktionsdaten
 Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informationen öffentlich zur Verfügung gestellt:
 
-- Input Asset
-- Input Amount
-- Output Asset
-- Output Amount
-- Transaction ID
-- Absender Adressen
-- Empfänger Adressen
+* Input Asset
+* Input Amount
+* Output Asset
+* Output Amount
+* Transaction ID
+* Absender Adressen
+* Empfänger Adressen
 
 Die Transaction ID lässt systembedingt einer öffentlichen Blockchain Rückschlüsse auf die involvierten Kundenadressen zu. Diese Informationen lassen jedoch keinen direkten Rückschluss auf die Person zu, die diese Transaktion ausgeführt hat bzw. hinter der öffentlichen Blockchain-Adresse steht.
 
 ## Umgang mit Kundendaten bei Banktransaktionen
 Bei der Ausführung von Transaktionen werden automatisch Kundendaten mit der Transaktion mitgesendet. Konkret werden bei Banktransaktionen in der Regel folgende Informationen von der Absenderbank an die Empfängerbank übermittelt:
 
-- Name des Absenders und des Empfängers
-- Anschriftsadresse des Absenders und des Empfängers
-- Kontodaten wie IBAN, Verwendungszweck, Referenz
+* Name des Absenders und des Empfängers
+* Anschriftsadresse des Absenders und des Empfängers
+* Kontodaten wie IBAN, Verwendungszweck, Referenz
 
 Diese Informationen werden zwischen der Bank und DFX ausgetauscht und mit anderen Banken, welche bei der Verarbeitung der Transaktion involviert sind, geteilt. DFX teilt, falls nötig, zusätzliche Daten mit der Bank, um die geltenden Gesetze einhalten zu können. Es können alle Daten, welche DFX vorliegen mit der Bank geteilt werden, um die gesetzlich vorgeschriebenen Prüfpflichten wahrnehmen zu können. Konkret bedeuet dies, dass die Daten mit der Bank geteilt werden, welche die Zahlungen verarbeitet. DFX verfügt über mehrere Bankkonten bei unterschiedlichen Banken, von denen sich eines in Luxemburg befindet. Somit werden auch Daten ins Ausland übermittelt, wenn eine ausländische Bank verwendet wird. Um welche Bank es sich handelt, lässt sich an der IBAN erkennen.
 
@@ -73,9 +73,9 @@ Gleich wie bei Banktransaktionen müssen auch bei Blockchain-Transaktionen die g
 
 Es werden wenigstens folgende Informationen benötigt:
 
-- Name des Absenders und des Empfängers
-- Anschriftsadresse des Absenders und des Empfängers
-- Blockchaindaten wie Blockchainadresse, Transaction ID, Referenz
+* Name des Absenders und des Empfängers
+* Anschriftsadresse des Absenders und des Empfängers
+* Blockchaindaten wie Blockchainadresse, Transaction ID, Referenz
 
 Bei Blockchaintransaktionen von DFX an nicht self-hosted Wallets werden diese Daten von DFX automatisch an den Hosting Provider übermittelt. Wenn nichts anderes vereinbart ist, werden die Daten per E-Mail an compliance(at)"provider.domain" übermittelt. Kunden von DFX, die dieser Übermittlung nicht zustimmen wollen, empfehlen wir die Nutzung einer self-hosted Wallet.
 
