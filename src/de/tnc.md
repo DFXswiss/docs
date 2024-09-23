@@ -221,7 +221,12 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards und Konditionen an:
     * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht nicht 1 ZCHF.
      * Die Kosten für den Empfang von einem UTXO werden vom Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
      * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
-   
+
+Die Gebühren für Inkasso-Geschäfte sind wie folgt festgelegt:
+* DFX erhebt grundsätzlich keine Gebühren für die Begleichung der Inkasso-Forderungen.
+* DFX definiert eine Blockchain-Adresse, an die der geforderte Betrag übermittelt werden kann. Bei Zahlungen über Lightning wird eine BOLT11-Rechnung erstellt. Die Kosten für die Blockchain-Gebühren oder die Lightning-Routing-Gebühren müssen vom Nutzer übernommen werden und sind nicht Teil der Inkasso-Dienstleistung von DFX. 
+* Sollte sich der Nutzer entscheiden, in einer Fremdwährung zu bezahlen, so berechnet DFX eine Währungsumrechnungsgebühr von 1 %, wenn FrankencoinPay, Lightning BOLT11 oder OpenCryptoPay.io als Zahlungsmethode gewählt wird. Bei allen anderen Zahlungsoptionen, wie beispielsweise „Pay to a Blockchain Address“, wird eine Währungsumrechnungsgebühr von 2 % erhoben. Die erhöhte Gebühr ist erforderlich, da bei diesen Zahlungsmethoden eine längere Gültigkeitsdauer angeboten wird.
+
 Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
 
 ### Referral-Programm
