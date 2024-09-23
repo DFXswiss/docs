@@ -227,7 +227,7 @@ Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als 
 ### Referral-Programm
 Unser Referral-Programm zahlt Kunden 0,25 % auf das Kauf-/Investitionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird. Die Referral-Zahlungen betragen 0,25 % auf Buy-, Sell- und Swap-Transaktionen sowie 0,1 % auf Payment-Link-Transaktionen.
 
-Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter services.dfx.swiss/account einsehbar.
+Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter services.dfx.swiss/account einsehbar.
 
 ## Risiken
 DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
