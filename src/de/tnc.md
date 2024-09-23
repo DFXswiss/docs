@@ -227,8 +227,6 @@ Die Gebühren für Inkasso-Geschäfte sind wie folgt festgelegt:
 * DFX definiert eine Blockchain-Adresse, an die der geforderte Betrag übermittelt werden kann. Bei Zahlungen über Lightning wird eine BOLT11-Rechnung erstellt. Die Kosten für die Blockchain-Gebühren oder die Lightning-Routing-Gebühren müssen vom Nutzer übernommen werden und sind nicht Teil der Inkasso-Dienstleistung von DFX. 
 * Sollte sich der Nutzer entscheiden, in einer Fremdwährung zu bezahlen, berechnet DFX eine Währungsumrechnungsgebühr von 1 %, wenn FrankencoinPay, Lightning BOLT11 oder OpenCryptoPay.io als Zahlungsmethode gewählt wird. Bei allen anderen Zahlungsoptionen, wie beispielsweise „Pay to a Blockchain Address“, wird eine Währungsumrechnungsgebühr von 2 % erhoben. Die erhöhte Gebühr ist erforderlich, da bei diesen Zahlungsmethoden eine längere Gültigkeitsdauer angeboten wird.
 
-Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
-
 ### Referral-Programm
 Unser Referral-Programm zahlt Kunden 0,25 % auf das Kauf-/Investitionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird. Die Referral-Zahlungen betragen 0,25 % auf Buy-, Sell- und Swap-Transaktionen sowie 0,1 % auf Payment-Link-Transaktionen.
 
