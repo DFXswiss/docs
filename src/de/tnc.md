@@ -219,8 +219,8 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards und Konditionen an:
   * UTXO
     * Der Nutzer trägt die Blockchain-Gebühr.
     * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht nicht 1 ZCHF.
-     * Die Kosten für den Empfang von einem UTXO werden vom Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
-     * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
+      * Die Kosten für den Empfang von einem UTXO werden vom Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
+      * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
 
 Die Gebühren für Inkasso-Geschäfte sind wie folgt festgelegt:
 * DFX erhebt grundsätzlich keine Gebühren für die Begleichung der Inkasso-Forderungen.
