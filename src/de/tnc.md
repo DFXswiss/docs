@@ -196,8 +196,16 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards an:
   * Lightning BOLT11
   * EVM
   * UTXO
-* Text
-  * Text
+* OpenCryptoPay
+  * Lightning BOLT11
+  * EVM
+  * UTXO
+* Lightning BOLT11
+  * Lightning BOLT11
+* PayToBlockchainAddress
+  * EVM
+  * UTXO
+    * Text
     * Text
      * Text
 
