@@ -179,7 +179,7 @@ Die Payment-Optionen umfassen:
 * Kreditkarte
 * Krypto-Einzahlung
 
-TO DO: GEBüHREN ERWäHNEN: WERDEN IM FRONTEND ANGEZEIGT (siehe Pull Request KOmmentare und eigene Notizen)
+Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, Asset, Blockchain und Nutzungsumgebung. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen.
 
 ### Inkasso-Geschäft
 Das Inkasso-Geschäft von DFX umfasst:
@@ -228,18 +228,6 @@ Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als 
 Unser Referral-Programm zahlt Kunden 0,25 % auf das Kauf-/Investitionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird. Die Referral-Zahlungen betragen 0,25 % auf Buy-, Sell- und Swap-Transaktionen sowie 0,1 % auf Payment-Link-Transaktionen.
 
 Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter services.dfx.swiss/account einsehbar.
-
-### DFX-Gebühren für Privatkunden
-Die Gebühren variieren je nach Kundentyp, wobei unterschiedliche Tarife für Firmen- und Privatkunden gelten. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen.
-
-### DFX-Gebühren für Firmenkunden
-Die Gebühren variieren je nach Kundentyp, wobei unterschiedliche Tarife für Firmen- und Privatkunden gelten. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen.
-
-## Zusätzliche Blockchain-Gebühr
-Zusätzlich zu den DFX-Gebühren kann es eine Blockchaingebühr geben. Diese Gebühr fällt an, um die Blockchain-Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
-
-## Zusätzliche Betreiber-Gebühr
-Zusätzlich zu den DFX-Gebühren kann es eine Betreibergebühr geben. Diese Gebühr wird erhoben, wenn Finanzdienstleistungen in einer anderen Umgebung integriert sind und der Integrator eine eigene Gebühr verlangt, wie beispielsweise bei der Integration in eine andere Blockchain oder eine Non-Custodial Wallet. Die Gebühr wird in der grafischen Oberfläche bei Kaufabschluss angezeigt. 
 
 ## Risiken
 DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
