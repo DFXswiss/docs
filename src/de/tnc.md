@@ -194,7 +194,7 @@ Hierbei gelten folgende Bestimmungen:
 TO DO: UTXO ETC ERKLäREN (ALSO SO GRUNDSäTZLICH; WIE WENN MAN NICHT WEISS WAS ES üBERHAUPT IST)
 
 DFX bietet hierbei die Bezahlung mittels folgender Standards und Konditionen an:
-* FrankencoinPay
+* FrankencoinPay und OpenCryptoPay
   * Lightning BOLT11
     * Der Nutzer trägt die Routing-Gebühr.
     * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
@@ -207,19 +207,20 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards und Konditionen an:
      * Die Kosten für den Empfang von einem UTXO werden vom Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
      * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
 
-* OpenCryptoPay
-  * Lightning BOLT11
-  * EVM
-  * UTXO
 * Lightning BOLT11
-  * Lightning BOLT11
+  * Der Nutzer trägt die Routing-Gebühr.
+  * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
+
 * PayToBlockchainAddress
   * EVM
+    * Der Nutzer trägt die Blockchain-Gebühr.
+    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
   * UTXO
-    * Text
-    * Text
-     * Text
-
+    * Der Nutzer trägt die Blockchain-Gebühr.
+    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht nicht 1 ZCHF.
+     * Die Kosten für den Empfang von einem UTXO werden vom Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
+     * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
+   
 Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
 
 ### Referral-Programm
