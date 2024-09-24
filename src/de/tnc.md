@@ -195,20 +195,20 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards an:
 * FrankencoinPay und OpenCryptoPay
   * Lightning BOLT11
     * Der Nutzer trägt die Routing-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
+    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht 1 BTC.
   * EVM
     * Der Nutzer trägt die Blockchain-Gebühr.
     * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
   * UTXO
     * Der Nutzer trägt die Blockchain-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht nicht 1 ZCHF.
-      * Die Kosten für den Empfang von einem UTXO werden vom Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
+    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht nicht 1 BTC.
+      * Die Kosten für den Empfang von einem UTXO werden dem Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
       * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
 
 * Lightning BOLT11
   * Lightning BOLT11
     * Der Nutzer trägt die Routing-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
+    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht 1 BTC.
 
 * PayToBlockchainAddress
   * EVM
