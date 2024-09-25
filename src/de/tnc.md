@@ -130,7 +130,7 @@ Sofern der Kunde den zu wechselnden Betrag in einer anderen Fiat-Währung als EU
 
 DFX weist darauf hin, dass der Kauf mehrere Werktage dauern kann, bis die gewünschte Kryptowährung in der Wallet des Kunden eintrifft.
 
-Die Transaktionskosten der Kryptowährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in Euro, US-Dollar oder Schweizer Franken beziehungsweise einer anderen Währung, die für die Zahlung zulässig ist. Bei Krypto-zu-Krypto-Transaktionen sind die Preise in der zu wechselnden Kryptowährung angegeben. Ebenso beinhaltet der Preis die Schweizer Mehrwertsteuer (im Folgenden: MWST), falls zutreffend.
+Die Transaktionskosten der Kryptowährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in Euro, US-Dollar oder Schweizer Franken beziehungsweise einer anderen Währung, die für die Zahlung zulässig ist. Bei Krypto-zu-Krypto-Transaktionen sind die Preise in der zu wechselnden Kryptowährung angegeben. Ebenso beinhaltet der Preis die Schweizer Mehrwertsteuer, falls zutreffend.
 
 Aufgegebene Kaufrouten werden von DFX innerhalb von sieben Werktagen nach erfolgter Transaktion bearbeitet. Wird die Kaufroute nicht innerhalb der oben genannten Frist bearbeitet, ist der Kunde verpflichtet, DFX unverzüglich zu informieren. Wenn der Kunde dieser Verpflichtung nicht nachkommt, kann er keine Ansprüche bezüglich der Änderung des Wechselkurses erheben.
 
@@ -151,7 +151,7 @@ Verkaufsrouten werden von DFX innerhalb von sieben Werktagen nach erfolgter Tran
 
 Verkaufsrouten können storniert werden, solange die umzuwandelnde Kryptowährung noch nicht bei DFX eingegangen ist.
 
-Die Transaktionskosten der Krypto- respektive Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer (im Folgenden: MWST), falls zutreffend. Nachdem die Überweisung der gewünschten Kryptowährung respektive der gewünschten Fremdwährung auf die/das Wallet/Konto des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E-Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
+Die Transaktionskosten der Krypto- respektive Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer, falls zutreffend. Nachdem die Überweisung der gewünschten Kryptowährung respektive der gewünschten Fremdwährung auf die/das Wallet/Konto des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E-Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
 
 DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen besteht. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert. 
 
