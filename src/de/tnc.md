@@ -193,32 +193,26 @@ Hierbei gelten folgende Bestimmungen:
 
 DFX bietet hierbei die Bezahlung mittels folgender Standards an:
 * FrankencoinPay und OpenCryptoPay
-  * Lightning BOLT11
+  * Zahlungen über Lightning BOLT11
     * Der Nutzer trägt die Routing-Gebühr.
     * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht 1 BTC.
-  * EVM
+  * Zahlungen auf einer EVM-basierten Blockchain
     * Der Nutzer trägt die Blockchain-Gebühr.
     * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
-  * UTXO
+  * Zahlungen auf einer UTXO-basierten Blockchain
     * Der Nutzer trägt die Blockchain-Gebühr.
     * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht nicht 1 BTC.
       * Die Kosten für den Empfang von einem UTXO werden dem Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
       * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
 
-* Lightning BOLT11
-  * Lightning BOLT11
-    * Der Nutzer trägt die Routing-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht 1 BTC.
+* Zahlungen über Lightning BOLT11
+    * analog zu oben
 
 * PayToBlockchainAddress
-  * EVM
-    * Der Nutzer trägt die Blockchain-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
-  * UTXO
-    * Der Nutzer trägt die Blockchain-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht nicht 1 BTC.
-      * Die Kosten für den Empfang von einem UTXO werden dem Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
-      * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
+  * Zahlungen auf einer EVM-basierten Blockchain
+    * analog zu oben
+  * Zahlungen auf einer UTXO-basierten Blockchain
+    * analog zu oben
 
 Die Gebühren für Inkasso-Geschäfte sind wie folgt festgelegt:
 * DFX erhebt grundsätzlich keine Gebühren für die Begleichung der Inkasso-Forderungen.
