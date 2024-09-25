@@ -2,7 +2,7 @@
 
 Im Falle von Unstimmigkeiten ist die deutsche Version massgebend.
 
-Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website https://dfx.swiss/, und die dazugehörige Subdomain services.dfx.swiss. DFX nutzt diese Websites, um Finanzdienstleistungen anzubieten. Der Zugriff auf und die Nutzung dieser Dienstleistungen unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
+Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website dfx.swiss, und die dazugehörige Subdomain services.dfx.swiss. DFX nutzt diese Websites, um Finanzdienstleistungen anzubieten. Der Zugriff auf und die Nutzung dieser Dienstleistungen unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
 
 Darüber hinaus stellt DFX zusätzlich Software wie zum Beispiel die DFX Wallet kostenlos als Open-Source-Produkt zur Verfügung. Diese Software kann von jedem Nutzer kostenlos und erlaubnisfrei verwendet werden. Dies entspricht jedoch nicht einer Geschäftsbeziehung mit DFX, da DFX keine Kontrolle darüber besitzt, wie diese Software von anderen Nutzern verwendet wird. Für die Verwendung von Open-Source-Software gilt in erster Linie der [Haftungsausschluss von DFX](https://docs.dfx.swiss/de/disclaimer.html).
 
@@ -49,33 +49,33 @@ DFX ist ein äusserst transparenter Blockchain-Finanzdienstleister. DFX veröffe
 ## Umgang mit Transaktionsdaten
 Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informationen öffentlich zur Verfügung gestellt:
 
-- Input Asset
-- Input Amount
-- Output Asset
-- Output Amount
-- Transaction ID
-- Absender Adressen
-- Empfänger Adressen
+* Input Asset
+* Input Amount
+* Output Asset
+* Output Amount
+* Transaction ID
+* Absender Adressen
+* Empfänger Adressen
 
 Die Transaction ID lässt systembedingt einer öffentlichen Blockchain Rückschlüsse auf die involvierten Kundenadressen zu. Diese Informationen lassen jedoch keinen direkten Rückschluss auf die Person zu, die diese Transaktion ausgeführt hat bzw. hinter der öffentlichen Blockchain-Adresse steht.
 
 ## Umgang mit Kundendaten bei Banktransaktionen
 Bei der Ausführung von Transaktionen werden automatisch Kundendaten mit der Transaktion mitgesendet. Konkret werden bei Banktransaktionen in der Regel folgende Informationen von der Absenderbank an die Empfängerbank übermittelt:
 
-- Name des Absenders und des Empfängers
-- Anschriftsadresse des Absenders und des Empfängers
-- Kontodaten wie IBAN, Verwendungszweck, Referenz
+* Name des Absenders und des Empfängers
+* Anschriftsadresse des Absenders und des Empfängers
+* Kontodaten wie IBAN, Verwendungszweck, Referenz
 
 Diese Informationen werden zwischen der Bank und DFX ausgetauscht und mit anderen Banken, welche bei der Verarbeitung der Transaktion involviert sind, geteilt. DFX teilt, falls nötig, zusätzliche Daten mit der Bank, um die geltenden Gesetze einhalten zu können. Es können alle Daten, welche DFX vorliegen mit der Bank geteilt werden, um die gesetzlich vorgeschriebenen Prüfpflichten wahrnehmen zu können. Konkret bedeuet dies, dass die Daten mit der Bank geteilt werden, welche die Zahlungen verarbeitet. DFX verfügt über mehrere Bankkonten bei unterschiedlichen Banken, von denen sich eines in Luxemburg befindet. Somit werden auch Daten ins Ausland übermittelt, wenn eine ausländische Bank verwendet wird. Um welche Bank es sich handelt, lässt sich an der IBAN erkennen.
 
 ## Umgang mit Kundendaten bei Blockchain-Transaktionen
-Gleich wie bei Banktransaktionen müssen auch bei Blockchain-Transaktionen die grundlegenden Transaktionsdaten mit der Transaktion mitgesendet werden. Bei Verwendung einer self-hosted Wallet wie z.B. der DFX Bitcoin Wallet, MetaMask, Ledger oder der Bitbox Hardware Wallet, kann auf den Datenaustausch verzichtet werden. In allen anderen Fällen ist der Datenaustausch zwingend vorgeschrieben. Das bedeutet, dass es zwingend notwendig ist, bei Blockchain-Transaktionen von nicht self-hosted Wallets an DFX die personenbezogenen Daten mitzusenden. Die Daten sind zeitgleich mit Ausführung der Blockchain-Transaktion in einem standartisierten Format an https://services.dfx.swiss/support oder mit einer anderen geeigneten Methode an DFX zu übertragen.
+Gleich wie bei Banktransaktionen müssen auch bei Blockchain-Transaktionen die grundlegenden Transaktionsdaten mit der Transaktion mitgesendet werden. Bei Verwendung einer self-hosted Wallet wie z.B. der DFX Bitcoin Wallet, MetaMask, Ledger oder der Bitbox Hardware Wallet, kann auf den Datenaustausch verzichtet werden. In allen anderen Fällen ist der Datenaustausch zwingend vorgeschrieben. Das bedeutet, dass es zwingend notwendig ist, bei Blockchain-Transaktionen von nicht self-hosted Wallets an DFX die personenbezogenen Daten mitzusenden. Die Daten sind zeitgleich mit Ausführung der Blockchain-Transaktion in einem standardisierten Format an den [Support](https://services.dfx.swiss/support) oder mit einer anderen geeigneten Methode an DFX zu übertragen.
 
 Es werden wenigstens folgende Informationen benötigt:
 
-- Name des Absenders und des Empfängers
-- Anschriftsadresse des Absenders und des Empfängers
-- Blockchaindaten wie Blockchainadresse, Transaction ID, Referenz
+* Name des Absenders und des Empfängers
+* Anschriftsadresse des Absenders und des Empfängers
+* Blockchaindaten wie Blockchainadresse, Transaction ID, Referenz
 
 Bei Blockchaintransaktionen von DFX an nicht self-hosted Wallets werden diese Daten von DFX automatisch an den Hosting Provider übermittelt. Wenn nichts anderes vereinbart ist, werden die Daten per E-Mail an compliance(at)"provider.domain" übermittelt. Kunden von DFX, die dieser Übermittlung nicht zustimmen wollen, empfehlen wir die Nutzung einer self-hosted Wallet.
 
@@ -86,13 +86,13 @@ Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Anga
 
 Für den Kauf/Verkauf von Kryptowährungen überhalb dieses Tageslimits bedarf es einer detaillierteren Registrierung, welche als Erweiterter – voller KYC (Know-Your-Customer) – Prozess gilt. Im Rahmen dieses Prozesses sind insbesondere folgende Informationen gegenüber DFX offenzulegen:
 
-- Adresse, wobei deren Nachweis über die Zustellung eines Briefes an die angegebene Adresse erfolgt
-- Kopie des Ausweisdokuments (Personalausweis oder Reisepass), das eine Unterschrift, einen lesbaren MRZ-Code und ein Foto aufweisen muss
-- Aktuelles Foto des Kunden
-- Ordnungsgemäss ausgefülltes DFX-Registrierungsformular (sogenanntes Chatbot-Formular nach den Vorgaben des Vereins zur Qualitätssicherung von Finanzdienstleistungen (VQF))
-- Ordnungsgemäss ausgefülltes Formular für den wirtschaftlichen Eigentümer
-- Erste Transaktion von einem auf den Namen des Kunden lautenden Bankkonto an DFX
-- Bei Registrierung des Kunden mittels Telefonnummer, hat der Kunde den per SMS erhaltenen Code (sogenannter TAN-Code) gegenüber DFX zu bestätigen
+* Adresse, wobei deren Nachweis über die Zustellung eines Briefes an die angegebene Adresse erfolgt
+* Kopie des Ausweisdokuments (Personalausweis oder Reisepass), das eine Unterschrift, einen lesbaren MRZ-Code und ein Foto aufweisen muss
+* Aktuelles Foto des Kunden
+* Ordnungsgemäss ausgefülltes DFX-Registrierungsformular (sogenanntes Chatbot-Formular nach den Vorgaben des Vereins zur Qualitätssicherung von Finanzdienstleistungen (VQF))
+* Ordnungsgemäss ausgefülltes Formular für den wirtschaftlichen Eigentümer
+* Erste Transaktion von einem auf den Namen des Kunden lautenden Bankkonto an DFX
+* Bei Registrierung des Kunden mittels Telefonnummer, hat der Kunde den per SMS erhaltenen Code (sogenannter TAN-Code) gegenüber DFX zu bestätigen
 
 Bis zu welchen Limits die Käufe/Verkäufe von Kryptowährungen ausgeführt werden, wird benutzerspezifisch durch DFX entschieden. Detaillierte Informationen sind beim [Support](https://dfx.swiss/help) erhältlich.
 
@@ -130,7 +130,7 @@ Sofern der Kunde den zu wechselnden Betrag in einer anderen Fiat-Währung als EU
 
 DFX weist darauf hin, dass der Kauf mehrere Werktage dauern kann, bis die gewünschte Kryptowährung in der Wallet des Kunden eintrifft.
 
-Die Transaktionskosten der Kryptowährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in Euro, US-Dollar oder Schweizer Franken beziehungsweise einer anderen Währung, die für die Zahlung zulässig ist. Bei Krypto-zu-Krypto-Transaktionen sind die Preise in der zu wechselnden Kryptowährung angegeben. Ebenso beinhaltet der Preis die Schweizer Mehrwertsteuer (im Folgenden: MWST), falls zutreffend.
+Die Transaktionskosten der Kryptowährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in Euro, US-Dollar oder Schweizer Franken beziehungsweise einer anderen Währung, die für die Zahlung zulässig ist. Bei Krypto-zu-Krypto-Transaktionen sind die Preise in der zu wechselnden Kryptowährung angegeben. Ebenso beinhaltet der Preis die Schweizer Mehrwertsteuer, falls zutreffend.
 
 Aufgegebene Kaufrouten werden von DFX innerhalb von sieben Werktagen nach erfolgter Transaktion bearbeitet. Wird die Kaufroute nicht innerhalb der oben genannten Frist bearbeitet, ist der Kunde verpflichtet, DFX unverzüglich zu informieren. Wenn der Kunde dieser Verpflichtung nicht nachkommt, kann er keine Ansprüche bezüglich der Änderung des Wechselkurses erheben.
 
@@ -151,38 +151,85 @@ Verkaufsrouten werden von DFX innerhalb von sieben Werktagen nach erfolgter Tran
 
 Verkaufsrouten können storniert werden, solange die umzuwandelnde Kryptowährung noch nicht bei DFX eingegangen ist.
 
-Die Transaktionskosten der Krypto- respektive Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer (im Folgenden: MWST), falls zutreffend. Nachdem die Überweisung der gewünschten Kryptowährung respektive der gewünschten Fremdwährung auf die/das Wallet/Konto des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E-Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
+Die Transaktionskosten der Krypto- respektive Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer, falls zutreffend. Nachdem die Überweisung der gewünschten Kryptowährung respektive der gewünschten Fremdwährung auf die/das Wallet/Konto des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E-Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
 
 DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen besteht. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert. 
 
 Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der ursprünglich transferierten Kryptowährung. Der zurückerstattete Betrag entspricht genau dem Wert, der zum Verkauf an DFX übertragen wurde.
 
-## Prozentuale Gebühren
-Unsere Gebührenstruktur gilt sowohl für Zahlungen im SEPA-Zahlungssystem, als auch für Krypto-zu-Krypto-Transaktionen. DFX behält sich das Recht vor, zusätzliche Gebühren zu erheben, im Falle von Überweisungen mit anderen Zahlungssystemen. Die Angaben des Transaktionsvolumen erfolgen in den untenstehenden Tabellen in EUR. Bei einer Krypto-zu-Krypto-Transaktion wird das Volumen anhand des aktuellen Kurses in EUR (laut www.kraken.com) umgerechnet, um die Gebührenhöhe festzulegen.
+## Dienstleistungen der DFX 
 
-### DFX-Gebühren für Privatkunden
+### Informationsangebot
+Das Informationsangebot der DFX umfasst:
+* Website
+* Newsletter
+* Social Media-Kanäle
+* Kundenaccounts mit Kundendaten
 
-|         | Bitcoin          | Andere           |
-| ------- | ---------------- | ---------------- |
-| Kauf    | 0,99 %           | 1,49 %           |
-| Verkauf | 1,49 %           | 1,99 %           |
+### Finanzdienstleistungen
+Die Finanzdienstleistungen von DFX umfassen:
+* Buy (Kaufen)
+* Sell (Verkaufen)
+* Swap (Tauschen)
+* Send (Senden)
 
-### DFX-Gebühren für Firmenkunden
+Die Payment-Optionen umfassen:
+* Banküberweisung
+* SEPA Instant Banküberweisung
+* Kreditkarte
+* Krypto-Einzahlung
 
-|         | Bitcoin          | Andere           |
-| ------- | ---------------- | ---------------- |
-| Kauf    | 1,49 %           | 1,99 %           |
-| Verkauf | 1,99 %           | 2,49 %           |
+Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, Asset, Blockchain und Nutzungsumgebung. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen.
 
-## Zusätzliche Blockchain-Gebühr
-Zusätzlich zu den DFX-Gebühren kann es eine Blockchain-Gebühr geben. Diese Gebühr fällt an, um die Blockchain Transaktion bezahlen zu können. Die Gebühr ändert sich laufend und wird dem Nutzer auf der grafischen Oberfläche bei Kaufabschluss angezeigt. 
+### Inkasso-Geschäft
+Das Inkasso-Geschäft von DFX umfasst:
+* Payment-Link
 
-## Zusätzliche Betreiber-Gebühr
-Zusätzlich zu den DFX-Gebühren kann es eine Betreiber-Gebühr geben. Diese Gebühr fällt an, wenn die Finanzdienstleistungen in einer anderen Umgebung eingebaut wurden, und der Integrator ein eigene Gebühr verlangt. Zum Beispiel eine Integration in eine andere Blockchain Non-Custodial Wallet. Die Gebühr wird in der grafischen Oberfläche bei Kaufabschluss angezeigt. 
+Hierbei gelten folgende Bestimmungen: 
+* Vertragsparteien, die Forderungen an DFX per Inkasso-Geschäft abtreten möchten, müssen dies mittels eines gesonderten Vertrags mit DFX vereinbaren. Sofern im Vertrag nichts anderes geregelt ist, gelten Gebühren von 0,1 % auf den Umsatz.
+* Nutzer, die sich entscheiden, eine ausstehende Forderung über den DFX-Inkasso-Service zu begleichen, können dies gemäss den folgenden Bedingungen tun:
+  * Jede Forderung hat eine definierte Gültigkeitsdauer, die in UTC angegeben ist. Die Zahlung muss innerhalb dieser Frist erfolgen.
+  * Technische Manipulationen, um DFX über die Bezahlung zu täuschen, sind nicht gestattet und werden zur Anzeige gebracht. Insbesondere sind „doppelte Ausgaben“ (Double Spending) nicht erlaubt und werden als Betrug strafrechtlich verfolgt.
 
-## Referral-System
-Unser Referral-Programm zahlt Kunden 0,25% auf das Kauf-/Investitionsvolumen, welches über den Referral-Link des Kunden von einem neuen Kunden gekauft worden ist.  
-Wir weisen darauf hin, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Wir weisen zudem darauf hin, dass das Referral-Programm jederzeit und ohne Ankündigung eingestellt beziehungsweise verändert werden kann.
+DFX bietet hierbei die Bezahlung mittels folgender Standards an:
+* FrankencoinPay und OpenCryptoPay
+  * Lightning BOLT11
+    * Der Nutzer trägt die Routing-Gebühr.
+    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht 1 BTC.
+  * EVM
+    * Der Nutzer trägt die Blockchain-Gebühr.
+    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
+  * UTXO
+    * Der Nutzer trägt die Blockchain-Gebühr.
+    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht nicht 1 BTC.
+      * Die Kosten für den Empfang von einem UTXO werden dem Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
+      * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
+
+* Lightning BOLT11
+  * Lightning BOLT11
+    * Der Nutzer trägt die Routing-Gebühr.
+    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht 1 BTC.
+
+* PayToBlockchainAddress
+  * EVM
+    * Der Nutzer trägt die Blockchain-Gebühr.
+    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
+  * UTXO
+    * Der Nutzer trägt die Blockchain-Gebühr.
+    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht nicht 1 BTC.
+      * Die Kosten für den Empfang von einem UTXO werden dem Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
+      * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
+
+Die Gebühren für Inkasso-Geschäfte sind wie folgt festgelegt:
+* DFX erhebt grundsätzlich keine Gebühren für die Begleichung der Inkasso-Forderungen.
+* DFX definiert eine Blockchain-Adresse, an die der geforderte Betrag übermittelt werden kann. Bei Zahlungen über Lightning wird eine BOLT11-Rechnung erstellt. Die Kosten für die Blockchain-Gebühren oder die Lightning-Routing-Gebühren müssen vom Nutzer übernommen werden und sind nicht Teil der Inkasso-Dienstleistung von DFX. Diese Gebühren sind variabel.
+* Sollte sich der Nutzer entscheiden, in einer Fremdwährung zu bezahlen, berechnet DFX eine Währungsumrechnungsgebühr von 1 %, wenn FrankencoinPay, Lightning BOLT11 oder OpenCryptoPay.io als Zahlungsmethode gewählt wird.  
+Bei allen anderen Zahlungsoptionen, wie beispielsweise „PayToBlockchainAddress“, wird eine Währungsumrechnungsgebühr von 2 % erhoben. Die erhöhte Gebühr ist erforderlich, da bei diesen Zahlungsmethoden eine längere Gültigkeitsdauer angeboten wird.
+
+### Referral-Programm
+Unser Referral-Programm zahlt Kunden 0,25 % auf das Transaktionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird, sowie 0,1 % auf Payment-Link-Transaktionen. 
+
+Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter https://services.dfx.swiss/account einsehbar. Es wird darauf hingewiesen, dass dieser Link nur funktioniert, wenn der Nutzer sich bereits mit seinem Kundenaccount angemeldet hat.
 
 ## Risiken
 DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
