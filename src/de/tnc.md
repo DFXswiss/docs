@@ -6,8 +6,6 @@ Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX
 
 Darüber hinaus stellt DFX zusätzlich Software wie zum Beispiel die DFX Wallet kostenlos als Open-Source-Produkt zur Verfügung. Diese Software kann von jedem Nutzer kostenlos und erlaubnisfrei verwendet werden. Dies entspricht jedoch nicht einer Geschäftsbeziehung mit DFX, da DFX keine Kontrolle darüber besitzt, wie diese Software von anderen Nutzern verwendet wird. Für die Verwendung von Open-Source-Software gilt in erster Linie der [Haftungsausschluss von DFX](https://docs.dfx.swiss/de/disclaimer.html).
 
-## Allgemeiner Teil
-
 ## Wichtige rechtliche Hinweise
 Diese Allgemeinen Geschäftsbedingungen sind Bestandteil sämtlicher Sondervereinbarungen, die im Zusammenhang mit den von DFX angebotenen Dienstleistungen oder Produkten gelten respektive abgeschlossen werden. Im Falle eines Konflikts haben jedoch die Bestimmungen einer solchen Sondervereinbarung Vorrang.
 
