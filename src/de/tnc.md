@@ -6,7 +6,7 @@ Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX
 
 Darüber hinaus stellt DFX zusätzlich Software wie zum Beispiel die DFX Wallet kostenlos als Open-Source-Produkt zur Verfügung. Diese Software kann von jedem Nutzer kostenlos und erlaubnisfrei verwendet werden. Dies entspricht jedoch nicht einer Geschäftsbeziehung mit DFX, da DFX keine Kontrolle darüber besitzt, wie diese Software von anderen Nutzern verwendet wird. Für die Verwendung von Open-Source-Software gilt in erster Linie der [Haftungsausschluss von DFX](https://docs.dfx.swiss/de/disclaimer.html).
 
-# Allgemeiner Teil
+## Allgemeiner Teil
 
 ## Wichtige rechtliche Hinweise
 Diese Allgemeinen Geschäftsbedingungen sind Bestandteil sämtlicher Sondervereinbarungen, die im Zusammenhang mit den von DFX angebotenen Dienstleistungen oder Produkten gelten respektive abgeschlossen werden. Im Falle eines Konflikts haben jedoch die Bestimmungen einer solchen Sondervereinbarung Vorrang.
@@ -65,7 +65,7 @@ Sollte eine Klausel der Allgemeinen Geschäftsbedingungen nichtig, aufgehoben od
 ## Anwendbares Recht und Gerichtsstand
 Die Allgemeinen Geschäftsbedingungen unterliegen dem schweizerischen Recht und werden in Übereinstimmung mit diesem ausgelegt, unter Ausschluss der kollisionsrechtlichen Bestimmungen der Schweiz oder des tatsächlichen (Wohn-)Sitzlandes oder -bundesstaats des Kunden. Jegliche Streitigkeiten, die sich aus oder in Bezug auf die Allgemeinen Geschäftsbedingungen, die Beziehung des Kunden zu DFX, einschliesslich ausservertraglicher Verpflichtungen, ergeben, unterliegen ausschliesslich der Zuständigkeit des Gerichtsstands in Zug, Schweiz.
 
-# Finanzdienstleistungen
+## Finanzdienstleistungen
 
 ## Umfang der Finanzdienstleistungen
 Die Finanzdienstleistungen von DFX umfassen:
@@ -201,7 +201,7 @@ Unser Referral-Programm zahlt Kunden 0,25 % auf das Transaktionsvolumen, das üb
 
 Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter https://services.dfx.swiss/account einsehbar. Es wird darauf hingewiesen, dass dieser Link nur funktioniert, wenn der Nutzer sich bereits mit seinem Kundenaccount angemeldet hat.
 
-# Inkasso-Geschäft
+## Inkasso-Geschäft
 
 ## Umfang und Bestimmungen des Inkasso-Geschäfts
 Das Inkasso-Geschäft von DFX umfasst:
