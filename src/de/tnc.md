@@ -9,7 +9,7 @@ Darüber hinaus stellt DFX zusätzlich Software wie zum Beispiel die DFX Wallet 
 ## Wichtige rechtliche Hinweise
 Diese Allgemeinen Geschäftsbedingungen sind Bestandteil sämtlicher Sondervereinbarungen, die im Zusammenhang mit den von DFX angebotenen Dienstleistungen oder Produkten gelten respektive abgeschlossen werden. Im Falle eines Konflikts haben jedoch die Bestimmungen einer solchen Sondervereinbarung Vorrang.
 
-Mit dem Zugriff auf und der Nutzung der Website und der DFX-App sowie mit dem Herunterladen von Informationen, Daten und Dokumenten von der Website und der DFX-App bestätigen die Kunden, dass Sie den Haftungsausschluss und die Allgemeinen Geschäftsbedingungen verstanden und akzeptiert haben. Darüber hinaus akzeptieren sie, dass DFX jederzeit die Allgemeinen Geschäftsbedingungen ändern kann. Änderungen der AGBs werden spätestens durch Auslösen der nächsten Transaktion durch den Kunden akzeptiert.
+Mit dem Zugriff auf und der Nutzung der Website sowie mit dem Herunterladen von Informationen, Daten und Dokumenten von der Website und der DFX-App bestätigen die Kunden, dass Sie den Haftungsausschluss und die Allgemeinen Geschäftsbedingungen verstanden und akzeptiert haben. Darüber hinaus akzeptieren sie, dass DFX jederzeit die Allgemeinen Geschäftsbedingungen ändern kann. Änderungen der AGBs werden spätestens durch Auslösen der nächsten Transaktion durch den Kunden akzeptiert.
 
 ## Informationsangebot
 Das Informationsangebot der DFX umfasst:
