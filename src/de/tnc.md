@@ -11,8 +11,12 @@ Diese Allgemeinen Geschäftsbedingungen sind Bestandteil sämtlicher Sonderverei
 
 Mit dem Zugriff auf und der Nutzung der Website und der DFX-App sowie mit dem Herunterladen von Informationen, Daten und Dokumenten von der Website und der DFX-App bestätigen die Kunden, dass Sie den Haftungsausschluss und die Allgemeinen Geschäftsbedingungen verstanden und akzeptiert haben. Darüber hinaus akzeptieren sie, dass DFX jederzeit die Allgemeinen Geschäftsbedingungen ändern kann. Änderungen der AGBs werden spätestens durch Auslösen der nächsten Transaktion durch den Kunden akzeptiert.
 
-## Lokale Beschränkungen
-Die auf dieser Website und in der DFX-App angebotenen Produkte und Dienstleistungen sind ausschliesslich in der Schweiz zum Verkauf zugelassen. Personen, die aus dem Ausland auf die Website und DFX-App zugreifen, tun dies auf eigene Verantwortung. DFX lehnt jegliche Verantwortung im Zusammenhang mit der Nutzung der Website und der DFX-App ausserhalb der Schweiz ab. Insbesondere wird darauf aufmerksam gemacht, dass jeder ausländische Nutzer selbst verpflichtet ist, abzuklären, ob er die von DFX angebotenen Dienstleistungen und Produkte gestützt auf die geltenden Gesetzgebungen an seinem Wohnsitz respektive Sitz, oder gestützt auf die Gesetzgebungen seines Heimatstaats nutzen darf.
+## Informationsangebot
+Das Informationsangebot der DFX umfasst:
+* Website
+* Newsletter
+* Social Media-Kanäle
+* Kundenaccounts mit Kundendaten
 
 ## Keine Beratung für den Kauf von Kryptowährungen
 DFX weist ausdrücklich darauf hin, dass ihrerseits keinerlei Anlageberatungsdienstleistungen erbracht werden. Die auf der Website bereitgestellten Informationen dürfen in keinem Fall als Ratschläge oder Empfehlungen zum Kauf oder Verkauf einer bestimmten Kryptowährung oder zur Durchführung von Transaktionen ausgelegt werden. Ebenso wenig dürfen die bereitgestellten Informationen als Ratschläge jeglicher sonstiger Art, beispielsweise steuerlicher oder rechtlicher Art, ausgelegt werden. DFX empfiehlt Bitcoin oder sonstige Kryptowährungen in keiner Weise.
@@ -45,6 +49,39 @@ Die Authentifizierung der von den Kunden im Rahmen des Registrierungsverfahrens 
 Weitere notwendige externe Anbieter können im Rahmen der Pflege und Verwaltung der aktuellen Prozesse, des Produkt- und Serviceangebotes sowie der DFX-Nutzerbasis ebenfalls Zugang zu Kundendaten erhalten. In solchen Fällen, in denen die Inanspruchnahme eines externen Anbieters oder Services erforderlich ist, stellt DFX sicher, dass der externe Anbieter dasselbe Mass an Wachsamkeit in Bezug auf Datenschutz und Datensicherheit walten lässt, wie es DFX tut. Kundendaten und/oder Kontaktinformationen werden von DFX in keiner Weise verkauft.
 
 DFX ist ein äusserst transparenter Blockchain-Finanzdienstleister. DFX veröffentlicht alle Umsätze und alle Transaktionen auf der öffentlichen Blockchain von und zu DFX um eine maximale Transparenz zu schaffen und dem Kunden das beste Produkt zu bieten. Die volle Transparenz aller Kundentransaktionen garantiert, dass die Aktivitäten von DFX extern überwacht werden können und dadurch keine versteckten Preise oder ähnliches von DFX praktiziert werden. Wir weisen darauf hin, dass Nutzer, welche sich dafür entscheiden die öffentliche Blockchain für Finanztransaktionen zu nutzen, ihre Transaktionen in einer öffentlichen, nicht löschbaren Datenbank speichern. Es ist in der Verantwortung des Nutzers sicherzustellen, dass die Privatsphäre des Nutzers stets geschützt bleibt. Die Blockchain-Adressen und die Finanztransaktionen sind öffentlich, während die Verbindung der Blockchain-Adresse zum entsprechenden Eigentümer privat ist und auch privat bleiben soll. DFX veröffentlicht keine Informationen über die eigenen Kunden bzw. über die Eigentümer hinter den Blockchain-Adressen, jedoch veröffentlicht DFX Daten über die getätigten Blockchain-Transaktionen sowie zu den entsprechenden Blockchain-Adressen. DFX veröffentlicht nie Daten, welche Rückschlüsse auf die Eigentümer einer Blockchain-Adresse zulassen könnten. Weitere Details, welche Daten zu öffentlichen Transaktionen von DFX zusätzlich veröffentlicht werden, finden sich in den nächsten Abschnitten. Bei Verständnisfragen kann der [Support](https://services.dfx.swiss/support) kontaktiert werden.
+
+## Risiken
+DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
+
+DFX hält sich stets an das aktuelle schweizerische Recht und ist im ständigen Austausch mit den Behörden, um dies umzusetzen. DFX behält sich jederzeit das Recht vor, den Handel von einzelnen Kryptowährungen auszusetzen oder weitere Kryptowährungen und Produkte in ihr Angebot aufzunehmen. Kunden des DFX Brokerage Service haben keinen Anspruch auf den Handel von Kryptowährungen, wenn diese zuvor vom Handel ausgesetzt worden sind. Dies gilt auch, wenn diese Kryptowährungen zuvor über den DFX Brokerage Service erworben worden sind.
+
+Weiterhin können Kryptowährungen, die aus dem Konstrukt Decentralized Finance stammen, zum Beispiel durch den Handel auf einer Decentralized Exchange (DEX) oder durch einen Tausch durch einen Atomic Swap, als Coins mit erhöhtem Risiko deklariert werden und in Zukunft anders behandelt werden als Coins, welche sich nicht in solchen DeFi-Protokollen befunden haben. DFX hat keinen Einfluss darauf, wie der DeFi-Markt in Zukunft reguliert wird und welche Konsequenzen durch die Nutzung von DeFi-Protokollen für Nutzer in Zukunft entstehen können. DFX kann nicht dafür garantieren, den Service jederzeit weiter zu betreiben und DFX kann auch nicht garantieren, verkaufte Coins zurückzunehmen, falls sich das regulatorische Umfeld ändern sollte.
+
+## Teilnichtigkeit und Rechtswahl
+Sollte eine Klausel der Allgemeinen Geschäftsbedingungen nichtig, aufgehoben oder anderweitig ungültig sein, so wird die Gültigkeit der übrigen Allgemeinen Geschäftsbedingungen davon nicht berührt oder beeinträchtigt.
+
+## Anwendbares Recht und Gerichtsstand
+Die Allgemeinen Geschäftsbedingungen unterliegen dem schweizerischen Recht und werden in Übereinstimmung mit diesem ausgelegt, unter Ausschluss der kollisionsrechtlichen Bestimmungen der Schweiz oder des tatsächlichen (Wohn-)Sitzlandes oder -bundesstaats des Kunden. Jegliche Streitigkeiten, die sich aus oder in Bezug auf die Allgemeinen Geschäftsbedingungen, die Beziehung des Kunden zu DFX, einschliesslich ausservertraglicher Verpflichtungen, ergeben, unterliegen ausschliesslich der Zuständigkeit des Gerichtsstands in Zug, Schweiz.
+
+## Finanzdienstleistungen
+
+## Umfang der Finanzdienstleistungen
+Die Finanzdienstleistungen von DFX umfassen:
+* Buy (Kaufen)
+* Sell (Verkaufen)
+* Swap (Tauschen)
+* Send (Senden)
+
+Die Payment-Optionen umfassen:
+* Banküberweisung
+* SEPA Instant Banküberweisung
+* Kreditkarte
+* Krypto-Einzahlung
+
+Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, Asset, Blockchain und Nutzungsumgebung. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen.
+
+## Lokale Beschränkungen
+Die auf dieser Website und in der DFX-App angebotenen Produkte und Dienstleistungen sind ausschliesslich in der Schweiz zum Verkauf zugelassen. Personen, die aus dem Ausland auf die Website und DFX-App zugreifen, tun dies auf eigene Verantwortung. DFX lehnt jegliche Verantwortung im Zusammenhang mit der Nutzung der Website und der DFX-App ausserhalb der Schweiz ab. Insbesondere wird darauf aufmerksam gemacht, dass jeder ausländische Nutzer selbst verpflichtet ist, abzuklären, ob er die von DFX angebotenen Dienstleistungen und Produkte gestützt auf die geltenden Gesetzgebungen an seinem Wohnsitz respektive Sitz, oder gestützt auf die Gesetzgebungen seines Heimatstaats nutzen darf.
 
 ## Umgang mit Transaktionsdaten
 Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informationen öffentlich zur Verfügung gestellt:
@@ -157,31 +194,14 @@ DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen b
 
 Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der ursprünglich transferierten Kryptowährung. Der zurückerstattete Betrag entspricht genau dem Wert, der zum Verkauf an DFX übertragen wurde.
 
-## Dienstleistungen der DFX 
+## Referral-Programm
+Unser Referral-Programm zahlt Kunden 0,25 % auf das Transaktionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird, sowie 0,1 % auf Payment-Link-Transaktionen. 
 
-### Informationsangebot
-Das Informationsangebot der DFX umfasst:
-* Website
-* Newsletter
-* Social Media-Kanäle
-* Kundenaccounts mit Kundendaten
+Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter https://services.dfx.swiss/account einsehbar. Es wird darauf hingewiesen, dass dieser Link nur funktioniert, wenn der Nutzer sich bereits mit seinem Kundenaccount angemeldet hat.
 
-### Finanzdienstleistungen
-Die Finanzdienstleistungen von DFX umfassen:
-* Buy (Kaufen)
-* Sell (Verkaufen)
-* Swap (Tauschen)
-* Send (Senden)
+## Inkasso-Geschäft
 
-Die Payment-Optionen umfassen:
-* Banküberweisung
-* SEPA Instant Banküberweisung
-* Kreditkarte
-* Krypto-Einzahlung
-
-Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, Asset, Blockchain und Nutzungsumgebung. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen.
-
-### Inkasso-Geschäft
+## Umfang und Bestimmungen des Inkasso-Geschäfts
 Das Inkasso-Geschäft von DFX umfasst:
 * Payment-Link
 
@@ -219,21 +239,3 @@ Die Gebühren für Inkasso-Geschäfte sind wie folgt festgelegt:
 * DFX definiert eine Blockchain-Adresse, an die der geforderte Betrag übermittelt werden kann. Bei Zahlungen über Lightning wird eine BOLT11-Rechnung erstellt. Die Kosten für die Blockchain-Gebühren oder die Lightning-Routing-Gebühren müssen vom Nutzer übernommen werden und sind nicht Teil der Inkasso-Dienstleistung von DFX. Diese Gebühren sind variabel.
 * Sollte sich der Nutzer entscheiden, in einer Fremdwährung zu bezahlen, berechnet DFX eine Währungsumrechnungsgebühr von 1 %, wenn FrankencoinPay, Lightning BOLT11 oder OpenCryptoPay.io als Zahlungsmethode gewählt wird.  
 Bei allen anderen Zahlungsoptionen, wie beispielsweise „PayToBlockchainAddress“, wird eine Währungsumrechnungsgebühr von 2 % erhoben. Die erhöhte Gebühr ist erforderlich, da bei diesen Zahlungsmethoden eine längere Gültigkeitsdauer angeboten wird.
-
-### Referral-Programm
-Unser Referral-Programm zahlt Kunden 0,25 % auf das Transaktionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird, sowie 0,1 % auf Payment-Link-Transaktionen. 
-
-Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter https://services.dfx.swiss/account einsehbar. Es wird darauf hingewiesen, dass dieser Link nur funktioniert, wenn der Nutzer sich bereits mit seinem Kundenaccount angemeldet hat.
-
-## Risiken
-DFX weist darauf hin, dass die angebotenen Kryptowährungen auf diversen Blockchains, wie der Bitcoin-Blockchain, Ethereum-Blockchain und Binance Smart Chain sind. Decentralized Finance (DeFi) ist ein neuartiges Konstrukt, bei dem es noch nicht vollends klar ist, welche rechtlichen und regulatorischen Auswirkungen dies auf Benutzer und Unternehmen in diesem Geschäftsfeld haben wird.
-
-DFX hält sich stets an das aktuelle schweizerische Recht und ist im ständigen Austausch mit den Behörden, um dies umzusetzen. DFX behält sich jederzeit das Recht vor, den Handel von einzelnen Kryptowährungen auszusetzen oder weitere Kryptowährungen und Produkte in ihr Angebot aufzunehmen. Kunden des DFX Brokerage Service haben keinen Anspruch auf den Handel von Kryptowährungen, wenn diese zuvor vom Handel ausgesetzt worden sind. Dies gilt auch, wenn diese Kryptowährungen zuvor über den DFX Brokerage Service erworben worden sind.
-
-Weiterhin können Kryptowährungen, die aus dem Konstrukt Decentralized Finance stammen, zum Beispiel durch den Handel auf einer Decentralized Exchange (DEX) oder durch einen Tausch durch einen Atomic Swap, als Coins mit erhöhtem Risiko deklariert werden und in Zukunft anders behandelt werden als Coins, welche sich nicht in solchen DeFi-Protokollen befunden haben. DFX hat keinen Einfluss darauf, wie der DeFi-Markt in Zukunft reguliert wird und welche Konsequenzen durch die Nutzung von DeFi-Protokollen für Nutzer in Zukunft entstehen können. DFX kann nicht dafür garantieren, den Service jederzeit weiter zu betreiben und DFX kann auch nicht garantieren, verkaufte Coins zurückzunehmen, falls sich das regulatorische Umfeld ändern sollte.
-
-## Teilnichtigkeit und Rechtswahl
-Sollte eine Klausel der Allgemeinen Geschäftsbedingungen nichtig, aufgehoben oder anderweitig ungültig sein, so wird die Gültigkeit der übrigen Allgemeinen Geschäftsbedingungen davon nicht berührt oder beeinträchtigt.
-
-## Anwendbares Recht und Gerichtsstand
-Die Allgemeinen Geschäftsbedingungen unterliegen dem schweizerischen Recht und werden in Übereinstimmung mit diesem ausgelegt, unter Ausschluss der kollisionsrechtlichen Bestimmungen der Schweiz oder des tatsächlichen (Wohn-)Sitzlandes oder -bundesstaats des Kunden. Jegliche Streitigkeiten, die sich aus oder in Bezug auf die Allgemeinen Geschäftsbedingungen, die Beziehung des Kunden zu DFX, einschliesslich ausservertraglicher Verpflichtungen, ergeben, unterliegen ausschliesslich der Zuständigkeit des Gerichtsstands in Zug, Schweiz.
