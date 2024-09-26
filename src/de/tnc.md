@@ -203,7 +203,7 @@ Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliessl
 
 # Inkasso-Geschäft
 
-## Umfang des Inkasso-Geschäfts
+## Umfang und Bestimmungen des Inkasso-Geschäfts
 Das Inkasso-Geschäft von DFX umfasst:
 * Payment-Link
 
