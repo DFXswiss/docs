@@ -1,4 +1,4 @@
-# Datenschutzerklärung 123
+# Datenschutzerklärung
 
 Sehr geehrte Damen und Herren  
 
