@@ -12,7 +12,7 @@ Deshalb halten wir uns beim Umgang mit personenbezogenen Daten an die folgenden 
 
 ## 1. Hinweis zur verantwortlichen Stelle (Impressum)
 
-Verantwortlicher auf der Grundlage des Schweizerischen Datenschutzgesetzes (revDSG) ist:  
+Verantwortlicher auf der Grundlage des Schweizerischen Datenschutzgesetzes (DSG) ist:  
 
 Anschrift: DFX AG, Bahnhofstrasse 7, 6300 Zug, Schweiz   
 Handelsregister: CHE-429.856.521  
@@ -33,7 +33,7 @@ Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, d
 
 #### Wofür nutzen wir Ihre Daten?
 
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Webseite und der DFX Dienstleistungen zu gewährleisten. Es werden grundsätzlich keine zusätzlichen Daten zur Analyse von Nutzerverhalten erhoben. 
+Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website und der DFX Dienstleistungen zu gewährleisten. Es werden grundsätzlich keine zusätzlichen Daten zur Analyse von Nutzerverhalten erhoben. 
 
 #### Welche Rechte haben Sie bezüglich Ihrer Daten?
 
