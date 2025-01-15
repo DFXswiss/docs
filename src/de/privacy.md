@@ -23,7 +23,7 @@ Elektronische Kontaktaufnahme: https://services.dfx.swiss/support
 
 ## 2. Allgemeine Informationen zum Datenschutz
 
-DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere gemäss dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung. DFX bearbeitet personenbezogene Daten des Vertragspartners in direktem Zusammenhang mit dem Abschluss oder der Durchführung eines Vertrages (Rechtfertigung).  
+DFX behandelt Ihre personenbezogenen Daten vertraulich und gemäss den gesetzlichen Datenschutzbestimmungen, insbesondere dem Schweizerischen Bundesgesetz über den Datenschutz (DSG) und dieser Datenschutzerklärung. 
 
 Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir nach angemessener Information die Einwilligung der betroffenen Person in geeigneter Form ein.  
 
@@ -31,27 +31,103 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (zum Beispiel bei 
 
 Als betroffene (natürliche) Person liegt es in Ihrem persönlichen Interesse, das/die von Ihnen genutzte(n) System(e) (PC, Laptop, etc.) vor dem unberechtigten Zugriff Dritter zu sichern, mit einem ausreichenden Passwortschutz zu versehen und das Passwort nicht an Dritte weiterzugeben. Es wird empfohlen, einen im Handel erhältlichen Virenschutz zu installieren und diesen regelmässig zu aktualisieren.
 
+### Rechtsgrundlagen für die Verarbeitung personenbezogener Daten (gültig für alle Verarbeitungszwecke)
+
+Vertragserfüllung: Um Dienstleistungen bereitzustellen oder vertragliche Verpflichtungen zu erfüllen.
+Gesetzliche Verpflichtungen: Zur Einhaltung von rechtlichen Anforderungen (z. B. steuerrechtliche Aufbewahrungspflichten).
+Berechtigte Interessen: Um unsere Geschäftsprozesse zu optimieren, die IT-Sicherheit zu gewährleisten oder Kundenanfragen effizient zu bearbeiten.
+Einwilligung: Die Verarbeitung personenbezogener Daten erfolgt auf Grundlage einer Einwilligung, wenn keine andere gesetzliche Grundlage vorliegt.
+
+Die Verarbeitung besonders schützenswerter Daten, wie genetischer und biometrischer Daten, erfolgt ausschließlich auf Grundlage einer ausdrücklichen Einwilligung der betroffenen Person oder im Rahmen einer gesetzlichen Verpflichtung, die eine Verarbeitung erforderlich macht.
+
 #### Wofür nutzen wir Ihre Daten?
 
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website und der DFX Dienstleistungen zu gewährleisten. Es werden grundsätzlich keine zusätzlichen Daten zur Analyse von Nutzerverhalten erhoben. 
+Es werden nur Daten erhoben, die für die jeweiligen Zwecke unbedingt erforderlich sind. Es werden grundsätzlich keine zusätzlichen Daten zur Analyse von Nutzerverhalten erhoben. Zusätzlich zu den genannten Daten können in bestimmten Fällen besonders schützenswerte personenbezogene Daten verarbeitet werden, einschließlich:
+
+Genetischer Daten, sofern dies für die Bereitstellung unserer Dienstleistungen erforderlich ist.
+Biometrischer Daten, wie Fingerabdrücke oder Netzhaut-Scans, zur eindeutigen Identifikation oder für Sicherheitsmaßnahmen.
 
 #### Welche Rechte haben Sie bezüglich Ihrer Daten?
 
 Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben ausserdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Ausserdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
 
+Sie haben jederzeit das Recht, jederzeit Auskunft über die Verarbeitung ihrer besonders schützenswerten Daten (wie genetische oder biometrische Daten) zu verlangen. Sie können auch eine Löschung oder Einschränkung der Verarbeitung beantragen, sofern keine gesetzliche Grundlage die weitere Verarbeitung vorschreibt.
+
+### Verzeichnis von Verarbeitungstätigkeiten
+
+Die DFX AG führt gemäß den Anforderungen des Schweizerischen Datenschutzgesetzes (revDSG) ein Verzeichnis aller Verarbeitungstätigkeiten, die personenbezogene Daten betreffen. Dieses Verzeichnis dient dazu:
+
+1. Transparenz zu gewährleisten: Es enthält detaillierte Informationen über die Zwecke der Verarbeitung, die betroffenen Datenkategorien, die Empfänger der Daten sowie die Speicherdauer.
+2. Rechenschaftspflichten nachzukommen: Es ermöglicht den Nachweis, dass DFX personenbezogene Daten in Übereinstimmung mit den gesetzlichen Vorschriften verarbeitet.
+3. Effizienz und Sicherheit zu fördern: Es unterstützt uns bei der Identifikation und dem Management von Risiken im Zusammenhang mit der Datenverarbeitung.
+
+Das Verzeichnis wird regelmäßig aktualisiert und dokumentiert alle relevanten Verarbeitungsvorgänge, einschließlich der von Dritten im Auftrag von DFX durchgeführten Verarbeitungen.
+
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an unseren [Support](https://services.dfx.swiss/support) wenden.
 
-## 3. Hosting
+## 3. Profiling und automatisierte Entscheidungsfindung
+
+DFX verwendet Profilingverfahren zur Bereitstellung von Finanzdienstleistungen, insbesondere für:
+
+Bonitätsprüfungen
+Risikoanalysen
+Erstellung personalisierter Angebote
+
+DFX führt keine rein automatisierten Entscheidungsprozesse durch, die rechtsverbindlich sind oder erhebliche Auswirkungen auf betroffene Personen haben. Sollten automatisierte Entscheidungsfindungen oder Profilingverfahren in der Zukunft zum Einsatz kommen, wird DFX sicherstellen, dass diese Verfahren den gesetzlichen Anforderungen des Schweizerischen Datenschutzgesetzes (DSG) entsprechen und betroffene Personen angemessen über den Prozess informiert werden.
+
+### Recht auf Widerspruch
+
+Betroffene Personen haben das Recht, Widerspruch gegen Profiling einzulegen, sowie Auskunft über die zugrunde liegende Logik und die Auswirkungen des Profilings auf sie zu verlangen.
+
+## 4. Hosting
 
 ### Hosting mit All-Inkl
 
 Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstraße 68, 02742 Friedersdorf (im Folgenden: All-Inkl). Einzelheiten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
 
-## 4. Allgemeine Hinweise und Pflicht­informationen
+## 5. Allgemeine Hinweise und Pflicht­informationen
 
 ### Speicherdauer
 
 Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (zum Beispiel steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
+
+### Spezifische Aufbewahrungsfristen für personenbezogene Daten
+
+DFX speichert personenbezogene Daten nur so lange, wie es für die jeweiligen Verarbeitungszwecke erforderlich ist oder wie es gesetzliche Vorschriften vorsehen. Nach Ablauf der jeweiligen Fristen werden die Daten gelöscht oder anonymisiert. Nachfolgend finden Sie die spezifischen Aufbewahrungsfristen für die verschiedenen Kategorien personenbezogener Daten:
+
+1. Bewerbungsunterlagen
+
+Aufbewahrungsfrist: 12 Monate nach Abschluss des Bewerbungsverfahrens.
+Grund: Nachweispflichten nach dem Gleichstellungsgesetz (GlG) oder zur Verteidigung gegen potenzielle Ansprüche.
+Ausnahme: Bei Einwilligung des Bewerbenden zur längeren Speicherung, z. B. für einen Bewerberpool.
+
+2. Vertragsdaten
+
+Aufbewahrungsfrist: 10 Jahre nach Beendigung des Vertrags.
+Grund: Einhaltung handels- und steuerrechtlicher Aufbewahrungspflichten.
+
+3. Kommunikationsdaten (z. B. E-Mails, Kontaktformulare)
+
+Aufbewahrungsfrist: 2 Jahre nach Abschluss der Kommunikation.
+Grund: Bearbeitung von Folgeanfragen oder zur Dokumentation.
+
+4. Finanz- und Zahlungsdaten
+
+Aufbewahrungsfrist: 10 Jahre nach Abschluss der Transaktion.
+Grund: Steuer- und handelsrechtliche Aufbewahrungspflichten gemäß Art. 958f OR.
+Nutzungsdaten (z. B. IP-Adressen, Log-Daten)
+
+5. Aufbewahrungsfrist: 6 Monate.
+Grund: IT-Sicherheitsmaßnahmen und Fehleranalysen.
+
+6. Sensible Daten (z. B. Gesundheits- oder biometrische Daten, falls erhoben)
+
+Aufbewahrungsfrist: Nur solange erforderlich, um den angegebenen Zweck zu erfüllen.
+Grund: Verarbeitung erfolgt ausschließlich auf Basis gesetzlicher Vorschriften oder ausdrücklicher Einwilligung.
+
+### Löschung und Anonymisierung 
+
+Nach Ablauf der jeweiligen Aufbewahrungsfristen werden die Daten entweder gelöscht oder anonymisiert, sodass keine Rückschlüsse auf einzelne Personen mehr möglich sind. Für gesetzlich vorgeschriebene Fristen kann eine weitere Speicherung erforderlich sein.
 
 ### Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
 
@@ -83,7 +159,36 @@ Die oben genannten Rechte können verweigert oder eingeschränkt werden, wenn di
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, wie etwa durch Spam-E-Mails, vor.
 
-## 5. Datenerfassung auf dieser Website
+## 6. Umgang mit Datenschutzverletzungen
+
+DFX nimmt Datenschutzverletzungen sehr ernst und hat Prozesse implementiert, um solche Vorfälle effizient und in Übereinstimmung mit den gesetzlichen Vorschriften zu bearbeiten. Eine Datenschutzverletzung liegt vor, wenn personenbezogene Daten unbeabsichtigt oder unrechtmäßig offengelegt, verändert, gelöscht oder unberechtigt zugänglich gemacht werden.
+
+### Handhabung von Datenschutzverletzungen
+
+1. Identifikation und Analyse: Sobald eine Datenschutzverletzung bekannt wird, wird diese unverzüglich von unserem Datenschutzteam analysiert und bewertet.
+2. Eindämmung und Behebung: Geeignete Maßnahmen werden ergriffen, um den Vorfall einzudämmen und die Sicherheit der Daten wiederherzustellen.
+3. Dokumentation: Alle Datenschutzverletzungen werden in einem internen Register dokumentiert. Dies umfasst die Art der Verletzung, die betroffenen Datenkategorien, die Anzahl der betroffenen Personen und die ergriffenen Maßnahmen.
+
+### Benachrichtigungspflichten
+
+1. Benachrichtigung der Aufsichtsbehörde: Bei einem Risiko für die Rechte und Freiheiten betroffener Personen wird die zuständige Aufsichtsbehörde (gemäß Schweizerischem Datenschutzgesetz oder DSGVO, falls anwendbar) innerhalb von 72 Stunden nach Bekanntwerden der Verletzung informiert.
+2. Benachrichtigung der betroffenen Personen: Wenn die Verletzung ein hohes Risiko für die betroffenen Personen darstellt (z. B. Identitätsdiebstahl, finanzieller Verlust), werden die betroffenen Personen unverzüglich und in klarer, verständlicher Sprache informiert. Die Benachrichtigung enthält:
+                                                          Eine Beschreibung der Art der Datenschutzverletzung.
+                                                          Die Kategorien und den Umfang der betroffenen Daten.
+                                                          Die ergriffenen Maßnahmen zur Schadensbegrenzung.
+                                                          Hinweise, wie sich betroffene Personen schützen können.
+                                                          Kontaktinformationen für weitere Fragen.
+   
+### Schutzmaßnahmen
+
+Um Datenschutzverletzungen vorzubeugen, setzen wir technische und organisatorische Maßnahmen ein, darunter die Verschlüsselung sensibler Daten, regelmäßige Sicherheitsüberprüfungen und die Schulungen unserer Mitarbeitenden im Bereich Datenschutz.
+
+### Kontakt im Falle von Datenschutzverletzungen:
+
+Wenn Sie eine mögliche Datenschutzverletzung bemerken, wenden Sie sich bitte an an unseren Support (opens new window) wenden.
+
+
+## 7. Datenerfassung auf dieser Website
 
 ### Cookies
 
@@ -95,11 +200,11 @@ Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage in
 
 Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (zum Beispiel nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
-## 6. Analyse-Tools und Werbung
+## 8. Analyse-Tools und Werbung
 
 DFX verwendet keine Website-Analyse-Tools wie zum Beispiel Google Analytics, Adobe Analytics oder andere.
 
-## 7. Newsletter und Social Media
+## 9. Newsletter und Social Media
 
 ### Newsletter­daten
 
@@ -173,7 +278,8 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der [Datenschutzrichtlinie von LinkedIn](https://www.linkedin.com/legal/privacy-policy).
 
-## 8. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
+## 10. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
+
 Der für die Bearbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbenden zum Zweck der Durchführung des Bewerbungsverfahrens. Diese Verarbeitung kann auch elektronisch erfolgen, insbesondere wenn Bewerbende zusätzlich relevante Bewerbungsunterlagen per E-Mail (zum Beispiel im PDF-Format oder anderen Dateitypen) übermitteln.
 
 Wenn Sie sich auf ein von uns ausgeschriebenes Stellenangebot bewerben, gelten diese Datenschutzbestimmungen zusätzlich zu unseren anderen Datenschutzbestimmungen, die Ihnen gesondert mitgeteilt wurden oder auf unserer Website verfügbar sind.
@@ -184,29 +290,49 @@ Sollte der für die Bearbeitung Verantwortliche einen Arbeitsvertrag mit einer B
 
 Wird kein Arbeitsvertrag abgeschlossen, werden die Bewerbungsunterlagen 12 Monate nach Bekanntgabe der Ablehnungsentscheidung automatisch und ohne weitere Benachrichtigung gelöscht, sofern keine sonstigen berechtigten Interessen der datenverarbeitenden Stelle der Löschung entgegenstehen. Berechtigte Interessen können beispielsweise Nachweispflichten in Verfahren nach dem Gleichstellungsgesetz (GlG) sein.
 
-## 9. Anwendbares Recht und Gerichtsstand
+## 11. Anwendbares Recht und Gerichtsstand
+
 Für die Website von DFX mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht, insbesondere die EU-Datenschutz-Grundverordnung (DSGVO), auf die betroffene natürliche Person anwendbar ist.
 
 Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von DFX, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von DFX (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
 
-## 10. Änderungen der Datenschutzerklärung
+## 12. Änderungen der Datenschutzerklärung
+
 DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, dass sie stets aktuell ist, und behält sich das Recht vor, sie bei Bedarf zu ändern. Es wird empfohlen, diese Seite regelmässig auf mögliche Änderungen zu überprüfen, da keine individuelle Benachrichtigung bei Änderungen erfolgt.  
 Bei Unstimmigkeiten mit der englischen Version ist die deutsche Fassung dieser Datenschutzerklärung massgebend.
 
-## 11. Rechtliche Hinweise und Haftungsausschluss
+## 13. Rechtliche Hinweise und Haftungsausschluss
+
 DFX übernimmt keine Haftung für die Richtigkeit und Vollständigkeit des Inhalts der Informationen.
 
 Haftungsansprüche, die sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-## 12. Haftung für Links
+## 14. Haftung für Links
+
 Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von DFX. Jegliche Verantwortung für Websites von Dritten, das heisst ausserhalb der zu DFX gehörenden Unternehmen, wird abgelehnt. Der Zugang zu und die Nutzung von solchen Websites erfolgt auf eigenes Risiko des Nutzers.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-## 13. Urheberrechte und Geistiges Eigentum 
+## 15. Urheberrechte und Geistiges Eigentum 
+
 Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern.
 
-## 14. Zustimmung zur Datenschutzerklärung
+## 16. Zustimmung zur Datenschutzerklärung
+
 Der Kunde akzeptiert den Inhalt der Datenschutzerklärung in der jeweils aktuellen Fassung vollumfänglich. Die Datenschutzerklärung hat im Falle von Widersprüchen Vorrang vor den Allgemeinen Geschäftsbedingungen von DFX.
+
+## 17. Kategorien personenbezogener Daten
+
+Im Rahmen unserer Geschäftsbeziehungen und der Nutzung unserer Dienste verarbeiten wir verschiedene Kategorien personenbezogener Daten. Diese umfassen unter anderem:
+
+Kontaktinformationen: z. B. Name, Adresse, Telefonnummer, E-Mail-Adresse.
+Technische Daten: z. B. IP-Adressen, Geräteinformationen, Browser-Typ.
+Zahlungs- und Finanzdaten: z. B. Bankverbindungen, Kreditkartendaten, Transaktionshistorie.
+Kommunikationsdaten: z. B. Inhalte von E-Mails, Kontaktformularen, Anfragen.
+Nutzungsdaten: z. B. besuchte Seiten, Login-Daten, Nutzungsverhalten auf unserer Website.
+Vertragsdaten: z. B. gekaufte Produkte, Dienstleistungen, Vertragslaufzeiten.
+Sensible Daten (falls relevant): z. B. Gesundheitsdaten, biometrische Daten zur Identifikation (nur mit ausdrücklicher Einwilligung).
+
+Die Erhebung dieser Daten erfolgt ausschließlich zu den in dieser Datenschutzerklärung genannten Zwecken und unter Einhaltung der geltenden datenschutzrechtlichen Vorschriften.
