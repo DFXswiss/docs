@@ -47,7 +47,7 @@ Im Rahmen unserer Geschäftsbeziehungen und der Nutzung unserer Dienste verarbei
 * Vertragsdaten: z. B. gekaufte Produkte, Dienstleistungen, Vertragslaufzeiten.
 * Sensible Daten (falls relevant): z. B. Gesundheitsdaten, biometrische Daten zur Identifikation (nur mit ausdrücklicher Einwilligung).
 
-Die Erhebung dieser Daten erfolgt ausschließlich zu den in dieser Datenschutzerklärung genannten Zwecken und unter Einhaltung der geltenden datenschutzrechtlichen Vorschriften.
+Die Erhebung dieser Daten erfolgt ausschliesslich zu den in dieser Datenschutzerklärung genannten Zwecken und unter Einhaltung der geltenden datenschutzrechtlichen Vorschriften.
 
 ### Rechtsgrundlagen für die Verarbeitung personenbezogener Daten (gültig für alle Verarbeitungszwecke)
 
@@ -60,7 +60,7 @@ Die Verarbeitung Ihrer personenbezogenen Daten erfolgt stets auf Basis einer kla
 
 #### Besonders schützenswerte personenbezogene Daten
 
-Die Verarbeitung besonders schützenswerter Daten, wie genetischer und biometrischer Daten, erfolgt ausschließlich auf Grundlage einer ausdrücklichen Einwilligung der betroffenen Person oder im Rahmen einer gesetzlichen Verpflichtung, die eine Verarbeitung erforderlich macht.
+Die Verarbeitung besonders schützenswerter Daten, wie genetischer und biometrischer Daten, erfolgt ausschliesslich auf Grundlage einer ausdrücklichen Einwilligung der betroffenen Person oder im Rahmen einer gesetzlichen Verpflichtung, die eine Verarbeitung erforderlich macht.
 
 ### Zweck der Datenverarbeitung
 
@@ -76,16 +76,16 @@ Die Verarbeitung Ihrer personenbezogenen Daten erfolgt insbesondere zu folgenden
 
 ### Datenschutz durch Technikgestaltung und datenschutzfreundliche Voreinstellungen
 
-DFX verpflichtet sich, den Schutz personenbezogener Daten durch technische und organisatorische Maßnahmen von Anfang an zu gewährleisten („Privacy by Design“) und durch datenschutzfreundliche Voreinstellungen sicherzustellen („Privacy by Default“).
+DFX verpflichtet sich, den Schutz personenbezogener Daten durch technische und organisatorische Massnahmen von Anfang an zu gewährleisten („Privacy by Design“) und durch datenschutzfreundliche Voreinstellungen sicherzustellen („Privacy by Default“).
 
 Dies bedeutet:
 
 * Datenminimierung: Es werden nur die Daten erhoben, die für den jeweiligen Zweck unbedingt erforderlich sind.
-* Technische Sicherheit: Wir implementieren Schutzmaßnahmen wie Verschlüsselung, Pseudonymisierung und regelmäßige Sicherheitsüberprüfungen, um Daten vor unbefugtem Zugriff zu schützen.
+* Technische Sicherheit: Wir implementieren Schutzmassnahmen wie Verschlüsselung, Pseudonymisierung und regelmässige Sicherheitsüberprüfungen, um Daten vor unbefugtem Zugriff zu schützen.
 * Transparenz und Kontrolle: Nutzer haben die Möglichkeit, ihre Datenschutzeinstellungen eigenständig zu verwalten und nur die Daten freizugeben, die sie möchten.
-* Datenschutzorientierte Produktentwicklung: Unsere Systeme und Prozesse werden unter Berücksichtigung des Datenschutzes entwickelt und regelmäßig überprüft.
+* Datenschutzorientierte Produktentwicklung: Unsere Systeme und Prozesse werden unter Berücksichtigung des Datenschutzes entwickelt und regelmässig überprüft.
 
-Diese Maßnahmen gewährleisten einen proaktiven Schutz Ihrer Daten gemäß den Anforderungen des Schweizerischen Datenschutzgesetzes (DSG) und anderen anwendbaren Datenschutzgesetzen.
+Diese Massnahmen gewährleisten einen proaktiven Schutz Ihrer Daten gemäss den Anforderungen des Schweizerischen Datenschutzgesetzes (DSG) und anderen anwendbaren Datenschutzgesetzen.
 
 ### Welche Rechte haben Sie bezüglich Ihrer Daten?
 
@@ -95,13 +95,13 @@ Sie haben jederzeit das Recht, jederzeit Auskunft über die Verarbeitung ihrer b
 
 ### Verzeichnis von Verarbeitungstätigkeiten
 
-Die DFX AG führt gemäß den Anforderungen des Schweizerischen Datenschutzgesetzes (DSG) ein Verzeichnis aller Verarbeitungstätigkeiten, die personenbezogene Daten betreffen. Dieses Verzeichnis dient dazu:
+Die DFX AG führt gemäss den Anforderungen des Schweizerischen Datenschutzgesetzes (DSG) ein Verzeichnis aller Verarbeitungstätigkeiten, die personenbezogene Daten betreffen. Dieses Verzeichnis dient dazu:
 
 * Transparenz zu gewährleisten: Es enthält detaillierte Informationen über die Zwecke der Verarbeitung, die betroffenen Datenkategorien, die Empfänger der Daten sowie die Speicherdauer.
 * Rechenschaftspflichten nachzukommen: Es ermöglicht den Nachweis, dass DFX personenbezogene Daten in Übereinstimmung mit den gesetzlichen Vorschriften verarbeitet.
 * Effizienz und Sicherheit zu fördern: Es unterstützt uns bei der Identifikation und dem Management von Risiken im Zusammenhang mit der Datenverarbeitung.
 
-Das Verzeichnis wird regelmäßig aktualisiert und dokumentiert alle relevanten Verarbeitungsvorgänge, einschließlich der von Dritten im Auftrag von DFX durchgeführten Verarbeitungen.
+Das Verzeichnis wird regelmässig aktualisiert und dokumentiert alle relevanten Verarbeitungsvorgänge, einschliesslich der von Dritten im Auftrag von DFX durchgeführten Verarbeitungen.
 
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an unseren [Support](https://services.dfx.swiss/support) wenden.
 
@@ -125,7 +125,9 @@ Betroffene Personen haben das Recht, Widerspruch gegen Profiling einzulegen, sow
 
 ### Hosting mit All-Inkl
 
-Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstraße 68, 02742 Friedersdorf (im Folgenden: All-Inkl). Einzelheiten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstrasse 68, 02742 Friedersdorf (im Folgenden: All-Inkl). 
+
+All-Inkl verarbeitet personenbezogene Daten gemäß der Datenschutz-Grundverordnung (DSGVO) und hat geeignete technische und organisatorische Maßnahmen implementiert, um den Schutz dieser Daten zu gewährleisten. Einzelheiten zu deren Umgang mit personenbezogenen Daten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
 
 
 ## 5. Allgemeine Hinweise und Pflicht­informationen
@@ -198,30 +200,30 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten z
 
 ## 6. Datenschutzverletzungen
 
-DFX nimmt Datenschutzverletzungen sehr ernst und hat Prozesse implementiert, um solche Vorfälle effizient und in Übereinstimmung mit den gesetzlichen Vorschriften zu bearbeiten. Eine Datenschutzverletzung liegt vor, wenn personenbezogene Daten unbeabsichtigt oder unrechtmäßig offengelegt, verändert, gelöscht oder unberechtigt zugänglich gemacht werden.
+DFX nimmt Datenschutzverletzungen sehr ernst und hat Prozesse implementiert, um solche Vorfälle effizient und in Übereinstimmung mit den gesetzlichen Vorschriften zu bearbeiten. Eine Datenschutzverletzung liegt vor, wenn personenbezogene Daten unbeabsichtigt oder unrechtmässig offengelegt, verändert, gelöscht oder unberechtigt zugänglich gemacht werden.
 
 ### Massnahmen bei Datenschutzerletzungen
 
-Im Falle einer Datenschutzverletzung verfolgt DFX ein strukturiertes Vorgehen, um die Auswirkungen auf betroffene Personen zu minimieren und die Sicherheit der Daten schnellstmöglich wiederherzustellen. Dazu zählen insbesondere folgende Maßnahmen:
+Im Falle einer Datenschutzverletzung verfolgt DFX ein strukturiertes Vorgehen, um die Auswirkungen auf betroffene Personen zu minimieren und die Sicherheit der Daten schnellstmöglich wiederherzustellen. Dazu zählen insbesondere folgende Massnahmen:
 
 * Identifikation und Analyse: Sobald eine Datenschutzverletzung bekannt wird, wird diese unverzüglich von unserem Datenschutzteam analysiert und bewertet.
-* Eindämmung und Behebung: Geeignete Maßnahmen werden ergriffen, um den Vorfall einzudämmen und die Sicherheit der Daten wiederherzustellen.
-* Dokumentation: Alle Datenschutzverletzungen werden in einem internen Register dokumentiert. Dies umfasst die Art der Verletzung, die betroffenen Datenkategorien, die Anzahl der betroffenen Personen und die ergriffenen Maßnahmen.
+* Eindämmung und Behebung: Geeignete Massnahmen werden ergriffen, um den Vorfall einzudämmen und die Sicherheit der Daten wiederherzustellen.
+* Dokumentation: Alle Datenschutzverletzungen werden in einem internen Register dokumentiert. Dies umfasst die Art der Verletzung, die betroffenen Datenkategorien, die Anzahl der betroffenen Personen und die ergriffenen Massnahmen.
 
 #### Benachrichtigungspflichten
 
-Im Falle einer Datenschutzverletzung, die ein Risiko für die Rechte und Freiheiten betroffener Personen darstellt, ist DFX gesetzlich verpflichtet, bestimmte Parteien zu informieren. Diese Benachrichtigungen sollen sicherstellen, dass sowohl die zuständigen Behörden als auch die betroffenen Personen rechtzeitig über die Verletzung und die ergriffenen Maßnahmen informiert werden. Die Benachrichtigungen erfolgen unter Einhaltung der gesetzlichen Vorgaben und umfassen folgende Schritte:
+Im Falle einer Datenschutzverletzung, die ein Risiko für die Rechte und Freiheiten betroffener Personen darstellt, ist DFX gesetzlich verpflichtet, bestimmte Parteien zu informieren. Diese Benachrichtigungen sollen sicherstellen, dass sowohl die zuständigen Behörden als auch die betroffenen Personen rechtzeitig über die Verletzung und die ergriffenen Massnahmen informiert werden. Die Benachrichtigungen erfolgen unter Einhaltung der gesetzlichen Vorgaben und umfassen folgende Schritte:
 
 * Benachrichtigung der Aufsichtsbehörde innerhalb von 72 Stunden nach Bekanntwerden der Verletzung.
 * Benachrichtigung der betroffenen Personen unverzüglich und in klarer, verständlicher Sprache.
    
-### Schutzmaßnahmen
+### Schutzmassnahmen
 
-Um Datenschutzverletzungen vorzubeugen, setzen wir technische und organisatorische Maßnahmen ein, darunter die Verschlüsselung sensibler Daten, regelmäßige Sicherheitsüberprüfungen und die Schulungen unserer Mitarbeitenden im Bereich Datenschutz.
+Um Datenschutzverletzungen vorzubeugen, setzen wir technische und organisatorische Massnahmen ein, darunter die Verschlüsselung sensibler Daten, regelmässige Sicherheitsüberprüfungen und die Schulungen unserer Mitarbeitenden im Bereich Datenschutz.
 
 ### Kontakt im Falle von Datenschutzverletzungen:
 
-Wenn Sie eine mögliche Datenschutzverletzung bemerken, wenden Sie sich bitte an an unseren Support (opens new window) wenden.
+Wenn Sie eine mögliche Datenschutzverletzung bemerken, wenden Sie sich bitte an an unseren [Support](https://services.dfx.swiss/support) wenden.
 
 
 ## 7. Datenerfassung auf dieser Website
