@@ -41,11 +41,11 @@ Im Rahmen unserer Geschäftsbeziehungen und der Nutzung unserer Dienste verarbei
 
 * Kontaktinformationen: z. B. Name, Adresse, Telefonnummer, E-Mail-Adresse.
 * Technische Daten: z. B. IP-Adressen, Geräteinformationen, Browser-Typ.
-* Zahlungs- und Finanzdaten: z. B. Bankverbindungen, Kreditkartendaten, Transaktionshistorie.
+* Zahlungs- und Finanzdaten: z. B. Bankverbindungen, Kreditkartendaten, Transaktionshistorie, Steuererklärung.
 * Kommunikationsdaten: z. B. Inhalte von E-Mails, Kontaktformularen, Anfragen.
 * Nutzungsdaten: z. B. besuchte Seiten, Login-Daten, Nutzungsverhalten auf unserer Website.
 * Vertragsdaten: z. B. gekaufte Produkte, Dienstleistungen, Vertragslaufzeiten.
-* Sensible Daten (falls relevant): z. B. Gesundheitsdaten, biometrische Daten zur Identifikation (nur mit ausdrücklicher Einwilligung).
+* Sensible Daten (falls relevant): z. B. Gesundheitsdaten, biometrische Daten zur Identifikation (nur mit ausdrücklicher Einwilligung), amtliche Ausweise.
 
 Die Erhebung dieser Daten erfolgt ausschliesslich zu den in dieser Datenschutzerklärung genannten Zwecken und unter Einhaltung der geltenden datenschutzrechtlichen Vorschriften.
 
