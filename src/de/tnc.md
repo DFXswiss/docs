@@ -79,6 +79,17 @@ Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, 
 ## Lokale Beschränkungen
 Die auf dieser Website angebotenen Produkte und Dienstleistungen sind ausschliesslich in der Schweiz zum Verkauf zugelassen. Personen, die aus dem Ausland auf die Website zugreifen, tun dies auf eigene Verantwortung. DFX lehnt jegliche Verantwortung im Zusammenhang mit der Nutzung der Website ausserhalb der Schweiz ab. Insbesondere wird darauf aufmerksam gemacht, dass jeder ausländische Nutzer selbst verpflichtet ist, abzuklären, ob er die von DFX angebotenen Dienstleistungen und Produkte gestützt auf die geltenden Gesetzgebungen an seinem Wohnsitz respektive Sitz, oder gestützt auf die Gesetzgebungen seines Heimatstaats nutzen darf.
 
+## Verwahrung von Vermögenswerten
+### Konditionen der Verwahrung
+DFX bietet die Verwahrung von Vermögenswerten für Kunden an. Dabei kommen folgende Asset-Klassen infrage: Schweizer Franken (CHF), Euro (EUR), Bitcoin (BTC) und Frankencoin Pool Shares (FPS). Die Verwahrung dieser Assets unterliegt den nachfolgenden Bedingungen:
+* Flexibilität bei der Wahl des Verwahrungsassets: Wenn ein Kunde sich entscheidet, eine bestimmte Menge einer Asset-Klasse bei DFX zu verwahren, liegt es im Ermessen von DFX, zu entscheiden, in welcher Form oder auf welcher Blockchain dieses Asset aufbewahrt wird.    
+- Beispiel 1: Entscheidet sich der Kunde für die Verwahrung von BTC, kann DFX dieses entweder auf der Bitcoin Mainchain oder als Wrapped Bitcoin (WBTC), beispielsweise auf Coinbase Wrapped Bitcoin, auf der Ethereum-Blockchain aufbewahren.
+- Beispiel 2: Wählt der Kunde FPS, kann dies entweder als FPS auf Ethereum oder als WFPS (Wrapped FPS) auf Polygon verwahrt werden.  
+
+DFX behält sich diese Flexibilität vor, um die Verwahrung effizient und sicher zu gestalten. Alle Assets, die für Kunden gehalten werden, werden segregiert auf einer kundenspezifischen Adresse aufbewahrt. Kunden haben die Möglichkeit, über die [Softwarelösung von DFX](https://app.dfx.swiss/) jederzeit einzusehen, über welche Adresse ihre Vermögenswerte in welcher Form (Asset und Blockchain) verwahrt werden.
+
+Die Verwahrung erfolgt unter Einhaltung der geltenden Schweizer Vorschriften, insbesondere im Hinblick auf die Sicherheit und den Schutz der Kundengelder. DFX stellt sicher, dass die verwahrten Assets nicht mit eigenen Vermögenswerten vermischt werden.
+
 ## Umgang mit Transaktionsdaten
 Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informationen öffentlich zur Verfügung gestellt:
 
