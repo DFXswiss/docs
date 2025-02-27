@@ -1,8 +1,8 @@
 # Allgemeine Geschäftsbedingungen
 (Entwurf mit Verwahrung)  
-Diese Allgemeinen Geschäftsbedingungen (AGBs) regeln die Nutzung der Websites dfx.swiss und services.dfx.swiss sowie aller damit verbundenen Finanzdienstleistungen der DFX AG. Bei Unstimmigkeiten zwischen verschiedenen Sprachversionen ist die deutsche Fassung verbindlich.
+Diese Allgemeinen Geschäftsbedingungen (AGBs) regeln die Nutzung der Websites dfx.swiss, services.dfx.swiss und app.dfx.swiss sowie aller damit verbundenen Finanzdienstleistungen der DFX AG. Bei Unstimmigkeiten zwischen verschiedenen Sprachversionen ist die deutsche Fassung verbindlich.
 
-Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website dfx.swiss, und die dazugehörige Subdomain services.dfx.swiss. DFX nutzt diese Websites, um Finanzdienstleistungen anzubieten. Der Zugriff auf und die Nutzung dieser Dienstleistungen unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
+Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website dfx.swiss, und die dazugehörigen Subdomains services.dfx.swiss und app.dfx.swiss. DFX nutzt diese Websites, um Finanzdienstleistungen anzubieten. Der Zugriff auf und die Nutzung dieser Dienstleistungen unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
 
 Darüber hinaus stellt DFX zusätzlich Software wie zum Beispiel die DFX Wallet kostenlos als Open-Source-Produkt zur Verfügung. Diese Software kann von jedem Nutzer kostenlos und erlaubnisfrei verwendet werden. Dies entspricht jedoch nicht einer Geschäftsbeziehung mit DFX, da DFX keine Kontrolle darüber besitzt, wie diese Software von anderen Nutzern verwendet wird. Für die Verwendung von Open-Source-Software gilt in erster Linie der [Haftungsausschluss von DFX](https://docs.dfx.swiss/de/disclaimer.html).
 
