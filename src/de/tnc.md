@@ -88,7 +88,7 @@ DFX bietet die Verwahrung von Vermögenswerten für Kunden an. Dabei kommen unte
 
 DFX behält sich diese Flexibilität vor, um die Verwahrung effizient und sicher zu gestalten. Alle Assets, die für Kunden gehalten werden, werden segregiert auf einer kundenspezifischen Adresse aufbewahrt. Kunden haben die Möglichkeit, über die [Softwarelösung von DFX](https://app.dfx.swiss/) jederzeit einzusehen, über welche Adresse ihre Vermögenswerte in welcher Art (Asset und Blockchain) verwahrt werden.
 
-Die Verwahrung erfolgt unter Einhaltung der geltenden Schweizer Vorschriften, insbesondere im Hinblick auf die Sicherheit und den Schutz der Kundengelder. DFX stellt sicher, dass die verwahrten Assets nicht mit eigenen Vermögenswerten vermischt werden.
+Die Verwahrung erfolgt unter Einhaltung der geltenden Schweizer Vorschriften, insbesondere im Hinblick auf die Sicherheit und den Schutz der Kundengelder. DFX stellt sicher, dass die verwahrten Assets nicht mit eigenen Vermögenswerten vermischt werden. Die verwahrten Assets stehen immer im Eigentum des Kunden und würden im Falle einer Insolvenz nicht in die Konkursmasse fallen.
 
 ## Umgang mit Transaktionsdaten
 Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informationen öffentlich zur Verfügung gestellt:
