@@ -204,7 +204,7 @@ Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der 
 ## Referral-Programm
 Unser Referral-Programm zahlt Kunden 0,25 % auf das Transaktionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird, sowie 0,1 % auf Payment-Link-Transaktionen. 
 
-Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter https://services.dfx.swiss/account einsehbar. Es wird darauf hingewiesen, dass dieser Link nur funktioniert, wenn der Nutzer sich bereits mit seinem Kundenaccount angemeldet hat.
+Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter https://app.dfx.swiss/account einsehbar. Es wird darauf hingewiesen, dass dieser Link nur funktioniert, wenn der Nutzer sich bereits mit seinem Kundenaccount angemeldet hat.
 
 ## Inkasso-Geschäft
 
