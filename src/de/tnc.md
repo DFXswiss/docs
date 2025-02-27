@@ -86,7 +86,7 @@ DFX bietet die Verwahrung von Vermögenswerten für Kunden an. Dabei kommen unte
     * Beispiel 1: Entscheidet sich der Kunde für die Verwahrung von BTC, kann DFX dieses entweder auf der Bitcoin Mainchain oder als Wrapped Bitcoin (WBTC) auf der Ethereum-Blockchain aufbewahren.
     * Beispiel 2: Wählt der Kunde FPS, kann dies entweder als FPS auf Ethereum oder als WFPS (Wrapped FPS) auf Polygon verwahrt werden.  
 
-DFX behält sich diese Flexibilität vor, um die Verwahrung effizient und sicher zu gestalten. Alle Assets, die für Kunden gehalten werden, werden segregiert auf einer kundenspezifischen Adresse aufbewahrt. Kunden haben die Möglichkeit, über die [Softwarelösung von DFX](https://app.dfx.swiss/) jederzeit einzusehen, über welche Adresse ihre Vermögenswerte in welcher Form (Asset und Blockchain) verwahrt werden.
+DFX behält sich diese Flexibilität vor, um die Verwahrung effizient und sicher zu gestalten. Alle Assets, die für Kunden gehalten werden, werden segregiert auf einer kundenspezifischen Adresse aufbewahrt. Kunden haben die Möglichkeit, über die [Softwarelösung von DFX](https://app.dfx.swiss/) jederzeit einzusehen, über welche Adresse ihre Vermögenswerte in welcher Art (Asset und Blockchain) verwahrt werden.
 
 Die Verwahrung erfolgt unter Einhaltung der geltenden Schweizer Vorschriften, insbesondere im Hinblick auf die Sicherheit und den Schutz der Kundengelder. DFX stellt sicher, dass die verwahrten Assets nicht mit eigenen Vermögenswerten vermischt werden.
 
