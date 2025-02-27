@@ -1,5 +1,5 @@
 # Allgemeine Geschäftsbedingungen
-
+(Entwurf mit Verwahrung)
 Im Falle von Unstimmigkeiten ist die deutsche Version massgebend.
 
 Die DFX AG (Unternehmens-Identifikationsnummer: CHE-429.856.521, nachfolgend DFX) mit Sitz an der Bahnhofstrasse 7, 6300 Zug, Schweiz betreibt die Website dfx.swiss, und die dazugehörige Subdomain services.dfx.swiss. DFX nutzt diese Websites, um Finanzdienstleistungen anzubieten. Der Zugriff auf und die Nutzung dieser Dienstleistungen unterliegen den hierin enthaltenen wichtigen rechtlichen Hinweisen (im Folgenden „die Allgemeinen Geschäftsbedingungen“).
