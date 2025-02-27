@@ -83,8 +83,8 @@ Die auf dieser Website angebotenen Produkte und Dienstleistungen sind ausschlies
 ### Konditionen der Verwahrung
 DFX bietet die Verwahrung von Vermögenswerten für Kunden an. Dabei kommen folgende Asset-Klassen infrage: Schweizer Franken (CHF), Euro (EUR), Bitcoin (BTC) und Frankencoin Pool Shares (FPS). Die Verwahrung dieser Assets unterliegt den nachfolgenden Bedingungen:
 * Flexibilität bei der Wahl des Verwahrungsassets: Wenn ein Kunde sich entscheidet, eine bestimmte Menge einer Asset-Klasse bei DFX zu verwahren, liegt es im Ermessen von DFX, zu entscheiden, in welcher Form oder auf welcher Blockchain dieses Asset aufbewahrt wird.
-* Beispiel 1: Entscheidet sich der Kunde für die Verwahrung von BTC, kann DFX dieses entweder auf der Bitcoin Mainchain oder als Wrapped Bitcoin (WBTC), beispielsweise auf Coinbase Wrapped Bitcoin, auf der Ethereum-Blockchain aufbewahren.
-* Beispiel 2: Wählt der Kunde FPS, kann dies entweder als FPS auf Ethereum oder als WFPS (Wrapped FPS) auf Polygon verwahrt werden.  
+    * Beispiel 1: Entscheidet sich der Kunde für die Verwahrung von BTC, kann DFX dieses entweder auf der Bitcoin Mainchain oder als Wrapped Bitcoin (WBTC), beispielsweise auf Coinbase Wrapped Bitcoin, auf der Ethereum-Blockchain aufbewahren.
+    * Beispiel 2: Wählt der Kunde FPS, kann dies entweder als FPS auf Ethereum oder als WFPS (Wrapped FPS) auf Polygon verwahrt werden.  
 
 DFX behält sich diese Flexibilität vor, um die Verwahrung effizient und sicher zu gestalten. Alle Assets, die für Kunden gehalten werden, werden segregiert auf einer kundenspezifischen Adresse aufbewahrt. Kunden haben die Möglichkeit, über die [Softwarelösung von DFX](https://app.dfx.swiss/) jederzeit einzusehen, über welche Adresse ihre Vermögenswerte in welcher Form (Asset und Blockchain) verwahrt werden.
 
