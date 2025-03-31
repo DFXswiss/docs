@@ -8,7 +8,7 @@ Additionally, DFX provides software, such as the DFX Wallet, free of charge as a
 ## Important Legal Notices
 These Terms and Conditions form part of any special agreements related to services or products offered by DFX. In the event of a conflict, the provisions of such a special agreement shall take precedence.
 
-By accessing and using the website, as well as downloading information, data, and documents from the website, customers confirm that they have understood and accepted the disclaimer and the Terms and Conditions. They also acknowledge that DFX may modify the Terms and Conditions at any time. The latest version of the Terms and Conditions is available at docs.dfx.swiss/de/tnc. Changes will be published on docs.dfx.swiss/de/tnc, and customers are encouraged to review them regularly. Changes to the T&Cs are deemed accepted at the latest upon the next transaction by the customer.
+By accessing and using the website, as well as downloading information, data, and documents from the website, customers confirm that they have understood and accepted the disclaimer and the Terms and Conditions. They also acknowledge that DFX may modify the Terms and Conditions at any time. The latest version of the Terms and Conditions is available at docs.dfx.swiss/en/tnc. Changes will be published on docs.dfx.swiss/en/tnc, and customers are encouraged to review them regularly. Changes to the T&Cs are deemed accepted at the latest upon the next transaction by the customer.
 
 ## Information Offering
 
