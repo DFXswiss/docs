@@ -173,10 +173,9 @@ The customer must complete the purchase according to the instructions on the DFX
 If the required payment purpose does not appear on the payment order, the money will be refunded to the corresponding customer. Bank fees will be charged to the customer, and an additional administrative fee may also be charged.
 A transaction to the DFX wallet without a previously created purchase route will not be accepted by DFX and will be immediately refunded to the customer. Any associated bank fees will be charged to the customer. Administrative fees may also be charged.
 
-DFX provides its service based on the amount actually received in the DFX wallet. Bank fees or transaction fees are borne by the customer and will be deducted from the originally deposited amount if this has not already occurred upon the transaction’s arrival. Administrative fees may also be charged to the customer. DFX will convert the value of the amount received, minus any additional bank or transaction fees and DFX fees (as detailed below), into the desired cryptocurrency.
-The cryptocurrency conversion for Bitcoin is handled through Kraken, while all other cryptocurrency conversions are processed through Uniswap.
+DFX provides its service based on the amount actually received in the DFX wallet. Bank fees or transaction fees are borne by the customer and will be deducted from the originally deposited amount if this has not already occurred upon the transaction’s arrival. Administrative fees may also be charged to the customer. DFX will convert the value of the amount received, minus any additional bank or transaction fees and DFX fees (as detailed below), into the desired cryptocurrency. The cryptocurrency conversion for Bitcoin is handled through Kraken, while all other cryptocurrency conversions are processed through Uniswap.
 
-If the customer deposits the amount in a fiat currency other than EUR, DFX will first convert this currency into EUR, which may incur additional exchange fees, which will also be deducted from the deposited amount.
+If the customer deposits the amount in a fiat currency other than EUR, DFX will first convert this currency into EUR, which may incur additional exchange fees. These additional fees will also be deducted from the deposited amount.
 
 DFX notes that the purchase may take several business days before the desired cryptocurrency is received in the customer’s wallet.
 
