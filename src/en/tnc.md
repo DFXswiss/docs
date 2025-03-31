@@ -1,212 +1,253 @@
-# Terms and conditions
+# Terms and Conditions
+These Terms and Conditions (T&Cs) govern the use of the websites dfx.swiss, services.dfx.swiss, and app.dfx.swiss, as well as all related financial services provided by DFX AG. In case of discrepancies between different language versions, the German version shall prevail.
 
-In case of any discrepancies, the German version shall prevail.
+DFX AG (Company Identification Number: CHE-429.856.521, hereinafter DFX) with its registered office at Bahnhofstrasse 7, 6300 Zug, Switzerland, operates the website dfx.swiss, along with the associated subdomains services.dfx.swiss and app.dfx.swiss. DFX uses these websites to offer financial services. Access to and use of these services are subject to the important legal notices contained herein (hereinafter "the Terms and Conditions").
 
-DFX AG (company identification number: CHE-429.856.521, hereinafter DFX), with its registered office at Bahnhofstrasse 7, 6300 Zug, Switzerland operates the website DFX.swiss, and the associated subdomains such as services.dfx.swiss and payment.dfx.swiss. DFX uses these websites to provide financial services. Access to and use of these services are subject to the important legal notices contained herein (the "Terms and Conditions").
+Additionally, DFX provides software, such as the DFX Wallet, free of charge as an open-source product. This software can be used by any user free of charge and without permission. The use of this software does not establish a business relationship with DFX, as DFX has no control over its use by third parties. The use of open-source software is primarily subject to the [DFX Disclaimer](https://docs.dfx.swiss/en/disclaimer.html).
 
-Furthermore, DFX additionally provides software such as DFX Wallet free of charge as an open source product. This software may be used by any user free of charge and without permission, which is not equivalent to a business relationship with DFX, as DFX has no control over how this software is used by other users. The use of open source software is subject to the DFX disclaimer in the first instance. https://docs.dfx.swiss/de/disclaimer.html
+## Important Legal Notices
+These Terms and Conditions form part of any special agreements related to services or products offered by DFX. In the event of a conflict, the provisions of such a special agreement shall take precedence.
 
-## Important legal information
-These General Terms and Conditions are an integral part of all special agreements that apply or are concluded in connection with the services or products offered by DFX. However, in the event of a conflict, the provisions of such special agreement shall prevail.
+By accessing and using the website, as well as downloading information, data, and documents from the website, customers confirm that they have understood and accepted the disclaimer and the Terms and Conditions. They also acknowledge that DFX may modify the Terms and Conditions at any time. The latest version of the Terms and Conditions is available at docs.dfx.swiss/en/tnc. Changes will be published on docs.dfx.swiss/en/tnc, and customers are encouraged to review them regularly. Changes to the T&Cs are deemed accepted at the latest upon the next transaction by the customer.
 
-By accessing and using the Website, the Payment Page and the DFX App, respectively, and by downloading information, data and documents from the Website, the Payment Page and the DFX App, respectively, Customers acknowledge that they understand and accept the disclaimer and the Terms and Conditions. Furthermore, they accept that DFX may change the General Terms and Conditions at any time. Changes to the Terms and Conditions are accepted at the latest when the customer initiates the next transaction.
+## Information Offering
 
-## Local restrictions
-The products and services offered on this website, the payment page and in the DFX app are only authorized for sale in Switzerland. Persons who access the Website, the Payment Page or the DFX App from abroad do so on their own responsibility. DFX disclaims any responsibility in connection with the use of the Website, the Payment Page or the DFX App outside Switzerland. In particular, it is pointed out that each foreign user is obliged to clarify for himself whether he may use the services and products offered by DFX based on the applicable legislation at his place of residence or registered office, or based on the legislation of his home country.
+## No Advice
+DFX does not provide investment, tax, or legal advice. The information provided on the website is for informational purposes only and does not constitute recommendations. Customers make investment decisions independently and assume full responsibility for the resulting risks.
+This applies to all financial services offered by DFX, including the purchase, sale, exchange, and transfer of cryptocurrencies.
 
-## No advice for the purchase of cryptocurrencies
-DFX expressly states that no investment advisory services are provided on its part. In no event shall the information provided on the Website be construed as advice or recommendations to buy or sell any particular cryptocurrency or to effect any transaction, nor shall the information provided be construed as advice of any other nature, for example, tax or legal. DFX does not recommend Bitcoin or any other cryptocurrency in any way.
+All investment decisions made by customers are based solely on their own assessment of their financial situation and investment goals. They bear full responsibility for such decisions and any resulting consequences. DFX provides its services exclusively at the explicit, independent request of the customer, without assessing their financial situation, technical knowledge, suitability, or appropriateness of the investment.
 
-Any investment decisions that clients make are based solely on their own assessment of their financial situation and investment objectives. They bear sole responsibility for such decisions. DFX provides its services exclusively at the express, independent request of the customer, without verifying the customer's financial situation, technical understanding, suitability or appropriateness of the investment.
+Investments in cryptocurrencies presented on the website are speculative and involve significant risks. These risks may be economic, human, or technical. Cryptocurrencies are subject to considerable volatility. Their prices may decrease or increase. Past performance cannot guarantee future performance. As a result, the invested amount may not be recovered and could be entirely lost. By using DFX's services, customers acknowledge that Bitcoin, Ether, and other cryptocurrencies are experimental, alternative currencies still in development, with unpredictable outcomes.
 
-Investments and investments in cryptocurrencies presented on the website, payment page and DFX app are speculative and associated with significant risks. These may be economic as well as human and technical in origin. Cryptocurrencies are subject to significant volatility. The price of cryptocurrencies may fall as well as rise. The future performance of cryptocurrencies cannot be guaranteed by past performance. Therefore, it is possible that the invested amount may not be recovered and instead may be lost altogether. By using DFX's services, clients acknowledge that Bitcoin, Ether or other cryptocurrencies are experimental, alternative currencies currently under development and that their performance is unpredictable. We strongly recommend that customers seek professional advice before making any investment decisions.
-
-By accepting the GTC's, the customer declares to have been informed about the above risks, to have understood them and to be aware of their implications. The customer declares that he himself is the beneficial owner of the assets to be traded and the desired recipient address and that he can freely dispose of them.
+By accepting the T&Cs, the customer declares that they have been informed of the risks, understand them, and are aware of their implications. The customer further declares that they are the beneficial owner of the assets to be traded and the intended recipient address and can freely dispose of them.
 
 ## Links
-Activation of certain links on the Website, the Payments Page or in the DFX App may cause you to leave the Website, the Payments Page or the DFX App, respectively. DFX does not review any of these linked websites and does not warrant or guarantee, expressly or impliedly, the quality, relevance, accuracy, completeness, availability, correctness, update status or legality of the content of such websites, nor is DFX responsible in any way for the products, services, information and other content offered through these linked websites. The same applies to websites that provide links to the DFX website.
+Activating certain links on the website may cause the user to leave the website. DFX does not review linked websites and neither expressly nor implicitly guarantees their quality, relevance, accuracy, completeness, availability, correctness, timeliness, or legality of their content. DFX is also not responsible for any products, services, information, or other content offered through these linked websites. The same applies to websites that provide links to DFX's website.
 
-## Confidentiality and encryption
-We would like to point out that the data exchanged between the respective customer and DFX is transmitted via open, public networks (e.g. the Internet), which are not subject to any control or verification on the part of DFX. The transmitted data may go beyond the borders of Switzerland, even if both the customer and DFX are located in Switzerland. Furthermore, even if the transmitted data is encrypted, it is not guaranteed that it will necessarily remain encrypted for the entire duration of the transmission, nor that it will remain encrypted on the Customer's side. It is possible that data may be intercepted. In addition, Customers hereby acknowledge that they understand that applicable laws in your country may prohibit or restrict the import, export, or use of encryption algorithms. DFX shall in no event be responsible for any violation of measures regulating the import, export or use of encryption algorithms. In the event of such a violation, customers are solely responsible.
+## Confidentiality and Encryption
+Please note that data exchanged between customers and DFX is transmitted over open, public networks (such as the internet), which are beyond DFX's control or verification. The transmitted data may cross national borders, even if both the customer and DFX are located in Switzerland. Data is transmitted over public networks (e.g., the internet) that DFX does not control. Even with encryption, there is a risk of data interception. Customers are responsible for compliance with local encryption regulations. Data may be intercepted. Furthermore, customers acknowledge that their country's legal provisions may prohibit or restrict the import, export, or use of encryption algorithms. DFX is not responsible for violations of regulations governing the import, export, or use of encryption algorithms. In case of such violations, customers are solely responsible.
 
-## Confidentiality of user data
-Customers are required to keep user IDs, passwords and other means of identification such as blockchain addresses confidential. To this end, they must not store your user IDs, passwords or other means of identification such as blockchain addresses unencrypted in your browser and they must delete all temporary files stored in your cache memory and your browsing history. Customers are solely responsible if such means of identification are disclosed to third parties, discovered or misused. Likewise, they are solely responsible for any resulting losses and damages.
+## Confidentiality of User Data
+Customers must keep user IDs, passwords, and other identification means, such as blockchain addresses, confidential. They must not store their user IDs, passwords, or other identification means unencrypted in their browser and must delete all temporary files stored in their cache memory and browsing history. Customers are solely responsible if such identification means are disclosed to, discovered by, or misused by third parties. They are also solely responsible for any resulting losses and damages.
 
-## Proper use of the Website
-Customers agree to use the Website and the Payments Page in an orderly manner and not to misuse or use the Website or the Payments Page in any way that could, for example, overload the Website, delay the transmission of information, interrupt service, block access to the Website, or cause any other harmful effects to DFX or the users of the Website or the Payments Page. In particular, it is prohibited to: carry out e-mail bombing or a denial of service attack (in particular flooding) or to make a similar attempt to infect the Website or Payment Page with a virus, worm, Trojan horse or other software or to make a similar attempt to gain or attempt to gain unauthorized access to the servers that manage the Website or Payment Page; to circumvent or deactivate the security functions of the Website or Payment Page or to attempt to do so. attempt to do so (hacking); update the information provided on the Website or Payment Page using automatic update programs, e.g. as provided by other websites; or use offline readers or similar software, in particular in such a way that a mass download of data from the Website or Payment Page to the Customer's hard disk is possible. DFX reserves the right, in case of such improper use of the Website or the Payment Page, to deny the relevant Customer access to the Website and the Payment Page, even if the Customer is a registered customer of DFX.
+## Proper Use of the Website
+Customers agree to use the website and the app appropriately and not misuse them in any way that could, for example, overload the website, delay the transmission of information, disrupt the service, block access to the website, or cause other harmful effects for DFX or other users. Specifically, it is prohibited to conduct email bombing, denial-of-service attacks (e.g., flooding), attempt to infect the website or app with viruses, worms, trojans, or other software, attempt to gain unauthorized access to servers managing the website or app, bypass or disable security features (hacking), update website information using automated update programs, use offline readers or similar software for mass data downloads, or engage in similar activities. DFX reserves the right to deny access to the website and app in cases of such improper use. This applies even to registered DFX customers.
 
-## General handling of customer-related data
-Customers acknowledge that DFX may record and analyze all of its customers' actions on DFX-owned websites, APIs, applications, and other direct marketing campaigns for purposes of security, system monitoring, administration, marketing, and compliance with legal and regulatory requirements.
+## General Handling of Customer Data
+Customers acknowledge that DFX may record and analyze all actions of their customers on DFX-owned websites, APIs, applications, and other direct marketing campaigns for security, system monitoring, management, marketing, and compliance with legal and regulatory requirements.
 
-DFX will store this information under appropriate security conditions for a limited period of time. DFX will not disclose personal data to third parties unless DFX is required to do so by law and/or regulation. See details under Handling customer data in bank/blockchain transactions.
+DFX will store this information under appropriate security conditions for a limited time. DFX will not share personal data with third parties, unless DFX is required to do so by legal and/or regulatory obligations. Details on this can be found under "Handling of Customer Data in Bank Transactions" and "Handling of Customer Data in Blockchain Transactions."
 
-The authentication of the identification documents submitted by customers as part of the registration process is performed by a specialized external company. Consequently, this company has access to (exclusively) these documents.
+The authentication of the identification documents submitted by customers as part of the registration process will be performed by a specialized external company. Therefore, this company will have access to (only) these documents.
 
-Other necessary external providers may also have access to customer data as part of the maintenance and management of current processes, the product and service offering, and the DFX user base. In such cases where the use of an external provider or service is required, DFX will ensure that the external provider exercises the same level of vigilance with respect to privacy and data security as DFX does. Customer data and/or contact information is not sold by DFX in any way.
+Other necessary external service providers may also have access to customer data as part of the maintenance and management of the current processes, product and service offerings, and the DFX user base. In cases where the use of an external provider or service is required, DFX ensures that the external provider applies the same level of vigilance regarding data protection and security as DFX. Customer data and/or contact information will never be sold by DFX.
 
-DFX is an exceptionally transparent blockchain financial services provider. DFX publishes all sales and all transactions on the public blockchain to and from DFX in order to create maximum transparency and thus offer the customer the best product. The full transparency of all customer transactions guarantees that the activities of DFX can be monitored externally and that no hidden prices or similar are practised by DFX. We would like to point out that users who choose to use the public blockchain for financial transactions store their transactions in a public, non-erasable database. It is the user's responsibility to ensure that the user's privacy remains protected at all times. The blockchain addresses and the financial transactions are public, while the connection of the blockchain address to the corresponding owner is private and should remain private. DFX does not publish any information about its own customers or about the owners behind the blockchain addresses, but DFX does publish data about the blockchain transactions carried out and the corresponding blockchain addresses. DFX never publishes data that could allow conclusions to be drawn about the owners of a blockchain address. Further details on which additional data on public transactions is published by DFX can be found in the following sections. If you have any questions, please contact support at support@dfx.swiss.
+DFX is an extremely transparent blockchain financial service provider. DFX publishes all revenues and transactions on the public blockchain from and to DFX to create maximum transparency and offer the best product to customers. The full transparency of all customer transactions ensures that DFX's activities can be externally monitored, preventing hidden prices or similar practices. It is important to note that users who choose to use the public blockchain for financial transactions store their transactions in a public, non-editable database. It is the user's responsibility to ensure that their privacy is always protected. Blockchain addresses and financial transactions are public, while the connection between the blockchain address and the corresponding owner is private and should remain private. DFX does not publish any information about its customers or the owners behind blockchain addresses but does publish data on blockchain transactions and corresponding blockchain addresses. DFX never publishes data that could allow conclusions about the owners of a blockchain address. Further details on which data related to public transactions by DFX is also published can be found in the next sections. For any questions, the [Support](https://app.dfx.swiss/support) can be contacted.
 
-## Handling transaction data
-For all digital asset transactions, the following information is made publicly available:
+## Risks
+DFX points out that the offered cryptocurrencies are on various blockchains, such as the Bitcoin blockchain, Ethereum blockchain, and Binance Smart Chain. Decentralized Finance (DeFi) is a novel construct, and it is not yet fully clear what legal and regulatory implications this will have on users and companies in this business field.
 
-- Input Asset
-- Input Amount
-- Output Asset
-- Output Amount
-- Transaction ID
-- Sender address
-- Recipient address
+DFX always complies with current Swiss law and is in constant communication with authorities to implement it. DFX reserves the right to suspend the trading of individual cryptocurrencies or add additional cryptocurrencies and products to its offering at any time. Customers of the DFX brokerage service do not have the right to trade cryptocurrencies that have been suspended. This applies even if these cryptocurrencies were previously purchased through the DFX brokerage service.
 
-The Transaction ID allows a public blockchain to draw conclusions about the customer addresses involved. However, this information does not allow any direct conclusions to be drawn about the person who carried out this transaction or who is behind the public blockchain address.
+Moreover, cryptocurrencies originating from Decentralized Finance constructs, such as trading on a Decentralized Exchange (DEX) or exchanging via an Atomic Swap, may be labeled as higher-risk coins and treated differently in the future than coins that have not been involved in such DeFi protocols. DFX has no influence on how the DeFi market will be regulated in the future or the consequences that may arise from using DeFi protocols for users. DFX cannot guarantee the continuation of the service at all times, nor can it guarantee the buyback of sold coins if the regulatory environment changes.
 
-## Handling customer data during bank transactions
-When transactions are executed, customer data is automatically sent along with the transaction. Specifically, the following information is usually sent from the sending bank to the receiving bank during bank transactions:
+## Severability and Governing Law
+If any clause of these General Terms and Conditions is invalid, voided, or otherwise unenforceable, the validity of the remaining General Terms and Conditions will not be affected or impaired.
 
-- Name of the sender and the recipient
-- Address of the sender and the recipient
-- Account data such as IBAN, reason for payment, reference.
+## Applicable Law and Jurisdiction
+These General Terms and Conditions are governed by Swiss law and will be construed in accordance with it, excluding the conflict-of-law provisions of Switzerland or the customer’s country of residence or state. Any disputes arising from or in connection with these General Terms and Conditions, the customer’s relationship with DFX, including non-contractual obligations, shall be subject to the exclusive jurisdiction of the court in Zug, Switzerland.
 
-This information is exchanged between the bank and DFX and shared with other banks involved in processing the transaction. DFX shares additional data with the bank if necessary to comply with applicable laws. All data available to DFX may be shared with the bank in order to comply with the statutory audit obligations. In concrete terms, this means that the data is shared with the bank that processes the payments. DFX has several bank accounts with different banks, one of which is located in Luxembourg. Thus, data is also transferred abroad when a foreign bank is used. Which bank it is can be recognized by the IBAN address.
+## Financial Services
 
-## Handling customer data in blockchain transactions
-Just as with bank transactions, basic transaction data must be sent along with the transaction for blockchain transactions. When using a self-hosted wallet such as DFX Bitcoin Wallet, MetaMask, Ledger, Bitbox Hardware Wallet, the data exchange can be waived. In all other cases, data exchange is mandatory. This means that it is mandatory to send the personal data along with blockchain transactions from non-self-hosted wallets to DFX. The data must be transmitted to DFX simultaneously with the execution of the Blockchain transaction in a standardized format to compliance(at)dfx.swiss or by another suitable method.
+### Scope of Financial Services
+The financial services offered by DFX include:
+* Buy
+* Sell
+* Swap
+* Send
+
+The payment options include:
+* Bank transfer
+* SEPA Instant Bank transfer
+* Credit card
+* Crypto deposit
+
+### Fees
+
+Fees vary depending on the type of service, customer account type, asset, blockchain, and usage environment. Applicable fees are transparently displayed during the respective transaction. If no fees are displayed or no other fees have been agreed upon, the following standard fees apply:
+- Trading Crypto Assets without special assistance as an individual via bank transfer: 1.49% Buy, 1.99% Sell
+- Trading Crypto Assets without special assistance as a legal entity via bank transfer: 1.99% Buy, 2.49% Sell
+- Trading Crypto Assets with special assistance as an individual or legal entity via bank transfer: 5% Flat Fee
+- When using a credit card, an additional 3% credit card fee will apply.
+
+### Local Restrictions
+The products and services offered on this website are only approved for sale in Switzerland. Individuals accessing the website from abroad do so at their own risk. DFX disclaims any responsibility related to the use of the website outside of Switzerland. Specifically, it is the responsibility of each foreign user to determine whether they may use the products and services offered by DFX based on the applicable laws of their country of residence or domicile.
+
+## Asset Custody
+### Custody Terms
+DFX offers asset custody services for customers. The following asset classes are eligible for custody: Swiss Franc (CHF), Euro (EUR), Bitcoin (BTC), and Frankencoin Pool Shares (FPS). The custody of these assets is subject to the following terms:
+* Flexibility in choosing the custodial asset: If a customer decides to custody a specific amount of an asset class with DFX, DFX has the discretion to decide how and on which blockchain the asset will be held.
+    * Example 1: If the customer chooses to custody BTC, DFX may store it either on the Bitcoin mainchain or as Wrapped Bitcoin (WBTC) on the Ethereum blockchain.
+    * Example 2: If the customer chooses FPS, it may be held either as FPS on Ethereum or as WFPS (Wrapped FPS) on Polygon.
+
+DFX reserves this flexibility to ensure the custody process is efficient and secure. All assets held on behalf of customers are segregated and stored on a customer-specific address. Customers can view the address and the type (asset and blockchain) of their stored assets at any time via the [DFX Software Solution](https://app.dfx.swiss/).
+
+Custody is carried out in compliance with applicable Swiss regulations, particularly concerning the security and protection of customer funds. DFX ensures that the assets held for customers are not mixed with its own assets. The held assets are always the property of the customer and would not fall into the bankruptcy estate in the event of insolvency.
+
+## Handling Transaction Data
+For all digital asset transactions, the following information is publicly available:
+
+* Input Asset
+* Input Amount
+* Output Asset
+* Output Amount
+* Transaction ID
+* Sender Addresses
+* Receiver Addresses
+
+The Transaction ID allows a public blockchain to make inferences about the involved customer addresses. However, this information does not provide a direct link to the person behind the transaction or the public blockchain address.
+
+## Handling Customer Data in Bank Transactions
+When transactions are executed, customer data is automatically transmitted along with the transaction. Specifically, for bank transactions, the following information is typically transmitted from the sending bank to the receiving bank:
+
+* Sender and recipient names
+* Sender and recipient address
+* Bank details such as IBAN, purpose of payment, and reference number
+
+This information is exchanged between the bank and DFX and shared with other banks involved in processing the transaction. If necessary, DFX shares additional data with the bank to comply with applicable laws. Any data DFX has may be shared with the bank to fulfill legal obligations. This means that data may be transmitted to foreign banks if an international bank is used. The bank can be identified by its IBAN.
+
+## Handling Customer Data in Blockchain Transactions
+Similar to bank transactions, basic transaction data must be sent with blockchain transactions. When using a self-hosted wallet, such as the DFX Bitcoin Wallet, MetaMask, Ledger, or Bitbox hardware wallet, data exchange can be avoided. In all other cases, data exchange is mandatory. This means that it is essential to send personal data with blockchain transactions from non-self-hosted wallets to DFX. The data should be transmitted simultaneously with the blockchain transaction in a standardized format to [Support](https://app.dfx.swiss/support) or via another suitable method to DFX.
 
 At least the following information is required:
 
-- Name of the sender and the recipient
-- Address of the sender and the recipient
-- Blockchain data such as blockchain address, transaction ID, reference.
+* Sender and recipient names
+* Sender and recipient addresses
+* Blockchain data such as blockchain address, transaction ID, reference
 
-For blockchain transactions from DFX to non-self-hosted wallets, this data is automatically transmitted by DFX to the hosting provider. Unless otherwise agreed, the data will be transmitted by email to compliance(at) "provider.domain". DFX customers who do not wish to agree to this transfer are advised to use a self-hosted wallet.
+For blockchain transactions from DFX to non-self-hosted wallets, this data is automatically transmitted by DFX to the hosting provider. Unless otherwise agreed, the data is sent by email to compliance(at)"provider.domain". Customers of DFX who do not wish to agree to this data transmission are advised to use a self-hosted wallet.
 
-## User registration
-Before DFX's financial services can be used, the customer must register via the DFX app or on the payment page. Registration is free of charge and leads to the creation of a user profile after acceptance of the current terms and conditions. In addition, a non-custody wallet is created. DFX has no access to this, only the customer. When a customer registers, the information and documents that the customer must submit to DFX and the maximum amount for which the customer can buy or sell cryptocurrencies depend on his identification level:
+## User Registration
+Before using the financial services of DFX, customers must register. Registration is free for individuals and leads to the creation of a user profile upon acceptance of the current Terms and Conditions. When a customer registers, the information and documents they must provide to DFX, as well as the maximum amount for which they can buy or sell cryptocurrencies, depend on their identification level:
 
-Registration is basically done via the blockchain address, specifying the customer's email or phone number. This registration is considered standard - light KYC (Know-your-Customer) - and allows the customer to buy/sell cryptocurrencies up to the set daily limit, which can be seen on the customer's personal payment page. Transfers of cryptocurrencies to an unverified public address are not accepted.
+Registration is generally carried out via the blockchain address, providing the customer's email or phone number. This registration is considered standard – light KYC (Know-Your-Customer) – and allows the customer to buy/sell cryptocurrencies up to a set daily limit.
 
-For the purchase/sale of cryptocurrencies above this daily limit, more detailed registration is required, which is considered an Enhanced - full KYC (Know-your-Customer) - process. As part of this process, the following information in particular must be disclosed to DFX:
+For buying/selling cryptocurrencies above this daily limit, a more detailed registration is required, which is considered the Extended – full KYC (Know-Your-Customer) process. As part of this process, the following information must be disclosed to DFX:
 
-- Address, with their proof of delivery of a letter to the specified address.
-- Copy of identification document (ID card or passport), which must have a signature, a legible MRZ code and a photo.
-- Recent photograph of the customer.
-- Duly completed DFX registration form (so-called chatbot form according to the requirements of the Association for Quality Assurance of Financial Services (VQF)).
-- Properly completed beneficial owner form.
-- First transaction from a bank account in the customer's name to DFX.
-- In case of registration of the customer by phone number, the customer has to confirm the code received by SMS (so called TAN code) to DFX.
+* Address, verified by proof of delivery via mail to the provided address
+* A copy of the identity document (ID card or passport) with a signature, readable MRZ code, and a photo
+* A current photo of the customer
+* Properly filled DFX registration form (also known as chatbot form according to the requirements of the Financial Services Quality Assurance Association (VQF))
+* Properly filled economic owner form
+* First transaction from a bank account in the customer's name to DFX
+* If the customer registers using a phone number, they must confirm the code received by SMS (TAN code) to DFX
 
-Up to which limits the purchases/sales of cryptocurrencies are executed is decided by DFX on a user-specific basis. Detailed information is available from support.
+The limits for buying/selling cryptocurrencies are decided on a user-specific basis by DFX. Detailed information is available from our [Support](https://dfx.swiss/help).
 
-DFX reserves the right to conduct a video conference to verify the identity of the customer, including if: DFX believes that the documentation provided is incomplete; the customer's place of residence or business is in a country of risk; or the first transaction made on the part of the customer was from a country of risk or through a bank account not in the customer's name.
+DFX reserves the right to conduct a video conference to verify the customer's identity, especially if DFX believes that the provided documents are incomplete, the customer's residence or business address is in a high-risk country, or the first transaction by the customer is made from a high-risk country or a bank account not in the customer's name.
 
-The complete and correct submission and validation of these documents is required for the initial purchase and sale of cryptocurrencies, as well as for the conversion of cryptocurrencies, or at DFX's request at any time without giving any reason.
+The full and correct submission and validation of these documents are required for the first purchase and sale of cryptocurrencies, or at any time upon DFX's request, without the need for justification.
 
-The data provided must be complete and valid at all times. Changes to personal data as well as all data underlying the light or full KYC must be communicated by the customers to DFX without delay.
+The provided data must always be complete and valid. Changes in personal data, as well as any data related to the light or full KYC, must be promptly communicated to DFX by the customer.
 
-DFX employees never ask the customer for passwords, private keys or seeds. Such requests are to be ignored and reported to DFX.
+DFX employees will never ask customers for passwords, private keys, or seeds. Such requests should be ignored and reported to DFX.
 
-Customers are not authorized to allow other persons to access their account. They are responsible for all activities performed with their respective account.
+Customers are not permitted to give other people access to their account. They are responsible for all activities conducted through their account.
 
-DFX may reject any registration without giving any reason, exclude any registered customer - including in case of fraud, attempted fraud, forged securities or forged certificates - or refuse to execute any transaction.
+DFX reserves the right to reject any registration without giving reasons, exclude any registered customer – including in cases of fraud, fraudulent attempts, counterfeit documents or certificates – or refuse to process a transaction.
 
-DFX reserves the right to refuse any registration without giving any reason as well as to exclude any registered customer and to terminate the business relationship. This right exists explicitly if DFX determines in the course of its checks that a customer is on a FATF list (black or grey), has been convicted of a criminal offense or sanctioned in connection with an administrative proceeding, or if criminal or administrative proceedings are pending against the customer. Furthermore, DFX reserves the right to terminate the business relationship if DFX would violate mandatory regulations, in particular Swiss and international sanction regulations, due to the business relationship with the customer. DFX also reserves the right to refuse the execution of a transaction in such cases.
+DFX reserves the right to reject any registration without giving reasons and to exclude any registered customer, terminating the business relationship. This right applies explicitly if DFX finds that a customer is on a FATF (Financial Action Task Force) blacklist (black or grey), convicted of a crime or sanction, or if a criminal or administrative procedure is pending against the customer. Furthermore, DFX reserves the right to terminate the business relationship if continuing it would violate mandatory regulations, including Swiss and international sanctions regulations. DFX also reserves the right to refuse the execution of a transaction in such cases.
 
-Blocked customers are not allowed to register again via the DFX app or the payment page. If they do so, these users may be prosecuted. Only natural persons or legal entities may register via the DFX app or the payment page.
+Blocked customers are not allowed to register again. If they do, they may be prosecuted. Only natural or legal persons may register.
 
-Natural persons must also be capable of acting (capable of judgement and at least 18 years old). Persons under 18 years of age may not register on the website.
+Natural persons must also be legally capable (of sound mind and at least 18 years old). Persons under 18 may not register on the website.
 
-Each customer profile is unique, personal and non-transferable. The creation and use of multiple accounts by the same person is prohibited.
+Each customer profile is unique, personal, and non-transferable. The creation and use of multiple accounts by the same person is prohibited.
 
-Customers may delete or deactivate their account at any time by submitting a request to DFX technical support. DFX is required to keep records of transactions for ten years. This period starts from the end of the execution of the transactions or, if more than one transaction forms a whole, from the end of the last transaction. Only after the expiration of this ten-year retention period will the account finally be deleted.
+Customers may delete or deactivate their customer profile at any time. However, DFX is required to retain all data, including transaction records, for ten years after the termination of the business relationship. Only after this ten-year retention period will the data and the customer account be permanently deleted.
 
-## Process for the purchase of cryptocurrencies
-The customer shall execute the purchase by following the instructions in the DFX app or on the DFX payment page, respectively. In case of invalid or incorrect information, the funds may be lost. DFX may make inquiries to attempt to recover lost cryptocurrencies, but is under no obligation to do so. These inquiries are at DFX's sole discretion. Customer shall pay for the cost of any investigation, which shall take into account the technical complexity and time required for the investigation.
+## Process for Purchasing Cryptocurrencies
+The customer must complete the purchase according to the instructions on the DFX website. Invalid or incorrect details may result in the loss of funds. DFX may conduct investigations to attempt to recover lost cryptocurrencies, but is not obligated to do so. These investigations are at DFX’s sole discretion. The customer will bear the costs of any investigation, considering the technical complexity and time required for the investigation.
 
-If the required payment purpose does not appear on the payment order, the money will be refunded to the corresponding customer. Bank fees will be charged to the customer, and an additional administrative fee may also be charged. A transaction to the DFX Wallet without a previously created purchase route will not be accepted by DFX and will be immediately refunded to the customer. Any bank charges incurred in the process will be borne by the customer. If necessary, administrative fees will also be charged to the customer.
-A transaction to the DFX wallet without a previously created purchase route will not be accepted by DFX and will be refunded to the customer immediately. The resulting bank charges shall be borne by the customer. The customer may also be charged administrative fees.
+If the required payment purpose does not appear on the payment order, the money will be refunded to the corresponding customer. Bank fees will be charged to the customer, and an additional administrative fee may also be charged.
+A transaction to the DFX wallet without a previously created purchase route will not be accepted by DFX and will be immediately refunded to the customer. Any associated bank fees will be charged to the customer. Administrative fees may also be charged.
 
-DFX provides its service to the extent of the amount actually received by it on the DFX Wallet. The bank charges or transaction fees shall be borne by the customer and shall be deducted directly from the amount originally paid in, provided that this had not yet been done when the transaction was received. If applicable, administrative fees will also be charged to the customer. DFX will then exchange the equivalent value of the amount actually received, minus any additional bank or transaction fees and minus DFX's own fees (see below), into the desired cryptocurrency. The cryptocurrency exchange for Bitcoin is done via Kraken and for all others via Uniswap.
+DFX provides its service based on the amount actually received in the DFX wallet. Bank fees or transaction fees are borne by the customer and will be deducted from the originally deposited amount if this has not already occurred upon the transaction’s arrival. Administrative fees may also be charged to the customer. DFX will convert the value of the amount received, minus any additional bank or transaction fees and DFX fees (as detailed below), into the desired cryptocurrency. The cryptocurrency conversion for Bitcoin is handled through Kraken, while all other cryptocurrency conversions are processed through Uniswap.
 
-If the customer paid the amount to be exchanged in a FIAT currency other than EUR, DFX will first exchange this currency into EUR, whereby additional exchange fees may be incurred, which will also be deducted directly from the amount paid in. 
+If the customer deposits the amount in a fiat currency other than EUR, DFX will first convert this currency into EUR, which may incur additional exchange fees. These additional fees will also be deducted from the deposited amount.
 
-DFX points out that the purchase may take several business days until the desired cryptocurrency arrives in the customer's wallet.
+DFX notes that the purchase may take several business days before the desired cryptocurrency is received in the customer’s wallet.
 
-The transaction costs of the cryptocurrencies transmitted to the client are included in the base price. Prices are in Euros, US Dollars or Swiss Francs or any other currency that is acceptable for payment. [For crypto-to-crypto transactions, prices are in the cryptocurrency to be exchanged]. Likewise, the price includes Swiss value added tax (hereinafter: VAT), if applicable.
+Transaction fees for the cryptocurrencies transmitted to the customer are included in the base price. The prices are in Euro, US Dollars, or Swiss Francs, or another currency acceptable for payment. In crypto-to-crypto transactions, the prices are listed in the cryptocurrency being converted. The price also includes Swiss VAT, if applicable.
 
-Posted buy routes will be processed by DFX within seven business days of the transaction taking place. If the purchase route is not processed within the aforementioned period, the customer is obliged to inform DFX immediately. If the customer does not comply with this obligation, he cannot make any claims regarding the change in the exchange rate.
+Purchase routes will be processed by DFX within seven business days after the transaction is made. If the purchase route is not processed within the above-mentioned time frame, the customer must notify DFX immediately. If the customer fails to do so, no claims regarding changes in exchange rates can be made.
 
-Purchase routes can be cancelled as long as the amount has not been received by DFX. Bank fees will be charged to the customer, and the customer may also be charged an additional administrative fee.
+Purchase routes can be canceled as long as the amount has not yet been received by DFX. Bank fees will be charged to the customer, and an additional administrative fee may also be charged.
 
-Network fees related to the creation of the purchase routes DFX reserves the right to charge the network fee to the customer at the time of making the transaction.
+Network fees related to the creation of purchase routes will be charged by DFX at the time of the transaction.
 
-## Process when selling cryptocurrencies
-The customer has to execute the sale following the instructions on the payment page/in the app. In case of invalid or incorrect information, the funds may be lost. If a transfer is executed without first creating an appropriate sale route to the DFX wallet, or if a transfer is made to an address other than the one specified by DFX, the amount transferred may be lost. DFX may make inquiries to attempt to recover lost cryptocurrencies, but is under no obligation to do so. These inquiries are at the sole discretion of DFX. Customer shall pay for the cost of any investigation, which shall take into account the technical complexity and time required for the investigation.
+## Process for Selling Cryptocurrencies
+The customer must execute the sale according to the instructions in the app. Invalid or incorrect details may result in the loss of funds. If a transfer is made to the DFX wallet without previously creating a corresponding sales route or a transfer is made to an address other than the one specified by DFX, the transferred amount may be lost. DFX may conduct investigations to attempt to recover lost cryptocurrencies, but is not obligated to do so. The scope of these investigations is at DFX’s sole discretion. The customer will bear the cost of investigations, considering their technical complexity and the time involved.
 
-DFX will provide its service to the extent of the amount actually received by it on the DFX Wallet. The bank charges or transaction fees will be borne by the customer and will be deducted directly from the amount originally paid in, if this had not already been done when the transaction was received. If applicable, administrative fees will also be charged to the customer. DFX will then exchange the equivalent of the amount actually received less any additional bank or transaction fees and less DFX's own fees (see below) into the desired foreign currency [or cryptocurrency].
+DFX provides its service based on the amount actually received in the DFX wallet. Bank fees or transaction fees are borne by the customer and will be deducted from the originally deposited amount if this has not already occurred upon the transaction’s arrival. Administrative fees may also be charged to the customer. DFX will convert the value of the amount received, minus any additional bank or transaction fees and DFX fees (as detailed below), into the desired foreign currency (or cryptocurrency).
 
-After creating the sales route, the amount paid in by the customer in this context and after adjustment for all applicable fees, DFX will sell the cryptocurrencies specified in the sales route for its own holdings in the sense of a principal transaction and subsequently transfer the foreign currencies [or converted cryptocurrencies] to the [wallet/]account specified by the customer.
+After creating the sales route, the amount deposited by the customer in this regard, and after deducting all applicable fees, DFX will sell the specified cryptocurrencies for its own inventory as part of a principal transaction and transfer the foreign currencies (or converted cryptocurrencies) to the wallet/account specified by the customer.
 
-DFX notes that the sale may take up to seven business days for the amount to reach the recipient.
+DFX notes that the sale may take up to seven business days before the amount reaches the recipient.
 
-Sale routes will be processed by DFX within seven business days of the transaction being made to the DFX Wallet. If the sale route is not processed within the aforementioned period, the customer is obliged to inform DFX immediately. If the customer does not comply with this obligation, he cannot make any claims regarding the change in the exchange rate.
+Sales routes will be processed by DFX within seven business days after the transaction to the DFX wallet is made. If the sales route is not processed within the specified time frame, the customer must notify DFX immediately. If the customer fails to do so, no claims regarding changes in exchange rates can be made.
 
-Sell routes can be cancelled as long as the cryptocurrency to be converted has not been received by DFX.
+Sales routes can be canceled as long as the cryptocurrency to be converted has not yet been received by DFX.
 
-The transaction costs of the [crypto or] foreign currencies transmitted to the customer are included in the base price. The prices are in the cryptocurrency permitted for the transaction and include Swiss value added tax (hereinafter: VAT), if applicable. After the transfer [of the desired cryptocurrency respectively] of the desired foreign currency to the account[/wallet] of the customer has taken place, the sale is considered completed. The customer will receive a confirmation of the transaction completion by e-mail, including a transaction summary.
+The transaction costs for the crypto or foreign currencies transferred to the customer are included in the base price. The prices are in the cryptocurrency allowed for the transaction and include Swiss VAT, if applicable. Once the transfer of the desired cryptocurrency or foreign currency to the customer’s wallet/account has been completed, the sale is considered final. The customer will receive an email confirmation of the transaction completion, along with a transaction summary.
 
-DFX points out that there is a maximum sales volume per day and per customer, which can be viewed by the customer on the payemn page. The customer has the possibility to request a higher sales volume. This request will be individually assessed and discussed by DFX.
+DFX notes that there is a maximum daily sales volume per customer. The customer can apply for a higher sales volume. This request will be evaluated and discussed individually by DFX.
 
-Chargebacks of sales to customers of DFX AG are made exclusively in the cryptocurrency that has been transferred to DFX for sale. The amount of the chargeback corresponds exactly to the amount transferred to DFX for sale.
+Refunds of sales to DFX customers are made exclusively in the originally transferred cryptocurrency. The refunded amount corresponds exactly to the value that was transferred to DFX.
 
-## Fees
-Our fee structure applies to payments in the SEPA payment system [as well as crypto-to-crypto transactions]. DFX reserves the right to charge additional fees in case of transfers with other payment systems. The transaction volume is indicated in the tables below in EUR. [In case of a crypto-to-crypto transaction, the volume would be converted accordingly with the exchange rate in EUR (www.kraken.com) in order to be able to determine the amount of the fees].
+## Referral-Programm
+Our referral program rewards customers with 0.25% of the transaction volume generated through the referral link from a new customer, as well as 0.1% on Payment-Link transactions.
 
-DFX charges 0.99% fees for purchases of bitcoin and 1.49% for all others*. For sales, the above fees plus 0.5% apply, so for bitcoin 1.49% and all others* 1.99%. Corporate clients will be charged an additional flat 0.5% on top of the applicable fee structure.
+Participation in the referral program is only allowed for DFX customers. The referral program may be suspended or modified at any time without notice. Further details can be viewed at https://app.dfx.swiss/account. This link only works if the user has already signed up with their customer account.
 
-Fee overview as of 01.12.2022
+## Debt Collection Business
 
-### DFX Fees Private Investors
+## Scope and Terms of the Debt Collection Business
+DFX’s debt collection business includes:
+* Payment Link
 
-|         | Bitcoin          | Others           |
-| ------- | ---------------- | ---------------- |
-| Purchase| 0,99 %           | 1,49 %           |
-| Sale    | 1,49 %           | 2,49 %           |
+The following terms apply:
+* Contracting parties wishing to assign claims to DFX for debt collection must do so through a separate agreement with DFX. Unless otherwise stipulated in the contract, fees of 0.1% of the revenue apply.  
+* Users who choose to settle an outstanding claim via the DFX debt collection service may do so according to the following conditions:
+  * Each claim has a defined validity period, given in UTC. Payment must be made within this period.  
+  * Technical manipulations to deceive DFX regarding payment are not permitted and will be reported to the authorities. Specifically, "double spending" is prohibited and will be prosecuted as fraud.
 
-### DFX Fees Corporate Clients
+DFX offers payment through the following standards:
+* FrankencoinPay and OpenCryptoPay  
+  * Payments via Lightning BOLT11
+    * The user bears the routing fee.
+    * A received contribution of 1 BTC equals 1 BTC.
+  * Payments on an EVM-based blockchain
+    * The user bears the blockchain fee.
+    * A received contribution of 1 ZCHF equals 1 ZCHF.
+  * Payments on a UTXO-based blockchain
+    * The user bears the blockchain fee.
+    * A received contribution of 1 BTC does not equal 1 BTC.
+      * The costs for receiving a UTXO are additionally charged to the sender since DFX can only spend the received UTXO if the corresponding blockchain transaction fee is paid.
+      * Therefore, DFX considers the technically received amount minus the current blockchain transaction fee as the effectively received amount.
 
-|         | Bitcoin          | Others           |
-| ------- | ---------------- | ---------------- |
-| Purchase| 1,49 %           | 1,99 %           |
-| Sale    | 1,99 %           | 2,49 %           |
+* Payments via Lightning BOLT11
+    * Same as above
 
-## Minimum fees
+* PayToBlockchainAddress  
+  * Payments on an EVM-based blockchain
+    * Same as above
+  * Payments on a UTXO-based blockchain
+    * Same as above
 
-|           | Minimum fees  |
-| --------- | -------------- |
-| Bitcoin   | 5 EUR          |
-| Lightning | 0 EUR          |
-| Ethereum  | 5 EUR          |    
-| Arbitrum  | 1 EUR          |
-| Optimism  | 1 EUR          |
-| Polygon   | 1 EUR          |
-
-## Additional blockchain fee
-In addition to the DFX fees, there may be a blockchain fee. This fee is incurred in order to be able to pay for the blockchain transaction. The fee changes continuously and is displayed to the user on the graphical user interface when the purchase is concluded. 
-
-## Additional operator fee
-In addition to the DFX fees, there may be an operator fee. This fee applies if the financial services have been integrated into another environment and the integrator charges a separate fee. For example, an integration into another blockchain non-custodial wallet. The fee is displayed in the graphical interface when the purchase is completed. 
-
-## Referral System
-Our referral program pays customers 0.25% on the purchase/investment volume purchased by a new customer through the customer's referral link.
-
-## Risks
-DFX points out that the cryptocurrencies offered are on various blockchains, such as the Bitcoin Blockchain, Ethereum Blockchain, and Binance Smart Chain. Decentralized Finance is a novel construct where it is not yet fully clear what the legal and regulatory implications will be for users and businesses in this business space.
-
-DFX always complies with the current Swiss law and is in constant exchange with the authorities to implement this. DFX reserves the right to suspend trading of individual cryptocurrencies at any time or to add additional cryptocurrencies or products to its offering. Customers of the DFX Brokerage Service are not entitled to trade cryptocurrencies if they have previously been suspended from trading. This also applies if these cryptocurrencies have previously been purchased via the DFX Brokerage Service.
-
-Furthermore, cryptocurrencies that originate from the Decentralized Finance construct, e.g. by trading on a Decentralized Exchange (DEX) or by an exchange through an Atomic Swap, may be declared as Coins with increased risk and may be treated differently in the future than Coins that have not been in such DeFi protocols. DFX has no control over how the DeFi market will be regulated in the future and what consequences may arise from the use of DeFi protocols for users in the future. DFX cannot guarantee to continue operating the Service at all times, nor can DFX guarantee to take back sold Coins if the regulatory environment changes.
-
-## Partial invalidity and choice of law
-If any clause of the Terms and Conditions is void, waived or otherwise invalid, the validity of the remaining Terms and Conditions shall not be affected or impaired thereby.
-
-## Applicable law and place of jurisdiction
-The General Terms and Conditions shall be governed by and construed in accordance with Swiss law, excluding the conflict of laws provisions of Switzerland or the Customer's actual country or state of (residence) domicile. Any disputes arising out of or relating to the General Terms and Conditions, Customer's relationship with DFX, including non-contractual obligations, shall be subject to the exclusive jurisdiction of the courts of Zug, Switzerland.
+The fees for debt collection transactions are as follows:
+* DFX generally does not charge fees for settling debt collection claims.
+* DFX defines a blockchain address to which the claimed amount can be transferred. For payments via Lightning, a BOLT11 invoice is created. The costs for blockchain fees or Lightning routing fees must be borne by the user and are not part of DFX’s debt collection service. These fees are variable.
+* If the user decides to pay in a foreign currency, DFX will charge a currency conversion fee of 1% when FrankencoinPay, Lightning BOLT11, or OpenCryptoPay.io is used.  
+For all other payment options, such as "PayToBlockchainAddress," a currency conversion fee of 2% will be charged. The higher fee is required because these payment methods offer a longer validity period.
