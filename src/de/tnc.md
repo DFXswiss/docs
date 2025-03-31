@@ -73,7 +73,13 @@ Die Payment-Optionen umfassen:
 * Kreditkarte
 * Krypto-Einzahlung
 
-Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, Asset, Blockchain und Nutzungsumgebung. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen.
+## Gebühren
+
+Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, Asset, Blockchain und Nutzungsumgebung. Die geltenden Gebühren werden transparent bei der jeweiligen Transaktion ausgewiesen. Wenn keine Gebühren ausgewiesen wurden, oder auch keine Gebühren andersweitig vereinbart wurden, gelten die folgenden Standard Gebühren:
+Handel von Crypto Assets ohne besonderer Betreuung als Privatperson per Banktransaktion: 1.49% Kauf, 1.99% Verkauf
+Handel von Crypto Assets ohne besonderer Betreuung als jursitische Person per Banktransaktion: 1.99% Kauf, 2.49% Verkauf
+Handel von Crypto Assets mit besonderer Betreuung als Privatperson oder als juristische Person per Banktransaktion: 5% Pauschal
+Bei Nutzung einer Kreditkarte werden die Kreditkartengebühren von 3% zusätzlich angerechnet.  
 
 ## Lokale Beschränkungen
 Die auf dieser Website angebotenen Produkte und Dienstleistungen sind ausschliesslich in der Schweiz zum Verkauf zugelassen. Personen, die aus dem Ausland auf die Website zugreifen, tun dies auf eigene Verantwortung. DFX lehnt jegliche Verantwortung im Zusammenhang mit der Nutzung der Website ausserhalb der Schweiz ab. Insbesondere wird darauf aufmerksam gemacht, dass jeder ausländische Nutzer selbst verpflichtet ist, abzuklären, ob er die von DFX angebotenen Dienstleistungen und Produkte gestützt auf die geltenden Gesetzgebungen an seinem Wohnsitz respektive Sitz, oder gestützt auf die Gesetzgebungen seines Heimatstaats nutzen darf.
