@@ -81,7 +81,13 @@ Handel von Crypto Assets ohne besonderer Betreuung als jursitische Person per Ba
 Handel von Crypto Assets mit besonderer Betreuung als Privatperson oder als juristische Person per Banktransaktion: 5% Pauschal
 Bei Nutzung einer Kreditkarte werden die Kreditkartengebühren von 3% zusätzlich angerechnet.  
 
+## Abwicklung von Rückerstattungen
+
+Bei Problemen mit einer Transaktion ist der Kunde angewiesen, den Support von DFX über [Support](app.dfx.swiss/support) zu kontaktieren. Rückerstattungsanfragen für Banktransaktionen müssen über [Support](app.dfx.swiss/support) gestellt werden. 
+Sollte der Kunde eine Rückerstattungsanfrage über die Bank stellen, entstehen zusätzliche Kosten. Die Standardgebühr für eine Rückerstattung via Bank beträgt CHF 500.–, zuzüglich einer Bearbeitungsgebühr von DFX. Diese Gebühr werden dem Kunden in voller Höhe weiterverrechnet. 
+
 ## Lokale Beschränkungen
+
 Die auf dieser Website angebotenen Produkte und Dienstleistungen sind ausschliesslich in der Schweiz zum Verkauf zugelassen. Personen, die aus dem Ausland auf die Website zugreifen, tun dies auf eigene Verantwortung. DFX lehnt jegliche Verantwortung im Zusammenhang mit der Nutzung der Website ausserhalb der Schweiz ab. Insbesondere wird darauf aufmerksam gemacht, dass jeder ausländische Nutzer selbst verpflichtet ist, abzuklären, ob er die von DFX angebotenen Dienstleistungen und Produkte gestützt auf die geltenden Gesetzgebungen an seinem Wohnsitz respektive Sitz, oder gestützt auf die Gesetzgebungen seines Heimatstaats nutzen darf.
 
 ## Verwahrung von Vermögenswerten
