@@ -84,7 +84,9 @@ Bei Nutzung einer Kreditkarte werden die Kreditkartengebühren von 3% zusätzlic
 ## Abwicklung von Rückerstattungen
 
 Bei Problemen mit einer Transaktion ist der Kunde angewiesen, den Support von DFX über [Support](app.dfx.swiss/support) zu kontaktieren. Rückerstattungsanfragen für Banktransaktionen müssen über [Support](app.dfx.swiss/support) gestellt werden. 
-Sollte der Kunde eine Rückerstattungsanfrage über die Bank stellen, entstehen zusätzliche Kosten. Die Standardgebühr für eine Rückerstattung via Bank beträgt CHF 500.–, zuzüglich einer Bearbeitungsgebühr von DFX. Diese Gebühr werden dem Kunden in voller Höhe weiterverrechnet. 
+Sollte der Kunde stattdessen eine Rückerstattungsanfrage direkt über die Bank einreichen, entstehen zusätzliche Kosten. Die Standardgebühr der Bank für eine Rückerstattung beträgt CHF 500.–. Zusätzlich erhebt DFX eine Bearbeitungsgebühr von 0.15 % des Transaktionsbetrags. Diese Gebühren werden dem Kunden vollständig weiterverrechnet.
+
+ Diese Gebühren können nicht storniert oder auf Dritte übertragen werden. Der Kunde ist verpflichtet, die anfallenden Kosten in voller Höhe zu tragen.
 
 ## Lokale Beschränkungen
 
