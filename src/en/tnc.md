@@ -81,6 +81,18 @@ Fees vary depending on the type of service, customer account type, asset, blockc
 - Trading Crypto Assets with special assistance as an individual or legal entity via bank transfer: 5% Flat Fee
 - When using a credit card, an additional 3% credit card fee will apply.
 
+### Handling of refunds
+
+In the event of problems with a transaction, the customer is instructed to contact DFX support via [Support](app.dfx.swiss/support) Refund requests for bank transactions must be submitted via [Support](app.dfx.swiss/support).
+If the customer instead submits a refund request directly through the bank, additional costs will be incurred. The bank’s standard fee for a refund is CHF 500.– plus 0.10% of the transaction amount. In addition, DFX charges a processing fee depending on the effort involved. All fees will be fully passed on to the customer.
+
+These fees cannot be cancelled or transferred to third parties. The customer is obliged to bear all resulting costs in full.
+
+Important:
+In the event of any problems with payments by bank or credit card, our support team must always be contacted first via Support.
+Please refrain from contacting the bank directly, as this will result in significant, avoidable fees
+that must be borne entirely by the customer.
+
 ### Local Restrictions
 The products and services offered on this website are only approved for sale in Switzerland. Individuals accessing the website from abroad do so at their own risk. DFX disclaims any responsibility related to the use of the website outside of Switzerland. Specifically, it is the responsibility of each foreign user to determine whether they may use the products and services offered by DFX based on the applicable laws of their country of residence or domicile.
 
