@@ -8,4 +8,4 @@ Suisse
 Registre du commerce: CHE-429.856.521  
 Tribunal d'enregistrement: Zug
   
-Le contact électronique avec DFX est possible sur https://services.dfx.swiss/support.
+Le contact électronique avec DFX est possible sur https://app.dfx.swiss/support.
