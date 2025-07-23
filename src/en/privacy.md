@@ -19,9 +19,8 @@ The responsible body on the basis of the Federal Act on Data Protection (DSG) is
 Address: DFX AG, Bahnhofstrasse 7, 6300 Zug, Switzerland   
 Commercial register: CHE-429.856.521  
 Register court: Zug, Switzerland    
-Telephone: +41 41 511 46 35   
 Website: https://dfx.swiss   
-Electronic contact: https://services.dfx.swiss/support  
+Electronic contact: https://app.dfx.swiss/support  
 
 ## 2 General information on data protection
 
