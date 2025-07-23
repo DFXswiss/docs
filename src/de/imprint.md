@@ -8,4 +8,4 @@ Schweiz
 Handelsregister: CHE-429.856.521  
 Registergericht: Zug
   
-Die elektronische Kontaktaufnahme zu DFX ist unter https://services.dfx.swiss/support möglich. 
+Die elektronische Kontaktaufnahme zu DFX ist unter https://app.dfx.swiss/support möglich. 
