@@ -60,8 +60,7 @@ Bahnhofstrasse 7
 6300 Zug  
 Svizzera
 
-Telefono: +41 41 511 46 35  
-E-mail: support@DFX.swiss
+Contatto elettronico: https://app.dfx.swiss/support
 
 ### Periodo di conservazione
 
