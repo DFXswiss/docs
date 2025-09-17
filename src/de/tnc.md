@@ -79,7 +79,9 @@ Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, 
 Handel von Crypto Assets ohne besonderer Betreuung als Privatperson per Banktransaktion: 1.49% Kauf, 1.99% Verkauf
 Handel von Crypto Assets ohne besonderer Betreuung als jursitische Person per Banktransaktion: 1.99% Kauf, 2.49% Verkauf
 Handel von Crypto Assets mit besonderer Betreuung als Privatperson oder als juristische Person per Banktransaktion: 5% Pauschal
-Bei Nutzung einer Kreditkarte werden die Kreditkartengebühren von 3% zusätzlich angerechnet.  
+Bei Nutzung einer Kreditkarte werden die Kreditkartengebühren von 3% zusätzlich angerechnet.
+
+Bei Transaktionen, welche möglicherweise eine unklare Herkunft der Vermögenswerte aufweisen, sind zusätzliche Abklärungen notwendig und es wird eine zusätzliche Gebühr von 1% erhoben.  
 
 ## Abwicklung von Rückerstattungen
 

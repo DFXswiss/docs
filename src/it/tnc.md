@@ -191,6 +191,8 @@ Panoramica delle commissioni al 01.12.2022
 | Acquisto| 1,49 %           | 1,99 %           |
 | Vendita | 1,99 %           | 2,49 %           |
 
+Per le transazioni con origine potenzialmente non chiara degli asset, sono necessari ulteriori chiarimenti e viene addebitata una commissione aggiuntiva dell'1%.
+
 ## Tariffe minime
 
 
