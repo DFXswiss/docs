@@ -81,6 +81,8 @@ Fees vary depending on the type of service, customer account type, asset, blockc
 - Trading Crypto Assets with special assistance as an individual or legal entity via bank transfer: 5% Flat Fee
 - When using a credit card, an additional 3% credit card fee will apply.
 
+For transactions with potentially unclear origin of assets, additional clarifications are required and an additional fee of 1% will be charged.
+
 ### Handling of refunds
 
 In the event of problems with a transaction, the customer is instructed to contact DFX support via [Support](app.dfx.swiss/support) Refund requests for bank transactions must be submitted via [Support](app.dfx.swiss/support).
