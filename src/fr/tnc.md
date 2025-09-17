@@ -191,6 +191,8 @@ Aperçu des frais à partir du 01.12.2022
 | Achat   | 1,49 %           | 1,99 %           |
 | Vente   | 1,99 %           | 2,49 %           |
 
+Pour les transactions dont l'origine des actifs est potentiellement peu claire, des clarifications supplémentaires sont nécessaires et des frais supplémentaires de 1% sont facturés.
+
 
 ## Redevances minimales
 
