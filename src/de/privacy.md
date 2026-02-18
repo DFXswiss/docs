@@ -69,7 +69,7 @@ Die Verarbeitung Ihrer personenbezogenen Daten erfolgt insbesondere zu folgenden
 
 * Vertragserfüllung und Bereitstellung unserer Dienstleistungen: Wir verwenden Ihre Daten, um Verträge zu erfüllen, Dienstleistungen bereitzustellen und unsere Geschäftsbeziehung mit Ihnen zu verwalten.
 * Kundenkommunikation: Dies umfasst die Beantwortung von Anfragen, Support und die Übermittlung wichtiger Informationen zu unseren Dienstleistungen.
-* Marketing und personalisierte Angebote: Sofern Sie eingewilligt haben, nutzen wir Ihre Daten, um Ihnen Informationen zu Produkten, Dienstleistungen oder Angeboten zukommen zu lassen, die für Sie interessant sein könnten.
+* Servicekommunikation: Sofern Sie eingewilligt haben, nutzen wir Ihre Daten, um Ihnen relevante Informationen zu unseren Dienstleistungen zukommen zu lassen.
 * IT-Sicherheit und Betrugsprävention: Zum Schutz unserer IT-Systeme und zur Erkennung und Verhinderung von unbefugtem Zugriff, Cyberangriffen oder anderen betrügerischen Aktivitäten.
 * Einhaltung gesetzlicher und regulatorischer Verpflichtungen: Dies umfasst beispielsweise die Einhaltung steuerlicher oder handelsrechtlicher Pflichten sowie die Anforderungen aus dem Datenschutzgesetz.
 
@@ -111,7 +111,7 @@ DFX verwendet Profilingverfahren zur Bereitstellung von Finanzdienstleistungen, 
 
 * Bonitätsprüfungen
 * Risikoanalysen
-* Erstellung personalisierter Angebote
+* Bereitstellung relevanter Serviceinformationen
 
 DFX führt keine rein automatisierten Entscheidungsprozesse durch, die rechtsverbindlich sind oder erhebliche Auswirkungen auf betroffene Personen haben. Sollten automatisierte Entscheidungsfindungen oder Profilingverfahren in der Zukunft zum Einsatz kommen, wird DFX sicherstellen, dass diese Verfahren den gesetzlichen Anforderungen des Schweizerischen Datenschutzgesetzes (DSG) entsprechen und betroffene Personen angemessen über den Prozess informiert werden.
 
@@ -126,7 +126,7 @@ Betroffene Personen haben das Recht, Widerspruch gegen Profiling einzulegen, sow
 
 Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstrasse 68, 02742 Friedersdorf (im Folgenden: All-Inkl). 
 
-All-Inkl verarbeitet personenbezogene Daten gemäß der Datenschutz-Grundverordnung (DSGVO) und hat geeignete technische und organisatorische Maßnahmen implementiert, um den Schutz dieser Daten zu gewährleisten. Einzelheiten zu deren Umgang mit personenbezogenen Daten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+All-Inkl hat geeignete technische und organisatorische Massnahmen implementiert, um den Schutz personenbezogener Daten zu gewährleisten. Einzelheiten zu deren Umgang mit personenbezogenen Daten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
 
 
 ## 5. Allgemeine Hinweise und Pflicht­informationen
@@ -327,7 +327,7 @@ Wird kein Arbeitsvertrag abgeschlossen, werden die Bewerbungsunterlagen 12 Monat
 
 ## 11. Anwendbares Recht und Gerichtsstand
 
-Für die Website von DFX mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht, insbesondere die EU-Datenschutz-Grundverordnung (DSGVO), auf die betroffene natürliche Person anwendbar ist.
+Für die Website von DFX mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht auf die betroffene natürliche Person anwendbar ist.
 
 Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von DFX, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von DFX (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
 
