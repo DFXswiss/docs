@@ -17,8 +17,11 @@ Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den 
 ## Inwiefern hat DFX Zugriff auf mein Geld?
 DFX hat nur während des Kaufs beziehungsweise Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine Non-Custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
 
-## Welche Länder werden durch DFX bedient?
+## Aus welchen Ländern sind SEPA-Überweisungen an DFX möglich?
+DFX ist ein Schweizer Unternehmen und bietet seine Dienstleistungen ausschliesslich aus der Schweiz an. SEPA-Überweisungen an DFX sind technisch aus folgenden Ländern möglich:
 Belgien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschliesslich Überseegebiete, DOM, keine TOM), Färöer, Griechenland, Grönland, Guernsey Insel, Irland, Island, Israel, Italien, Jersey, Kroatien, Lettland, Liechtenstein, Litauen, Luxemburg, Niederlande (einschliesslich Überseegebiete), Norwegen, Österreich, Polen, Portugal, Rumänien, San Marino, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Vereinigte Arabische Emirate, Vereinigtes Königreich, Zypern
+
+Die technische Erreichbarkeit bedeutet nicht, dass DFX in diesen Ländern aktiv Dienstleistungen anbietet. Es liegt in der Verantwortung des Nutzers sicherzustellen, dass die Nutzung der DFX-Dienstleistungen gemäss den an seinem Wohnsitz geltenden Gesetzen zulässig ist.
 
 ## Erhalte ich eine Übersicht aller Transaktionen, inklusive Fees, die ich während des Jahres bei DFX getätigt habe?
 Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch für das Finanzamt verwenden. Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://dfx.swiss/help) wenden.
@@ -123,8 +126,8 @@ Im Bezahlprozess auf unserer [Seite](https://services.dfx.swiss/) gibt es das Ei
 ## Gibt es ein Limit für die Anzahl der Empfehlungen, für die ich einen Bonus erhalten kann?
 Nein. Wir möchten, dass du so viele Freunde und Bekannte wie möglich von unserem Service überzeugst. Beide Seiten profitieren daher vom Referral-Programm.
 
-## Gibt es Banken die das Einzahlen an DFX blockieren?
-Nach umserem aktuellen Wissensstand blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
+## Gibt es Banken die Überweisungen an DFX blockieren?
+Einige Banken blockieren gelegentlich SEPA-Überweisungen an Krypto-Dienstleister. Falls eine Überweisung abgelehnt wird, empfehlen wir, direkt mit der eigenen Bank Kontakt aufzunehmen, um die Zahlung freizugeben. Alternativ kann eine andere Bank oder ein Zahlungsdienstleister für die Überweisung genutzt werden.
 
 ## DFX Metamask Exchange
 
@@ -190,8 +193,6 @@ Investiere entweder einmalig oder per Dauerauftrag (DCA) direkt in deine Hardwar
 Mehr dazu auf YouTube in diesem Tutorial-Video: [Crypto recovery](https://www.youtube.com/watch?v=pUQnjZZho38)
 
 Hier findest du weitere Informationen zu DFX im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
-
-Krypto-Influencer (sowie alle anderen Webseiten-Eigner) können jetzt diese Toolbox auf der eigenen Webseite einbauen und Referral Code-Belohnungen damit generieren. 
 
 ## Wie kann ich das IFRAME-Widget von DFX in meine eigene Website integrieren?
 Das ist ganz einfach, Du brauchst nur den folgenden Code:

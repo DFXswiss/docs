@@ -13,8 +13,11 @@ Yes. The regulation can be found here. As a company regulated in Switzerland, DF
 ## How does DFX have access to my money?
 DFX has access to the customer's money only during the buying/selling process. Once the money is paid out to the wallet, only the customer has access as it is a non-custodial wallet. DFX does not manage the customer's funds in any way.
 
-## Which countries are served by DFX?
+## From which countries can SEPA transfers be sent to DFX?
+DFX is a Swiss company and offers its services exclusively from Switzerland. SEPA transfers to DFX are technically possible from the following countries:
 Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France (incl. Overseas Territories, DOM, no TOM), Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Netherlands (incl. Overseas Territories), Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Liechtenstein, Norway, Feroe Islands, Greenland, Switzerland, Guernsey Island, Jersey Island, Monaco, San Marino, United Kingdom, Israel.
+
+Technical reachability does not mean that DFX actively offers services in these countries. It is the user's responsibility to ensure that the use of DFX services is permitted under the laws applicable at their place of residence.
 
 ## What happens if I exceed my individual trading limit?
 Once you exceed the above limit, a KYC ("Know-Your-Customer") process is required. After the first successful transaction, there is an option in the app to complete the personal verification (KYC). If the KYC is not completed after exceeding the limit, DFX will automatically return the transaction after 7 days.
