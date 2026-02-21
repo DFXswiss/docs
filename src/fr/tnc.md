@@ -142,9 +142,9 @@ Pour les transactions blockchain de DFX vers des portefeuilles non auto-héberg�
 ## Inscription des utilisateurs
 Avant de pouvoir utiliser les services financiers de DFX, le client doit s'inscrire. L'inscription est gratuite pour les particuliers et donne lieu, après acceptation des présentes conditions générales, à la création d'un profil d'utilisateur. Lorsqu'un client s'inscrit, les informations et documents que le client doit soumettre à DFX et le montant maximum pour lequel le client peut acheter ou vendre des crypto-monnaies dépendent de son niveau d'identification :
 
-L'inscription s'effectue généralement via l'adresse blockchain, en fournissant l'email ou le numéro de téléphone du client. Cet enregistrement est considéré comme standard – light KYC (Know-Your-Customer) – et permet au client d’acheter/vendre des crypto-monnaies jusqu’à une limite quotidienne définie. 
+L'inscription s'effectue généralement via l'adresse blockchain, en fournissant l'email ou le numéro de téléphone du client. Cet enregistrement est considéré comme standard – light KYC (Know-Your-Customer) – et permet au client d’acheter/vendre des crypto-monnaies jusqu’à une limite mensuelle définie (période glissante de 30 jours).
 
-Pour l'achat/vente de cryptomonnaies d'un montant supérieur àÉtant donné la limite quotidienne, un enregistrement plus détaillé est requis, ce qui est considéré comme un processus KYC (Know-Your-Customer) étendu et complet. Dans le cadre de ce processus, les informations suivantes doivent notamment être divulguées à DFX :
+Pour l'achat/vente de cryptomonnaies au-delà de cette limite mensuelle, un enregistrement plus détaillé est requis, ce qui est considéré comme un processus KYC (Know-Your-Customer) étendu et complet. Dans le cadre de ce processus, les informations suivantes doivent notamment être divulguées à DFX :
 
 * Adresse dont la preuve est apportée par l'envoi d'un courrier à l'adresse indiquée
 * Copie de la pièce d'identité (carte d'identité ou passeport), qui doit comporter une signature, un code MRZ lisible et une photo
@@ -213,7 +213,7 @@ Les itinéraires de vente peuvent être annulés tant que la cryptomonnaie à co
 
 Les frais de transaction des cryptomonnaies ou des devises étrangères transmis au client sont inclus dans le prix de base. Les prix sont indiqués dans la cryptomonnaie autorisée pour la transaction et incluent la TVA suisse, le cas échéant. Une fois le transfert de la cryptomonnaie ou de la devise étrangère souhaitée vers le portefeuille/compte du client effectué, la vente est considérée comme terminée. Le client reçoit un e-mail de confirmation de la finalisation de la transaction avec un aperçu de la transaction.
 
-DFX souligne qu'il existe un volume de ventes maximum par jour et par client. Le client a la possibilité de demander un volume de ventes plus élevé. Cette demande sera évaluée et discutée individuellement par DFX. 
+DFX souligne qu'il existe un volume de ventes maximum par mois (période glissante de 30 jours) et par client. Le client a la possibilité de demander un volume de ventes plus élevé. Cette demande sera évaluée et discutée individuellement par DFX. 
 
 Les remboursements des ventes aux clients DFX sont effectués exclusivement dans la crypto-monnaie initialement transférée. Le montant remboursé correspond exactement à la valeur qui a été transférée à DFX pour la vente.
 
@@ -237,7 +237,7 @@ Les dispositions suivantes s'appliquent :
   * Les manipulations techniques visant à tromper DFX sur le paiement ne sont pas autorisées et seront signalées. En particulier, les « doubles dépenses » ne sont pas autorisées et seront poursuivies comme fraude.
 
 DFX propose le paiement selon les normes suivantes :
-* FrankencoinPay et OpenCryptoPay
+* OpenCryptoPay
   * Paiements via Lightning BOLT11
     * L'utilisateur supporte les frais de routage.
     * Une contribution reçue de, par exemple, 1 BTC correspond à 1 BTC.

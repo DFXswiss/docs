@@ -120,7 +120,7 @@ DFX ne met pas en œuvre de processus décisionnels purement automatisés, jurid
 Les personnes concernées ont le droit de s'opposer au profilage et de demander des informations sur la logique sous-jacente et les effets du profilage sur elles.
 
 
-## 4. Hébergement
+## 4. Hébergement et infrastructure
 
 ### Hébergement avec Cloudflare Pages
 
@@ -128,8 +128,89 @@ Nous hébergeons notre site Web avec Cloudflare Pages. Le fournisseur est Cloudf
 
 Cloudflare a mis en œuvre des mesures techniques et organisationnelles appropriées pour assurer la protection des données personnelles. Des détails sur leur traitement des données personnelles peuvent être trouvés dans la [politique de confidentialité de Cloudflare](https://www.cloudflare.com/privacypolicy/). Le traitement pour notre compte est régi par le [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
+### API et plateforme applicative avec Microsoft Azure
 
-## 5. Notes générales et informations obligatoires
+L'infrastructure centrale de DFX — notamment l'API (api.dfx.swiss), la plateforme applicative (app.dfx.swiss) et la base de données — est exploitée sur Microsoft Azure (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA). Toutes les données personnelles traitées dans le cadre de l'utilisation de nos services financiers (y compris les données clients, les données de transactions, les données KYC et les documents d'identité) sont stockées et traitées sur l'infrastructure Azure.
+
+DFX utilise Azure App Services, Azure Storage, Azure CDN ainsi qu'une base de données Microsoft SQL Server. Le traitement des données s'effectue dans des centres de données Azure européens. Microsoft a mis en place des mesures techniques et organisationnelles appropriées pour garantir la protection des données personnelles. Le transfert de données vers les USA (le cas échéant) s'effectue sur la base du Swiss-US Data Privacy Framework et des clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD.
+
+Pour plus d'informations, veuillez consulter la [politique de confidentialité de Microsoft](https://privacy.microsoft.com/fr-fr/privacystatement) et les [conditions des services en ligne Microsoft](https://www.microsoft.com/licensing/terms).
+
+
+## 5. Sous-traitants et prestataires tiers
+
+DFX fait appel à différents sous-traitants externes pour fournir ses services. Ceux-ci traitent les données personnelles exclusivement sur mandat et selon les instructions de DFX. DFX s'assure par des accords contractuels que tous les sous-traitants garantissent un niveau adéquat de protection des données.
+
+### Vérification d'identité (KYC) avec Sumsub
+
+Pour la vérification d'identité légalement requise (Know Your Customer, KYC), DFX fait appel au prestataire Sumsub (Sum and Substance Ltd., Angleterre et Pays de Galles, Company No. 09688671) en tant que sous-traitant.
+
+#### Données traitées
+
+Dans le cadre de la vérification d'identité, les données personnelles suivantes sont transmises à Sumsub et traitées par celui-ci :
+
+* Données personnelles : prénom, nom, date de naissance, nationalité
+* Adresse : rue, numéro, code postal, ville, pays
+* Documents d'identité : passeport, carte d'identité ou autres documents officiels (copies/photos)
+* Données biométriques : images faciales (selfies), reconnaissance faciale et détection de vivacité pour la vérification d'identité
+* Enregistrements vidéo : dans le cadre de l'identification vidéo (si nécessaire)
+
+#### Données particulièrement sensibles (art. 5 let. c LPD)
+
+Les données biométriques traitées dans le cadre de la vérification d'identité (géométrie faciale, détection de vivacité) sont considérées comme des données personnelles particulièrement sensibles au sens de l'art. 5 let. c LPD. Le traitement de ces données s'effectue exclusivement sur la base de votre consentement exprès conformément à l'art. 6 al. 7 LPD, que vous donnez séparément avant le début du processus d'identification. Vous pouvez révoquer ce consentement à tout moment pour l'avenir ; toutefois, une révocation aura pour conséquence que la vérification d'identité ne pourra pas être achevée et que certains services de DFX ne pourront pas être utilisés.
+
+#### Transfert de données à l'étranger
+
+Sumsub a son siège en Angleterre et au Pays de Galles (Royaume-Uni). Le Royaume-Uni dispose d'une décision d'adéquation du Conseil fédéral suisse conformément à l'art. 16 al. 1 LPD, garantissant un niveau adéquat de protection des données sans nécessiter de garanties supplémentaires.
+
+#### Durée de conservation
+
+Les documents et données biométriques collectés dans le cadre de la vérification d'identité sont conservés par DFX pendant la durée légale de conservation de 10 ans après la fin de la relation d'affaires (art. 7 LBA). Les données biométriques brutes chez Sumsub sont supprimées conformément aux accords contractuels après la conclusion de la vérification.
+
+Pour plus d'informations sur la protection des données chez Sumsub, veuillez consulter la [politique de confidentialité de Sumsub](https://sumsub.com/privacy-notice-service/).
+
+### Prévention de la fraude avec Sift
+
+DFX fait appel au prestataire Sift Science, Inc. (123 Mission Street, Suite 2000, San Francisco, CA 94105, USA) en tant que sous-traitant pour la prévention de la fraude et la lutte contre le blanchiment d'argent.
+
+#### Données traitées
+
+Les données suivantes sont transmises à Sift dans le cadre de la prévention de la fraude :
+
+* Informations de compte : identifiant utilisateur, date de création, niveau KYC
+* Données de transactions : montant, devise, moyen de paiement (4 derniers chiffres de la carte de crédit ou 6 premiers et 4 derniers chiffres de l'IBAN), adresse blockchain
+* Données techniques : adresse IP, informations sur l'appareil, type de navigateur
+* Données de connexion : horodatage et type de connexion
+
+#### Transfert de données à l'étranger
+
+Sift a son siège aux USA. Le transfert de données s'effectue sur la base du Swiss-US Data Privacy Framework, dans la mesure où Sift est certifié sous ce cadre, ou sur la base de clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD.
+
+Pour plus d'informations, veuillez consulter la [politique de confidentialité de Sift](https://sift.com/legal-and-compliance/service-privacy-notice).
+
+### Contrôle des sanctions avec Dilisense
+
+DFX fait appel au prestataire Dilisense pour la vérification des clients par rapport aux listes de sanctions, aux listes PEP (personnes politiquement exposées) et aux casiers judiciaires. Dans le cadre de ce contrôle, le nom, la date de naissance et la nationalité du client sont transmis.
+
+### Surveillance côté serveur avec Azure Application Insights
+
+DFX utilise Microsoft Azure Application Insights (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA) à des fins de surveillance opérationnelle, de détection d'erreurs et d'optimisation des performances de l'infrastructure API. Application Insights n'est pas un outil d'analyse de site web pour le suivi du comportement des utilisateurs, mais un outil de surveillance côté serveur.
+
+#### Données traitées
+
+* Données de requêtes techniques : chemins URL, codes de statut HTTP, temps de réponse
+* Journaux d'erreurs et d'exceptions : traces de pile, messages d'erreur
+* Dépendances : appels aux bases de données et services externes
+* Adresses IP : dans le cadre du traitement des requêtes
+
+Aucun contenu personnel (tel que noms, adresses ou données financières) n'est transmis à Application Insights.
+
+#### Transfert de données à l'étranger
+
+Microsoft peut traiter des données dans des centres de données en dehors de la Suisse (UE/USA). Le transfert de données s'effectue sur la base des clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD et du Swiss-US Data Privacy Framework. Pour plus d'informations, veuillez consulter la [politique de confidentialité de Microsoft](https://privacy.microsoft.com/fr-fr/privacystatement).
+
+
+## 6. Notes générales et informations obligatoires
 
 ### Période de stockage
 
@@ -176,6 +257,18 @@ Pour l'hébergement, nous utilisons Cloudflare Pages, un service fourni par Clou
 
 Base juridique du transfert de données vers les États-Unis : Cloudflare est certifié au titre du [Data Privacy Framework UE–États-Unis](https://www.dataprivacyframework.gov/) et du Data Privacy Framework Suisse–États-Unis. Nous nous appuyons en outre sur les clauses contractuelles types de la Commission européenne. Malgré ces garanties, un accès des autorités américaines (par exemple en vertu du CLOUD Act) ne peut être entièrement exclu.
 
+Dans le cadre de nos activités commerciales, des données personnelles sont transmises aux destinataires dans les pays suivants :
+
+| Destinataire | Pays | Finalité | Base juridique |
+|-------------|------|----------|----------------|
+| Microsoft Corporation (Azure) | UE / USA | Hébergement de l'API, base de données, plateforme applicative, surveillance | Swiss-US DPF / Clauses contractuelles types (art. 16 al. 2 LPD) |
+| Sumsub (Sum and Substance Ltd.) | Royaume-Uni | Vérification d'identité (KYC) | Décision d'adéquation (art. 16 al. 1 LPD) |
+| Sift Science, Inc. | USA | Prévention de la fraude | Swiss-US DPF / Clauses contractuelles types (art. 16 al. 2 LPD) |
+| Dilisense | UE | Contrôle des sanctions et PEP | Décision d'adéquation (art. 16 al. 1 LPD) |
+| Cloudflare, Inc. | USA | Hébergement du site web et de la documentation (Cloudflare Pages) | Swiss-US DPF / Clauses contractuelles types (art. 16 al. 2 LPD) |
+
+DFX ne transfère des données personnelles que vers des pays disposant d'un niveau adéquat de protection des données (conformément à l'annexe 1 de l'ordonnance sur la protection des données), ou sous réserve de garanties appropriées telles que des clauses contractuelles types (art. 16 al. 2 let. d LPD). En outre, des données clients peuvent être transmises aux banques participantes en Suisse et à l'étranger dans le cadre de transactions bancaires (voir les Conditions générales).
+
 ### Cryptage SSL ou TLS
 
 Pour des raisons de sécurité et pour protéger la transmission de contenus confidentiels, tels que les demandes que vous nous envoyez en tant qu'opérateur du site, ce site utilise le cryptage SSL ou TLS. Vous pouvez reconnaître une connexion cryptée au fait que la ligne d'adresse du navigateur passe de « http:// » à « https:// » et au symbole de cadenas dans la ligne de votre navigateur.
@@ -199,7 +292,7 @@ Les droits ci-dessus peuvent être refusés ou restreints si les intérêts, dro
 Nous nous opposons par la présente à l'utilisation des données de contact publiées dans le cadre de l'obligation d'impression pour l'envoi de matériel publicitaire et d'information non sollicité. Les exploitants des pages se réservent expressément le droit d'engager des poursuites judiciaires en cas d'envoi non sollicité d'informations publicitaires, telles que des spams.
 
 
-## 6. Violations de la protection des données
+## 7. Violations de la protection des données
 
 DFX prend très au sérieux les violations de la protection des données et a mis en œuvre des processus pour gérer de tels incidents de manière efficace et conformément aux exigences légales. Une violation de la protection des données se produit lorsque des données personnelles sont divulguées, modifiées, supprimées ou rendues accessibles de manière involontaire ou illégale sans autorisation.
 
@@ -215,8 +308,9 @@ En cas de violation de la protection des données, DFX suit une procédure struc
 
 En cas de violation de la protection des données présentant un risque pour les droits et libertés des personnes concernées, DFX est légalement tenu d'en informer certaines parties. Ces notifications visent à garantir que tant les autorités compétentes que les personnes concernées soient informées en temps utile de la violation et des mesures prises. Les notifications sont effectuées conformément aux exigences légales et comprennent les étapes suivantes :
 
-* Notification à l'autorité de contrôle dans les 72 heures suivant la prise de connaissance de l'infraction.
-* Notification des personnes concernées sans délai et dans un langage clair et compréhensible.
+* Notification de l'autorité de surveillance compétente (PFPDT) dès que possible après la prise de connaissance de la violation (art. 24 al. 1 LPD).
+* Notification des personnes concernées, si cela est nécessaire à leur protection ou si le PFPDT l'exige (art. 24 al. 4 LPD), sans délai et dans un langage clair et compréhensible.
+* Les sous-traitants de DFX (tels que Sumsub, Sift et d'autres) sont contractuellement tenus d'informer DFX immédiatement des violations de la protection des données (art. 24 al. 3 LPD).
    
 ### Mesures de protection
 
@@ -227,7 +321,7 @@ Pour prévenir les violations de la protection des données, nous utilisons des 
 Si vous constatez une éventuelle violation de la protection des données, veuillez contacter notre [Support](https://services.dfx.swiss/support).
 
 
-## 7. Collecte de données sur ce site Web
+## 8. Collecte de données sur ce site Web
 
 ### Cookies
 
@@ -240,12 +334,14 @@ Si vous nous contactez par e-mail, téléphone ou fax, votre demande, y compris 
 Les données que vous nous envoyez via les demandes de contact resteront chez nous jusqu'à ce que vous nous demandiez de les supprimer, que vous révoquiez votre consentement au stockage ou que la finalité du stockage des données ne s'applique plus (par exemple, après le traitement de votre demande). Les dispositions légales obligatoires - en particulier les délais de conservation légaux - restent inchangées.
 
 
-## 8. Outils d'analyse et publicité
+## 9. Outils d'analyse et publicité
 
 DFX n'utilise pas d'outils d'analyse de sites Web tels que Google Analytics, Adobe Analytics ou autres.
 
+Pour la surveillance opérationnelle côté serveur de l'infrastructure API, DFX utilise Microsoft Azure Application Insights (voir section 5 «Sous-traitants et prestataires tiers»). Cet outil est utilisé exclusivement pour la surveillance technique, la détection d'erreurs et l'optimisation des performances et ne collecte aucune donnée sur le comportement des utilisateurs sur le site web.
 
-## 9. Newsletter et réseaux sociaux
+
+## 10. Newsletter et réseaux sociaux
 
 ### Données de la newsletter
 
@@ -314,7 +410,7 @@ Le transfert de données vers les États-Unis est basé sur les clauses contract
 Des détails sur la manière dont ils traitent vos données personnelles peuvent être trouvés dans la [Politique de confidentialité de LinkedIn](https://www.linkedin.com/legal/privacy-policy).
 
 
-## 10. Protection des données pour les candidatures et pendant le processus de candidature
+## 11. Protection des données pour les candidatures et pendant le processus de candidature
 
 Le responsable du traitement collecte et traite les données personnelles des candidats dans le but de mener à bien la procédure de candidature. Ce traitement peut également avoir lieu par voie électronique, en particulier si les candidats envoient également les documents de candidature pertinents par courrier électronique (par exemple au format PDF ou dans d'autres types de fichiers).
 
@@ -327,20 +423,20 @@ Si le responsable du traitement conclut un contrat de travail avec un candidat, 
 Si aucun contrat de travail n'est conclu, les documents de candidature seront automatiquement supprimés 12 mois après la notification de la décision de rejet sans autre notification, à condition qu'aucun autre intérêt légitime du centre de traitement des données n'empêche la suppression. Les intérêts légitimes peuvent être, par exemple, l’obligation de fournir des preuves dans le cadre d’une procédure en vertu de la loi sur l’égalité de traitement (GlG).
 
 
-## 11. Loi applicable et juridiction
+## 12. Loi applicable et juridiction
 
 Le site Internet DFX ayant son siège social en Suisse est régi exclusivement par le droit suisse (protection des données), à moins qu'une autre loi impérative ne soit applicable à la personne physique concernée.
 
 Le tribunal du siège social de DFX (Suisse) est seul compétent pour tout litige entre vous en tant que visiteur et utilisateur du site Internet DFX résultant de l'exploitation ou de la visite des sites Internet, à moins qu'un autre for obligatoire ne soit applicable à la personne physique concernée.
 
 
-## 12. Modifications de la politique de confidentialité
+## 13. Modifications de la politique de confidentialité
 
 DFX revoit régulièrement cette politique de confidentialité pour s'assurer qu'elle est toujours à jour et se réserve le droit de la modifier si nécessaire. Il est recommandé de consulter régulièrement cette page pour connaître d'éventuelles modifications, car aucune notification individuelle de modification ne sera effectuée.
 En cas de divergences avec la version anglaise, la version allemande de cette politique de confidentialité prévaudra.
 
 
-## 13. Informations légales et clause de non-responsabilité
+## 14. Informations légales et clause de non-responsabilité
 
 DFX décline toute responsabilité quant à l'exactitude et à l'exhaustivité du contenu des informations.
 
@@ -349,19 +445,19 @@ Les réclamations en responsabilité liées à des dommages matériels ou immat�
 Toutes les offres publiées par DFX sous forme numérique ou électronique sont susceptibles d'être modifiées. DFX se réserve expressément le droit de modifier, compléter ou supprimer des parties des pages ou l'ensemble de l'offre sans préavis ou de cesser la publication temporairement ou définitivement.
 
 
-## 14. Responsabilité des liens
+## 15. Responsabilité des liens
 
 Les références et liens vers des sites Web tiers ne relèvent pas de la responsabilité de DFX. Toute responsabilité concernant les sites Web de tiers, c'est-à-dire extérieurs aux sociétés appartenant à DFX, est rejetée. L'accès et l'utilisation de ces sites Web se font aux propres risques de l'utilisateur.
 
 Toutes les offres publiées par DFX sous forme numérique ou électronique sont susceptibles d'être modifiées. DFX se réserve expressément le droit de modifier, compléter ou supprimer des parties des pages ou l'ensemble de l'offre sans préavis ou de cesser la publication temporairement ou définitivement.
 
 
-## 15. Droits d'auteur et propriété intellectuelle
+## 16. Droits d'auteur et propriété intellectuelle
 
 Le droit d'auteur et tous les autres droits sur le contenu, les images, les photos ou autres fichiers du site Web DFX appartiennent exclusivement à DFX et à ses sociétés affiliées, à leurs fournisseurs ou aux titulaires de droits spécifiquement nommés.
 
 
-## 16. Consentement à la politique de confidentialité
+## 17. Consentement à la politique de confidentialité
 
 Le client accepte dans son intégralité le contenu de la politique de confidentialité dans sa version actuelle. En cas de contradictions, la politique de confidentialité prévaut sur les Conditions Générales de DFX.
 

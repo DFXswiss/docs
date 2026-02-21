@@ -142,9 +142,9 @@ For blockchain transactions from DFX to non-self-hosted wallets, this data is au
 ## User registration
 Before DFX's financial services can be used, the customer must register. Registration is free for private individuals and, after acceptance of the current Terms and Conditions, leads to the creation of a user profile. When a customer registers, the information and documents that the customer must submit to DFX and the maximum amount for which the customer can buy or sell cryptocurrencies depend on their identification level:
 
-Registration is generally carried out via the blockchain address, providing the customer's email or telephone number. This registration is considered standard – light KYC (Know-Your-Customer) – and allows the customer to buy/sell cryptocurrencies up to a defined daily limit. 
+Registration is generally carried out via the blockchain address, providing the customer's email or telephone number. This registration is considered standard – light KYC (Know-Your-Customer) – and allows the customer to buy/sell cryptocurrencies up to a set monthly limit (rolling 30-day period).
 
-For the purchase/sale of cryptocurrencies above this daily limit, a more detailed registration is required, which is considered an extended – full KYC (Know-Your-Customer) – process. As part of this process, the following information in particular must be disclosed to DFX:
+For the purchase/sale of cryptocurrencies above this monthly limit, a more detailed registration is required, which is considered an extended – full KYC (Know-Your-Customer) – process. As part of this process, the following information in particular must be disclosed to DFX:
 
 * Address, proof of which is provided by delivery of a letter to the specified address
 * Copy of the identification document (ID card or passport), which must have a signature, a readable MRZ code and a photo
@@ -213,7 +213,7 @@ Sales routes can be cancelled as long as the cryptocurrency to be converted has 
 
 The transaction costs of the crypto or foreign currencies that are transmitted to the customer are included in the base price. The prices are stated in the cryptocurrency permitted for the transaction and include Swiss VAT, if applicable. Once the transfer of the desired cryptocurrency or the desired foreign currency to the customer's wallet/account has been made, the sale is considered complete. The customer receives an email confirmation of the transaction completion with a transaction overview.
 
-DFX points out that there is a maximum sales volume per day and per customer. The customer has the option to apply for a higher sales volume. This request will be assessed and discussed individually by DFX. 
+DFX points out that there is a maximum sales volume per month (rolling 30-day period) and per customer. The customer has the option to apply for a higher sales volume. This request will be assessed and discussed individually by DFX.
 
 Refunds of sales to DFX customers are made exclusively in the originally transferred cryptocurrency. The refunded amount corresponds exactly to the value that was transferred to DFX for sale.
 
@@ -237,7 +237,7 @@ The following provisions apply:
   * Technical manipulations to deceive DFX about payment are not permitted and will be reported. In particular, "double spending" is not permitted and will be prosecuted as fraud.
 
 DFX offers payment using the following standards:
-* FrankencoinPay and OpenCryptoPay
+* OpenCryptoPay
   * Payments via Lightning BOLT11
     * The user bears the routing fee.
     * A received contribution of, for example, 1 BTC corresponds to 1 BTC.
