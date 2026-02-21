@@ -42,13 +42,97 @@ You have the right to receive information about the origin, recipient and purpos
 
 You can contact our [Support](https://services.dfx.swiss/support) at any time with regard to this and other questions on the subject of data protection.
 
-## 3. Hosting
+## 3. Hosting and infrastructure
 
-### Hosting with All-Inkl
+### API and application platform with Microsoft Azure
 
-We host our website with All-Inkl. The provider is ALL-INKL.COM - Neue Medien Münnich, owner René Münnich, Hauptstraße 68, 02742 Friedersdorf (hereinafter: All-Inkl). Details can be found in the [privacy policy of All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+The core infrastructure of DFX — in particular the API (api.dfx.swiss), the application platform (app.dfx.swiss) and the database — is operated on Microsoft Azure (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA). All personal data processed in connection with the use of our financial services (including customer data, transaction data, KYC data and identity documents) is stored and processed on Azure infrastructure.
 
-## 4. General notes and mandatory information
+DFX uses Azure App Services, Azure Storage, Azure CDN and a Microsoft SQL Server database. Data processing takes place in European Azure data centres. Microsoft has implemented appropriate technical and organisational measures to ensure the protection of personal data. Data transfers to the USA (where applicable) are based on the Swiss-US Data Privacy Framework and standard contractual clauses pursuant to Art. 16(2)(d) FADP.
+
+For further information, please refer to the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement) and the [Microsoft Online Services Terms](https://www.microsoft.com/licensing/terms).
+
+### Information website with All-Inkl
+
+The information website (dfx.swiss) and the documentation site (docs.dfx.swiss) are hosted by All-Inkl. The provider is ALL-INKL.COM - Neue Medien Münnich, owner René Münnich, Hauptstrasse 68, 02742 Friedersdorf, Germany (hereinafter: All-Inkl). No personal customer data is processed on these sites.
+
+Details can be found in the [privacy policy of All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+
+
+## 4. Data processors and third-party providers
+
+DFX uses various external data processors to provide its services. These process personal data exclusively on behalf of and on the instructions of DFX. DFX ensures through contractual agreements that all data processors maintain an adequate level of data protection.
+
+### Identity verification (KYC) with Sumsub
+
+For the legally required identity verification (Know Your Customer, KYC), DFX uses the service provider Sumsub (Sum and Substance Ltd., England and Wales, Company No. 09688671) as a data processor.
+
+#### Data processed
+
+The following personal data is transmitted to and processed by Sumsub as part of the identity verification:
+
+* Personal details: first name, surname, date of birth, nationality
+* Address: street, house number, postcode, city, country
+* Identity documents: passport, identity card or other official identity documents (copies/photos)
+* Biometric data: facial images (selfies), facial recognition and liveness detection to verify identity
+* Video recordings: as part of video identification (if required)
+
+#### Particularly sensitive data (Art. 5(c) FADP)
+
+The biometric data processed as part of the identity verification (facial geometry, liveness detection) is classified as particularly sensitive personal data within the meaning of Art. 5(c) FADP. The processing of this data takes place exclusively on the basis of your express consent pursuant to Art. 6(7) FADP, which you provide separately before the start of the identification process. You may revoke this consent at any time with effect for the future; however, revocation will mean that the identity verification cannot be completed and certain DFX services cannot be used.
+
+#### Data transfer abroad
+
+Sumsub is based in England and Wales (United Kingdom). The United Kingdom has an adequacy decision from the Swiss Federal Council pursuant to Art. 16(1) FADP, ensuring an adequate level of data protection without the need for additional safeguards.
+
+#### Retention period
+
+Documents and biometric data collected as part of the identity verification are stored by DFX for the legally required retention period of 10 years after termination of the business relationship (Art. 7 AMLA). Raw biometric data at Sumsub is deleted in accordance with contractual agreements after the verification is completed.
+
+For further information on data protection at Sumsub, please refer to the [Sumsub Privacy Notice](https://sumsub.com/privacy-notice-service/).
+
+### Fraud prevention with Sift
+
+DFX uses the service provider Sift Science, Inc. (123 Mission Street, Suite 2000, San Francisco, CA 94105, USA) as a data processor for fraud prevention and anti-money laundering.
+
+#### Data processed
+
+The following data is transmitted to Sift as part of fraud prevention:
+
+* Account information: user ID, creation date, KYC level
+* Transaction data: amount, currency, payment method (last 4 digits of credit card or first 6 and last 4 digits of IBAN), blockchain address
+* Technical data: IP address, device information, browser type
+* Login data: time and type of login
+
+#### Data transfer abroad
+
+Sift is based in the USA. Data transfer is based on the Swiss-US Data Privacy Framework, insofar as Sift is certified under this framework, or on standard contractual clauses pursuant to Art. 16(2)(d) FADP.
+
+For further information, please refer to the [Sift Privacy Notice](https://sift.com/legal-and-compliance/service-privacy-notice).
+
+### Sanctions screening with Dilisense
+
+DFX uses the service provider Dilisense to screen customers against sanctions lists, PEP lists (politically exposed persons) and criminal records. As part of this screening, the customer's name, date of birth and nationality are transmitted.
+
+### Server-side monitoring with Azure Application Insights
+
+DFX uses Microsoft Azure Application Insights (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA) for the purpose of operational monitoring, error detection and performance optimisation of the API infrastructure. Application Insights is not a website analytics tool for tracking user behaviour, but a server-side monitoring tool.
+
+#### Data processed
+
+* Technical request data: URL paths, HTTP status codes, response times
+* Error and exception logs: stack traces, error messages
+* Dependencies: calls to databases and external services
+* IP addresses: as part of request processing
+
+No personal content (such as names, addresses or financial data) is transmitted to Application Insights.
+
+#### Data transfer abroad
+
+Microsoft may process data in data centres outside Switzerland (EU/USA). Data transfer is based on standard contractual clauses pursuant to Art. 16(2)(d) FADP and the Swiss-US Data Privacy Framework. For further information, please refer to the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement).
+
+
+## 5. General notes and mandatory information
 
 ### Storage period
 
@@ -60,7 +144,17 @@ The website only stores and processes the minimum data required to operate the w
 
 ### Note on the transfer of data abroad
 
-We use the hosting service All-Inkl, a company from Germany. When these tools are accessed, your personal data is transferred to this third country and could be processed there.
+In the course of our business activities, personal data is transferred to recipients in the following countries:
+
+| Recipient | Country | Purpose | Legal basis |
+|-----------|---------|---------|-------------|
+| Microsoft Corporation (Azure) | EU / USA | Hosting of API, database, app platform, monitoring | Swiss-US DPF / Standard contractual clauses (Art. 16(2) FADP) |
+| Sumsub (Sum and Substance Ltd.) | United Kingdom | Identity verification (KYC) | Adequacy decision (Art. 16(1) FADP) |
+| Sift Science, Inc. | USA | Fraud prevention | Swiss-US DPF / Standard contractual clauses (Art. 16(2) FADP) |
+| Dilisense | EU | Sanctions and PEP screening | Adequacy decision (Art. 16(1) FADP) |
+| All-Inkl (ALL-INKL.COM - Neue Medien Münnich) | Germany (EU) | Hosting of information website (no customer data) | Adequacy decision (Art. 16(1) FADP) |
+
+DFX only transfers personal data to countries that have an adequate level of data protection (pursuant to Annex 1 of the Data Protection Ordinance) or subject to appropriate safeguards such as standard contractual clauses (Art. 16(2)(d) FADP). In addition, customer data may be transferred to participating banks in Switzerland and abroad in the context of bank transactions (see General Terms and Conditions).
 
 ### SSL or TLS encryption
 
@@ -84,7 +178,7 @@ The above rights may be denied or restricted if the interests, rights and freedo
 
 We hereby object to the use of contact data published as part of our obligation to provide a legal notice for the purpose of sending unsolicited advertising and information material. The operators of the website expressly reserve the right to take legal action in the event of the unsolicited sending of advertising information, such as spam e-mails.
 
-## 5. Data collection on this website
+## 6. Data collection on this website
 
 ### Cookies
 
@@ -96,11 +190,13 @@ If you contact us by e-mail, telephone or fax, we will store and process your en
 
 The data you send to us via contact requests will remain with us until you ask us to delete it, revoke your consent to storage or the purpose for data storage no longer applies (for example, after your request has been processed). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
 
-## 6 Analysis tools and advertising
+## 8. Analysis tools and advertising
 
-DFX does not use website analysis tools such as Google Analytics, Adobe Analytics or others.
+DFX does not use website analytics tools for tracking user behaviour, such as Google Analytics, Adobe Analytics or comparable services. No tracking pixels, advertising cookies or similar technologies for analysing user behaviour are used.
 
-## 7. Newsletter and social media
+For server-side operational monitoring of the API infrastructure, DFX uses Microsoft Azure Application Insights (see Section 4 "Data processors and third-party providers"). This tool is used exclusively for technical monitoring, error detection and performance optimisation and does not collect any data on user behaviour on the website.
+
+## 9. Newsletter and social media
 
 ### Newsletter data
 
@@ -174,7 +270,7 @@ The data transfer to the USA is based on the standard contractual clauses of the
 
 Details on how they handle your personal data can be found in the [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
-## 8 Data protection for applications and in the application process
+## 10. Data protection for applications and in the application process
 The controller collects and processes the personal data of applicants for the purpose of carrying out the application process. This processing may also take place electronically, in particular if applicants also send relevant application documents by e-mail (for example in PDF format or other file types).
 
 If you apply for a job advertised by us, these data protection provisions apply in addition to our other data protection provisions, which have been communicated to you separately or are available on our website.
@@ -185,29 +281,29 @@ If the person responsible for processing concludes an employment contract with a
 
 If no employment contract is concluded, the application documents will be deleted automatically and without further notification 12 months after notification of the rejection decision, provided that no other legitimate interests of the data processing centre prevent deletion. Legitimate interests can be, for example, obligations to provide evidence in proceedings under the Swiss Equal Treatment Act (GlG).
 
-## 9 Applicable law and place of jurisdiction
+## 11. Applicable law and place of jurisdiction
 The DFX website with its registered office in Switzerland is governed exclusively by Swiss (data protection) law, unless other mandatory law, in particular the EU General Data Protection Regulation (GDPR), is applicable to the natural person concerned.
 
 The court at the registered office of DFX (Switzerland) shall have exclusive jurisdiction for any disputes between you as a visitor and user of the DFX website arising from the operation of or visit to the websites, unless another mandatory place of jurisdiction is applicable to the natural person concerned.
 
-## 10 Changes to the privacy policy
+## 12. Changes to the privacy policy
 DFX regularly reviews this Privacy policy to ensure that it is always up to date and reserves the right to amend it as necessary. It is recommended that you check this page regularly for possible changes, as no individual notification of changes will be made.  
 In the event of discrepancies with the English version, the German version of this privacy policy shall prevail.
 
-## 11 Legal information and disclaimer
+## 13. Legal information and disclaimer
 DFX accepts no liability for the accuracy and completeness of the content of the information.
 
 Liability claims relating to material or immaterial damage caused by the use or non-use of the information provided or by the use of incorrect or incomplete information are fundamentally excluded.
 
 All offers published by DFX in digital or electronic form are subject to change. DFX expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without prior notice or to cease publication temporarily or permanently.
 
-## 12 Liability for links
+## 14. Liability for links
 DFX is not responsible for references and links to third-party websites. Any responsibility for websites of third parties, i.e., outside the companies belonging to DFX, is rejected. Access to and use of such websites is at the user's own risk.
 
 All offers published by DFX in digital or electronic form are subject to change. DFX expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without prior notice or to cease publication temporarily or permanently.
 
-## 13 Copyrights and intellectual property 
+## 15. Copyrights and intellectual property 
 The copyright and all other rights to the content, images, photos or other files on the DFX website belong exclusively to DFX and its affiliated companies, their suppliers or the specifically named rights holders.
 
-## 14 Consent to the privacy policy
+## 16. Consent to the privacy policy
 The customer accepts the content of the data protection declaration in its current version in full. In the event of contradictions, the Privacy policy takes precedence over the General Terms and Conditions of DFX.
