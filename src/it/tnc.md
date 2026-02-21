@@ -79,9 +79,9 @@ Per le transazioni blockchain da DFX a portafogli non self-hosted, questi dati v
 
 Prima di poter utilizzare i servizi finanziari di DFX, il cliente deve registrarsi tramite l'app DFX o la pagina di pagamento. La registrazione è gratuita e porta alla creazione di un profilo utente dopo l'accettazione dei termini e delle condizioni vigenti. Inoltre, viene creato un portafoglio non di deposito. DFX non ha accesso a questo portafoglio, ma solo al cliente. Quando un cliente si registra, le informazioni e i documenti che deve presentare a DFX e l'importo massimo per il quale può acquistare o vendere criptovalute dipendono dal suo livello di identificazione:
 
-In linea di massima, la registrazione avviene tramite l'indirizzo della blockchain, specificando l'e-mail o il numero di telefono del cliente. Questa registrazione è considerata standard - light KYC (Know-your-Customer) - e consente al cliente di acquistare/vendere criptovalute fino al limite giornaliero stabilito, visibile sulla pagina di pagamento personale del cliente. I trasferimenti di criptovalute a un indirizzo pubblico non verificato non sono accettati.
+In linea di massima, la registrazione avviene tramite l'indirizzo della blockchain, specificando l'e-mail o il numero di telefono del cliente. Questa registrazione è considerata standard - light KYC (Know-your-Customer) - e consente al cliente di acquistare/vendere criptovalute fino al limite mensile stabilito (periodo mobile di 30 giorni), visibile sulla pagina di pagamento personale del cliente. I trasferimenti di criptovalute a un indirizzo pubblico non verificato non sono accettati.
 
-Per l'acquisto/vendita di criptovalute al di sopra di questo limite giornaliero, è richiesta una registrazione più dettagliata, che è considerata un processo esteso - KYC (Know-your-Customer) completo. Nell'ambito di questo processo, devono essere comunicate a DFX in particolare le seguenti informazioni:
+Per l'acquisto/vendita di criptovalute al di sopra di questo limite mensile, è richiesta una registrazione più dettagliata, che è considerata un processo esteso - KYC (Know-your-Customer) completo. Nell'ambito di questo processo, devono essere comunicate a DFX in particolare le seguenti informazioni:
 
 - Indirizzo, con la prova della consegna di una lettera all'indirizzo indicato.
 - Copia del documento d'identità (carta d'identità o passaporto), che deve recare una firma, un codice MRZ leggibile e una fotografia.
@@ -164,7 +164,7 @@ I percorsi di vendita possono essere annullati finché la criptovaluta da conver
 
 I costi di transazione delle [criptovalute o] valute estere trasmesse al cliente sono inclusi nel prezzo base. I prezzi sono espressi nella criptovaluta consentita per la transazione e includono l'imposta sul valore aggiunto svizzera (di seguito: IVA), se applicabile. Dopo il trasferimento della [criptovaluta o] della valuta estera desiderata sul conto[/portafoglio] del cliente, la vendita si considera conclusa. Il cliente riceverà un'e-mail di conferma del completamento della transazione e una panoramica della stessa.
 
-DFX sottolinea che esiste un volume massimo di vendite per giorno e per cliente, che può essere visualizzato dal cliente sulla pagina payemn. Il cliente ha la possibilità di richiedere un volume di vendite superiore. Tale richiesta sarà valutata e discussa individualmente da DFX. 
+DFX sottolinea che esiste un volume massimo di vendite per mese (periodo mobile di 30 giorni) e per cliente, che può essere visualizzato dal cliente sulla pagina payemn. Il cliente ha la possibilità di richiedere un volume di vendite superiore. Tale richiesta sarà valutata e discussa individualmente da DFX. 
 
 Gli storni delle vendite ai clienti di DFX AG vengono effettuati esclusivamente nella criptovaluta che è stata trasferita a DFX per la vendita. L'importo del riaddebito corrisponde esattamente all'importo trasferito a DFX per la vendita.
 

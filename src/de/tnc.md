@@ -145,9 +145,9 @@ Bei Blockchaintransaktionen von DFX an nicht self-hosted Wallets werden diese Da
 ## Benutzer-Registrierung
 Bevor die Finanzdienstleistungen von DFX genutzt werden können, muss sich der Kunde registrieren. Die Registrierung ist für Privatpersonen kostenlos und führt nach Anerkennung der aktuellen Allgemeinen Geschäftsbedingungen zur Erstellung eines Nutzerprofils. Wenn sich ein Kunde registriert, hängen die Informationen und Dokumente, die der Kunde an DFX übermitteln muss, und der maximale Betrag, für den der Kunde Kryptowährungen kaufen oder verkaufen kann, von seiner Identifikationsstufe ab:
 
-Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Angabe der E-Mail oder Telefonnummer des Kunden. Diese Registrierung gilt als Standard – light KYC (Know-Your-Customer) – und erlaubt dem Kunden den Kauf/Verkauf von Kryptowährungen bis zu einem festgelegten Tageslimit. 
+Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Angabe der E-Mail oder Telefonnummer des Kunden. Diese Registrierung gilt als Standard – light KYC (Know-Your-Customer) – und erlaubt dem Kunden den Kauf/Verkauf von Kryptowährungen bis zu einem festgelegten Monatslimit (rollierender 30-Tage-Zeitraum).
 
-Für den Kauf/Verkauf von Kryptowährungen überhalb dieses Tageslimits bedarf es einer detaillierteren Registrierung, welche als Erweiterter – voller KYC (Know-Your-Customer) – Prozess gilt. Im Rahmen dieses Prozesses sind insbesondere folgende Informationen gegenüber DFX offenzulegen:
+Für den Kauf/Verkauf von Kryptowährungen oberhalb dieses Monatslimits bedarf es einer detaillierteren Registrierung, welche als Erweiterter – voller KYC (Know-Your-Customer) – Prozess gilt. Im Rahmen dieses Prozesses sind insbesondere folgende Informationen gegenüber DFX offenzulegen:
 
 * Adresse, wobei deren Nachweis über die Zustellung eines Briefes an die angegebene Adresse erfolgt
 * Kopie des Ausweisdokuments (Personalausweis oder Reisepass), das eine Unterschrift, einen lesbaren MRZ-Code und ein Foto aufweisen muss
@@ -216,7 +216,7 @@ Verkaufsrouten können storniert werden, solange die umzuwandelnde Kryptowährun
 
 Die Transaktionskosten der Krypto- respektive Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer, falls zutreffend. Nachdem die Überweisung der gewünschten Kryptowährung respektive der gewünschten Fremdwährung auf die/das Wallet/Konto des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E-Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
 
-DFX weist darauf hin, dass pro Tag und pro Kunde ein maximales Verkaufsvolumen besteht. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert. 
+DFX weist darauf hin, dass pro Monat (rollierender 30-Tage-Zeitraum) und pro Kunde ein maximales Verkaufsvolumen besteht. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert. 
 
 Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der ursprünglich transferierten Kryptowährung. Der zurückerstattete Betrag entspricht genau dem Wert, der zum Verkauf an DFX übertragen wurde.
 
@@ -238,7 +238,7 @@ Hierbei gelten folgende Bestimmungen:
   * Technische Manipulationen, um DFX über die Bezahlung zu täuschen, sind nicht gestattet und werden zur Anzeige gebracht. Insbesondere sind „doppelte Ausgaben“ (Double Spending) nicht erlaubt und werden als Betrug strafrechtlich verfolgt.
 
 DFX bietet hierbei die Bezahlung mittels folgender Standards an:
-* FrankencoinPay und OpenCryptoPay
+* OpenCryptoPay
   * Zahlungen über Lightning BOLT11
     * Der Nutzer trägt die Routing-Gebühr.
     * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht 1 BTC.
