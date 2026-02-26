@@ -1,365 +1,365 @@
-# Privacy Policy
+#Informativa sulla privacy
 
-Dear Sir or Madam  
+Gentile signore o signora  
 
-DFX AG (hereinafter referred to as DFX) takes the protection of your personal data very seriously. Data protection has a high priority for DFX.  
+DFX AG (di seguito denominata DFX) prende molto sul serio la protezione dei vostri dati personali. La protezione dei dati ha un'alta priorità per DFX.  
 
-The confidential and responsible handling of personal data from our relationships with customers, business partners, employees, applicants and suppliers is the basis of our business success. Personal data is all information that relates to an identified or identifiable person. 
+Il trattamento confidenziale e responsabile dei dati personali derivanti dai nostri rapporti con clienti, partner commerciali, dipendenti, candidati e fornitori è la base del nostro successo aziendale. I dati personali sono tutte le informazioni relative a una persona identificata o identificabile. 
 
-Therefore, we adhere to the following principles when handling personal data:
+Pertanto, aderiamo ai seguenti principi nel trattamento dei dati personali:
 
-* Confidentiality and transparency
-* Compliance with our company guidelines and the privacy policy
-* Compliance with all applicable laws and regulations
+* Riservatezza e trasparenza
+* Conformità alle nostre linee guida aziendali e alla politica sulla privacy
+* Rispetto di tutte le leggi e i regolamenti applicabili
 
 
-## 1. Information on the responsible body (imprint)
+## 1. Informazioni sull'organismo responsabile (colophon)
 
-The responsible body on the basis of the Swiss Data Protection Act (DSG) is:  
+L’organismo responsabile ai sensi della legge svizzera sulla protezione dei dati (DSG) è:  
 
-Address: DFX AG, Bahnhofstrasse 7, 6300 Zug, Switzerland   
-Commercial Register: CHE-429.856.521  
-Registration Court: Zug, Switzerland    
-Website: https://dfx.swiss   
-Electronic contact: https://app.dfx.swiss/support  
+Indirizzo: DFX AG, Bahnhofstrasse 7, 6300 Zugo, Svizzera   
+Registro delle imprese: CHE-429.856.521  
+Tribunale di registrazione: Zugo, Svizzera    
+Sito web: https://dfx.swiss   
+Contatto elettronico: https://app.dfx.swiss/support  
 
 
-## 2. General information on data protection
+##2. Informazioni generali sulla protezione dei dati
 
-DFX treats your personal data confidentially and in accordance with the statutory data protection regulations, in particular the Swiss Federal Act on Data Protection (DSG) and this privacy policy. 
+DFX tratta i tuoi dati personali in modo confidenziale e in conformità con le norme legali sulla protezione dei dati, in particolare la legge federale svizzera sulla protezione dei dati (DSG) e la presente informativa sulla privacy. 
 
-The use of our website is generally possible without providing personal data. However, if a data subject wishes to use special services of our company via our website, processing of personal data may be necessary. If the processing of personal data is necessary and there is no legal basis for such processing, we obtain the consent of the data subject in an appropriate form after providing appropriate information.  
+L'utilizzo del nostro sito web è generalmente possibile senza fornire dati personali. Tuttavia, se l’interessato desidera utilizzare servizi speciali della nostra azienda tramite il nostro sito web, potrebbe essere necessario il trattamento dei dati personali. Se il trattamento dei dati personali è necessario e non esiste una base giuridica per tale trattamento, otteniamo il consenso dell'interessato in forma adeguata dopo aver fornito idonea informativa.  
 
-We would like to point out that, despite the security precautions we have taken, data transmission on the Internet (for example, when communicating by email) may have security vulnerabilities. Complete protection of data against access by third parties is not possible.  
+Desideriamo sottolineare che, nonostante le precauzioni di sicurezza da noi adottate, la trasmissione di dati su Internet (ad esempio durante la comunicazione via e-mail) può presentare vulnerabilità di sicurezza. Non è possibile una protezione completa dei dati dall'accesso di terzi.  
 
-As the (natural) person concerned, it is in your personal interest to protect the system(s) you use (PC, laptop, etc.) from unauthorized access by third parties, to provide them with adequate password protection and not to disclose the password to third parties. It is recommended to install a commercially available virus protection program and update it regularly.
+In qualità di persona (fisica) interessata, è nel tuo interesse personale proteggere il/i sistema/i che utilizzi (PC, laptop, ecc.) da accessi non autorizzati da parte di terzi, fornire loro un'adeguata protezione con password e non divulgare la password a terzi. Si consiglia di installare un programma di protezione antivirus disponibile in commercio e di aggiornarlo regolarmente.
 
-### Categories of personal data
+### Categorie di dati personali
 
-As part of our business relationships and the use of our services, we process various categories of personal data. These include, among others:
+Nell’ambito dei nostri rapporti commerciali e dell’utilizzo dei nostri servizi trattiamo diverse categorie di dati personali. Questi includono, tra gli altri:
 
-* Contact information: e.g., name, address, phone number, email address.
-* Technical data: e.g., IP addresses, device information, browser type.
-* Payment and financial data: e.g., bank details, credit card data, transaction history, tax returns.
-* Communication data: e.g., contents of emails, contact forms, inquiries.
-* Usage data: e.g., pages visited, login data, usage behavior on our website.
-* Contract data: e.g., purchased products, services, contract terms.
-* Sensitive data (if relevant): e.g., health data, biometric data for identification (only with explicit consent), official identification documents.
+* Informazioni di contatto: ad esempio nome, indirizzo, numero di telefono, indirizzo e-mail.
+* Dati tecnici: ad esempio indirizzi IP, informazioni sul dispositivo, tipo di browser.
+* Dati finanziari e di pagamento: ad esempio, dettagli bancari, dati della carta di credito, cronologia delle transazioni, dichiarazioni dei redditi.
+*Dati di comunicazione: ad esempio contenuto di e-mail, moduli di contatto, richieste.
+* Dati di utilizzo: ad esempio pagine visitate, dati di accesso, comportamento di utilizzo sul nostro sito web.
+* Dati contrattuali: ad esempio prodotti acquistati, servizi, condizioni contrattuali.
+*Dati sensibili (se rilevanti): ad es. dati sanitari, dati biometrici per l'identificazione (solo con esplicito consenso), documenti di identificazione ufficiali.
 
-The collection of this data is carried out exclusively for the purposes stated in this privacy policy and in compliance with applicable data protection regulations.
+La raccolta di questi dati viene effettuata esclusivamente per gli scopi indicati nella presente informativa sulla privacy e nel rispetto delle normative applicabili sulla protezione dei dati.
 
-### Legal bases for the processing of personal data (valid for all processing purposes)
+### Basi giuridiche per il trattamento dei dati personali (valide per tutte le finalità di trattamento)
 
-The processing of your personal data is always based on a clear legal basis that ensures that your data is processed in accordance with legal requirements. The choice of legal basis depends on the respective purpose of processing. Below you will find an overview of the legal bases on which we rely:
+Il trattamento dei tuoi dati personali si basa sempre su una base giuridica chiara che garantisce che i tuoi dati siano trattati in conformità con i requisiti legali. La scelta della base giuridica dipende dalla rispettiva finalità del trattamento. Di seguito troverete una panoramica delle basi giuridiche su cui facciamo affidamento:
 
-* Contract fulfillment: To provide services or fulfill contractual obligations.
-* Legal obligations: To comply with legal requirements (e.g., tax retention obligations).
-* Legitimate interests: To optimize our business processes, ensure IT security, or efficiently process customer inquiries.
-* Consent: The processing of personal data is based on consent if no other legal basis exists.
+* Adempimento del contratto: fornire servizi o adempiere agli obblighi contrattuali.
+*Obblighi legali: per rispettare i requisiti legali (ad esempio, obblighi di ritenzione fiscale).
+* Interessi legittimi: ottimizzare i nostri processi aziendali, garantire la sicurezza IT o gestire in modo efficiente i clientidomande.
+*Consenso: Il trattamento dei dati personali si basa sul consenso se non esiste altra base giuridica.
 
-#### Particularly sensitive personal data
+#### Dati personali particolarmente sensibili
 
-The processing of particularly sensitive data, such as genetic and biometric data, is carried out exclusively on the basis of explicit consent from the data subject or within the framework of a legal obligation that makes processing necessary.
+Il trattamento di dati particolarmente sensibili, quali dati genetici e biometrici, viene effettuato esclusivamente sulla base del consenso esplicito dell'interessato o nell'ambito di un obbligo legale che renda necessario il trattamento.
 
-### Purpose of data processing
+### Finalità del trattamento dei dati
 
-Only data that is absolutely necessary for the respective purposes is collected. In principle, no additional data is collected for the analysis of user behavior. In addition to the data mentioned, particularly sensitive personal data may be processed in certain cases.
+Vengono raccolti solo i dati assolutamente necessari per i rispettivi scopi. In linea di principio non vengono raccolti dati aggiuntivi per l'analisi del comportamento degli utenti. Oltre ai dati citati, in determinati casi possono essere trattati dati personali particolarmente sensibili.
 
-The processing of your personal data is carried out in particular for the following purposes:
+Il trattamento dei Suoi dati personali è effettuato in particolare per le seguenti finalità:
 
-* Contract fulfillment and provision of our services: We use your data to fulfill contracts, provide services and manage our business relationship with you.
-* Customer communication: This includes answering inquiries, support and transmitting important information about our services.
-* Service communication: If you have consented, we use your data to provide you with relevant information about our services.
-* IT security and fraud prevention: To protect our IT systems and detect and prevent unauthorized access, cyber attacks or other fraudulent activities.
-* Compliance with legal and regulatory obligations: This includes, for example, compliance with tax or commercial law obligations as well as the requirements of the Data Protection Act.
+* Adempimento del contratto e fornitura dei nostri servizi: utilizziamo i tuoi dati per adempiere ai contratti, fornire servizi e gestire il nostro rapporto commerciale con te.
+* Comunicazione con il cliente: include la risposta a domande, il supporto e la trasmissione di informazioni importanti sui nostri servizi.
+* Comunicazione di servizio: se hai acconsentito, utilizziamo i tuoi dati per fornirti informazioni rilevanti sui nostri servizi.
+* Sicurezza IT e prevenzione delle frodi: per proteggere i nostri sistemi IT e rilevare e prevenire accessi non autorizzati, attacchi informatici o altre attività fraudolente.
+* Rispetto degli obblighi legali e regolamentari: ciò include, ad esempio, il rispetto degli obblighi di diritto fiscale o commerciale, nonché dei requisiti della legge sulla protezione dei dati.
 
-### Data protection through technical design and privacy-friendly default settings
+### Protezione dei dati attraverso la progettazione tecnica e le impostazioni predefinite rispettose della privacy
 
-DFX is committed to ensuring the protection of personal data through technical and organizational measures from the outset ("Privacy by Design") and through privacy-friendly default settings ("Privacy by Default").
+DFX si impegna a garantire la protezione dei dati personali attraverso misure tecniche e organizzative fin dall'inizio ("Privacy by Design") e attraverso impostazioni predefinite rispettose della privacy ("Privacy by Default").
 
-This means:
+Ciò significa:
 
-* Data minimization: Only the data that is absolutely necessary for the respective purpose is collected.
-* Technical security: We implement protective measures such as encryption, pseudonymization and regular security checks to protect data from unauthorized access.
-* Transparency and control: Users have the option to independently manage their privacy settings and only release the data they want.
-* Privacy-oriented product development: Our systems and processes are developed taking data protection into account and are regularly reviewed.
+* Minimizzazione dei dati: vengono raccolti solo i dati assolutamente necessari per il rispettivo scopo.
+* Sicurezza tecnica: implementiamo misure di protezione come crittografia, pseudonimizzazione e controlli di sicurezza regolari per proteggere i dati da accessi non autorizzati.
+* Trasparenza e controllo: gli utenti hanno la possibilità di gestire autonomamente le proprie impostazioni sulla privacy e rilasciare solo i dati che desiderano.
+* Sviluppo di prodotti orientati alla privacy: i nostri sistemi e processi sono sviluppati tenendo conto della protezione dei dati e vengono regolarmente controllati.
 
-These measures ensure proactive protection of your data in accordance with the requirements of the Swiss Data Protection Act (DSG) and other applicable data protection laws.
+Queste misure garantiscono una protezione proattiva dei vostri dati in conformità con i requisiti della legge svizzera sulla protezione dei dati (DSG) e altre leggi applicabili sulla protezione dei dati.
 
-### What rights do you have regarding your data?
+### Che diritti hai riguardo ai tuoi dati?
 
-You have the right to receive information about the origin, recipient and purpose of your stored personal data free of charge at any time. You also have the right to request the correction or deletion of this data. If you have given your consent to data processing, you can revoke this consent at any time for the future. You also have the right to request the restriction of the processing of your personal data under certain circumstances. Furthermore, you have the right to lodge a complaint with the competent supervisory authority.
+Avete il diritto di ricevere in qualsiasi momento e gratuitamente informazioni sull'origine, il destinatario e lo scopo dei vostri dati personali memorizzati. Hai anche il diritto di richiedere la correzione o la cancellazione di questi dati. Se hai dato il tuo consenso al trattamento dei dati, puoi revocare tale consenso in qualsiasi momento per il futuro. Hai anche il diritto di richiedere la limitazione del trattamento dei tuoi dati personali in determinate circostanze. Inoltre, hai il diritto di proporre reclamo all’autorità di controllo competente.
 
-You have the right to request information about the processing of your particularly sensitive data (such as genetic or biometric data) at any time. You can also request deletion or restriction of processing, provided that no legal basis requires further processing.
+Hai il diritto di richiedere in qualsiasi momento informazioni sul trattamento dei tuoi dati particolarmente sensibili (come dati genetici o biometrici). Puoi anche richiedere la cancellazione o la limitazione del trattamento, a condizione che nessuna base giuridica richieda un ulteriore trattamento.
 
-### Register of processing activities
+### Registro delle attività di trattamento
 
-DFX AG maintains a register of all processing activities involving personal data in accordance with the requirements of the Swiss Data Protection Act (DSG). This register serves to:
+DFX AG mantiene un registro di tutte le attività di trattamento che coinvolgono dati personali in conformità con i requisiti della legge svizzera sulla protezione dei dati (DSG). Questo registro serve a:
 
-* Ensure transparency: It contains detailed information about the purposes of processing, the data categories concerned, the recipients of the data and the storage period.
-* Fulfill accountability obligations: It enables proof that DFX processes personal data in accordance with legal requirements.
-* Promote efficiency and security: It supports us in identifying and managing risks associated with data processing.
+* Garantire la trasparenza: contiene informazioni dettagliate sulle finalità del trattamento, sulle categorie di dati interessate, sui destinatari dei dati e sul periodo di conservazione.
+* Adempiere agli obblighi di responsabilità: consente di dimostrare che DFX tratta i dati personali in conformità con i requisiti legali.
+* Promuovere efficienza e sicurezza: ci supportanell’identificazione e gestione dei rischi associati al trattamento dei dati.
 
-The register is regularly updated and documents all relevant processing operations, including processing carried out by third parties on behalf of DFX.
+Il registro viene regolarmente aggiornato e documenta tutte le operazioni di trattamento rilevanti, compreso il trattamento effettuato da terzi per conto di DFX.
 
-For this and other questions on the subject of data protection, you can contact our [Support](https://services.dfx.swiss/support) at any time.
+Per questa e altre domande sul tema della protezione dei dati potete contattare in qualsiasi momento il nostro [Supporto](https://services.dfx.swiss/support).
 
 
-## 3. Profiling and automated decision-making
+## 3. Profilazione e processo decisionale automatizzato
 
-DFX uses profiling procedures to provide financial services, in particular for:
+DFX utilizza procedure di profilazione per fornire servizi finanziari, in particolare per:
 
-* Credit checks
-* Risk analyses
-* Provision of transaction-related service information
+*Controlli del credito
+* Analisi dei rischi
+* Fornitura di informazioni sui servizi relativi alle transazioni
 
-DFX does not carry out purely automated decision-making processes that are legally binding or have significant effects on data subjects. Should automated decision-making or profiling procedures be used in the future, DFX will ensure that these procedures comply with the legal requirements of the Swiss Data Protection Act (DSG) and that data subjects are adequately informed about the process.
+DFX non esegue processi decisionali puramente automatizzati che sono giuridicamente vincolanti o hanno effetti significativi sugli interessati. Qualora in futuro venissero utilizzate procedure decisionali o di profilazione automatizzate, DFX garantirà che tali procedure siano conformi ai requisiti legali della legge svizzera sulla protezione dei dati (DSG) e che gli interessati siano adeguatamente informati sul processo.
 
-#### Right to object
+#### Diritto di opposizione
 
-Data subjects have the right to object to profiling and to request information about the underlying logic and the effects of profiling on them.
+Gli interessati hanno il diritto di opporsi alla profilazione e di chiedere informazioni sulla logica sottostante e sugli effetti della profilazione su di loro.
 
 
-## 4. Hosting
+## 4. Ospitalità
 
-### Hosting with All-Inkl
+### Hosting con All-Inkl
 
-We host our website with All-Inkl. The provider is ALL-INKL.COM - Neue Medien Münnich, owner René Münnich, Hauptstrasse 68, 02742 Friedersdorf (hereinafter: All-Inkl). 
+Ospitiamo il nostro sito Web con All-Inkl. Il fornitore è ALL-INKL.COM - Neue Medien Münnich, proprietario René Münnich, Hauptstrasse 68, 02742 Friedersdorf (di seguito: All-Inkl). 
 
-All-Inkl has implemented appropriate technical and organizational measures to ensure the protection of personal data. Details on their handling of personal data can be found in the [privacy policy of All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+All-Inkl ha implementato misure tecniche e organizzative adeguate per garantire la protezione dei dati personali. I dettagli sul trattamento dei dati personali sono disponibili nell'[informativa sulla privacy di All-Inkl](https://all-inkl.com/datenschutzinformationen/).
 
 
-## 5. General notes and mandatory information
+##5. Note generali e informazioni obbligatorie
 
-### Storage period
+### Periodo di conservazione
 
-Unless a more specific storage period has been specified in this privacy policy, your personal data will remain with us until the purpose for data processing no longer applies. If you assert a justified request for deletion or revoke your consent to data processing, your data will be deleted unless we have other legally permissible reasons for storing your personal data (e.g., tax or commercial law retention periods); in the latter case, deletion will take place after these reasons no longer apply.
+A meno che nella presente informativa sulla privacy non sia specificato un periodo di conservazione più specifico, i tuoi dati personali rimarranno con noi fino a quando lo scopo del trattamento dei dati non sarà più applicabile. Se fai valere una richiesta giustificata di cancellazione o revochi il tuo consenso al trattamento dei dati, i tuoi dati verranno cancellati, a meno che non abbiamo altri motivi legalmente consentiti per archiviare i tuoi dati personali (ad esempio periodi di conservazione fiscale o commerciale); in quest'ultimo caso la cancellazione avverrà una volta venute meno le suddette ragioni.
 
-#### Specific retention periods for personal data
+#### Periodi specifici di conservazione dei dati personali
 
-DFX stores personal data only as long as it is necessary for the respective processing purposes or as required by legal regulations. After the respective periods have expired, the data will be deleted or anonymized. Below you will find the specific retention periods for the various categories of personal data:
+DFX memorizza i dati personali solo per il tempo necessario ai rispettivi scopi di trattamento o come richiesto dalle norme legali. Decorsi i rispettivi termini, i dati verranno cancellati o resi anonimi. Di seguito troverete i periodi di conservazione specifici per le varie categorie di dati personali:
 
-1. Contract data
-Retention period: 10 years after termination of the contract.
+1. Dati contrattuali
+Periodo di conservazione: 10 anni dalla risoluzione del contratto.
 
-2. Communication data (e.g., emails, contact forms)
-Retention period: 2 years after completion of communication.
+2. Dati di comunicazione (es. email, moduli di contatto)
+Periodo di conservazione: 2 anni dal completamento della comunicazione.
 
-3. Financial and payment data
-Retention period: 10 years after completion of the transaction.
+3. Dati finanziari e di pagamento
+Periodo di conservazione: 10 anni dal perfezionamento dell'operazione.
 
-4. Usage data (e.g., IP addresses, log data)
-Retention period: 6 months.
+4. Dati di utilizzo (ad esempio indirizzi IP, dati di registro)
+Periodo di conservazione: 6 mesi.
 
-5. Sensitive data (e.g., health or biometric data, if collected)
-Retention period: Only as long as necessary to fulfill the stated purpose.
+5. Dati sensibili (ad esempio, dati sanitari o biometrici, se raccolti)
+Periodo di conservazione: solo il tempo necessario per adempiere allo scopo dichiarato.
 
-6. Application documents
-Retention period: 12 months after completion of the application process.
+6. Documenti per la domanda
+Periodo di conservazione: 12 mesi dal completamento del processo di candidatura.
 
-7. Social media data (e.g., for user profiles)
-The data collected directly by us via the social media presence will be deleted from our systems as soon as you ask us to delete it, revoke your consent to storage or the purpose for data storage no longer applies. Stored cookies remain on your end device until you delete them. Mandatory statutory provisions - in particular retention periods - remain unaffected.
+7. Dati dei social media (ad esempio, per i profili utente)
+I dati da noi raccolti direttamente tramite la presenza sui social media verranno cancellati dai nostri sistemi non appena ci chiederete di cancellarli, revocherete il vostro consenso alla memorizzazione o lo scopo della memorizzazione dei dati non sarà più applicabile. I cookie memorizzati rimangono sul tuo dispositivo finché non li elimini. Le disposizioni di legge obbligatorie, in particolare i termini di conservazione, rimangono inalterate.
 
-We have no influence on the storage period of your data that is stored by the operators of social media networks for their own purposes. For details, please contact the operators of the social media networks directly (e.g., in their privacy policies and statements, see below).
+Non abbiamo alcuna influenza sulla durata di conservazione dei vostri dati che vengono archiviati dagli operatori delle reti di social media per i propri scopi. Per i dettagli si prega di contattare direttamente gli operatori dei social network (ad esempio, nelle loro informative e dichiarazioni sulla privacy, vedere di seguito).
 
-#### Deletion and anonymization of personal data
+#### Cancellazione e anonimizzazione dei dati personali
 
-After the respective retention periods have expired, the data will either be deleted or anonymized so that no conclusions can be drawn about individual persons. Further storage may be necessary for legally prescribed periods.
+Decorsi i rispettivi periodi di conservazione, i dati verranno cancellati o resi anonimio che non si possano trarre conclusioni su singole persone. Potrebbe essere necessaria un'ulteriore conservazione per i periodi prescritti dalla legge.
 
-### General notes on the legal bases for data processing on this website
+### Note generali sulle basi giuridiche del trattamento dei dati su questo sito
 
-The website only stores and processes the minimum data necessary to operate the website. No additional data is stored or collected. 
+Il sito web memorizza ed elabora solo i dati minimi necessari per il funzionamento del sito web. Nessun dato aggiuntivo viene memorizzato o raccolto. 
 
-### Note on data transfer abroad
+### Nota sul trasferimento dati all'estero
 
-We use the hosting service All-Inkl, a company from Germany. When these tools are accessed, your personal data is transferred to this third country and could be processed there.
+Utilizziamo il servizio di hosting All-Inkl, un'azienda tedesca. Quando accedi a questi strumenti, i tuoi dati personali vengono trasferiti in questo paese terzo e ivi potrebbero essere trattati.
 
-### SSL or TLS encryption
+### Crittografia SSL o TLS
 
-For security reasons and to protect the transmission of confidential content, such as inquiries that you send to us as the site operator, this site uses SSL or TLS encryption. You can recognize an encrypted connection by the fact that the address line of the browser changes from "http://" to "https://" and by the lock symbol in your browser line.
-If SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties.
+Per motivi di sicurezza e per proteggere la trasmissione di contenuti riservati, come le richieste che ci invii in qualità di operatore del sito, questo sito utilizza la crittografia SSL o TLS. Potete riconoscere una connessione crittografata dal fatto che la riga dell'indirizzo del browser cambia da "http://" a "https://" e dal simbolo del lucchetto nella riga del browser.
+Se la crittografia SSL o TLS è attivata, i dati che ci trasmettete non possono essere letti da terzi.
 
-### Rights of data subjects
+### Diritti degli interessati
 
-As a user whose personal data is processed under this privacy policy, you have the following rights:
+In qualità di utente i cui dati personali vengono trattati ai sensi della presente informativa sulla privacy, hai i seguenti diritti:
 
-* Right to information about whether and which personal data is processed by DFX, as well as further information about the processing (e.g., purpose, categories, recipients and storage period).
-* Right to correction or rectification of inaccurate or incomplete personal data.
-* Right to deletion of personal data, provided that the legal requirements are met.
-* Right to restriction of the processing of personal data, provided that the legal requirements are met.
-* Right to object to the processing of your personal data.
-* Right to data portability: You have the right to have data that we process automatically on the basis of your consent or in fulfillment of a contract handed over to you or to a third party in a commonly used, machine-readable format. If you request the direct transfer of the data to another controller, this will only be done to the extent that it is technically feasible.
+* Diritto di informazioni su se e quali dati personali vengono trattati da DFX, nonché ulteriori informazioni sul trattamento (ad esempio scopo, categorie, destinatari e periodo di conservazione).
+*Diritto alla correzione o rettifica dei dati personali inesatti o incompleti.
+*Diritto alla cancellazione dei dati personali, a condizione che siano soddisfatti i requisiti legali.
+*Diritto alla limitazione del trattamento dei dati personali, a condizione che siano soddisfatti i requisiti legali.
+*Diritto di opporsi al trattamento dei propri dati personali.
+* Diritto alla portabilità dei dati: avete il diritto di far sì che i dati che elaboriamo automaticamente sulla base del vostro consenso o in adempimento di un contratto siano consegnati a voi o a terzi in un formato comunemente utilizzato e leggibile da una macchina. Se richiedete il trasferimento diretto dei dati a un altro titolare del trattamento, ciò avverrà solo nella misura in cui sia tecnicamente fattibile.
 
-The above rights may be denied or restricted if the interests, rights and freedoms of third parties prevail or if the processing is necessary for the establishment, exercise or defense of legal claims.
+I diritti di cui sopra possono essere negati o limitati se prevalgono gli interessi, i diritti e le libertà di terzi o se il trattamento è necessario per accertare, esercitare o difendere un diritto in sede giudiziaria.
 
-### Objection to advertising emails
+### Obiezione alle e-mail pubblicitarie
 
-We hereby object to the use of contact data published as part of the imprint obligation for sending unsolicited advertising and information material. The operators of the pages expressly reserve the right to take legal action in the event of the unsolicited sending of advertising information, such as spam emails.
+Ci opponiamo all'utilizzo dei dati di contatto pubblicati nell'ambito dell'obbligo di colophon per l'invio di materiale pubblicitario e informativo non richiesto. Gli operatori delle pagine si riservano espressamente il diritto di intraprendere azioni legali in caso di invio non richiesto di informazioni pubblicitarie, come ad esempio e-mail di spam.
 
 
-## 6. Data protection violations
+## 6. Violazioni della protezione dei dati
 
-DFX takes data protection violations very seriously and has implemented processes to handle such incidents efficiently and in accordance with legal requirements. A data protection violation occurs when personal data is unintentionally or unlawfully disclosed, altered, deleted or made accessible without authorization.
+DFX prende molto sul serio le violazioni della protezione dei dati e ha implementato processi per gestire tali incidenti in modo efficiente e in conformità con i requisiti legali. Una violazione della protezione dei dati si verifica quando i dati personali vengono involontariamente o illegalmente divulgati, modificati, cancellati o resi accessibili senza autorizzazione.
 
-### Measures in case of data protection violations
+### Misure in caso di violazione della protezione dei dati
 
-In the event of a data protection violation, DFX follows a structured procedure to minimize the impact on data subjects and restore data security as quickly as possible. This includes in particular the following measures:
+In caso di violazione della protezione dei dati, DFX segue una procedura strutturata per ridurre al minimo l'impatto sugli interessati e ripristinare la sicurezza dei dati il più rapidamente possibile. Ciò comprende in particolare le seguenti misure:
 
-* Identification and analysis: As soon as a data protection violation becomes known, it is immediately analyzed and assessed by our data protection team.
-* Containment and remediation: Appropriate measures are taken to contain the incident and restore data security.
-* Documentation: All data protection violations are documented in an internal register. This includes the type of violation, the data categories affected, the number of data subjects affected and the measures taken.
+* Identificazione e analisi: non appena viene a conoscenza di una violazione della protezione dei dati, questa viene immediatamente analizzata e valutata dal nostro team di protezione dei dati.
+* Contenimento e riparazione: vengono adottate misure adeguate per contenere l'incidente e ripristinare la sicurezza dei dati.
+* Documentazione: tutte le violazioni della protezione dei dati sono documentate in un registro interno. Ciò include il tipo di violazione, le categorie di dati interessate, il numero di interessati interessati e le misure adottate.
 
-#### Notification obligations
+#### Obblighi di notifica
 
-In the event of a data protection violation that poses a risk to the rights and freedoms of data subjects, DFX is legally obliged to inform certain parties. These notifications are intended to ensure that both the competent authorities and the data subjects are informed in a timely manner about the violation and the measures taken. The notifications are made in compliance with legal requirements and include the following steps:
+In caso di violazione della protezione dei dati che rappresenta un rischio per i diritti e le libertà degli interessati, DFX è legalmente obbligata a informare determinate parti. Tali notifiche hanno lo scopo di garantire che sia le autorità competenti che le autorità competentiGli interessati sono informati tempestivamente della violazione e delle misure adottate. Le notifiche vengono effettuate in conformità ai requisiti legali e comprendono le seguenti fasi:
 
-* Notification of the supervisory authority within 72 hours of becoming aware of the violation.
-* Notification of the data subjects without delay and in clear, understandable language.
+* Notifica all'autorità di controllo entro 72 ore dalla conoscenza della violazione.
+* Notifica agli interessati senza ritardo e in un linguaggio chiaro e comprensibile.
    
-### Protective measures
+### Misure di protezione
 
-To prevent data protection violations, we use technical and organizational measures, including encryption of sensitive data, regular security checks and training of our employees in the field of data protection.
+Per prevenire violazioni della protezione dei dati, utilizziamo misure tecniche e organizzative, tra cui la crittografia dei dati sensibili, controlli di sicurezza regolari e formazione dei nostri dipendenti nel campo della protezione dei dati.
 
-### Contact in case of data protection violations:
+### Contatto in caso di violazioni della protezione dei dati:
 
-If you notice a possible data protection violation, please contact our [Support](https://services.dfx.swiss/support).
-
-
-## 7. Data collection on this website
-
-### Cookies
-
-DFX uses cookies exclusively to maintain the operation of IT systems and their functionality. No cookies are used for tracking user behavior or similar purposes.
-
-### Inquiry by email, telephone or fax
-
-If you contact us by email, telephone or fax, your inquiry including all personal data (name, inquiry) will be stored and processed by us for the purpose of processing your request. We will not pass on this data without your consent.
-
-The data you send to us via contact requests will remain with us until you ask us to delete it, revoke your consent to storage or the purpose for data storage no longer applies (e.g., after your request has been processed). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
+Se noti una possibile violazione della protezione dei dati, contatta il nostro [Supporto](https://services.dfx.swiss/support).
 
 
-## 8. Analysis tools and advertising
+## 7. Raccolta dati su questo sito
 
-DFX does not use website analysis tools such as Google Analytics, Adobe Analytics or others.
+### Biscotti
+
+DFX utilizza i cookie esclusivamente per mantenere il funzionamento dei sistemi IT e la loro funzionalità. Non vengono utilizzati cookie per tracciare il comportamento dell'utente o scopi simili.
+
+### Richiesta via e-mail, telefono o fax
+
+Se ci contatti via e-mail, telefono o fax, la tua richiesta, compresi tutti i dati personali (nome, richiesta) verrà archiviata ed elaborata da noi allo scopo di elaborare la tua richiesta. Non trasmetteremo questi dati senza il tuo consenso.
+
+I dati che ci invii tramite richieste di contatto rimarranno con noi fino a quando non ci chiederai di cancellarli, revocherai il tuo consenso alla memorizzazione o lo scopo della memorizzazione dei dati non sarà più applicabile (ad esempio, dopo che la tua richiesta è stata elaborata). Le disposizioni di legge obbligatorie, in particolare i termini di conservazione previsti dalla legge, rimangono inalterate.
 
 
-## 9. Newsletter and social media
+##8. Strumenti di analisi e pubblicità
 
-### Newsletter data
+DFX non utilizza strumenti di analisi del sito web come Google Analytics, Adobe Analytics o altri.
 
-If you would like to receive the newsletter offered on the website, we require a valid email address from you that is intended for direct access to the website, as well as information that allows us to verify that you are the owner of the email address provided and that you agree to receive the newsletter (so-called confirmation email in the "double opt-in procedure"). No further data is collected. We use this data exclusively for sending the requested information and do not pass it on to third parties.
 
-### Our social media presence
+## 9. Newsletter e social media
 
-#### Data processing by social media networks
+### Dati della newsletter
 
-We maintain publicly accessible profiles on social media networks. The individual social media networks we use are listed below.
+Se desideri ricevere la newsletter offerta sul sito web, abbiamo bisogno di un tuo indirizzo e-mail valido destinato all'accesso diretto al sito web, nonché informazioni che ci consentano di verificare che sei il proprietario dell'indirizzo e-mail fornito e che accetti di ricevere la newsletter (la cosiddetta e-mail di conferma nella "procedura double opt-in"). Non vengono raccolti ulteriori dati. Utilizziamo questi dati esclusivamente per inviare le informazioni richieste e non li trasmettiamo a terzi.
 
-Social media networks such as Facebook, Instagram, etc. can generally analyze your user behavior comprehensively when you visit their website or a website with integrated social media content (e.g., like buttons or advertising banners). Visiting our social media presence triggers numerous data protection-relevant processing operations.
+### La nostra presenza sui social media
 
-If you are logged into your social media account and visit our social media presence, the operator of the social media portal can assign this visit to your user account. However, your personal data may also be collected if you are not logged in or do not have an account with the respective social media portal. In this case, this data collection takes place, for example, via cookies that are stored on your end device or by recording your IP address.
+#### Elaborazione dei dati da parte dei social network
 
-With the help of the data collected in this way, the operators of the social media portals can create user profiles in which your preferences and interests are stored. In this way, interest-based advertising can be displayed to you within and outside the respective social media presence. If you have an account with the respective social media network, the interest-based advertising can be displayed on all devices on which you are logged in or have been logged in.
+Manteniamo profili accessibili pubblicamente sui social network. I singoli social network che utilizziamo sono elencati di seguito.
 
-Please also note that we cannot track all processing operations on the social media portals. Depending on the provider, further processing operations may therefore be carried out by the operators of the social media portals. For details, please refer to the terms of use and privacy policies of the respective social media portals.
+Le reti di social media come Facebook, Instagram ecc. possono generalmente analizzare in modo completo il comportamento dell'utente quando visita il loro sito web o un sito web con contenuti di social media integrati (ad esempio pulsanti o banner pubblicitari). La visita alla nostra presenza sui social media avvia numerose operazioni di trattamento rilevanti per la protezione dei dati.
 
-#### Social media networks in detail
+Se avete effettuato l'accesso al vostro account sui social media e visitate la nostra presenza sui social media, il gestore del portale dei social media può assegnare questa visita al vostro account utente. Tuttavia, i tuoi dati personali possono essere raccolti anche se non hai effettuato il login o non hai un account sul rispettivo portale dei social media. In questo caso la raccolta dei dati avviene, ad esempio, tramite cookie che vengono memorizzati sul vostro dispositivo finale o registrando il vostro indirizzo IP.
 
-##### Facebook
+Con l'aiuto dei dati così raccolti gli operatori dei portali dei social media possono creare profili utente in cui vengono memorizzate le vostre preferenze e i vostri interessi. In questo modo è possibile mostrarvi pubblicità basata sugli interessi sia all'interno che all'esterno della rispettiva presenza sui social media. Se avete un account presso la rispettiva rete di social media, la pubblicità basata sugli interessi può essere visualizzata su tutti i dispositivi su cui avete effettuato o avete effettuato l'accesso.
 
-We have a [profile on Facebook](https://www.facebook.com/p/DFX-Swiss-100075868787795/?_rdr). The provider of this service is Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland. According to Facebook, the data collected is also transferred to the USA and other third countries.
+Tieni inoltre presente che non possiamo tracciare tutte le operazioni di trattamento sui portali dei social media. A seconda del fornitore, ulteriori operazioni di trattamento possono quindi essere effettuate dagli operatori dei portali dei social media. Perdettagli, si prega di fare riferimento ai termini di utilizzo e alle politiche sulla privacy dei rispettivi portali di social media.
 
-We have concluded an agreement with Facebook on joint processing (Controller Addendum). This agreement specifies which data processing operations we or Facebook are responsible for when you visit our Facebook page. You can view this agreement at the following link: [Information on Page Insights](https://www.facebook.com/legal/terms/page_controller_addendum).
+#### I social media in dettaglio
 
-**You can customize your advertising settings yourself in your user account. To do this, click on the following link and log in:** [Personalization of your user account on Facebook](https://www.facebook.com/settings?tab=ads).
+#####Facebook
 
-Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: [Contractual addendum for the transfer of European data](https://www.facebook.com/legal/EU_data_transfer_addendum) and [Standard Contractual Clauses](https://de-de.facebook.com/help/566994660333381).
+Abbiamo un [profilo su Facebook](https://www.facebook.com/p/DFX-Swiss-100075868787795/?_rdr). Il fornitore di questo servizio è Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublino 2, Irlanda. Secondo Facebook i dati raccolti vengono trasferiti anche negli USA e in altri paesi terzi.
 
-Details can be found in the [Facebook Privacy Policy](https://www.facebook.com/about/privacy).
+Abbiamo concluso con Facebook un accordo sul trattamento congiunto (Addendum sul titolare del trattamento). Questo accordo specifica di quali operazioni di trattamento dei dati siamo responsabili noi o Facebook quando visiti la nostra pagina Facebook. È possibile visualizzare il presente accordo al seguente collegamento: [Informazioni su Page Insights](https://www.facebook.com/legal/terms/page_controller_addendum).
 
-##### X
+**Puoi personalizzare tu stesso le impostazioni pubblicitarie nel tuo account utente. Per fare ciò, clicca sul seguente link ed effettua l'accesso:** [Personalizzazione del tuo account utente su Facebook](https://www.facebook.com/settings?tab=ads).
 
-We have a [profile on X](https://x.com/DFX_Swiss) (formerly: Twitter). The provider is Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
+Il trasferimento dei dati negli USA si basa sulle clausole contrattuali standard della Commissione Europea. I dettagli possono essere trovati qui: [Addendum contrattuale per il trasferimento di dati europei](https://www.facebook.com/legal/EU_data_transfer_addendum) e [Clausole contrattuali tipo](https://de-de.facebook.com/help/566994660333381).
 
-We would like to point out that, as the operator of these pages, we have no influence on the processing of the transmitted data by X and are not informed about its exact content or use.
+I dettagli possono essere trovati nella [Informativa sulla privacy di Facebook](https://www.facebook.com/about/privacy).
 
-**You can adjust your X privacy settings yourself in your user account. To do this, click on the following link and log in:** [Personalization of your user account on X](https://x.com/settings/account/personalization).
+#####X
 
-Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: [Controller-to-Controller Transfers](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
+Abbiamo un [profilo su X](https://x.com/DFX_Swiss) (precedentemente: Twitter). Il fornitore è Twitter International Company, One Cumberland Place, Fenian Street, Dublino 2, D02 AX07, Irlanda.
 
-Details can be found in the [Privacy Policy of X](https://x.com/en/privacy).
+Desideriamo sottolineare che, in qualità di gestori di queste pagine, non abbiamo alcuna influenza sul trattamento dei dati trasmessi da parte di X e non siamo informati sul loro esatto contenuto o utilizzo.
+
+**Puoi modificare tu stesso le impostazioni sulla privacy di X nel tuo account utente. Per fare ciò, fai clic sul seguente collegamento ed effettua l'accesso:** [Personalizzazione del tuo account utente su X](https://x.com/settings/account/personalization).
+
+Il trasferimento dei dati negli USA si basa sulle clausole contrattuali standard della Commissione Europea. I dettagli possono essere trovati qui: [Trasferimenti da controller a controller](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
+
+I dettagli possono essere trovati nella [Informativa sulla privacy di X](https://x.com/en/privacy).
  
-##### Instagram
+#####Instagram
 
-We have a [profile on Instagram](https://www.instagram.com/dfx.swiss/). The provider is Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland.
+Abbiamo un [profilo su Instagram](https://www.instagram.com/dfx.swiss/). Il fornitore è Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublino 2, Irlanda.
 
-We would like to point out that, as the operator of these pages, we have no influence on the processing of the transmitted data by Instagram and are not informed about its exact content or use.
+Desideriamo sottolineare che, in qualità di gestori di queste pagine, non abbiamo alcuna influenza sul trattamento dei dati trasmessi da Instagram e non siamo informati sul loro esatto contenuto o utilizzo.
 
-Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: [Meta contractual addendum for the transfer of European data](https://www.facebook.com/legal/EU_data_transfer_addendum) and [Standard Contractual Clauses](https://de-de.facebook.com/help/566994660333381).
+Il trasferimento dei dati negli USA si basa sulle clausole contrattuali standard della Commissione Europea. I dettagli possono essere trovati qui: [Meta addendum contrattuale per il trasferimento di dati europei](https://www.facebook.com/legal/EU_data_transfer_addendum) e [Clausole contrattuali standard](https://de-de.facebook.com/help/566994660333381).
 
-Details on how they handle your personal data can be found in the [Instagram Privacy Policy](https://help.instagram.com/519522125107875).
+I dettagli su come gestiscono i tuoi dati personali possono essere trovati nella [Informativa sulla privacy di Instagram](https://help.instagram.com/519522125107875).
 
 ##### LinkedIn
 
-We have a [profile on LinkedIn](https://www.linkedin.com/company/dfxswiss/). The provider is LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland. LinkedIn uses advertising cookies.
+Abbiamo un [profilo su LinkedIn](https://www.linkedin.com/company/dfxswiss/). Il fornitore è LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublino 2, Irlanda. LinkedIn utilizza cookie pubblicitari.
 
-We would like to point out that, as the operator of these pages, we have no influence on the processing of the transmitted data by LinkedIn and are not informed about its exact content or use.
+Desideriamo sottolineare che, in qualità di gestori di queste pagine, non abbiamo alcuna influenza sul trattamento dei dati trasmessi da LinkedIn e non siamo informati sul loro esatto contenuto o utilizzo.
 
-**If you want to deactivate LinkedIn advertising cookies, please use the following link:** [Unsubscribe from ads](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
+**Se desideri disattivare i cookie pubblicitari di LinkedIn, utilizza il seguente link:** [Annulla iscrizione agli annunci](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
 
-Data transfer to the USA is based on the standard contractual clauses of the EU Commission. Details can be found here: [LinkedIn Data Processing Agreement](https://www.linkedin.com/legal/l/dpa) and [Standard Contractual Clauses (EU)](https://www.linkedin.com/legal/l/eu-sccs).
+Il trasferimento dei dati negli USA si basa sulle clausole contrattuali standard della Commissione Europea. I dettagli possono essere trovati qui: [LinkedIn Data Processing](https://www.linkedin.com/legal/l/dpa) e [Clausole contrattuali standard (UE)](https://www.linkedin.com/legal/l/eu-sccs).
 
-Details on how they handle your personal data can be found in the [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
-
-
-## 10. Data protection for applications and in the application process
-
-The controller collects and processes the personal data of applicants for the purpose of carrying out the application process. This processing may also take place electronically, in particular if applicants also send relevant application documents by email (e.g., in PDF format or other file types).
-
-If you apply for a job advertised by us, these data protection provisions apply in addition to our other data protection provisions, which have been communicated to you separately or are available on our website.
-
-The application is made exclusively via LinkedIn. If you apply for a vacancy via LinkedIn, please note that LinkedIn may store your personal data and may collect further data in relation to the progress of your application. Any use of your data by LinkedIn will be in accordance with LinkedIn's privacy policy. LinkedIn undertakes to maintain the same high standards of data protection and data security as we do.
-
-If the controller concludes an employment contract with an applicant, the data transmitted will be stored at DFX for the purpose of processing the employment relationship in compliance with statutory provisions and ensuring access for unauthorized persons.
-
-If no employment contract is concluded, the application documents will be automatically deleted 12 months after notification of the rejection decision without further notification, provided that no other legitimate interests of the data processing center prevent deletion. Legitimate interests may be, for example, obligations to provide evidence in proceedings under the Equal Treatment Act (GlG).
+I dettagli su come gestiscono i tuoi dati personali possono essere trovati nella [Informativa sulla privacy di LinkedIn](https://www.linkedin.com/legal/privacy-policy).
 
 
-## 11. Applicable law and jurisdiction
+## 10. Protezione dei dati durante le candidature e nel processo di candidatura
 
-The DFX website with its registered office in Switzerland is governed exclusively by Swiss (data protection) law, unless other mandatory law is applicable to the natural person concerned.
+Il responsabile del trattamento raccoglie e tratta i dati personali dei candidati allo scopo di eseguire il processo di candidatura. Questo trattamento può avvenire anche elettronicamente, in particolare se i candidati inviano la relativa documentazione di candidatura anche via e-mail (ad esempio in formato PDF o altri tipi di file).
 
-The court at the registered office of DFX (Switzerland) shall have exclusive jurisdiction for any disputes between you as a visitor and user of the DFX website arising from the operation of or visit to the websites, unless another mandatory place of jurisdiction is applicable to the natural person concerned.
+Se ti candidi per un posto di lavoro da noi pubblicizzato, queste disposizioni sulla protezione dei dati si applicano in aggiunta alle nostre altre disposizioni sulla protezione dei dati, che ti sono state comunicate separatamente o sono disponibili sul nostro sito web.
 
+La candidatura viene effettuata esclusivamente tramite LinkedIn. Se ti candidi per una posizione vacante tramite LinkedIn, tieni presente che LinkedIn può archiviare i tuoi dati personali e raccogliere ulteriori dati in relazione allo stato di avanzamento della tua candidatura. Qualsiasi utilizzo dei tuoi dati da parte di LinkedIn sarà conforme all'informativa sulla privacy di LinkedIn. LinkedIn si impegna a mantenere i nostri stessi elevati standard di protezione e sicurezza dei dati.
 
-## 12. Changes to the privacy policy
+Se il responsabile del trattamento stipula un contratto di lavoro con un candidato, i dati trasmessi verranno archiviati presso DFX allo scopo di elaborare il rapporto di lavoro in conformità con le disposizioni di legge e garantire l'accesso a persone non autorizzate.
 
-DFX regularly reviews this privacy policy to ensure that it is always up to date and reserves the right to amend it as necessary. It is recommended that you check this page regularly for possible changes, as no individual notification of changes will be made.  
-In the event of discrepancies with the English version, the German version of this privacy policy shall prevail.
-
-
-## 13. Legal information and disclaimer
-
-DFX accepts no liability for the accuracy and completeness of the content of the information.
-
-Liability claims relating to material or immaterial damage caused by the use or non-use of the information provided or by the use of incorrect or incomplete information are fundamentally excluded.
-
-All offers published by DFX in digital or electronic form are subject to change. DFX expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without prior notice or to cease publication temporarily or permanently.
+Se non viene concluso alcun contratto di lavoro, i documenti di candidatura verranno automaticamente cancellati 12 mesi dopo la notifica della decisione di rifiuto senza ulteriore notifica, a condizione che nessun altro interesse legittimo del centro di elaborazione dati impedisca la cancellazione. Gli interessi legittimi possono essere, ad esempio, l'obbligo di fornire prove in un procedimento ai sensi della legge sulla parità di trattamento (GlG).
 
 
-## 14. Liability for links
+## 11. Legge applicabile e giurisdizione
 
-References and links to third-party websites are outside the responsibility of DFX. Any responsibility for websites of third parties, i.e., outside the companies belonging to DFX, is rejected. Access to and use of such websites is at the user's own risk.
+Il sito web DFX con sede legale in Svizzera è regolato esclusivamente dalla legge svizzera (protezione dei dati), a meno che non sia applicabile un'altra legge obbligatoria alla persona fisica interessata.
 
-All offers published by DFX in digital or electronic form are subject to change. DFX expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without prior notice or to cease publication temporarily or permanently.
-
-
-## 15. Copyrights and intellectual property 
-
-The copyright and all other rights to the content, images, photos or other files on the DFX website belong exclusively to DFX and its affiliated companies, their suppliers or the specifically named rights holders.
+Il tribunale della sede legale di DFX (Svizzera) avrà giurisdizione esclusiva per eventuali controversie tra te come visitatore e utente del sito web DFX derivanti dal funzionamento o dalla visita dei siti web, a meno che un altro foro competente obbligatorio non sia applicabile alla persona fisica interessata.
 
 
-## 16. Consent to the privacy policy
+## 12. Modifiche all'informativa sulla privacy
 
-The customer accepts the content of the privacy policy in its current version in full. In the event of contradictions, the privacy policy takes precedence over the General Terms and Conditions of DFX.
+DFX rivede regolarmente la presente informativa sulla privacy per garantire che sia sempre aggiornata e si riserva il diritto di modificarla se necessario. Si consiglia di controllare regolarmente questa pagina per eventuali modifiche, poiché non verrà effettuata alcuna notifica individuale delle modifiche.  
+In caso di discrepanze con la versione inglese, prevarrà la versione tedesca della presente informativa sulla privacy.
+
+
+## 13. Informazioni legali e disclaimer
+
+DFX non si assume alcuna responsabilità per l'accuratezza e la completezza del contenuto delle informazioni.
+
+Sono sostanzialmente escluse pretese di responsabilità per danni materiali o immateriali causati dall'utilizzo o dal mancato utilizzo delle informazioni fornite oppure dall'utilizzo di informazioni errate o incomplete.
+
+Tutte le offerte pubblicate da DFX in formato digitale o elettronico sono soggette a modifiche. DFX si riserva espressamente il diritto di modificare, integrare o eliminare parti delle pagine o l'intera offerta senza preavviso o di cessare la pubblicazione temporaneamente o permanentemente.
+
+
+## 14. Responsabilità per i collegamenti
+
+Riferimenti e collegamenti a siti Web di terzi non rientrano nella responsabilità di DFX. Si declina qualsiasi responsabilità per siti web di terzi, cioè al di fuori delle società appartenenti a DFX. L'accesso e l'utilizzo di tali siti web sono a rischio e pericolo dell'utente.
+
+Tutte le offerte pubblicate da DFX in formato digitale o elettronico sono soggette a modifiche. DFX si riserva espressamente il diritto di modificare, integrare o eliminare parti delle pagine o l'intera offerta senza preavviso o di cessare la pubblicazione.attivo temporaneamente o permanentemente.
+
+
+##15. Diritto d'autore e proprietà intellettuale 
+
+Il copyright e tutti gli altri diritti su contenuti, immagini, foto o altri file sul sito web DFX appartengono esclusivamente a DFX e alle sue società affiliate, ai loro fornitori o ai titolari dei diritti specificatamente nominati.
+
+
+##16. Consenso alla privacy policy
+
+Il cliente accetta integralmente il contenuto dell'informativa sulla privacy nella sua versione attuale. In caso di contraddizioni, la politica sulla privacy ha la precedenza sui Termini e condizioni generali di DFX.
 
