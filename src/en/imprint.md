@@ -1,11 +1,11 @@
 # Imprint
 
-DFX AG  
+DFX Ltd.  
 Bahnhofstrasse 7  
 6300 Zug  
 Switzerland
 
 Commercial Register: CHE-429.856.521  
-Registration Court: Zug
-  
-Electronic contact with DFX is possible at https://app.dfx.swiss/support. 
+Registration court: Zug
+
+Electronic contact with DFX is possible by visiting https://app.dfx.swiss/support.
