@@ -111,7 +111,7 @@ DFX verwendet Profilingverfahren zur Bereitstellung von Finanzdienstleistungen, 
 
 * Bonitätsprüfungen
 * Risikoanalysen
-* Bereitstellung relevanter Serviceinformationen
+* Bereitstellung transaktionsbezogener Serviceinformationen
 
 DFX führt keine rein automatisierten Entscheidungsprozesse durch, die rechtsverbindlich sind oder erhebliche Auswirkungen auf betroffene Personen haben. Sollten automatisierte Entscheidungsfindungen oder Profilingverfahren in der Zukunft zum Einsatz kommen, wird DFX sicherstellen, dass diese Verfahren den gesetzlichen Anforderungen des Schweizerischen Datenschutzgesetzes (DSG) entsprechen und betroffene Personen angemessen über den Prozess informiert werden.
 
@@ -187,7 +187,7 @@ Als Nutzer, dessen personenbezogene Daten im Rahmen dieser Datenschutzrichtlinie
 * Recht auf Berichtigung oder Korrektur unrichtiger oder unvollständiger personenbezogener Daten.
 * Recht auf Löschung der personenbezogenen Daten, sofern die gesetzlichen Voraussetzungen erfüllt sind.
 * Recht auf Einschränkung der Verarbeitung personenbezogener Daten, sofern die gesetzlichen Voraussetzungen erfüllt sind.
-* Recht auf Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten, insbesondere zu Marketingzwecken.
+* Recht auf Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten.
 * Recht auf Datenübertragbarkeit: Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
 
 Die oben genannten Rechte können verweigert oder eingeschränkt werden, wenn die Interessen, Rechte und Freiheiten Dritter überwiegen oder wenn die Verarbeitung zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.
