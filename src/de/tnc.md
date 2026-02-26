@@ -35,7 +35,7 @@ Die Kunden sind verpflichtet, Benutzer-IDs, Passwörter und andere Identifikatio
 Die Kunden verpflichten sich, die Website sowie die App in angemessener Weise zu nutzen und diese in keiner Weise zu missbrauchen oder in einer Weise zu nutzen, die beispielsweise zu einer Überlastung der Website, einer Verzögerung bei der Übertragung von Informationen, einer Unterbrechung des Dienstes, einer Blockade des Zugangs zur Website oder sonstigen schädlichen Auswirkungen für DFX oder für die Nutzer der Website respektive der App führen könnte. Insbesondere ist es untersagt, E-Mail-Bombing oder einen Denial-of-Service-Angriff (insbesondere Flooding) durchzuführen oder einen ähnlichen Versuch zu unternehmen, die Website respektive die App mit einem Virus, Wurm, Trojaner oder sonstiger Software zu infizieren oder einen ähnlichen Versuch zu unternehmen, sich unbefugten Zugriff auf die Server, die die Website respektive App verwalten, zu verschaffen oder dies zu versuchen, die Sicherheitsfunktionen der Website respektive App zu umgehen oder zu deaktivieren beziehungsweise dies zu versuchen (Hacking), die auf der Website respektive App bereitgestellten Informationen mithilfe von automatischen Aktualisierungsprogrammen, zum Beispiel wie sie von anderen Websites bereitgestellt werden, zu aktualisieren, oder Offline-Reader oder ähnliche Software zu verwenden, insbesondere so, dass ein Massen-Download von Daten von der Website respektive der App auf die Festplatte des Kunden möglich ist. DFX behält sich das Recht vor, im Falle einer solchen nicht ordnungsgemässen Nutzung der Website respektive der App dem entsprechenden Kunden den Zugang zur Website und App zu verweigern. Dies gilt auch, wenn es sich um einen registrierten Kunden von DFX handelt.
 
 ## Allgemeiner Umgang mit kundenbezogenen Daten
-Die Kunden nehmen zur Kenntnis, dass DFX alle Aktionen ihrer Kunden auf DFX-eigenen Websites, APIs und Anwendungen zu Zwecken der Sicherheit, Systemüberwachung, Verwaltung und der Einhaltung der gesetzlichen und regulatorischen Anforderungen aufzeichnen und analysieren kann.
+Die Kunden nehmen zur Kenntnis, dass DFX alle Aktionen ihrer Kunden auf DFX-eigenen Websites, APIs und Anwendungen zu Zwecken der Sicherheit, Systemüberwachung, Verwaltung, Servicekommunikation und der Einhaltung der gesetzlichen und regulatorischen Anforderungen aufzeichnen und analysieren kann.
 
 DFX wird diese Informationen unter den entsprechenden Sicherheitsbedingungen für einen begrenzten Zeitraum speichern. DFX wird die personenbezogenen Daten nicht an Dritte weitergeben, ausser DFX ist hierzu aufgrund gesetzlicher und/oder regulatorischer Bestimmungen verpflichtet. Details hierzu finden sich unter "Umgang mit Kundendaten bei Banktransaktionen" sowie "Umgang mit Kundendaten bei Blockchain-Transaktionen".
 
@@ -70,7 +70,6 @@ Die Finanzdienstleistungen von DFX umfassen:
 Die Payment-Optionen umfassen:
 * Banküberweisung
 * SEPA Instant Banküberweisung
-* Kreditkarte
 * Krypto-Einzahlung
 
 ## Gebühren
@@ -79,8 +78,6 @@ Die Gebühren variieren je nach Art der Dienstleistung, Typ des Kundenaccounts, 
 Handel von Crypto Assets ohne besonderer Betreuung als Privatperson per Banktransaktion: 1.49% Kauf, 1.99% Verkauf
 Handel von Crypto Assets ohne besonderer Betreuung als jursitische Person per Banktransaktion: 1.99% Kauf, 2.49% Verkauf
 Handel von Crypto Assets mit besonderer Betreuung als Privatperson oder als juristische Person per Banktransaktion: 5% Pauschal
-Bei Nutzung einer Kreditkarte werden die Kreditkartengebühren von 3% zusätzlich angerechnet.
-
 Bei Transaktionen, welche möglicherweise eine unklare Herkunft der Vermögenswerte aufweisen, sind zusätzliche Abklärungen notwendig und es wird eine zusätzliche Gebühr von 1% erhoben.  
 
 ## Abwicklung von Rückerstattungen
@@ -91,7 +88,7 @@ Sollte der Kunde stattdessen eine Rückerstattungsanfrage direkt über die Bank 
 Diese Gebühren können nicht storniert oder auf Dritte übertragen werden. Der Kunde ist verpflichtet, die anfallenden Kosten in voller Höhe zu tragen.
 
 Wichtig:
-Bei jeglichen Problemen mit Zahlungen per Bank oder Kreditkarte ist immer zuerst unser Support über [Support](app.dfx.swiss/support) zu kontaktieren.
+Bei jeglichen Problemen mit Zahlungen per Bank ist immer zuerst unser Support über [Support](app.dfx.swiss/support) zu kontaktieren.
 Bitte sehen Sie davon ab, direkt die Bank zu kontaktieren, da dies zu erheblichen, vermeidbaren Gebühren führt, die vollständig vom Kunden getragen werden müssen.
 
 ## Lokale Beschränkungen
@@ -224,6 +221,8 @@ Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der 
 Unser Referral-Programm zahlt Kunden 0,25 % auf das Transaktionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird, sowie 0,1 % auf Payment-Link-Transaktionen. 
 
 Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter https://app.dfx.swiss/account einsehbar. Es wird darauf hingewiesen, dass dieser Link nur funktioniert, wenn der Nutzer sich bereits mit seinem Kundenaccount angemeldet hat.
+
+Das Referral-Programm richtet sich an in der Schweiz wohnhafte Kunden und ist für Empfehlungen im persönlichen Umfeld bestimmt. Es begründet kein Vertretungs-, Vermittlungs- oder Auftragsverhältnis. Der Kunde ist nicht berechtigt, im Namen von DFX aufzutreten oder Erklärungen abzugeben. Eine öffentliche oder bezahlte/gesponserte Bewerbung oder Verbreitung des Referral-Codes bzw. der Dienstleistungen von DFX (z.B. über Websites oder Social Media) ist nicht zulässig. Der Kunde nimmt zur Kenntnis, dass eine Weitergabe oder Bewerbung ausserhalb der Schweiz gegen lokale Vorschriften verstossen kann. Bei Verdacht oder Nachweis eines Verstosses kann DFX die Teilnahme sperren sowie Vorteile oder Vergütungen verweigern oder zurückfordern. Der Kunde ersetzt DFX den Schaden aus schuldhafter Verletzung dieser Bestimmung, einschliesslich angemessener Rechtskosten. Behördliche Bussen oder Strafen ersetzt der Kunde nur, soweit dies gesetzlich zulässig ist und sie unmittelbar durch sein schuldhaftes Verhalten verursacht wurden.
 
 ## Inkasso-Geschäft
 
