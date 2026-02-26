@@ -1,5 +1,7 @@
 # Imprint
 
+In case of discrepancies, the German version shall prevail.
+
 DFX AG  
 Bahnhofstrasse 7  
 6300 Zug  

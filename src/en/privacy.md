@@ -362,3 +362,4 @@ The copyright and all other rights to the content, images, photos or other files
 ## 16. Consent to the privacy policy
 
 The customer accepts the content of the privacy policy in its current version in full. In the event of contradictions, the privacy policy takes precedence over the General Terms and Conditions of DFX.
+
