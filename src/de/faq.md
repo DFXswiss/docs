@@ -17,8 +17,8 @@ Wir sind ausserdem verpflichtet, alle uns zugänglichen Informationen über den 
 ## Inwiefern hat DFX Zugriff auf mein Geld?
 DFX hat nur während des Kaufs beziehungsweise Verkaufs Zugriff auf das Geld des Kunden. Sobald das Geld an die Wallet ausgezahlt wurde, hat alleine der Kunde Zugriff, da es sich um eine Non-Custodial Wallet handelt. DFX verwaltet in keiner Weise die Gelder der Kunden.
 
-## Welche Länder werden durch DFX bedient?
-Belgien, Dänemark, Deutschland, Estland, Finnland, Frankreich (einschliesslich Überseegebiete, DOM, keine TOM), Färöer, Griechenland, Grönland, Guernsey Insel, Irland, Island, Israel, Italien, Jersey, Kroatien, Lettland, Liechtenstein, Litauen, Luxemburg, Niederlande (einschliesslich Überseegebiete), Norwegen, Österreich, Polen, Portugal, Rumänien, San Marino, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Vereinigte Arabische Emirate, Vereinigtes Königreich, Zypern
+## Welche Zahlungswege akzeptiert DFX?
+DFX akzeptiert SEPA- und SEPA-Instant-Überweisungen. Ob eine Überweisung möglich ist, hängt davon ab, ob die Bank des Kunden am SEPA-Zahlungsraum teilnimmt. Als VQF-Mitglied ist DFX den Sorgfaltspflichten des Schweizer Geldwäschereigesetzes (GwG) unterstellt. Geschäftsbeziehungen mit Personen in Jurisdiktionen, die von der FATF als Hochrisiko-Jurisdiktionen geführt werden, können nicht eingegangen werden. Die jeweils aktuelle Einstufung ist unter https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html einsehbar.
 
 ## Erhalte ich eine Übersicht aller Transaktionen, inklusive Fees, die ich während des Jahres bei DFX getätigt habe?
 Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch für das Finanzamt verwenden. Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://dfx.swiss/help) wenden.
@@ -123,8 +123,8 @@ Im Bezahlprozess auf unserer [Seite](https://services.dfx.swiss/) gibt es das Ei
 ## Gibt es ein Limit für die Anzahl der Empfehlungen, für die ich einen Bonus erhalten kann?
 Nein. Wir möchten, dass du so viele Freunde und Bekannte wie möglich von unserem Service überzeugst. Beide Seiten profitieren daher vom Referral-Programm.
 
-## Gibt es Banken die das Einzahlen an DFX blockieren?
-Nach umserem aktuellen Wissensstand blockiert die Sparkasse in Deutschland systematisch alle Transaktionen an das CH Bankkonto der DFX. Andere systematischen Blockierungen sind uns aktuell nicht bekannt. 
+## Gibt es Banken die Überweisungen an DFX blockieren?
+Einige Banken blockieren gelegentlich SEPA-Überweisungen an Krypto-Dienstleister. Falls eine Überweisung abgelehnt wird, empfehlen wir, direkt mit der eigenen Bank Kontakt aufzunehmen, um die Zahlung freizugeben. Alternativ kann eine andere Bank oder ein Zahlungsdienstleister für die Überweisung genutzt werden.
 
 ## DFX Metamask Exchange
 
@@ -191,29 +191,8 @@ Mehr dazu auf YouTube in diesem Tutorial-Video: [Crypto recovery](https://www.yo
 
 Hier findest du weitere Informationen zu DFX im Textformat: [DFX-Newsletter](https://newsletter.dfx.swiss/p/bitcoin-und-kryptowhrungen-direkt-deine-bitbox-ledger-und-trezor-kaufen)
 
-Krypto-Influencer (sowie alle anderen Webseiten-Eigner) können jetzt diese Toolbox auf der eigenen Webseite einbauen und Referral Code-Belohnungen damit generieren. 
-
-## Wie kann ich das IFRAME-Widget von DFX in meine eigene Website integrieren?
-Das ist ganz einfach, Du brauchst nur den folgenden Code:
-
-```
-<script defer="defer" src="https://services.dfx.swiss/widget/v1.0"></script>
-<div style="width:100%; max-width:450px; height:700px;">
-   <dfx-services mode="iframe" lang="de" refcode="000-000" wallet="IFRAME">Wird geladen ...</dfx-services>
-</div>
-```
-
-Die Parameter können auch angepasst werden.    
-lang:"de" steht für deutsch, "en" kann für englisch verwendet werden.   
-mode="home" steht für die Startseite.   
-Mit mode="buy" kommt man direkt auf die Kauf Seite.   
-Mit mode="buy-erc20" kommt man direkt auf die ERC 20 Auwahl Seite.   
-Mir refcode="000-000" kann der eigene persönliche Ref Code mitgegeben werden.   
-wallet="IFRAME" wird benötigt um eine eigene wallet id mitgeben zu können.   
-Das ist sinnvoll wenn man eine eigene persönliche IFRAME Lösung verwenden möchte mit einer eigens ausgewählten Auswahl an Coins die angeboten werden sollen.   
-   
-Hinweis: Technisch gesehen ist es kein IFRAME sondern ein Web-Widget. Das funktioniert viel besser als ein IFRAME.    
-Wenn Fragen auftauchen, helfen dir unsere Moderatoren in der [Telegram-Gruppe](https://t.me/DFXswiss) oder unser [Support](https://dfx.swiss/help) gerne weiter.   
+## Einbettbare Toolbox
+DFX stellt eine einbettbare Toolbox zur Verfügung, mit der DFX-Funktionalitäten auf externen Websites integriert werden können. Die technische Dokumentation und der HTML-Code sind unter https://dfx.swiss/dfx-toolbox.html abrufbar.   
 
 ## Command Line Login
 Du kannst dich auch mittels manueller Eingabe von einer Blockchainadresse und passender Signatur bei DFX einloggen. Gehe dazu auf https://services.dfx.swiss/login und klicke auf "Command Line". Als erstes wirst du nach deiner Blockchain-Adresse gefragt. Nach eingabe einer gültigen Blockchain-Adresse erhältst du eine Nachricht zum signieren. Signiere diese Nachricht mit deiner Wallet und trage die Signatur in das untere Feld ein. Mit einem Klick auf "Login" wird die Signatur geprüft und du wirst eingeloggt. 
