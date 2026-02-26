@@ -32,16 +32,97 @@ Vous pouvez nous contacter à tout moment à ce sujet ou pour toute autre questi
 
 DFX ne collecte pas de données supplémentaires pour évaluer statistiquement le comportement de navigation et n'utilise aucun de ces programmes dits d'analyse.
 
-## 2. Hosting
+## 2. Hébergement et infrastructure
 
-### Hosting avec GitHub
+### API et plateforme applicative avec Microsoft Azure
 
-Nous hébergeons notre site web chez [GitHub](https://github.com/). Pour plus de détails, veuillez consulter le site web de GitHub:
-[GitHub-Nutzungsbedingungen](https://docs.github.com/de/site-policy/github-terms/github-terms-of-service/).  
-[GitHub-Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement/).  
+L'infrastructure centrale de DFX — notamment l'API (api.dfx.swiss), la plateforme applicative (app.dfx.swiss) et la base de données — est exploitée sur Microsoft Azure (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA). Toutes les données personnelles traitées dans le cadre de l'utilisation de nos services financiers (y compris les données clients, les données de transactions, les données KYC et les documents d'identité) sont stockées et traitées sur l'infrastructure Azure.
+
+DFX utilise Azure App Services, Azure Storage, Azure CDN ainsi qu'une base de données Microsoft SQL Server. Le traitement des données s'effectue dans des centres de données Azure européens. Microsoft a mis en place des mesures techniques et organisationnelles appropriées pour garantir la protection des données personnelles. Le transfert de données vers les USA (le cas échéant) s'effectue sur la base du Swiss-US Data Privacy Framework et des clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD.
+
+Pour plus d'informations, veuillez consulter la [politique de confidentialité de Microsoft](https://privacy.microsoft.com/fr-fr/privacystatement) et les [conditions des services en ligne Microsoft](https://www.microsoft.com/licensing/terms).
+
+### Site d'information avec All-Inkl
+
+Le site d'information (dfx.swiss) et le site de documentation (docs.dfx.swiss) sont hébergés chez All-Inkl. Le fournisseur est ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstrasse 68, 02742 Friedersdorf, Allemagne. Aucune donnée client personnelle n'est traitée sur ces sites.
+
+Pour plus de détails, veuillez consulter la [politique de confidentialité d'All-Inkl](https://all-inkl.com/datenschutzinformationen/).
 
 
-## 3. Informations générales et obligatoires
+## 3. Sous-traitants et prestataires tiers
+
+DFX fait appel à différents sous-traitants externes pour fournir ses services. Ceux-ci traitent les données personnelles exclusivement sur mandat et selon les instructions de DFX. DFX s'assure par des accords contractuels que tous les sous-traitants garantissent un niveau adéquat de protection des données.
+
+### Vérification d'identité (KYC) avec Sumsub
+
+Pour la vérification d'identité légalement requise (Know Your Customer, KYC), DFX fait appel au prestataire Sumsub (Sum and Substance Ltd., Angleterre et Pays de Galles, Company No. 09688671) en tant que sous-traitant.
+
+#### Données traitées
+
+Dans le cadre de la vérification d'identité, les données personnelles suivantes sont transmises à Sumsub et traitées par celui-ci :
+
+* Données personnelles : prénom, nom, date de naissance, nationalité
+* Adresse : rue, numéro, code postal, ville, pays
+* Documents d'identité : passeport, carte d'identité ou autres documents officiels (copies/photos)
+* Données biométriques : images faciales (selfies), reconnaissance faciale et détection de vivacité pour la vérification d'identité
+* Enregistrements vidéo : dans le cadre de l'identification vidéo (si nécessaire)
+
+#### Données particulièrement sensibles (art. 5 let. c LPD)
+
+Les données biométriques traitées dans le cadre de la vérification d'identité (géométrie faciale, détection de vivacité) sont considérées comme des données personnelles particulièrement sensibles au sens de l'art. 5 let. c LPD. Le traitement de ces données s'effectue exclusivement sur la base de votre consentement exprès conformément à l'art. 6 al. 7 LPD, que vous donnez séparément avant le début du processus d'identification. Vous pouvez révoquer ce consentement à tout moment pour l'avenir ; toutefois, une révocation aura pour conséquence que la vérification d'identité ne pourra pas être achevée et que certains services de DFX ne pourront pas être utilisés.
+
+#### Transfert de données à l'étranger
+
+Sumsub a son siège en Angleterre et au Pays de Galles (Royaume-Uni). Le Royaume-Uni dispose d'une décision d'adéquation du Conseil fédéral suisse conformément à l'art. 16 al. 1 LPD, garantissant un niveau adéquat de protection des données sans nécessiter de garanties supplémentaires.
+
+#### Durée de conservation
+
+Les documents et données biométriques collectés dans le cadre de la vérification d'identité sont conservés par DFX pendant la durée légale de conservation de 10 ans après la fin de la relation d'affaires (art. 7 LBA). Les données biométriques brutes chez Sumsub sont supprimées conformément aux accords contractuels après la conclusion de la vérification.
+
+Pour plus d'informations sur la protection des données chez Sumsub, veuillez consulter la [politique de confidentialité de Sumsub](https://sumsub.com/privacy-notice-service/).
+
+### Prévention de la fraude avec Sift
+
+DFX fait appel au prestataire Sift Science, Inc. (123 Mission Street, Suite 2000, San Francisco, CA 94105, USA) en tant que sous-traitant pour la prévention de la fraude et la lutte contre le blanchiment d'argent.
+
+#### Données traitées
+
+Les données suivantes sont transmises à Sift dans le cadre de la prévention de la fraude :
+
+* Informations de compte : identifiant utilisateur, date de création, niveau KYC
+* Données de transactions : montant, devise, moyen de paiement (4 derniers chiffres de la carte de crédit ou 6 premiers et 4 derniers chiffres de l'IBAN), adresse blockchain
+* Données techniques : adresse IP, informations sur l'appareil, type de navigateur
+* Données de connexion : horodatage et type de connexion
+
+#### Transfert de données à l'étranger
+
+Sift a son siège aux USA. Le transfert de données s'effectue sur la base du Swiss-US Data Privacy Framework, dans la mesure où Sift est certifié sous ce cadre, ou sur la base de clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD.
+
+Pour plus d'informations, veuillez consulter la [politique de confidentialité de Sift](https://sift.com/legal-and-compliance/service-privacy-notice).
+
+### Contrôle des sanctions avec Dilisense
+
+DFX fait appel au prestataire Dilisense pour la vérification des clients par rapport aux listes de sanctions, aux listes PEP (personnes politiquement exposées) et aux casiers judiciaires. Dans le cadre de ce contrôle, le nom, la date de naissance et la nationalité du client sont transmis.
+
+### Surveillance côté serveur avec Azure Application Insights
+
+DFX utilise Microsoft Azure Application Insights (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA) à des fins de surveillance opérationnelle, de détection d'erreurs et d'optimisation des performances de l'infrastructure API. Application Insights n'est pas un outil d'analyse de site web pour le suivi du comportement des utilisateurs, mais un outil de surveillance côté serveur.
+
+#### Données traitées
+
+* Données de requêtes techniques : chemins URL, codes de statut HTTP, temps de réponse
+* Journaux d'erreurs et d'exceptions : traces de pile, messages d'erreur
+* Dépendances : appels aux bases de données et services externes
+* Adresses IP : dans le cadre du traitement des requêtes
+
+Aucun contenu personnel (tel que noms, adresses ou données financières) n'est transmis à Application Insights.
+
+#### Transfert de données à l'étranger
+
+Microsoft peut traiter des données dans des centres de données en dehors de la Suisse (UE/USA). Le transfert de données s'effectue sur la base des clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD et du Swiss-US Data Privacy Framework. Pour plus d'informations, veuillez consulter la [politique de confidentialité de Microsoft](https://privacy.microsoft.com/fr-fr/privacystatement).
+
+
+## 4. Informations générales et obligatoires
 
 ### Confidentialité
 
@@ -72,7 +153,17 @@ Le site Internet DFX.swiss enregistre et traite uniquement les données qui sont
 
 ### Remarque sur la transmission de données à l'étranger
 
-Pour l'hébergement, nous utilisons GitHub, une entreprise située aux États-Unis. Lorsque ces outils sont consultés, vos données personnelles sont transmises à ce pays tiers et pourraient y être traitées. Nous attirons votre attention sur le fait qu'il n'est pas possible de garantir dans ces pays un niveau de protection des données comparable à celui de la Suisse. Par exemple, les entreprises américaines sont obligées de transmettre des données personnelles aux autorités de sécurité sans que vous puissiez, en tant que personne concernée, intenter une action en justice. Il ne peut donc pas être exclu que les autorités américaines (par ex. les services secrets) traitent, évaluent et stockent durablement vos données sur des serveurs américains à des fins de surveillance. Nous n'avons aucune influence sur ces activités de traitement.
+Dans le cadre de nos activités commerciales, des données personnelles sont transmises aux destinataires dans les pays suivants :
+
+| Destinataire | Pays | Finalité | Base juridique |
+|-------------|------|----------|----------------|
+| Microsoft Corporation (Azure) | UE / USA | Hébergement de l'API, base de données, plateforme applicative, surveillance | Swiss-US DPF / Clauses contractuelles types (art. 16 al. 2 LPD) |
+| Sumsub (Sum and Substance Ltd.) | Royaume-Uni | Vérification d'identité (KYC) | Décision d'adéquation (art. 16 al. 1 LPD) |
+| Sift Science, Inc. | USA | Prévention de la fraude | Swiss-US DPF / Clauses contractuelles types (art. 16 al. 2 LPD) |
+| Dilisense | UE | Contrôle des sanctions et PEP | Décision d'adéquation (art. 16 al. 1 LPD) |
+| All-Inkl (ALL-INKL.COM - Neue Medien Münnich) | Allemagne (UE) | Hébergement du site d'information (aucune donnée client) | Décision d'adéquation (art. 16 al. 1 LPD) |
+
+DFX ne transfère des données personnelles que vers des pays disposant d'un niveau adéquat de protection des données (conformément à l'annexe 1 de l'ordonnance sur la protection des données), ou sous réserve de garanties appropriées telles que des clauses contractuelles types (art. 16 al. 2 let. d LPD). En outre, des données clients peuvent être transmises aux banques participantes en Suisse et à l'étranger dans le cadre de transactions bancaires (voir les Conditions générales).
 
 ### Révocation de votre consentement au traitement des données
 
@@ -117,7 +208,7 @@ Si vous avez limité le traitement de vos données à caractère personnel, ces 
 
 L'utilisation des données de contact publiées dans le cadre des mentions légales obligatoires pour l'envoi de publicité et de matériel d'information non expressément demandés est interdite. Les exploitants des pages se réservent expressément le droit d'engager des poursuites judiciaires en cas d'envoi non sollicité d'informations publicitaires, par exemple par le biais de spams.
 
-## 4. Collecte de données sur ce site web
+## 5. Collecte de données sur ce site web
 
 ### Cookies
 
@@ -139,11 +230,13 @@ Le traitement de ces données est basé sur l'article 6, paragraphe 1, point b) 
 
 Les données que vous nous avez envoyées par le biais de demandes de contact restent chez nous jusqu'à ce que vous nous demandiez de les effacer, que vous révoquiez votre consentement à leur stockage ou que la finalité du stockage des données devienne caduque (par ex. après le traitement de votre demande). Les dispositions légales contraignantes - en particulier les délais de conservation légaux - ne sont pas affectées.
 
-## 5. Outils d'analyse et publicité
+## 6. Outils d'analyse et publicité
 
-DFX n'utilise pas d'outils d'analyse tels que Google Analytics.
+DFX n'utilise pas d'outils d'analyse de site web pour le suivi du comportement des utilisateurs, tels que Google Analytics, Adobe Analytics ou des services comparables. Aucun pixel de suivi, cookie publicitaire ou technologie similaire d'analyse du comportement des utilisateurs n'est utilisé.
 
-## 6. lettre d'information
+Pour la surveillance opérationnelle côté serveur de l'infrastructure API, DFX utilise Microsoft Azure Application Insights (voir section 3 «Sous-traitants et prestataires tiers»). Cet outil est utilisé exclusivement pour la surveillance technique, la détection d'erreurs et l'optimisation des performances et ne collecte aucune donnée sur le comportement des utilisateurs sur le site web.
+
+## 7. lettre d'information
 
 ### Données de la newsletter
 

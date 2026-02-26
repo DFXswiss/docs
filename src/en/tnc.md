@@ -145,9 +145,9 @@ For blockchain transactions from DFX to non-self-hosted wallets, this data is au
 ## User Registration
 Before using the financial services of DFX, customers must register. Registration is free for individuals and leads to the creation of a user profile upon acceptance of the current Terms and Conditions. When a customer registers, the information and documents they must provide to DFX, as well as the maximum amount for which they can buy or sell cryptocurrencies, depend on their identification level:
 
-Registration is generally carried out via the blockchain address, providing the customer's email or phone number. This registration is considered standard – light KYC (Know-Your-Customer) – and allows the customer to buy/sell cryptocurrencies up to a set daily limit.
+Registration is generally carried out via the blockchain address, providing the customer's email or phone number. This registration is considered standard – light KYC (Know-Your-Customer) – and allows the customer to buy/sell cryptocurrencies up to a set monthly limit (rolling 30-day period).
 
-For buying/selling cryptocurrencies above this daily limit, a more detailed registration is required, which is considered the Extended – full KYC (Know-Your-Customer) process. As part of this process, the following information must be disclosed to DFX:
+For buying/selling cryptocurrencies above this monthly limit, a more detailed registration is required, which is considered the Extended – full KYC (Know-Your-Customer) process. As part of this process, the following information must be disclosed to DFX:
 
 * Address, verified by proof of delivery via mail to the provided address
 * A copy of the identity document (ID card or passport) with a signature, readable MRZ code, and a photo
@@ -216,7 +216,7 @@ Sales routes can be canceled as long as the cryptocurrency to be converted has n
 
 The transaction costs for the crypto or foreign currencies transferred to the customer are included in the base price. The prices are in the cryptocurrency allowed for the transaction and include Swiss VAT, if applicable. Once the transfer of the desired cryptocurrency or foreign currency to the customer’s wallet/account has been completed, the sale is considered final. The customer will receive an email confirmation of the transaction completion, along with a transaction summary.
 
-DFX notes that there is a maximum daily sales volume per customer. The customer can apply for a higher sales volume. This request will be evaluated and discussed individually by DFX.
+DFX notes that there is a maximum monthly sales volume per customer (rolling 30-day period). The customer can apply for a higher sales volume. This request will be evaluated and discussed individually by DFX.
 
 Refunds of sales to DFX customers are made exclusively in the originally transferred cryptocurrency. The refunded amount corresponds exactly to the value that was transferred to DFX.
 
@@ -238,7 +238,7 @@ The following terms apply:
   * Technical manipulations to deceive DFX regarding payment are not permitted and will be reported to the authorities. Specifically, "double spending" is prohibited and will be prosecuted as fraud.
 
 DFX offers payment through the following standards:
-* FrankencoinPay and OpenCryptoPay  
+* OpenCryptoPay
   * Payments via Lightning BOLT11
     * The user bears the routing fee.
     * A received contribution of 1 BTC equals 1 BTC.
@@ -263,5 +263,5 @@ DFX offers payment through the following standards:
 The fees for debt collection transactions are as follows:
 * DFX generally does not charge fees for settling debt collection claims.
 * DFX defines a blockchain address to which the claimed amount can be transferred. For payments via Lightning, a BOLT11 invoice is created. The costs for blockchain fees or Lightning routing fees must be borne by the user and are not part of DFX’s debt collection service. These fees are variable.
-* If the user decides to pay in a foreign currency, DFX will charge a currency conversion fee of 1% when FrankencoinPay, Lightning BOLT11, or OpenCryptoPay.io is used.  
+* If the user decides to pay in a foreign currency, DFX will charge a currency conversion fee of 1% when Lightning BOLT11 or OpenCryptoPay is used.  
 For all other payment options, such as "PayToBlockchainAddress," a currency conversion fee of 2% will be charged. The higher fee is required because these payment methods offer a longer validity period.

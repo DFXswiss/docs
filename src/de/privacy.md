@@ -120,16 +120,97 @@ DFX führt keine rein automatisierten Entscheidungsprozesse durch, die rechtsver
 Betroffene Personen haben das Recht, Widerspruch gegen Profiling einzulegen, sowie Auskunft über die zugrunde liegende Logik und die Auswirkungen des Profilings auf sie zu verlangen.
 
 
-## 4. Hosting
+## 4. Hosting und Infrastruktur
 
-### Hosting mit All-Inkl
+### API und Anwendungsplattform mit Microsoft Azure
 
-Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstrasse 68, 02742 Friedersdorf (im Folgenden: All-Inkl). 
+Die Kern-Infrastruktur von DFX — insbesondere die API (api.dfx.swiss), die Anwendungsplattform (app.dfx.swiss) sowie die Datenbank — wird auf Microsoft Azure (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA) betrieben. Sämtliche personenbezogenen Daten, die im Rahmen der Nutzung unserer Finanzdienstleistungen verarbeitet werden (einschliesslich Kundendaten, Transaktionsdaten, KYC-Daten und Ausweisdokumente), werden auf Azure-Infrastruktur gespeichert und verarbeitet.
 
-All-Inkl hat geeignete technische und organisatorische Massnahmen implementiert, um den Schutz personenbezogener Daten zu gewährleisten. Einzelheiten zu deren Umgang mit personenbezogenen Daten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+DFX setzt Azure App Services, Azure Storage, Azure CDN sowie eine Microsoft SQL Server-Datenbank ein. Die Datenverarbeitung erfolgt in europäischen Azure-Rechenzentren. Microsoft hat geeignete technische und organisatorische Massnahmen implementiert, um den Schutz personenbezogener Daten zu gewährleisten. Die Datenübermittlung in die USA (soweit anwendbar) erfolgt auf Grundlage des Swiss-US Data Privacy Frameworks sowie der Standardvertragsklauseln gemäss Art. 16 Abs. 2 lit. d DSG.
+
+Weitere Informationen finden Sie in der [Datenschutzrichtlinie von Microsoft](https://privacy.microsoft.com/de-de/privacystatement) sowie in den [Microsoft Online Services Terms](https://www.microsoft.com/licensing/terms).
+
+### Informationswebsite mit All-Inkl
+
+Die Informationswebsite (dfx.swiss) sowie die Dokumentationsseite (docs.dfx.swiss) werden bei All-Inkl gehostet. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstrasse 68, 02742 Friedersdorf, Deutschland (im Folgenden: All-Inkl). Auf diesen Seiten werden keine personenbezogenen Kundendaten verarbeitet.
+
+Einzelheiten zu deren Umgang mit personenbezogenen Daten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
 
 
-## 5. Allgemeine Hinweise und Pflicht­informationen
+## 5. Auftragsverarbeiter und Drittanbieter
+
+DFX setzt zur Erbringung ihrer Dienstleistungen verschiedene externe Auftragsverarbeiter ein. Diese verarbeiten personenbezogene Daten ausschliesslich im Auftrag und nach Weisung von DFX. DFX stellt durch vertragliche Vereinbarungen sicher, dass alle Auftragsverarbeiter ein angemessenes Datenschutzniveau gewährleisten.
+
+### Identitätsprüfung (KYC) mit Sumsub
+
+Für die gesetzlich vorgeschriebene Identitätsprüfung (Know Your Customer, KYC) setzt DFX den Dienstleister Sumsub (Sum and Substance Ltd., England und Wales, Company No. 09688671) als Auftragsverarbeiter ein.
+
+#### Verarbeitete Daten
+
+Im Rahmen der Identitätsprüfung werden folgende personenbezogene Daten an Sumsub übermittelt und von Sumsub verarbeitet:
+
+* Personalien: Vorname, Nachname, Geburtsdatum, Nationalität
+* Anschrift: Strasse, Hausnummer, Postleitzahl, Ort, Land
+* Ausweisdokumente: Reisepass, Personalausweis oder andere amtliche Ausweise (Kopien/Fotos)
+* Biometrische Daten: Gesichtsbilder (Selfies), Gesichtserkennung und Liveness-Detection zur Überprüfung der Identität
+* Video-Aufnahmen: Im Rahmen der Video-Identifikation (sofern erforderlich)
+
+#### Besonders schützenswerte Daten (Art. 5 lit. c DSG)
+
+Die im Rahmen der Identitätsprüfung verarbeiteten biometrischen Daten (Gesichtsgeometrie, Liveness-Detection) gelten als besonders schützenswerte Personendaten im Sinne von Art. 5 lit. c DSG. Die Verarbeitung dieser Daten erfolgt ausschliesslich auf Grundlage Ihrer ausdrücklichen Einwilligung gemäss Art. 6 Abs. 7 DSG, die Sie vor Beginn des Identifikationsprozesses separat erteilen. Sie können diese Einwilligung jederzeit für die Zukunft widerrufen; ein Widerruf hat jedoch zur Folge, dass die Identitätsprüfung nicht abgeschlossen werden kann und bestimmte Dienstleistungen von DFX nicht genutzt werden können.
+
+#### Datenübermittlung ins Ausland
+
+Sumsub hat seinen Sitz in England und Wales (Vereinigtes Königreich). Das Vereinigte Königreich verfügt über einen Angemessenheitsbeschluss des Schweizerischen Bundesrats gemäss Art. 16 Abs. 1 DSG, wodurch ein angemessenes Datenschutzniveau gewährleistet ist und keine zusätzlichen Garantien erforderlich sind.
+
+#### Speicherdauer
+
+Die im Rahmen der Identitätsprüfung erhobenen Dokumente und biometrischen Daten werden von DFX für die Dauer der gesetzlich vorgeschriebenen Aufbewahrungsfrist von 10 Jahren nach Beendigung der Geschäftsbeziehung gespeichert (Art. 7 GwG). Biometrische Rohdaten bei Sumsub werden gemäss den vertraglichen Vereinbarungen nach Abschluss der Prüfung gelöscht.
+
+Weitere Informationen zum Datenschutz bei Sumsub finden Sie in der [Datenschutzrichtlinie von Sumsub](https://sumsub.com/privacy-notice-service/).
+
+### Betrugsprävention mit Sift
+
+DFX setzt den Dienstleister Sift Science, Inc. (123 Mission Street, Suite 2000, San Francisco, CA 94105, USA) als Auftragsverarbeiter zur Betrugsprävention und Geldwäschereibekämpfung ein.
+
+#### Verarbeitete Daten
+
+Im Rahmen der Betrugsprävention werden folgende Daten an Sift übermittelt:
+
+* Kontoinformationen: Benutzer-ID, Erstellungsdatum, KYC-Stufe
+* Transaktionsdaten: Betrag, Währung, Zahlungsmethode (letzte 4 Ziffern der Kreditkarte bzw. erste 6 und letzte 4 Ziffern der IBAN), Blockchain-Adresse
+* Technische Daten: IP-Adresse, Geräteinformationen, Browser-Typ
+* Anmeldedaten: Zeitpunkt und Art der Anmeldung
+
+#### Datenübermittlung ins Ausland
+
+Sift hat seinen Sitz in den USA. Die Datenübermittlung erfolgt auf Grundlage des Swiss-US Data Privacy Frameworks, sofern Sift unter diesem Framework zertifiziert ist, oder auf Grundlage von Standardvertragsklauseln gemäss Art. 16 Abs. 2 lit. d DSG.
+
+Weitere Informationen finden Sie in der [Datenschutzrichtlinie von Sift](https://sift.com/legal-and-compliance/service-privacy-notice).
+
+### Sanktionsprüfung mit Dilisense
+
+DFX setzt den Dienstleister Dilisense für die Überprüfung von Kunden gegen Sanktionslisten, PEP-Listen (politisch exponierte Personen) und Strafregister ein. Im Rahmen dieser Prüfung werden Name, Geburtsdatum und Nationalität des Kunden übermittelt.
+
+### Serverseitiges Monitoring mit Azure Application Insights
+
+DFX setzt Microsoft Azure Application Insights (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA) zum Zweck der Betriebsüberwachung, Fehlererkennung und Leistungsoptimierung der API-Infrastruktur ein. Application Insights ist kein Website-Analyse-Tool zur Erfassung von Nutzerverhalten, sondern ein serverseitiges Monitoring-Werkzeug.
+
+#### Verarbeitete Daten
+
+* Technische Anfragedaten: URL-Pfade, HTTP-Statuscodes, Antwortzeiten
+* Fehler- und Ausnahmeprotokolle: Stack-Traces, Fehlermeldungen
+* Abhängigkeiten: Aufrufe an Datenbanken und externe Dienste
+* IP-Adressen: Im Rahmen der Anfrageverarbeitung
+
+Es werden keine personenbezogenen Inhalte (wie Namen, Adressen oder Finanzdaten) an Application Insights übermittelt.
+
+#### Datenübermittlung ins Ausland
+
+Microsoft kann Daten in Rechenzentren ausserhalb der Schweiz verarbeiten (EU/USA). Die Datenübermittlung erfolgt auf Grundlage der Standardvertragsklauseln gemäss Art. 16 Abs. 2 lit. d DSG sowie des Swiss-US Data Privacy Frameworks. Weitere Informationen finden Sie in der [Datenschutzrichtlinie von Microsoft](https://privacy.microsoft.com/de-de/privacystatement).
+
+
+## 6. Allgemeine Hinweise und Pflichtinformationen
 
 ### Speicherdauer
 
@@ -172,7 +253,17 @@ Die Website speichert und verarbeitet lediglich die Daten welche als Minimum not
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
-Wir verwenden für das Hosting namens All-Inkl, ein Unternehmen aus Deutschland. Wenn diese Tools aufgerufen werden, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden.
+Im Rahmen unserer Geschäftstätigkeit werden personenbezogene Daten an Empfänger in folgenden Staaten übermittelt:
+
+| Empfänger | Land | Zweck | Rechtsgrundlage |
+|-----------|------|-------|-----------------|
+| Microsoft Corporation (Azure) | EU / USA | Hosting der API, Datenbank, App-Plattform, Monitoring | Swiss-US DPF / Standardvertragsklauseln (Art. 16 Abs. 2 DSG) |
+| Sumsub (Sum and Substance Ltd.) | Vereinigtes Königreich | Identitätsprüfung (KYC) | Angemessenheitsbeschluss (Art. 16 Abs. 1 DSG) |
+| Sift Science, Inc. | USA | Betrugsprävention | Swiss-US DPF / Standardvertragsklauseln (Art. 16 Abs. 2 DSG) |
+| Dilisense | EU | Sanktions- und PEP-Prüfung | Angemessenheitsbeschluss (Art. 16 Abs. 1 DSG) |
+| All-Inkl (ALL-INKL.COM - Neue Medien Münnich) | Deutschland (EU) | Hosting der Informationswebsite (keine Kundendaten) | Angemessenheitsbeschluss (Art. 16 Abs. 1 DSG) |
+
+DFX übermittelt personenbezogene Daten nur in Staaten, die über ein angemessenes Datenschutzniveau verfügen (gemäss Anhang 1 der Datenschutzverordnung), oder unter Anwendung geeigneter Garantien wie Standardvertragsklauseln (Art. 16 Abs. 2 lit. d DSG). Zusätzlich können im Rahmen von Banktransaktionen Kundendaten an beteiligte Banken im In- und Ausland übermittelt werden (siehe Allgemeine Geschäftsbedingungen).
 
 ### SSL- bzw. TLS-Verschlüsselung
 
@@ -197,7 +288,7 @@ Die oben genannten Rechte können verweigert oder eingeschränkt werden, wenn di
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, wie etwa durch Spam-E-Mails, vor.
 
 
-## 6. Datenschutzverletzungen
+## 7. Datenschutzverletzungen
 
 DFX nimmt Datenschutzverletzungen sehr ernst und hat Prozesse implementiert, um solche Vorfälle effizient und in Übereinstimmung mit den gesetzlichen Vorschriften zu bearbeiten. Eine Datenschutzverletzung liegt vor, wenn personenbezogene Daten unbeabsichtigt oder unrechtmässig offengelegt, verändert, gelöscht oder unberechtigt zugänglich gemacht werden.
 
@@ -213,8 +304,9 @@ Im Falle einer Datenschutzverletzung verfolgt DFX ein strukturiertes Vorgehen, u
 
 Im Falle einer Datenschutzverletzung, die ein Risiko für die Rechte und Freiheiten betroffener Personen darstellt, ist DFX gesetzlich verpflichtet, bestimmte Parteien zu informieren. Diese Benachrichtigungen sollen sicherstellen, dass sowohl die zuständigen Behörden als auch die betroffenen Personen rechtzeitig über die Verletzung und die ergriffenen Massnahmen informiert werden. Die Benachrichtigungen erfolgen unter Einhaltung der gesetzlichen Vorgaben und umfassen folgende Schritte:
 
-* Benachrichtigung der Aufsichtsbehörde innerhalb von 72 Stunden nach Bekanntwerden der Verletzung.
-* Benachrichtigung der betroffenen Personen unverzüglich und in klarer, verständlicher Sprache.
+* Benachrichtigung der zuständigen Aufsichtsbehörde (EDÖB) so rasch wie möglich nach Bekanntwerden der Verletzung (Art. 24 Abs. 1 DSG).
+* Benachrichtigung der betroffenen Personen, sofern es zu deren Schutz erforderlich ist oder der EDÖB dies verlangt (Art. 24 Abs. 4 DSG), unverzüglich und in klarer, verständlicher Sprache.
+* Auftragsverarbeiter von DFX (wie Sumsub, Sift und weitere) sind vertraglich verpflichtet, DFX unverzüglich über Datenschutzverletzungen zu informieren (Art. 24 Abs. 3 DSG).
    
 ### Schutzmassnahmen
 
@@ -225,7 +317,7 @@ Um Datenschutzverletzungen vorzubeugen, setzen wir technische und organisatorisc
 Wenn Sie eine mögliche Datenschutzverletzung bemerken, wenden Sie sich bitte an an unseren [Support](https://services.dfx.swiss/support) wenden.
 
 
-## 7. Datenerfassung auf dieser Website
+## 8. Datenerfassung auf dieser Website
 
 ### Cookies
 
@@ -238,12 +330,14 @@ Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage in
 Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (zum Beispiel nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
 
-## 8. Analyse-Tools und Werbung
+## 9. Analyse-Tools und Werbung
 
-DFX verwendet keine Website-Analyse-Tools wie zum Beispiel Google Analytics, Adobe Analytics oder andere.
+DFX verwendet keine Website-Analyse-Tools zur Erfassung von Nutzerverhalten wie zum Beispiel Google Analytics, Adobe Analytics oder vergleichbare Dienste. Es werden keine Tracking-Pixel, Werbecookies oder ähnliche Technologien zur Analyse des Nutzerverhaltens eingesetzt.
+
+Für die serverseitige Betriebsüberwachung der API-Infrastruktur setzt DFX Microsoft Azure Application Insights ein (siehe Abschnitt 5 «Auftragsverarbeiter und Drittanbieter»). Dieses Werkzeug dient ausschliesslich der technischen Überwachung, Fehlererkennung und Leistungsoptimierung und erfasst keine Daten zum Nutzerverhalten auf der Website.
 
 
-## 9. Newsletter und Social Media
+## 10. Newsletter und Social Media
 
 ### Newsletter­daten
 
@@ -312,7 +406,7 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der [Datenschutzrichtlinie von LinkedIn](https://www.linkedin.com/legal/privacy-policy).
 
 
-## 10. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
+## 11. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
 
 Der für die Bearbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbenden zum Zweck der Durchführung des Bewerbungsverfahrens. Diese Verarbeitung kann auch elektronisch erfolgen, insbesondere wenn Bewerbende zusätzlich relevante Bewerbungsunterlagen per E-Mail (zum Beispiel im PDF-Format oder anderen Dateitypen) übermitteln.
 
@@ -325,20 +419,20 @@ Sollte der für die Bearbeitung Verantwortliche einen Arbeitsvertrag mit einer B
 Wird kein Arbeitsvertrag abgeschlossen, werden die Bewerbungsunterlagen 12 Monate nach Bekanntgabe der Ablehnungsentscheidung automatisch und ohne weitere Benachrichtigung gelöscht, sofern keine sonstigen berechtigten Interessen der datenverarbeitenden Stelle der Löschung entgegenstehen. Berechtigte Interessen können beispielsweise Nachweispflichten in Verfahren nach dem Gleichstellungsgesetz (GlG) sein.
 
 
-## 11. Anwendbares Recht und Gerichtsstand
+## 12. Anwendbares Recht und Gerichtsstand
 
 Für die Website von DFX mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht auf die betroffene natürliche Person anwendbar ist.
 
 Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von DFX, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von DFX (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
 
 
-## 12. Änderungen der Datenschutzerklärung
+## 13. Änderungen der Datenschutzerklärung
 
 DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, dass sie stets aktuell ist, und behält sich das Recht vor, sie bei Bedarf zu ändern. Es wird empfohlen, diese Seite regelmässig auf mögliche Änderungen zu überprüfen, da keine individuelle Benachrichtigung bei Änderungen erfolgt.  
 Bei Unstimmigkeiten mit der englischen Version ist die deutsche Fassung dieser Datenschutzerklärung massgebend.
 
 
-## 13. Rechtliche Hinweise und Haftungsausschluss
+## 14. Rechtliche Hinweise und Haftungsausschluss
 
 DFX übernimmt keine Haftung für die Richtigkeit und Vollständigkeit des Inhalts der Informationen.
 
@@ -347,19 +441,19 @@ Haftungsansprüche, die sich auf Schäden materieller oder ideeller Art beziehen
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
 
-## 14. Haftung für Links
+## 15. Haftung für Links
 
 Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von DFX. Jegliche Verantwortung für Websites von Dritten, das heisst ausserhalb der zu DFX gehörenden Unternehmen, wird abgelehnt. Der Zugang zu und die Nutzung von solchen Websites erfolgt auf eigenes Risiko des Nutzers.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
 
-## 15. Urheberrechte und Geistiges Eigentum 
+## 16. Urheberrechte und Geistiges Eigentum 
 
 Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern.
 
 
-## 16. Zustimmung zur Datenschutzerklärung
+## 17. Zustimmung zur Datenschutzerklärung
 
 Der Kunde akzeptiert den Inhalt der Datenschutzerklärung in der jeweils aktuellen Fassung vollumfänglich. Die Datenschutzerklärung hat im Falle von Widersprüchen Vorrang vor den Allgemeinen Geschäftsbedingungen von DFX.
 
