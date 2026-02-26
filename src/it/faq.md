@@ -1,7 +1,5 @@
 # FAQ
 
-In caso di discrepanze, fa fede la versione tedesca.
-
 Questa pagina contiene le domande più frequenti su DFX.swiss.
 
 ## Dove posso ottenere supporto se ho domande?

@@ -1,7 +1,5 @@
 # FAQ
 
-In case of discrepancies, the German version shall prevail.
-
 This page contains the most frequently asked questions about DFX.swiss.
 
 ## Where can I get support if I have questions?

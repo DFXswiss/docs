@@ -1,7 +1,5 @@
 # FAQ
 
-En cas de divergences, la version allemande fait foi.
-
 Cette page contient les questions les plus fréquemment posées sur DFX.swiss.
 
 ## Où puis-je obtenir de l'aide si j'ai des questions ?

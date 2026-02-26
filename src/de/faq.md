@@ -1,7 +1,5 @@
 # FAQ
 
-Im Falle von Unstimmigkeiten ist die deutsche Version massgebend.
-
 Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 
 ## Wo erhalte ich bei Fragen Unterstützung?
