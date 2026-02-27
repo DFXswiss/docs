@@ -1,5 +1,7 @@
 # Impronta
 
+In caso di discrepanze, fa fede la versione tedesca.
+
 DFX AG  
 Bahnhofstrasse 7  
 6300 Zug  

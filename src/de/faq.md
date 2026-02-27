@@ -1,4 +1,5 @@
 # FAQ
+
 Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 
 ## Wo erhalte ich bei Fragen Unterstützung?
