@@ -1,7 +1,7 @@
 # Termes et Conditions
 Les présentes conditions générales (T&C) régissent l'utilisation des sites Internet dfx.swiss, services.dfx.swiss et app.dfx.swiss ainsi que tous les services financiers associés de DFX AG. En cas de divergences entre les différentes versions linguistiques, la version allemande fait foi.
 
-DFX AG (numéro d'identification d'entreprise : CHE-429.856.521, ci-après DFX), dont le siège social est situé Bahnhofstrasse 7, 6300 Zoug, Suisse, exploite le site Internet dfx.swiss et les sous-domaines associés services.dfx.swiss et app.dfx.swiss. DFX utilise ces sites Web pour proposer des services financiers. L'accès et l'utilisation de ces services sont soumis aux mentions légales importantes contenues dans les présentes (ci-après « les Conditions Générales »).
+DFX AG (numéro d'identification d'entreprise : CHE-429.856.521, ci-après DFX), dont le siège social est situé Bahnhofstrasse 7, 6300 Zug, Suisse, exploite le site Internet dfx.swiss et les sous-domaines associés services.dfx.swiss et app.dfx.swiss. DFX utilise ces sites Web pour proposer des services financiers. L'accès et l'utilisation de ces services sont soumis aux mentions légales importantes contenues dans les présentes (ci-après « les Conditions Générales »).
 
 De plus, DFX fournit gratuitement des logiciels, tels que DFX Wallet, en tant que produit open source. Ce logiciel peut être utilisé par tout utilisateur gratuitement et sans autorisation. L'utilisation de ce logiciel n'établit pas de relation commerciale avec DFX, car DFX n'a ​​aucun contrôle sur son utilisation par des tiers. L'utilisation de logiciels open source est principalement soumise à la [DFX Disclaimer](https://docs.dfx.swiss/en/disclaimer.html).
 
@@ -56,7 +56,7 @@ En outre, les crypto-monnaies issues de la construction de la finance décentral
 Si une clause des Conditions générales est nulle, révoquée ou autrement invalide, la validité des Conditions générales restantes ne sera pas affectée ou altérée.
 
 ## Loi applicable et juridiction
-Les Conditions générales sont régies et interprétées conformément au droit suisse, eà l'exclusion des dispositions relatives aux conflits de lois en vigueur en Suisse ou dans le pays (de résidence) ou l'état actuel du client. Tout litige découlant de ou en relation avec les Conditions générales, la relation du client avec DFX, y compris les obligations non contractuelles, sera soumis à la compétence exclusive du tribunal de Zoug, en Suisse.
+Les Conditions générales sont régies et interprétées conformément au droit suisse, eà l'exclusion des dispositions relatives aux conflits de lois en vigueur en Suisse ou dans le pays (de résidence) ou l'état actuel du client. Tout litige découlant de ou en relation avec les Conditions générales, la relation du client avec DFX, y compris les obligations non contractuelles, sera soumis à la compétence exclusive du tribunal de Zug, en Suisse.
 
 ## Services financiers
 

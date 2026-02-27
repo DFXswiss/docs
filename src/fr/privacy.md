@@ -17,9 +17,9 @@ Par conséquent, nous adhérons aux principes suivants lors du traitement des do
 
 L'organisme responsable sur la base de la loi suisse sur la protection des données (LPD) est :
 
-Adresse : DFX AG, Bahnhofstrasse 7, 6300 Zoug, Suisse
+Adresse : DFX AG, Bahnhofstrasse 7, 6300 Zug, Suisse
 Registre du Commerce : CHE-429.856.521
-Tribunal d'enregistrement : Zoug, Suisse
+Tribunal d'enregistrement : Zug, Suisse
 Site Internet : https://dfx.swiss
 Contact électronique : https://app.dfx.swiss/support
 
