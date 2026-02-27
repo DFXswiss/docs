@@ -1,11 +1,13 @@
-# Impressum
+# Mentions légales
 
-DFX SA    
+En cas de divergences, la version allemande fait foi.
+
+DFX AG  
 Bahnhofstrasse 7  
 6300 Zug  
 Suisse
 
-Registre du commerce: CHE-429.856.521  
-Tribunal d'enregistrement: Zug
+Registre du commerce : CHE-429.856.521  
+Tribunal d'enregistrement : Zug
   
-Le contact électronique avec DFX est possible sur https://app.dfx.swiss/support.
+Le contact électronique avec DFX est possible via https://app.dfx.swiss/support. 

@@ -1,5 +1,7 @@
 # Impressum
 
+Im Falle von Unstimmigkeiten ist die deutsche Version massgebend.
+
 DFX AG  
 Bahnhofstrasse 7  
 6300 Zug  
