@@ -1,38 +1,50 @@
-name: Deploy to All-Inkl
+name: Deploy develop to Cloudflare Pages
 
 on:
   push:
     branches: [develop]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  deployments: write
+
+concurrency:
+  group: dev-deploy
+  cancel-in-progress: true
+
 env:
   NODE_VERSION: '16.x'
 
 jobs:
-  build-and-deploy:
-    name: Build, and deploy to All-Inkl
+  deploy:
+    name: Build + wrangler pages deploy
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Use Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
 
       - name: Install packages
-        run: |
-          npm ci
+        run: npm ci
 
-      - name: Build code
-        run: |
-          npm run build
+      - name: Build
+        run: npm run build
 
-      - name: Deploy to All-Inkl
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-        with:
-          server: ${{ secrets.DEV_HOST }}
-          username: ${{ secrets.DEV_USER }}
-          password: ${{ secrets.DEV_PASSWORD }}
-          local-dir: './src/.vuepress/dist/'
+      - name: Install Wrangler
+        run: npm install -g wrangler@4
+
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          wrangler pages deploy ./src/.vuepress/dist \
+            --project-name=dfx-docs-dev \
+            --branch=develop \
+            --commit-hash=${{ github.sha }} \
+            --commit-message="${{ github.event.head_commit.message }}"
