@@ -35,6 +35,11 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Use Node.js 22 (wrangler)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
       - name: Install Wrangler
         run: npm install -g wrangler@4
 
