@@ -122,11 +122,11 @@ Les personnes concernées ont le droit de s'opposer au profilage et de demander 
 
 ## 4. Hébergement
 
-### Hébergement avec All-Inkl
+### Hébergement avec Cloudflare Pages
 
-Nous hébergeons notre site Web avec All-Inkl. Le fournisseur est ALL-INKL.COM - Neue Medien Münnich, propriétaire René Münnich, Hauptstrasse 68, 02742 Friedersdorf (ci-après : All-Inkl).
+Nous hébergeons notre site Web avec Cloudflare Pages. Le fournisseur est Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA (ci-après : Cloudflare).
 
-All-Inkl a mis en œuvre des mesures techniques et organisationnelles appropriées pour assurer la protection des données personnelles. Des détails sur leur traitement des données personnelles peuvent être trouvés dans la [politique de confidentialité d'All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+Cloudflare a mis en œuvre des mesures techniques et organisationnelles appropriées pour assurer la protection des données personnelles. Des détails sur leur traitement des données personnelles peuvent être trouvés dans la [politique de confidentialité de Cloudflare](https://www.cloudflare.com/privacypolicy/). Le traitement pour notre compte est régi par le [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
 
 ## 5. Notes générales et informations obligatoires
@@ -172,7 +172,9 @@ Le site Web stocke et traite uniquement les données minimales nécessaires au f
 
 ### Remarque sur le transfert de données à l'étranger
 
-Nous utilisons le service d'hébergement All-Inkl, une société allemande. Lors de l’accès à ces outils, vos données personnelles sont transférées vers ce pays tiers et pourraient y être traitées.
+Pour l'hébergement, nous utilisons Cloudflare Pages, un service fourni par Cloudflare, Inc., basée aux États-Unis. Lorsque vous accédez à notre site Web, des données techniquement nécessaires (notamment votre adresse IP et les métadonnées de requête) sont transférées aux États-Unis et y sont traitées, car Cloudflare termine la connexion en tant que reverse proxy / réseau de diffusion de contenu (CDN).
+
+Base juridique du transfert de données vers les États-Unis : Cloudflare est certifié au titre du [Data Privacy Framework UE–États-Unis](https://www.dataprivacyframework.gov/) et du Data Privacy Framework Suisse–États-Unis. Nous nous appuyons en outre sur les clauses contractuelles types de la Commission européenne. Malgré ces garanties, un accès des autorités américaines (par exemple en vertu du CLOUD Act) ne peut être entièrement exclu.
 
 ### Cryptage SSL ou TLS
 
