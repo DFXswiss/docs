@@ -122,11 +122,11 @@ Data subjects have the right to object to profiling and to request information a
 
 ## 4. Hosting
 
-### Hosting with All-Inkl
+### Hosting with Cloudflare Pages
 
-We host our website with All-Inkl. The provider is ALL-INKL.COM - Neue Medien Münnich, owner René Münnich, Hauptstrasse 68, 02742 Friedersdorf (hereinafter: All-Inkl). 
+We host our website with Cloudflare Pages. The provider is Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA (hereinafter: Cloudflare).
 
-All-Inkl has implemented appropriate technical and organizational measures to ensure the protection of personal data. Details on their handling of personal data can be found in the [privacy policy of All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+Cloudflare has implemented appropriate technical and organizational measures to ensure the protection of personal data. Details on their handling of personal data can be found in the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/). Processing on our behalf is governed by the [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
 
 ## 5. General notes and mandatory information
@@ -172,7 +172,9 @@ The website only stores and processes the minimum data necessary to operate the 
 
 ### Note on data transfer abroad
 
-We use the hosting service All-Inkl, a company from Germany. When these tools are accessed, your personal data is transferred to this third country and could be processed there.
+For hosting we use Cloudflare Pages, a service provided by Cloudflare, Inc. based in the USA. When you access our website, technically necessary data (in particular your IP address and request metadata) is transferred to the USA and processed there, as Cloudflare terminates the connection as a reverse proxy / content delivery network.
+
+Legal basis for the data transfer to the USA: Cloudflare is certified under the [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) and under the Swiss-U.S. Data Privacy Framework. In addition, we rely on the EU Commission's Standard Contractual Clauses. Despite these safeguards, access by U.S. authorities (e.g., under the CLOUD Act) cannot be entirely excluded.
 
 ### SSL or TLS encryption
 
