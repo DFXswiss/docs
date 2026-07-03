@@ -122,11 +122,11 @@ Betroffene Personen haben das Recht, Widerspruch gegen Profiling einzulegen, sow
 
 ## 4. Hosting
 
-### Hosting mit All-Inkl
+### Hosting mit Cloudflare Pages
 
-Wir hosten unsere Website bei All-Inkl. Anbieter ist ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Hauptstrasse 68, 02742 Friedersdorf (im Folgenden: All-Inkl). 
+Wir hosten unsere Website bei Cloudflare Pages. Anbieter ist Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA (im Folgenden: Cloudflare).
 
-All-Inkl hat geeignete technische und organisatorische Massnahmen implementiert, um den Schutz personenbezogener Daten zu gewährleisten. Einzelheiten zu deren Umgang mit personenbezogenen Daten finden Sie in den [Datenschutzbestimmungen von All-Inkl](https://all-inkl.com/datenschutzinformationen/).
+Cloudflare hat geeignete technische und organisatorische Massnahmen implementiert, um den Schutz personenbezogener Daten zu gewährleisten. Einzelheiten zu deren Umgang mit personenbezogenen Daten finden Sie in der [Datenschutzerklärung von Cloudflare](https://www.cloudflare.com/privacypolicy/). Die Verarbeitung in unserem Auftrag erfolgt auf Grundlage des [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
 
 ## 5. Allgemeine Hinweise und Pflicht­informationen
@@ -172,7 +172,9 @@ Die Website speichert und verarbeitet lediglich die Daten welche als Minimum not
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
-Wir verwenden für das Hosting namens All-Inkl, ein Unternehmen aus Deutschland. Wenn diese Tools aufgerufen werden, werden Ihre personenbezogene Daten in diesen Drittstaat übertragen und könnten dort verarbeitet werden.
+Wir nutzen für das Hosting Cloudflare Pages, einen Dienst der Cloudflare, Inc. mit Sitz in den USA. Beim Aufruf unserer Website werden technisch notwendige Daten (insbesondere Ihre IP-Adresse sowie Request-Metadaten) in die USA übertragen und dort verarbeitet, da Cloudflare als Reverse Proxy / Content Delivery Network die Verbindungen terminiert.
+
+Rechtsgrundlage der Datenübermittlung in die USA: Cloudflare ist nach dem [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) und nach dem Swiss-U.S. Data Privacy Framework zertifiziert. Ergänzend stützen wir die Übermittlung auf die Standardvertragsklauseln der EU-Kommission. Wir weisen darauf hin, dass trotz dieser Schutzmechanismen ein Zugriff durch US-Behörden (z. B. nach dem CLOUD Act) nicht vollständig ausgeschlossen werden kann.
 
 ### SSL- bzw. TLS-Verschlüsselung
 
