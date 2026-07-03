@@ -4,8 +4,7 @@ Questa pagina contiene le domande più frequenti su DFX.swiss.
 
 ## Dove posso ottenere supporto se ho domande?
 DFX offre supporto in diversi modi. Puoi trovare informazioni sui nostri prodotti e servizi sulla nostra homepage o qui nelle FAQ. 
-Generalmente raccomandiamo di utilizzare il supporto dei nostri moderatori. 
-Unisciti al nostro [gruppo Telegram](https://t.me/DFXswiss) a questo scopo. I nostri moderatori ti aiuteranno con problemi tecnici e domande riguardanti lo stato delle transazioni. Altrimenti, puoi anche contattare il nostro [Supporto](http://dfx.swiss/help).
+Per ulteriori domande, contatta il nostro [Supporto](https://dfx.swiss/help).
 
 ## Cosa include esattamente il servizio DFX?
 DFX è il ponte tra la banca e lo spazio crypto, consentendo ai clienti privati e aziendali di acquistare e vendere criptovalute. Stiamo lavorando per espandere la nostra offerta a quante più blockchain possibile. Informazioni sulla nostra offerta attuale possono essere trovate sulla nostra [homepage](https://dfx.swiss/it/).
@@ -129,20 +128,9 @@ Alcune banche occasionalmente bloccano i bonifici SEPA ai fornitori di servizi c
 
 ## DFX Metamask Exchange
 
-## Dove posso trovare informazioni su MetaMask?
-Il compendio completo MetaMask può essere trovato [qui](https://t.me/DFXswiss/86011).
-
-Puoi trovare alcuni sotto-argomenti nei seguenti post:
-- [Configurazione di MetaMask](https://t.me/DFXswiss/85947)
-- [Connessione di DFX Swiss e MetaMask](https://t.me/DFXswiss/85968)
-- [DFX Exchange - Preparazione di un ordine di acquisto](https://t.me/DFXswiss/86011)
-- [DFX Exchange - Vendita](https://t.me/DFXswiss/96022)
-
 ### MetaMask & Arbitrum 
 Arbitrum è una soluzione di secondo livello per la blockchain ETH.
 Riduce le elevate commissioni di transazione e gli importi minimi di transazione.
-
-Maggiori dettagli possono essere trovati [qui](https://t.me/DFXswiss/92213).
 
 ## Bitcoin
 
@@ -158,25 +146,16 @@ La maggior parte dei portafogli è probabilmente compatibile. Abbiamo particolar
 In BlueWallet, fai clic su "Aggiungi portafoglio". Quindi fai clic su "Importa portafoglio", inserisci le 12 parole (seed) e fai clic su "Importa". Ora hai trasferito con successo il tuo portafoglio a BlueWallet. 
 
 ### Dove posso trovare informazioni sul servizio specifico Bitcoin di DFX?
-Di seguito troverai link ad articoli e video che sono stati forniti su questo argomento, ad esempio, nel nostro gruppo Telegram o su YouTube.
+Di seguito troverai link ad articoli e video che sono stati forniti su questo argomento, ad esempio, su YouTube.
 
-Messaggio nell'app Bitcoin (BTC) solo "Backup non verificato"
-
-- [Spiegazione](https://t.me/DFXswiss/91021)
 - [Tutorial YouTube di Oli](https://youtu.be/CPYjvBC2NRs)
-- [Invia globalmente](https://t.me/DFXswiss/99843)
-- [Portafoglio BTC già disponibile?](https://t.me/DFXswiss/84476)  
 - [Modello di frase seed DFX (download PDF)](https://dfx.swiss/wp-content/uploads/2022/11/221124_DFX_Seedphrase_Template_EN.pdf)
 - [Acquista Bitcoin nativo](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Kaufen.mp4)
 - [Vendi Bitcoin nativo](https://dfx.swiss/wp-content/uploads/2022/11/Bitcoin-Wallet-Beta-Verkaufen1.mp4)
 
 Attenzione: I video sono stati creati prima dell'introduzione della nuova struttura delle commissioni DFX e mostrano quindi ancora le commissioni DFX prima del 1° dicembre 2022.
 
-- [Usa il KYC DFX esistente con l'app BTC solo](https://t.me/DFXswiss/84097)
-
-SEPA Instant o SEPA standard può quindi essere utilizzato. Ulteriori informazioni possono essere trovate [qui](https://t.me/DFXswiss/71068).
-
-- [Informazioni importanti sul tasso BTC durante l'acquisto](https://t.me/DFXswiss/85437)
+SEPA Instant o SEPA standard può quindi essere utilizzato.
 
 Se hai domande o incertezze su questo, puoi semplicemente contattare il nostro [Supporto](https://dfx.swiss/help).
 
@@ -185,7 +164,6 @@ Se hai domande o incertezze su questo, puoi semplicemente contattare il nostro [
 - Ledger
 - Trezor 
 
-[Fai clic qui per imparare come acquistare o vendere asset crypto con la nuova toolbox](https://t.me/DFXswiss/85437)  
 Investi una volta o tramite ordine permanente (DCA) direttamente nel tuo portafoglio hardware!
 
 Maggiori informazioni su YouTube in questo video tutorial: [Recupero crypto](https://www.youtube.com/watch?v=pUQnjZZho38)
@@ -201,7 +179,6 @@ Puoi anche accedere a DFX inserendo manualmente un indirizzo blockchain e una fi
 ## Qual è lo stato della mia transazione? Non ho ricevuto i miei asset crypto.
 Se hai effettuato una transazione e hai domande su questa transazione perché non hai ancora ricevuto gli asset crypto, hai le seguenti opzioni:
 - Se si trattava di una transazione bancaria, raccomandiamo vivamente di attendere 2 giorni lavorativi. Le transazioni bancarie vengono solitamente elaborate entro poche ore, ma in casi estremi possono anche richiedere 3 giorni lavorativi. Raccomandiamo quindi di attendere 2 giorni lavorativi prima di avviare un'indagine.
-- Puoi chiedere nella [chat Telegram DFX](https://t.me/DFXswiss). I moderatori lì rispondono molto rapidamente alle richieste e possono solitamente aiutare rapidamente. Si prega di notare che un (vero) dipendente DFX non ti scriverà mai tramite messaggio privato! Se un presunto dipendente DFX ti scrive tramite messaggio privato, è un truffatore e non un vero dipendente DFX. I dipendenti DFX ti scriveranno solo nel gruppo Telegram pubblico o solo in una chat privata che è stata avviata e aperta da te, mai in una chat privata che non è stata avviata da te stesso!
 - Puoi anche contattare il [Supporto](https://dfx.swiss/help) tramite il sito web.
 
 ## Quali dati devono essere inclusi in una richiesta di supporto?
