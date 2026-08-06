@@ -126,6 +126,15 @@ Nein. Wir möchten, dass du so viele Freunde und Bekannte wie möglich von unser
 ## Gibt es Banken die Überweisungen an DFX blockieren?
 Einige Banken blockieren gelegentlich SEPA-Überweisungen an Krypto-Dienstleister. Falls eine Überweisung abgelehnt wird, empfehlen wir, direkt mit der eigenen Bank Kontakt aufzunehmen, um die Zahlung freizugeben. Alternativ kann eine andere Bank oder ein Zahlungsdienstleister für die Überweisung genutzt werden.
 
+## Werden Zahlungen von Swissquote oder Yuh unterstützt?
+Nein. Der Zahlungsweg zwischen Swissquote bzw. Yuh und DFX ist eingeschränkt. Überweisungen von Konten bei Swissquote oder Yuh können daher von uns nicht verarbeitet werden.
+
+Bitte verwende für deine Einzahlung ein Konto bei einer anderen Bank, das auf deinen Namen lautet.
+
+Ist bereits eine Zahlung von einem Swissquote- oder Yuh-Konto bei uns eingegangen, kann diese nicht verarbeitet werden und muss auf ein anderes, auf deinen Namen lautendes Bankkonto zurücküberwiesen werden.
+
+Bitte wende dich in diesem Fall an unseren Support.
+
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 

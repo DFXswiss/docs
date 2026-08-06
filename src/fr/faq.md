@@ -126,6 +126,15 @@ Non. Nous voulons que vous convainquiez autant d'amis et de connaissances que po
 ## Y a-t-il des banques qui bloquent les virements vers DFX ?
 Certaines banques bloquent occasionnellement les virements SEPA vers les fournisseurs de services crypto. Si un virement est rejeté, nous recommandons de contacter directement votre propre banque pour libérer le paiement. Alternativement, une autre banque ou un autre prestataire de services de paiement peut être utilisé pour le virement.
 
+## Les paiements depuis Swissquote ou Yuh sont-ils pris en charge ?
+Non. Le canal de paiement entre Swissquote ou Yuh et DFX est restreint. Les virements provenant de comptes Swissquote ou Yuh ne peuvent donc pas être traités par nos soins.
+
+Veuillez utiliser pour votre dépôt un compte à votre nom auprès d'une autre banque.
+
+Si un paiement provenant d'un compte Swissquote ou Yuh nous est déjà parvenu, il ne peut pas être traité et doit être reversé sur un autre compte bancaire à votre nom.
+
+Dans ce cas, veuillez contacter notre support.
+
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 
