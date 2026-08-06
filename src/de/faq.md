@@ -131,9 +131,7 @@ Nein. Der Zahlungsweg zwischen Swissquote bzw. Yuh und DFX ist eingeschr채nkt. �
 
 Bitte verwende f체r deine Einzahlung ein Konto bei einer anderen Bank, das auf deinen Namen lautet.
 
-Ist bereits eine Zahlung von einem Swissquote- oder Yuh-Konto bei uns eingegangen, kann diese nicht verarbeitet werden und muss auf ein anderes, auf deinen Namen lautendes Bankkonto zur체ck체berwiesen werden.
-
-Bitte wende dich in diesem Fall an unseren Support.
+Ist bereits eine Zahlung von einem Swissquote- oder Yuh-Konto bei uns eingegangen, 체berweisen wir diese auf ein anderes, auf deinen Namen lautendes Bankkonto zur체ck. Bitte wende dich dazu an unseren Support.
 
 ## DFX Metamask Exchange
 

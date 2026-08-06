@@ -131,9 +131,7 @@ No. The payment channel between Swissquote or Yuh and DFX is restricted. Transfe
 
 Please use an account at another bank in your own name for your deposit.
 
-If a payment from a Swissquote or Yuh account has already reached us, it cannot be processed and must be transferred back to another bank account in your name.
-
-In this case, please contact our support.
+If a payment from a Swissquote or Yuh account has already reached us, we will transfer it back to another bank account in your name. Please contact our support for this.
 
 ## DFX Metamask Exchange
 

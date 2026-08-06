@@ -131,9 +131,7 @@ Non. Le canal de paiement entre Swissquote ou Yuh et DFX est restreint. Les vire
 
 Veuillez utiliser pour votre dépôt un compte à votre nom auprès d'une autre banque.
 
-Si un paiement provenant d'un compte Swissquote ou Yuh nous est déjà parvenu, il ne peut pas être traité et doit être reversé sur un autre compte bancaire à votre nom.
-
-Dans ce cas, veuillez contacter notre support.
+Si un paiement provenant d'un compte Swissquote ou Yuh nous est déjà parvenu, nous le reversons sur un autre compte bancaire à votre nom. Veuillez contacter notre support à ce sujet.
 
 ## DFX Metamask Exchange
 

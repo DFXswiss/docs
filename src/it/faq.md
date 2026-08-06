@@ -131,9 +131,7 @@ No. Il canale di pagamento tra Swissquote o Yuh e DFX è limitato. I bonifici da
 
 Per il tuo deposito, utilizza un conto a tuo nome presso un'altra banca.
 
-Se un pagamento da un conto Swissquote o Yuh è già arrivato presso di noi, non può essere elaborato e deve essere ritrasferito su un altro conto bancario a tuo nome.
-
-In questo caso, contatta il nostro supporto.
+Se un pagamento da un conto Swissquote o Yuh è già arrivato presso di noi, lo ritrasferiamo su un altro conto bancario a tuo nome. Contatta il nostro supporto a riguardo.
 
 ## DFX Metamask Exchange
 
