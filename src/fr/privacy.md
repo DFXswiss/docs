@@ -124,7 +124,7 @@ Les personnes concernées ont le droit de s'opposer au profilage et de demander 
 
 DFX héberge les pages d'information statiques qui ne collectent aucune donnée client (par exemple dfx.swiss) chez Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA). Ces pages n'ont ni compte client, ni transactions, ni vérification d'identité.
 
-Tout ce qui traite des données clients — l'API, la plateforme applicative et la base de données — est exploité par DFX sur ses propres serveurs en Suisse. L'accès public à ces services passe par Cloudflare en tant que réseau de diffusion de contenu et reverse proxy.
+DFX exploite l'API, la plateforme applicative et la base de données sur ses propres serveurs en Suisse. L'accès public à ces services passe par Cloudflare en tant que réseau de diffusion de contenu et reverse proxy.
 
 Lors de l'accès, des données techniquement nécessaires (notamment votre adresse IP et les métadonnées de requête) sont transmises à Cloudflare. Cloudflare est certifié au titre du [Data Privacy Framework UE–États-Unis](https://www.dataprivacyframework.gov/) et du Data Privacy Framework Suisse–États-Unis. Nous nous appuyons en outre sur des clauses contractuelles types (art. 16 al. 2 let. d LPD). Détails : [politique de confidentialité de Cloudflare](https://www.cloudflare.com/privacypolicy/) et [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
@@ -180,7 +180,7 @@ Le site Web stocke et traite uniquement les données minimales nécessaires au f
 
 ### Remarque sur le transfert de données à l'étranger
 
-Les données personnelles sont traitées en Suisse. En dehors de la Suisse, elles sont transmises à Cloudflare (USA, hébergement des pages statiques sans données clients et accès aux services), à Sumsub (Royaume-Uni) et, dans le cadre de transactions bancaires, aux banques participantes (voir les Conditions générales).
+Les données clients de la plateforme de négociation sont traitées en Suisse. En dehors de la Suisse, elles sont transmises à Cloudflare (USA, hébergement des pages statiques sans données clients et accès aux services), à Sumsub (Royaume-Uni) et, dans le cadre de transactions bancaires, aux banques participantes (voir les Conditions générales). Les transferts par les réseaux sociaux cités ci-dessous sont décrits à la section 10.
 
 ### Cryptage SSL ou TLS
 
