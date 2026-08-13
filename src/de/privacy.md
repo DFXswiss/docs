@@ -122,9 +122,9 @@ Betroffene Personen haben das Recht, Widerspruch gegen Profiling einzulegen, sow
 
 ## 4. Hosting und Infrastruktur
 
-Statische Websites ohne Kundendaten (etwa dfx.swiss) hostet DFX bei Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA).
+Statische Informationsseiten, auf denen keine Kundendaten erfasst werden (etwa dfx.swiss), hostet DFX bei Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA). Auf diesen Seiten gibt es kein Kundenkonto, keine Transaktionen und keine Identitätsprüfung.
 
-API, Anwendungsplattform und Datenbank betreibt DFX auf eigenen Servern in der Schweiz. Der öffentliche Zugang zu diesen Diensten erfolgt über Cloudflare als Content Delivery Network und Reverse Proxy.
+Alles, was Kundendaten verarbeitet — API, Anwendungsplattform und Datenbank — betreibt DFX auf eigenen Servern in der Schweiz. Der öffentliche Zugang zu diesen Diensten erfolgt über Cloudflare als Content Delivery Network und Reverse Proxy.
 
 Beim Aufruf werden technisch notwendige Daten (insbesondere Ihre IP-Adresse sowie Request-Metadaten) an Cloudflare übermittelt. Cloudflare ist nach dem [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) und dem Swiss-U.S. Data Privacy Framework zertifiziert. Ergänzend stützen wir die Übermittlung auf Standardvertragsklauseln (Art. 16 Abs. 2 lit. d DSG). Einzelheiten: [Datenschutzerklärung von Cloudflare](https://www.cloudflare.com/privacypolicy/) und [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
@@ -180,7 +180,7 @@ Die Website speichert und verarbeitet lediglich die Daten welche als Minimum not
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
-Personenbezogene Daten werden in der Schweiz verarbeitet. Ausserhalb der Schweiz gelangen sie an Cloudflare (USA, Hosting der statischen Websites und Zugang zu den Diensten), an die oben genannten Auftragsverarbeiter und im Rahmen von Banktransaktionen an beteiligte Banken (siehe Allgemeine Geschäftsbedingungen).
+Personenbezogene Daten werden in der Schweiz verarbeitet. Ausserhalb der Schweiz gelangen sie an Cloudflare (USA, Hosting der statischen Seiten ohne Kundendaten und Zugang zu den Diensten), an die oben genannten Auftragsverarbeiter und im Rahmen von Banktransaktionen an beteiligte Banken (siehe Allgemeine Geschäftsbedingungen).
 
 ### SSL- bzw. TLS-Verschlüsselung
 

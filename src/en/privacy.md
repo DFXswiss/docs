@@ -122,9 +122,9 @@ Data subjects have the right to object to profiling and to request information a
 
 ## 4. Hosting and infrastructure
 
-DFX hosts static websites that do not collect customer data (such as dfx.swiss) with Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA).
+DFX hosts static information pages that do not collect customer data (such as dfx.swiss) with Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA). Those pages have no customer accounts, no transactions and no identity verification.
 
-DFX operates the API, the application platform and the database on its own servers in Switzerland. Public access to these services is provided through Cloudflare as a content delivery network and reverse proxy.
+Everything that processes customer data — the API, the application platform and the database — is operated by DFX on its own servers in Switzerland. Public access to these services is provided through Cloudflare as a content delivery network and reverse proxy.
 
 When you access them, technically necessary data (in particular your IP address and request metadata) is transmitted to Cloudflare. Cloudflare is certified under the [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) and the Swiss-U.S. Data Privacy Framework. In addition, we rely on standard contractual clauses (Art. 16(2)(d) FADP). Details: [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) and [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
@@ -180,7 +180,7 @@ The website only stores and processes the minimum data necessary to operate the 
 
 ### Note on data transfer abroad
 
-Personal data is processed in Switzerland. Outside Switzerland it is transmitted to Cloudflare (USA, hosting of the static websites and access to the services), to the data processors named above and, in the context of bank transactions, to participating banks (see General Terms and Conditions).
+Personal data is processed in Switzerland. Outside Switzerland it is transmitted to Cloudflare (USA, hosting of the static pages without customer data and access to the services), to the data processors named above and, in the context of bank transactions, to participating banks (see General Terms and Conditions).
 
 ### SSL or TLS encryption
 

@@ -122,9 +122,9 @@ Gli interessati hanno il diritto di opporsi alla profilazione e di chiedere info
 
 ## 4. Hosting e infrastruttura
 
-DFX ospita i siti web statici senza dati dei clienti (ad esempio dfx.swiss) presso Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA).
+DFX ospita le pagine informative statiche che non raccolgono dati dei clienti (ad esempio dfx.swiss) presso Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA). Su queste pagine non ci sono conti clienti, transazioni né verifica dell'identità.
 
-DFX gestisce l'API, la piattaforma applicativa e il database su server propri in Svizzera. L'accesso pubblico a questi servizi avviene tramite Cloudflare come content delivery network e reverse proxy.
+Tutto ciò che tratta dati dei clienti — l'API, la piattaforma applicativa e il database — è gestito da DFX su server propri in Svizzera. L'accesso pubblico a questi servizi avviene tramite Cloudflare come content delivery network e reverse proxy.
 
 All'accesso, i dati tecnicamente necessari (in particolare l'indirizzo IP e i metadati della richiesta) vengono trasmessi a Cloudflare. Cloudflare è certificata ai sensi del [Data Privacy Framework UE–USA](https://www.dataprivacyframework.gov/) e dello Swiss-U.S. Data Privacy Framework. Inoltre ci basiamo su clausole contrattuali standard (art. 16 cpv. 2 lett. d LPD). Dettagli: [informativa sulla privacy di Cloudflare](https://www.cloudflare.com/privacypolicy/) e [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
@@ -180,7 +180,7 @@ Il sito web memorizza ed elabora solo i dati minimi necessari per il funzionamen
 
 ### Nota sul trasferimento dati all'estero
 
-I dati personali sono trattati in Svizzera. Al di fuori della Svizzera sono trasmessi a Cloudflare (USA, hosting dei siti statici e accesso ai servizi), ai responsabili del trattamento indicati sopra e, nell'ambito delle transazioni bancarie, alle banche partecipanti (cfr. Condizioni generali).
+I dati personali sono trattati in Svizzera. Al di fuori della Svizzera sono trasmessi a Cloudflare (USA, hosting delle pagine statiche senza dati dei clienti e accesso ai servizi), ai responsabili del trattamento indicati sopra e, nell'ambito delle transazioni bancarie, alle banche partecipanti (cfr. Condizioni generali).
 
 ### Crittografia SSL o TLS
 
