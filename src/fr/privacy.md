@@ -306,7 +306,7 @@ En cas de violation de la protection des données, DFX suit une procédure struc
 
 #### Obligations de notification
 
-En cas de violation de la protection des données présentant un risque pour les droits et libertés des personnes concernées, DFX est légalement tenu d'en informer certaines parties. Ces notifications visent à garantir que tant les autorités compétentes que les personnes concernées soient informées en temps utile de la violation et des mesures prises. Les notifications sont effectuées conformément aux exigences légales et comprennent les étapes suivantes :
+En cas de violation de la protection des données susceptible d'entraîner un risque élevé pour la personnalité ou les droits fondamentaux des personnes concernées, DFX est légalement tenu d'en informer certaines parties. Ces notifications visent à garantir que tant les autorités compétentes que les personnes concernées soient informées en temps utile de la violation et des mesures prises. Les notifications sont effectuées conformément aux exigences légales et comprennent les étapes suivantes :
 
 * Notification de l'autorité de surveillance compétente (PFPDT) dès que possible après la prise de connaissance de la violation (art. 24 al. 1 LPD).
 * Notification des personnes concernées, si cela est nécessaire à leur protection ou si le PFPDT l'exige (art. 24 al. 4 LPD), sans délai et dans un langage clair et compréhensible.
@@ -336,7 +336,7 @@ Les données que vous nous envoyez via les demandes de contact resteront chez no
 
 ## 9. Outils d'analyse et publicité
 
-DFX n'utilise pas d'outils d'analyse de sites Web tels que Google Analytics, Adobe Analytics ou autres.
+DFX n'utilise pas d'outils d'analyse de sites Web tels que Google Analytics, Adobe Analytics ou autres. Aucun pixel de suivi, cookie publicitaire ou technologie similaire d'analyse du comportement des utilisateurs n'est utilisé.
 
 Pour la surveillance opérationnelle côté serveur de l'infrastructure API, DFX utilise Microsoft Azure Application Insights (voir section 5 «Sous-traitants et prestataires tiers»). Cet outil est utilisé exclusivement pour la surveillance technique, la détection d'erreurs et l'optimisation des performances et ne collecte aucune donnée sur le comportement des utilisateurs sur le site web.
 

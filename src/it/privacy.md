@@ -306,7 +306,7 @@ In caso di violazione della protezione dei dati, DFX segue una procedura struttu
 
 #### Obblighi di notifica
 
-In caso di violazione della protezione dei dati che rappresenta un rischio per i diritti e le libertà degli interessati, DFX è legalmente obbligata a informare determinate parti. Tali notifiche hanno lo scopo di garantire che sia le autorità competenti che le autorità competentiGli interessati sono informati tempestivamente della violazione e delle misure adottate. Le notifiche vengono effettuate in conformità ai requisiti legali e comprendono le seguenti fasi:
+In caso di violazione della protezione dei dati che comporta presumibilmente un rischio elevato per la personalità o i diritti fondamentali degli interessati, DFX è legalmente obbligata a informare determinate parti. Tali notifiche hanno lo scopo di garantire che sia le autorità competenti sia gli interessati siano informati tempestivamente della violazione e delle misure adottate. Le notifiche vengono effettuate in conformità ai requisiti legali e comprendono le seguenti fasi:
 
 * Notifica all'autorità di vigilanza competente (IFPDT) il più rapidamente possibile dopo la conoscenza della violazione (art. 24 cpv. 1 LPD).
 * Notifica agli interessati, se ciò è necessario per la loro protezione o se l'IFPDT lo richiede (art. 24 cpv. 4 LPD), senza ritardo e in un linguaggio chiaro e comprensibile.
@@ -336,7 +336,7 @@ I dati che ci invii tramite richieste di contatto rimarranno con noi fino a quan
 
 ## 9. Strumenti di analisi e pubblicità
 
-DFX non utilizza strumenti di analisi del sito web come Google Analytics, Adobe Analytics o altri.
+DFX non utilizza strumenti di analisi del sito web come Google Analytics, Adobe Analytics o altri. Non vengono utilizzati pixel di tracciamento, cookie pubblicitari o tecnologie simili per l'analisi del comportamento degli utenti.
 
 Per il monitoraggio operativo lato server dell'infrastruttura API, DFX utilizza Microsoft Azure Application Insights (vedi sezione 5 «Responsabili del trattamento e fornitori terzi»). Questo strumento viene utilizzato esclusivamente per il monitoraggio tecnico, il rilevamento degli errori e l'ottimizzazione delle prestazioni e non raccoglie dati sul comportamento degli utenti sul sito web.
 

@@ -306,7 +306,7 @@ Im Falle einer Datenschutzverletzung verfolgt DFX ein strukturiertes Vorgehen, u
 
 #### Benachrichtigungspflichten
 
-Im Falle einer Datenschutzverletzung, die ein Risiko für die Rechte und Freiheiten betroffener Personen darstellt, ist DFX gesetzlich verpflichtet, bestimmte Parteien zu informieren. Diese Benachrichtigungen sollen sicherstellen, dass sowohl die zuständigen Behörden als auch die betroffenen Personen rechtzeitig über die Verletzung und die ergriffenen Massnahmen informiert werden. Die Benachrichtigungen erfolgen unter Einhaltung der gesetzlichen Vorgaben und umfassen folgende Schritte:
+Im Falle einer Datenschutzverletzung, die voraussichtlich zu einem hohen Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Personen führt, ist DFX gesetzlich verpflichtet, bestimmte Parteien zu informieren. Diese Benachrichtigungen sollen sicherstellen, dass sowohl die zuständigen Behörden als auch die betroffenen Personen rechtzeitig über die Verletzung und die ergriffenen Massnahmen informiert werden. Die Benachrichtigungen erfolgen unter Einhaltung der gesetzlichen Vorgaben und umfassen folgende Schritte:
 
 * Benachrichtigung der zuständigen Aufsichtsbehörde (EDÖB) so rasch wie möglich nach Bekanntwerden der Verletzung (Art. 24 Abs. 1 DSG).
 * Benachrichtigung der betroffenen Personen, sofern es zu deren Schutz erforderlich ist oder der EDÖB dies verlangt (Art. 24 Abs. 4 DSG), unverzüglich und in klarer, verständlicher Sprache.

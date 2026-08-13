@@ -306,7 +306,7 @@ In the event of a data protection violation, DFX follows a structured procedure 
 
 #### Notification obligations
 
-In the event of a data protection violation that poses a risk to the rights and freedoms of data subjects, DFX is legally obliged to inform certain parties. These notifications are intended to ensure that both the competent authorities and the data subjects are informed in a timely manner about the violation and the measures taken. The notifications are made in compliance with legal requirements and include the following steps:
+In the event of a data protection violation that is likely to result in a high risk to the personality or fundamental rights of the data subjects, DFX is legally obliged to inform certain parties. These notifications are intended to ensure that both the competent authorities and the data subjects are informed in a timely manner about the violation and the measures taken. The notifications are made in compliance with legal requirements and include the following steps:
 
 * Notification of the competent supervisory authority (FDPIC) as soon as possible after becoming aware of the breach (Art. 24(1) FADP).
 * Notification of the data subjects, if this is necessary for their protection or if the FDPIC so requires (Art. 24(4) FADP), without delay and in clear, understandable language.
@@ -336,7 +336,7 @@ The data you send to us via contact requests will remain with us until you ask u
 
 ## 9. Analysis tools and advertising
 
-DFX does not use website analysis tools such as Google Analytics, Adobe Analytics or others.
+DFX does not use website analysis tools such as Google Analytics, Adobe Analytics or others. No tracking pixels, advertising cookies or similar technologies for analysing user behaviour are used.
 
 For server-side operational monitoring of the API infrastructure, DFX uses Microsoft Azure Application Insights (see Section 5 "Data processors and third-party providers"). This tool is used exclusively for technical monitoring, error detection and performance optimisation and does not collect any data on user behaviour on the website.
 
