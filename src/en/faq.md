@@ -126,6 +126,13 @@ No. We want you to convince as many friends and acquaintances as possible of our
 ## Are there banks that block transfers to DFX?
 Some banks occasionally block SEPA transfers to crypto service providers. If a transfer is rejected, we recommend contacting your own bank directly to release the payment. Alternatively, another bank or payment service provider can be used for the transfer.
 
+## Are payments from Swissquote or Yuh supported?
+No. The payment channel between Swissquote or Yuh and DFX is restricted. Transfers from accounts at Swissquote or Yuh can therefore not be processed by us.
+
+Please use an account at another bank in your own name for your deposit.
+
+If a payment from a Swissquote or Yuh account has already reached us, we will transfer it back to another bank account in your name. Please contact our support for this.
+
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 

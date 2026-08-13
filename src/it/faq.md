@@ -126,6 +126,13 @@ No. Vogliamo che tu convinca quanti più amici e conoscenti possibile del nostro
 ## Ci sono banche che bloccano i bonifici a DFX?
 Alcune banche occasionalmente bloccano i bonifici SEPA ai fornitori di servizi crypto. Se un bonifico viene rifiutato, raccomandiamo di contattare direttamente la propria banca per rilasciare il pagamento. In alternativa, può essere utilizzata un'altra banca o un altro fornitore di servizi di pagamento per il bonifico.
 
+## I pagamenti da Swissquote o Yuh sono supportati?
+No. Il canale di pagamento tra Swissquote o Yuh e DFX è limitato. I bonifici da conti presso Swissquote o Yuh non possono quindi essere elaborati da noi.
+
+Per il tuo deposito, utilizza un conto a tuo nome presso un'altra banca.
+
+Se un pagamento da un conto Swissquote o Yuh è già arrivato presso di noi, lo ritrasferiamo su un altro conto bancario a tuo nome. Contatta il nostro supporto a riguardo.
+
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 
