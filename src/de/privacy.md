@@ -146,10 +146,10 @@ Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer ge
 
 DFX speichert personenbezogene Daten, die mit der Geschäftsbeziehung, der Identifikation und den Transaktionen zusammenhängen — einschliesslich technischer Verbindungsdaten wie IP-Adressen — für 10 Jahre nach Beendigung der Geschäftsbeziehung (insbesondere Art. 7 GwG). Eine kürzere Frist für IP-Adressen oder Log-Daten wenden wir nicht an.
 
-Bewerbungsunterlagen
+1. Bewerbungsunterlagen
 Aufbewahrungsfrist: 12 Monate nach Abschluss des Bewerbungsverfahrens.
 
-7. Social-Media-Daten (z.B. für Nutzerprofile)
+2. Social-Media-Daten (z.B. für Nutzerprofile)
 Die unmittelbar von uns über die Social Media-Präsenz erfassten Daten werden von unseren Systemen gelöscht, sobald Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Gespeicherte Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen. Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
 
 Auf die Speicherdauer Ihrer Daten, die von den Betreibern der Social Media-Netzwerke zu eigenen Zwecken gespeichert werden, haben wir keinen Einfluss. Für Einzelheiten dazu informieren Sie sich bitte direkt bei den Betreibern der Social Media-Netzwerke (zum Beispiel in deren Datenschutzrichtlinien und -erklärungen, siehe unten).

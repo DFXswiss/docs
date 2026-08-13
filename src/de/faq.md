@@ -4,7 +4,7 @@ Diese Seite beinhaltet die häufigsten Fragen zu DFX.swiss.
 
 ## Wo erhalte ich bei Fragen Unterstützung?
 DFX bietet auf unterschiedliche Weisen Unterstützung an. Du findest Informationen zu unseren Produkten und unserem Service auf unserer Homepage oder hier im FAQ. 
-Bei weiteren Fragen wende dich an unseren [Support](https://dfx.swiss/help).
+Bei weiteren Fragen wende dich an unseren [Support](https://app.dfx.swiss/support).
 
 ## Was genau beinhaltet der Service von DFX?
 DFX ist die Brücke zwischen der Bank und dem Krypto-Space und ermöglicht somit Privat- & Firmenkunden Kryptowährungen zu kaufen und zu verkaufen. Wir arbeiten daran, unser Angebot auf möglichst viele Blockchains auszuweiten. Informationen zu unserem aktuellen Angebot findest du auf unserer [Homepage](https://dfx.swiss/de/).
@@ -21,7 +21,7 @@ DFX hat nur während des Kaufs beziehungsweise Verkaufs Zugriff auf das Geld des
 DFX akzeptiert SEPA- und SEPA-Instant-Überweisungen. Ob eine Überweisung möglich ist, hängt davon ab, ob die Bank des Kunden am SEPA-Zahlungsraum teilnimmt. Als VQF-Mitglied ist DFX den Sorgfaltspflichten des Schweizer Geldwäschereigesetzes (GwG) unterstellt. Geschäftsbeziehungen mit Personen in Jurisdiktionen, die von der FATF als Hochrisiko-Jurisdiktionen geführt werden, können nicht eingegangen werden. Die jeweils aktuelle Einstufung ist unter https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html einsehbar.
 
 ## Erhalte ich eine Übersicht aller Transaktionen, inklusive Fees, die ich während des Jahres bei DFX getätigt habe?
-Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch für das Finanzamt verwenden. Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://dfx.swiss/help) wenden.
+Ja, du kannst eine Transaktionsübersicht zu den DFX Services bekommen (Kauf & Verkauf über Fiat und Referral Rewards). Diese kannst du auch für das Finanzamt verwenden. Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://app.dfx.swiss/support) wenden.
 
 ## Ist der Service auch für Unternehmenskunden verfügbar?
 Ja.
@@ -30,10 +30,10 @@ Ja.
 Es kann durchaus vorkommen, dass sich deine Bank bei dir meldet beziehungsweise eine Überweisung zu unserem Service abgelehnt hat. Dies soll dem Schutz des Kunden dienen, da Betrug oder andere kriminelle Machenschaften verdächtigt werden. In diesem Fall ist es ratsam, mit deiner Bank Kontakt aufzunehmen, damit deine Bank die Zahlung freigibt.
 
 ## Meine Bank verlangt einen Mittelherkunftsnachweis für meine Krypto-Verkäufe. Was muss ich tun?
-Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach bei unserem [Support](https://dfx.swiss/help).
+Gerne helfen wir Dir dabei und unterstützen Dich mit unseren Experten. In einem angenehmen Telefongespräch gehen wir alle relevanten Punkte durch und versuchen den Herkunft der Mittel unkompliziert und einfach zu dokumentieren. Gerne helfen wir dir dabei, die Auszahlung auf dein Bankkonto perfekt vorzubereiten, sodass du keine Probleme bekommst. Melde dich dazu einfach bei unserem [Support](https://app.dfx.swiss/support).
 
 ### Welche Währungen werden von unserem Service unterstützt?
-Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000,- CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich in diesem Fall einfach bei unserem [Support](https://dfx.swiss/help).
+Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000,- CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich in diesem Fall einfach bei unserem [Support](https://app.dfx.swiss/support).
 
 ## Nutzer-relevante Fragen & KYC-Prozess
 
@@ -164,7 +164,7 @@ Achtung: Die Videos wurden vor der Einführung der neuen DFX-Gebührenstruktur e
 
 Anschliessend kann gerne SEPA Instant oder Standard SEPA benutzt werden.
 
-Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://dfx.swiss/help) wenden.
+Bei Fragen und Unklarheiten hierzu kannst du dich einfach an unseren [Support](https://app.dfx.swiss/support) wenden.
 
 ## Wie integriere ich die Hardware-Wallet?
 - BitBoxSwiss 
@@ -186,7 +186,7 @@ Du kannst dich auch mittels manueller Eingabe von einer Blockchainadresse und pa
 ## Wie ist der Stand meiner Transaktion? Ich habe meine Krypto-Assets nicht erhalten.
 Wenn du eine Transaktion vorgenommen hast, und Fragen zu dieser Transaktion hast, weil du die Krypto-Assets noch nicht erhalten hast, dann hast du folgende Möglichkeiten:
 - Wenn es eine Banktransaktion war, empfehlen wir zwingend 2 Arbeitstage abzuwarten. Banktransaktionen werden in der Regel innert weniger Stunden verarbeitet, können im Extremfall aber auch einmal 3 Arbeitstage benötigen. Wir empfehlen daher, zuerst 2 Arbeitstage abzuwarten, bevor eine Nachforschung gestartet wird.
-- Des Weiteren kann auch der [Support](https://dfx.swiss/help) über die Webseite kontaktiert werden.
+- Des Weiteren kann auch der [Support](https://app.dfx.swiss/support) über die Webseite kontaktiert werden.
 
 ## Welche Daten müssen in einer Support-Anfrage mitgesendet werden?
 Bei Banktransaktionen benötigt der Support folgende Informationen:
