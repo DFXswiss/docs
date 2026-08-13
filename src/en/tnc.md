@@ -262,5 +262,5 @@ DFX offers payment using the following standards:
 The fees for debt collection business are set as follows:
 * DFX generally does not charge any fees for settling debt collection claims.
 * DFX defines a blockchain address to which the claimed amount can be transmitted. For payments via Lightning, a BOLT11 invoice is created. The costs for blockchain fees or Lightning routing fees must be borne by the user and are not part of DFX's debt collection service. These fees are variable.
-* If the user decides to pay in a foreign currency, DFX charges a currency conversion fee of 1% if FrankencoinPay, Lightning BOLT11 or OpenCryptoPay.io is selected as the payment method.  
+* If the user decides to pay in a foreign currency, DFX charges a currency conversion fee of 1% if Lightning BOLT11 or OpenCryptoPay.io is selected as the payment method.
 For all other payment options, such as "PayToBlockchainAddress", a currency conversion fee of 2% is charged. The increased fee is necessary because these payment methods offer a longer validity period.

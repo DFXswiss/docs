@@ -213,7 +213,7 @@ Les itinéraires de vente peuvent être annulés tant que la cryptomonnaie à co
 
 Les frais de transaction des cryptomonnaies ou des devises étrangères transmis au client sont inclus dans le prix de base. Les prix sont indiqués dans la cryptomonnaie autorisée pour la transaction et incluent la TVA suisse, le cas échéant. Une fois le transfert de la cryptomonnaie ou de la devise étrangère souhaitée vers le portefeuille/compte du client effectué, la vente est considérée comme terminée. Le client reçoit un e-mail de confirmation de la finalisation de la transaction avec un aperçu de la transaction.
 
-DFX souligne qu'il existe un volume de ventes maximum par mois (période glissante de 30 jours) et par client. Le client a la possibilité de demander un volume de ventes plus élevé. Cette demande sera évaluée et discutée individuellement par DFX. 
+DFX souligne qu'il existe un volume de ventes maximum par mois (période glissante de 30 jours) et par client. Le client a la possibilité de demander un volume de ventes plus élevé. Cette demande sera évaluée et discutée individuellement par DFX.
 
 Les remboursements des ventes aux clients DFX sont effectués exclusivement dans la crypto-monnaie initialement transférée. Le montant remboursé correspond exactement à la valeur qui a été transférée à DFX pour la vente.
 
@@ -262,5 +262,5 @@ DFX propose le paiement selon les normes suivantes :
 Les tarifs des opérations de recouvrement de créances sont fixés comme suit :
 * DFX ne facture généralement aucun frais pour le règlement des demandes de recouvrement de créances.
 * DFX définit une adresse blockchain à laquelle le montant réclamé peut être transmis. Pour les paiements via Lightning, une facture BOLT11 est créée. Les frais de blockchain ou de routage Lightning doivent être supportés par l'utilisateur et ne font pas partie du service de recouvrement de créances de DFX. Ces frais sont variables.
-* Si l'utilisateur décide de payer dans une devise étrangère, DFX facture des frais de conversion de devise de 1 % si FrankencoinPay, Lightning BOLT11 ou OpenCryptoPay.io est sélectionné comme mode de paiement.  
+* Si l'utilisateur décide de payer dans une devise étrangère, DFX facture des frais de conversion de devise de 1 % si Lightning BOLT11 ou OpenCryptoPay.io est sélectionné comme mode de paiement.
 Pour toutes les autres options de paiement, telles que « PayToBlockchainAddress », des frais de conversion de devise de 2 % sont facturés. L'augmentation des frais est nécessaire car ces méthodes de paiement offrent une période de validité plus longue.

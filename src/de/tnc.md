@@ -213,7 +213,7 @@ Verkaufsrouten können storniert werden, solange die umzuwandelnde Kryptowährun
 
 Die Transaktionskosten der Krypto- respektive Fremdwährungen, die an den Kunden übermittelt werden, sind im Basispreis enthalten. Die Preise verstehen sich in der für die Transaktion zulässigen Kryptowährung und beinhalten die Schweizer Mehrwertsteuer, falls zutreffend. Nachdem die Überweisung der gewünschten Kryptowährung respektive der gewünschten Fremdwährung auf die/das Wallet/Konto des Kunden erfolgt ist, gilt der Verkauf als abgeschlossen. Der Kunde erhält per E-Mail eine Bestätigung des Transaktionsabschlusses unter Angabe einer Transaktionsübersicht.
 
-DFX weist darauf hin, dass pro Monat (rollierender 30-Tage-Zeitraum) und pro Kunde ein maximales Verkaufsvolumen besteht. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert. 
+DFX weist darauf hin, dass pro Monat (rollierender 30-Tage-Zeitraum) und pro Kunde ein maximales Verkaufsvolumen besteht. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert.
 
 Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der ursprünglich transferierten Kryptowährung. Der zurückerstattete Betrag entspricht genau dem Wert, der zum Verkauf an DFX übertragen wurde.
 
@@ -262,5 +262,5 @@ DFX bietet hierbei die Bezahlung mittels folgender Standards an:
 Die Gebühren für Inkasso-Geschäfte sind wie folgt festgelegt:
 * DFX erhebt grundsätzlich keine Gebühren für die Begleichung der Inkasso-Forderungen.
 * DFX definiert eine Blockchain-Adresse, an die der geforderte Betrag übermittelt werden kann. Bei Zahlungen über Lightning wird eine BOLT11-Rechnung erstellt. Die Kosten für die Blockchain-Gebühren oder die Lightning-Routing-Gebühren müssen vom Nutzer übernommen werden und sind nicht Teil der Inkasso-Dienstleistung von DFX. Diese Gebühren sind variabel.
-* Sollte sich der Nutzer entscheiden, in einer Fremdwährung zu bezahlen, berechnet DFX eine Währungsumrechnungsgebühr von 1 %, wenn FrankencoinPay, Lightning BOLT11 oder OpenCryptoPay.io als Zahlungsmethode gewählt wird.  
+* Sollte sich der Nutzer entscheiden, in einer Fremdwährung zu bezahlen, berechnet DFX eine Währungsumrechnungsgebühr von 1 %, wenn Lightning BOLT11 oder OpenCryptoPay.io als Zahlungsmethode gewählt wird.
 Bei allen anderen Zahlungsoptionen, wie beispielsweise „PayToBlockchainAddress“, wird eine Währungsumrechnungsgebühr von 2 % erhoben. Die erhöhte Gebühr ist erforderlich, da bei diesen Zahlungsmethoden eine längere Gültigkeitsdauer angeboten wird.

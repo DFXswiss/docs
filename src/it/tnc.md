@@ -213,7 +213,7 @@ Le rotte di vendita possono essere annullate finché la criptovaluta da converti
 
 I costi di transazione delle criptovalute o delle valute estere trasmesse al cliente sono inclusi nel prezzo base. I prezzi sono indicati nella criptovaluta consentita per la transazione e includono l'IVA svizzera, se applicabile. Una volta effettuato il trasferimento della criptovaluta desiderata o della valuta estera desiderata sul portafoglio/conto del cliente, la vendita è considerata completata. Il cliente riceve un'e-mail di conferma del completamento della transazione con una panoramica della transazione.
 
-DFX sottolinea che esiste un volume massimo di vendite al mese (periodo mobile di 30 giorni) e per cliente. Il cliente ha la possibilità di richiedere un volume di vendita maggiore. Questa richiesta sarà valutata e discussa individualmente da DFX. 
+DFX sottolinea che esiste un volume massimo di vendite al mese (periodo mobile di 30 giorni) e per cliente. Il cliente ha la possibilità di richiedere un volume di vendita maggiore. Questa richiesta sarà valutata e discussa individualmente da DFX.
 
 I rimborsi delle vendite ai clienti DFX vengono effettuati esclusivamente nella criptovaluta originariamente trasferita. L'importo rimborsato corrisponde esattamente al valore trasferito a DFX per la vendita.
 
@@ -262,5 +262,5 @@ DFX offre il pagamento utilizzando i seguenti standard:
 Le tariffe per l'attività di recupero crediti sono fissate come segue:
 * DFX generalmente non addebita alcuna commissione per la liquidazione delle richieste di recupero crediti.
 *DFX definisce un indirizzo blockchain al quale può essere trasmesso l'importo richiesto. Per i pagamenti tramite Lightning, viene creata una fattura BOLT11. I costi per le commissioni blockchain o le commissioni di routing Lightning sono a carico dell'utente e non fanno parte del servizio di recupero crediti di DFX. Queste commissioni sono variabili.
-* Se l'utente decide di pagare in una valuta estera, DFX addebita una commissione di conversione valutaria dell'1% se come metodo di pagamento viene selezionato FrankencoinPay, Lightning BOLT11 o OpenCryptoPay.io.  
+* Se l'utente decide di pagare in una valuta estera, DFX addebita una commissione di conversione valutaria dell'1% se come metodo di pagamento viene selezionato Lightning BOLT11 o OpenCryptoPay.io.
 Per tutte le altre opzioni di pagamento, come "PayToBlockchainAddress", viene addebitata una commissione di conversione valutaria del 2%. La tariffa maggiorata è necessaria perché questi metodi di pagamento offrono un periodo di validità più lungo.

@@ -452,7 +452,7 @@ References and links to third-party websites are outside the responsibility of D
 All offers published by DFX in digital or electronic form are subject to change. DFX expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without prior notice or to cease publication temporarily or permanently.
 
 
-## 16. Copyrights and intellectual property 
+## 16. Copyrights and intellectual property
 
 The copyright and all other rights to the content, images, photos or other files on the DFX website belong exclusively to DFX and its affiliated companies, their suppliers or the specifically named rights holders.
 

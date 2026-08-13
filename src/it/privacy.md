@@ -452,7 +452,7 @@ Riferimenti e collegamenti a siti Web di terzi non rientrano nella responsabilit
 Tutte le offerte pubblicate da DFX in formato digitale o elettronico sono soggette a modifiche. DFX si riserva espressamente il diritto di modificare, integrare o eliminare parti delle pagine o l'intera offerta senza preavviso o di cessare la pubblicazione.attivo temporaneamente o permanentemente.
 
 
-## 16. Diritto d'autore e proprietà intellettuale 
+## 16. Diritto d'autore e proprietà intellettuale
 
 Il copyright e tutti gli altri diritti su contenuti, immagini, foto o altri file sul sito web DFX appartengono esclusivamente a DFX e alle sue società affiliate, ai loro fornitori o ai titolari dei diritti specificatamente nominati.
 
