@@ -224,7 +224,7 @@ In the event of a data protection violation that is likely to result in a high r
 
 * Notification of the competent supervisory authority (FDPIC) as soon as possible after becoming aware of the breach (Art. 24(1) FADP).
 * Notification of the data subjects, if this is necessary for their protection or if the FDPIC so requires (Art. 24(4) FADP), without delay and in clear, understandable language.
-* DFX's data processors (such as Sumsub, Sift and others) are contractually obliged to inform DFX immediately of data protection breaches (Art. 24(3) FADP).
+* The data processors named above are contractually obliged to inform DFX immediately of data protection breaches (Art. 24(3) FADP).
    
 ### Protective measures
 

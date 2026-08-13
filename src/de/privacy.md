@@ -224,7 +224,7 @@ Im Falle einer Datenschutzverletzung, die voraussichtlich zu einem hohen Risiko 
 
 * Benachrichtigung der zuständigen Aufsichtsbehörde (EDÖB) so rasch wie möglich nach Bekanntwerden der Verletzung (Art. 24 Abs. 1 DSG).
 * Benachrichtigung der betroffenen Personen, sofern es zu deren Schutz erforderlich ist oder der EDÖB dies verlangt (Art. 24 Abs. 4 DSG), unverzüglich und in klarer, verständlicher Sprache.
-* Auftragsverarbeiter von DFX (wie Sumsub, Sift und weitere) sind vertraglich verpflichtet, DFX unverzüglich über Datenschutzverletzungen zu informieren (Art. 24 Abs. 3 DSG).
+* Die oben genannten Auftragsverarbeiter sind vertraglich verpflichtet, DFX unverzüglich über Datenschutzverletzungen zu informieren (Art. 24 Abs. 3 DSG).
    
 ### Schutzmassnahmen
 

@@ -224,7 +224,7 @@ En cas de violation de la protection des données susceptible d'entraîner un ri
 
 * Notification de l'autorité de surveillance compétente (PFPDT) dès que possible après la prise de connaissance de la violation (art. 24 al. 1 LPD).
 * Notification des personnes concernées, si cela est nécessaire à leur protection ou si le PFPDT l'exige (art. 24 al. 4 LPD), sans délai et dans un langage clair et compréhensible.
-* Les sous-traitants de DFX (tels que Sumsub, Sift et d'autres) sont contractuellement tenus d'informer DFX immédiatement des violations de la protection des données (art. 24 al. 3 LPD).
+* Les sous-traitants cités ci-dessus sont contractuellement tenus d'informer DFX immédiatement des violations de la protection des données (art. 24 al. 3 LPD).
    
 ### Mesures de protection
 

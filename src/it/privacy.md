@@ -224,7 +224,7 @@ In caso di violazione della protezione dei dati che comporta presumibilmente un 
 
 * Notifica all'autorità di vigilanza competente (IFPDT) il più rapidamente possibile dopo la conoscenza della violazione (art. 24 cpv. 1 LPD).
 * Notifica agli interessati, se ciò è necessario per la loro protezione o se l'IFPDT lo richiede (art. 24 cpv. 4 LPD), senza ritardo e in un linguaggio chiaro e comprensibile.
-* I responsabili del trattamento di DFX (come Sumsub, Sift e altri) sono contrattualmente obbligati a informare DFX immediatamente delle violazioni della protezione dei dati (art. 24 cpv. 3 LPD).
+* I responsabili del trattamento indicati sopra sono contrattualmente obbligati a informare DFX immediatamente delle violazioni della protezione dei dati (art. 24 cpv. 3 LPD).
    
 ### Misure di protezione
 
