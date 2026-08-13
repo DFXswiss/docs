@@ -134,7 +134,7 @@ When you access them, technically necessary data (in particular your IP address 
 Where required to perform the contract or to comply with legal obligations, we use the following data processors:
 
 * Sumsub (Sum and Substance Ltd., United Kingdom) — legally required identity verification, including identity documents and biometric data. The United Kingdom is covered by an adequacy decision (Art. 16(1) FADP). We process biometric data only with your explicit consent (Art. 6(7) FADP).
-* Dilisense (EU) — screening against sanctions and PEP lists. Adequacy decision (Art. 16(1) FADP).
+* Dilisense (Switzerland) — screening against sanctions and PEP lists.
 
 
 ## 6. General notes and mandatory information

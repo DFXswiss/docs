@@ -134,7 +134,7 @@ Lors de l'accès, des données techniquement nécessaires (notamment votre adres
 Lorsque cela est nécessaire à l'exécution du contrat ou au respect d'obligations légales, nous faisons appel aux sous-traitants suivants :
 
 * Sumsub (Sum and Substance Ltd., Royaume-Uni) — vérification d'identité légalement requise, y compris les documents d'identité et les données biométriques. Le Royaume-Uni bénéficie d'une décision d'adéquation (art. 16 al. 1 LPD). Nous ne traitons des données biométriques qu'avec votre consentement exprès (art. 6 al. 7 LPD).
-* Dilisense (UE) — contrôle des listes de sanctions et PEP. Décision d'adéquation (art. 16 al. 1 LPD).
+* Dilisense (Suisse) — contrôle des listes de sanctions et PEP.
 
 
 ## 6. Notes générales et informations obligatoires

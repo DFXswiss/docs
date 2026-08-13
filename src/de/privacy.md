@@ -134,7 +134,7 @@ Beim Aufruf werden technisch notwendige Daten (insbesondere Ihre IP-Adresse sowi
 Soweit zur Vertragserfüllung oder zur Erfüllung gesetzlicher Pflichten erforderlich, setzen wir folgende Auftragsverarbeiter ein:
 
 * Sumsub (Sum and Substance Ltd., Vereinigtes Königreich) — gesetzlich vorgeschriebene Identitätsprüfung, einschliesslich Ausweisdokumenten und biometrischer Daten. Das Vereinigte Königreich verfügt über einen Angemessenheitsbeschluss (Art. 16 Abs. 1 DSG). Biometrische Daten verarbeiten wir nur mit Ihrer ausdrücklichen Einwilligung (Art. 6 Abs. 7 DSG).
-* Dilisense (EU) — Prüfung gegen Sanktions- und PEP-Listen. Angemessenheitsbeschluss (Art. 16 Abs. 1 DSG).
+* Dilisense (Schweiz) — Prüfung gegen Sanktions- und PEP-Listen.
 
 
 ## 6. Allgemeine Hinweise und Pflichtinformationen
