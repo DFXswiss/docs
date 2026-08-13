@@ -180,7 +180,7 @@ The website only stores and processes the minimum data necessary to operate the 
 
 ### Note on data transfer abroad
 
-Personal data is processed in Switzerland. Outside Switzerland it is transmitted to Cloudflare (USA, hosting of the static pages without customer data and access to the services), to the data processors named above and, in the context of bank transactions, to participating banks (see General Terms and Conditions).
+Personal data is processed in Switzerland. Outside Switzerland it is transmitted to Cloudflare (USA, hosting of the static pages without customer data and access to the services), to Sumsub (United Kingdom) and, in the context of bank transactions, to participating banks (see General Terms and Conditions).
 
 ### SSL or TLS encryption
 

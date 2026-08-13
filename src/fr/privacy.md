@@ -180,7 +180,7 @@ Le site Web stocke et traite uniquement les données minimales nécessaires au f
 
 ### Remarque sur le transfert de données à l'étranger
 
-Les données personnelles sont traitées en Suisse. En dehors de la Suisse, elles sont transmises à Cloudflare (USA, hébergement des pages statiques sans données clients et accès aux services), aux sous-traitants cités ci-dessus et, dans le cadre de transactions bancaires, aux banques participantes (voir les Conditions générales).
+Les données personnelles sont traitées en Suisse. En dehors de la Suisse, elles sont transmises à Cloudflare (USA, hébergement des pages statiques sans données clients et accès aux services), à Sumsub (Royaume-Uni) et, dans le cadre de transactions bancaires, aux banques participantes (voir les Conditions générales).
 
 ### Cryptage SSL ou TLS
 
