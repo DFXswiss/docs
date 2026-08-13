@@ -120,16 +120,24 @@ DFX non esegue processi decisionali puramente automatizzati che sono giuridicame
 Gli interessati hanno il diritto di opporsi alla profilazione e di chiedere informazioni sulla logica sottostante e sugli effetti della profilazione su di loro.
 
 
-## 4. Ospitalità
+## 4. Hosting e infrastruttura
 
-### Hosting con Cloudflare Pages
+DFX ospita le pagine informative statiche che non raccolgono dati dei clienti (ad esempio dfx.swiss) presso Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA). Su queste pagine non ci sono conti clienti, transazioni né verifica dell'identità.
 
-Ospitiamo il nostro sito Web con Cloudflare Pages. Il fornitore è Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA (di seguito: Cloudflare).
+DFX gestisce l'API, la piattaforma applicativa e il database su server propri in Svizzera. L'accesso pubblico a questi servizi avviene tramite Cloudflare come content delivery network e reverse proxy.
 
-Cloudflare ha implementato misure tecniche e organizzative adeguate per garantire la protezione dei dati personali. I dettagli sul trattamento dei dati personali sono disponibili nell'[informativa sulla privacy di Cloudflare](https://www.cloudflare.com/privacypolicy/). Il trattamento per nostro conto si basa sul [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
+All'accesso, i dati tecnicamente necessari (in particolare l'indirizzo IP e i metadati della richiesta) vengono trasmessi a Cloudflare. Cloudflare è certificata ai sensi del [Data Privacy Framework UE–USA](https://www.dataprivacyframework.gov/) e dello Swiss-U.S. Data Privacy Framework. Inoltre ci basiamo su clausole contrattuali standard (art. 16 cpv. 2 lett. d LPD). Dettagli: [informativa sulla privacy di Cloudflare](https://www.cloudflare.com/privacypolicy/) e [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
 
-##5. Note generali e informazioni obbligatorie
+## 5. Responsabili del trattamento
+
+Ove necessario per l'esecuzione del contratto o per adempiere obblighi di legge, utilizziamo i seguenti responsabili del trattamento:
+
+* Sumsub (Sum and Substance Ltd., Regno Unito) — verifica dell'identità prescritta dalla legge, compresi documenti d'identità e dati biometrici. Il Regno Unito dispone di una decisione di adeguatezza (art. 16 cpv. 1 LPD). Trattiamo i dati biometrici solo con il vostro consenso esplicito (art. 6 cpv. 7 LPD).
+* Dilisense (Svizzera) — controllo delle liste di sanzioni e PEP.
+
+
+## 6. Note generali e informazioni obbligatorie
 
 ### Periodo di conservazione
 
@@ -172,9 +180,7 @@ Il sito web memorizza ed elabora solo i dati minimi necessari per il funzionamen
 
 ### Nota sul trasferimento dati all'estero
 
-Per l'hosting utilizziamo Cloudflare Pages, un servizio fornito da Cloudflare, Inc., con sede negli Stati Uniti. Quando accedete al nostro sito Web, i dati tecnicamente necessari (in particolare il vostro indirizzo IP e i metadati della richiesta) vengono trasferiti negli Stati Uniti e ivi elaborati, poiché Cloudflare termina la connessione come reverse proxy / Content Delivery Network.
-
-Base giuridica per il trasferimento dei dati negli Stati Uniti: Cloudflare è certificata ai sensi del [Data Privacy Framework UE–USA](https://www.dataprivacyframework.gov/) e dello Swiss-U.S. Data Privacy Framework. Inoltre ci basiamo sulle clausole contrattuali standard della Commissione Europea. Nonostante queste garanzie, non si può escludere completamente un accesso da parte delle autorità statunitensi (ad esempio ai sensi del CLOUD Act).
+I dati dei clienti della piattaforma di negoziazione sono trattati in Svizzera. Al di fuori della Svizzera sono trasmessi a Cloudflare (USA, hosting delle pagine statiche senza dati dei clienti e accesso ai servizi), a Sumsub (Regno Unito) e, nell'ambito delle transazioni bancarie, alle banche partecipanti (cfr. Condizioni generali). I trasferimenti da parte dei social media indicati sotto sono descritti nella sezione 10.
 
 ### Crittografia SSL o TLS
 
@@ -199,7 +205,7 @@ I diritti di cui sopra possono essere negati o limitati se prevalgono gli intere
 Ci opponiamo all'utilizzo dei dati di contatto pubblicati nell'ambito dell'obbligo di colophon per l'invio di materiale pubblicitario e informativo non richiesto. Gli operatori delle pagine si riservano espressamente il diritto di intraprendere azioni legali in caso di invio non richiesto di informazioni pubblicitarie, come ad esempio e-mail di spam.
 
 
-## 6. Violazioni della protezione dei dati
+## 7. Violazioni della protezione dei dati
 
 DFX prende molto sul serio le violazioni della protezione dei dati e ha implementato processi per gestire tali incidenti in modo efficiente e in conformità con i requisiti legali. Una violazione della protezione dei dati si verifica quando i dati personali vengono involontariamente o illegalmente divulgati, modificati, cancellati o resi accessibili senza autorizzazione.
 
@@ -213,10 +219,11 @@ In caso di violazione della protezione dei dati, DFX segue una procedura struttu
 
 #### Obblighi di notifica
 
-In caso di violazione della protezione dei dati che rappresenta un rischio per i diritti e le libertà degli interessati, DFX è legalmente obbligata a informare determinate parti. Tali notifiche hanno lo scopo di garantire che sia le autorità competenti che le autorità competentiGli interessati sono informati tempestivamente della violazione e delle misure adottate. Le notifiche vengono effettuate in conformità ai requisiti legali e comprendono le seguenti fasi:
+In caso di violazione della protezione dei dati che comporta presumibilmente un rischio elevato per la personalità o i diritti fondamentali degli interessati, DFX è legalmente obbligata a informare determinate parti. Tali notifiche hanno lo scopo di garantire che sia le autorità competenti sia gli interessati siano informati tempestivamente della violazione e delle misure adottate. Le notifiche vengono effettuate in conformità ai requisiti legali e comprendono le seguenti fasi:
 
-* Notifica all'autorità di controllo entro 72 ore dalla conoscenza della violazione.
-* Notifica agli interessati senza ritardo e in un linguaggio chiaro e comprensibile.
+* Notifica all'autorità di vigilanza competente (IFPDT) il più rapidamente possibile dopo la conoscenza della violazione (art. 24 cpv. 1 LPD).
+* Notifica agli interessati, se ciò è necessario per la loro protezione o se l'IFPDT lo richiede (art. 24 cpv. 4 LPD), senza ritardo e in un linguaggio chiaro e comprensibile.
+* I responsabili del trattamento indicati sopra sono contrattualmente obbligati a informare DFX immediatamente delle violazioni della protezione dei dati (art. 24 cpv. 3 LPD).
    
 ### Misure di protezione
 
@@ -227,7 +234,7 @@ Per prevenire violazioni della protezione dei dati, utilizziamo misure tecniche 
 Se noti una possibile violazione della protezione dei dati, contatta il nostro [Supporto](https://services.dfx.swiss/support).
 
 
-## 7. Raccolta dati su questo sito
+## 8. Raccolta dati su questo sito
 
 ### Biscotti
 
@@ -240,12 +247,12 @@ Se ci contatti via e-mail, telefono o fax, la tua richiesta, compresi tutti i da
 I dati che ci invii tramite richieste di contatto rimarranno con noi fino a quando non ci chiederai di cancellarli, revocherai il tuo consenso alla memorizzazione o lo scopo della memorizzazione dei dati non sarà più applicabile (ad esempio, dopo che la tua richiesta è stata elaborata). Le disposizioni di legge obbligatorie, in particolare i termini di conservazione previsti dalla legge, rimangono inalterate.
 
 
-##8. Strumenti di analisi e pubblicità
+## 9. Strumenti di analisi e pubblicità
 
-DFX non utilizza strumenti di analisi del sito web come Google Analytics, Adobe Analytics o altri.
+DFX non utilizza strumenti di analisi del sito web per il tracciamento del comportamento degli utenti, come Google Analytics, Adobe Analytics o servizi comparabili. Non vengono utilizzati pixel di tracciamento, cookie pubblicitari o tecnologie simili per l'analisi del comportamento degli utenti.
 
 
-## 9. Newsletter e social media
+## 10. Newsletter e social media
 
 ### Dati della newsletter
 
@@ -314,7 +321,7 @@ Il trasferimento dei dati negli USA si basa sulle clausole contrattuali standard
 I dettagli su come gestiscono i tuoi dati personali possono essere trovati nella [Informativa sulla privacy di LinkedIn](https://www.linkedin.com/legal/privacy-policy).
 
 
-## 10. Protezione dei dati durante le candidature e nel processo di candidatura
+## 11. Protezione dei dati durante le candidature e nel processo di candidatura
 
 Il responsabile del trattamento raccoglie e tratta i dati personali dei candidati allo scopo di eseguire il processo di candidatura. Questo trattamento può avvenire anche elettronicamente, in particolare se i candidati inviano la relativa documentazione di candidatura anche via e-mail (ad esempio in formato PDF o altri tipi di file).
 
@@ -327,20 +334,20 @@ Se il responsabile del trattamento stipula un contratto di lavoro con un candida
 Se non viene concluso alcun contratto di lavoro, i documenti di candidatura verranno automaticamente cancellati 12 mesi dopo la notifica della decisione di rifiuto senza ulteriore notifica, a condizione che nessun altro interesse legittimo del centro di elaborazione dati impedisca la cancellazione. Gli interessi legittimi possono essere, ad esempio, l'obbligo di fornire prove in un procedimento ai sensi della legge sulla parità di trattamento (GlG).
 
 
-## 11. Legge applicabile e giurisdizione
+## 12. Legge applicabile e giurisdizione
 
 Il sito web DFX con sede legale in Svizzera è regolato esclusivamente dalla legge svizzera (protezione dei dati), a meno che non sia applicabile un'altra legge obbligatoria alla persona fisica interessata.
 
 Il tribunale della sede legale di DFX (Svizzera) avrà giurisdizione esclusiva per eventuali controversie tra te come visitatore e utente del sito web DFX derivanti dal funzionamento o dalla visita dei siti web, a meno che un altro foro competente obbligatorio non sia applicabile alla persona fisica interessata.
 
 
-## 12. Modifiche all'informativa sulla privacy
+## 13. Modifiche all'informativa sulla privacy
 
 DFX rivede regolarmente la presente informativa sulla privacy per garantire che sia sempre aggiornata e si riserva il diritto di modificarla se necessario. Si consiglia di controllare regolarmente questa pagina per eventuali modifiche, poiché non verrà effettuata alcuna notifica individuale delle modifiche.  
 In caso di discrepanze con la versione inglese, prevarrà la versione tedesca della presente informativa sulla privacy.
 
 
-## 13. Informazioni legali e disclaimer
+## 14. Informazioni legali e disclaimer
 
 DFX non si assume alcuna responsabilità per l'accuratezza e la completezza del contenuto delle informazioni.
 
@@ -349,19 +356,19 @@ Sono sostanzialmente escluse pretese di responsabilità per danni materiali o im
 Tutte le offerte pubblicate da DFX in formato digitale o elettronico sono soggette a modifiche. DFX si riserva espressamente il diritto di modificare, integrare o eliminare parti delle pagine o l'intera offerta senza preavviso o di cessare la pubblicazione temporaneamente o permanentemente.
 
 
-## 14. Responsabilità per i collegamenti
+## 15. Responsabilità per i collegamenti
 
 Riferimenti e collegamenti a siti Web di terzi non rientrano nella responsabilità di DFX. Si declina qualsiasi responsabilità per siti web di terzi, cioè al di fuori delle società appartenenti a DFX. L'accesso e l'utilizzo di tali siti web sono a rischio e pericolo dell'utente.
 
 Tutte le offerte pubblicate da DFX in formato digitale o elettronico sono soggette a modifiche. DFX si riserva espressamente il diritto di modificare, integrare o eliminare parti delle pagine o l'intera offerta senza preavviso o di cessare la pubblicazione.attivo temporaneamente o permanentemente.
 
 
-##15. Diritto d'autore e proprietà intellettuale 
+## 16. Diritto d'autore e proprietà intellettuale
 
 Il copyright e tutti gli altri diritti su contenuti, immagini, foto o altri file sul sito web DFX appartengono esclusivamente a DFX e alle sue società affiliate, ai loro fornitori o ai titolari dei diritti specificatamente nominati.
 
 
-##16. Consenso alla privacy policy
+## 17. Consenso alla privacy policy
 
 Il cliente accetta integralmente il contenuto dell'informativa sulla privacy nella sua versione attuale. In caso di contraddizioni, la politica sulla privacy ha la precedenza sui Termini e condizioni generali di DFX.
 

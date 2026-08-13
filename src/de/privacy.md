@@ -120,16 +120,24 @@ DFX führt keine rein automatisierten Entscheidungsprozesse durch, die rechtsver
 Betroffene Personen haben das Recht, Widerspruch gegen Profiling einzulegen, sowie Auskunft über die zugrunde liegende Logik und die Auswirkungen des Profilings auf sie zu verlangen.
 
 
-## 4. Hosting
+## 4. Hosting und Infrastruktur
 
-### Hosting mit Cloudflare Pages
+Statische Informationsseiten, auf denen keine Kundendaten erfasst werden (etwa dfx.swiss), hostet DFX bei Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA). Auf diesen Seiten gibt es kein Kundenkonto, keine Transaktionen und keine Identitätsprüfung.
 
-Wir hosten unsere Website bei Cloudflare Pages. Anbieter ist Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA (im Folgenden: Cloudflare).
+API, Anwendungsplattform und Datenbank betreibt DFX auf eigenen Servern in der Schweiz. Der öffentliche Zugang zu diesen Diensten erfolgt über Cloudflare als Content Delivery Network und Reverse Proxy.
 
-Cloudflare hat geeignete technische und organisatorische Massnahmen implementiert, um den Schutz personenbezogener Daten zu gewährleisten. Einzelheiten zu deren Umgang mit personenbezogenen Daten finden Sie in der [Datenschutzerklärung von Cloudflare](https://www.cloudflare.com/privacypolicy/). Die Verarbeitung in unserem Auftrag erfolgt auf Grundlage des [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
+Beim Aufruf werden technisch notwendige Daten (insbesondere Ihre IP-Adresse sowie Request-Metadaten) an Cloudflare übermittelt. Cloudflare ist nach dem [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) und dem Swiss-U.S. Data Privacy Framework zertifiziert. Ergänzend stützen wir die Übermittlung auf Standardvertragsklauseln (Art. 16 Abs. 2 lit. d DSG). Einzelheiten: [Datenschutzerklärung von Cloudflare](https://www.cloudflare.com/privacypolicy/) und [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
 
-## 5. Allgemeine Hinweise und Pflicht­informationen
+## 5. Auftragsverarbeiter
+
+Soweit zur Vertragserfüllung oder zur Erfüllung gesetzlicher Pflichten erforderlich, setzen wir folgende Auftragsverarbeiter ein:
+
+* Sumsub (Sum and Substance Ltd., Vereinigtes Königreich) — gesetzlich vorgeschriebene Identitätsprüfung, einschliesslich Ausweisdokumenten und biometrischer Daten. Das Vereinigte Königreich verfügt über einen Angemessenheitsbeschluss (Art. 16 Abs. 1 DSG). Biometrische Daten verarbeiten wir nur mit Ihrer ausdrücklichen Einwilligung (Art. 6 Abs. 7 DSG).
+* Dilisense (Schweiz) — Prüfung gegen Sanktions- und PEP-Listen.
+
+
+## 6. Allgemeine Hinweise und Pflichtinformationen
 
 ### Speicherdauer
 
@@ -172,9 +180,7 @@ Die Website speichert und verarbeitet lediglich die Daten welche als Minimum not
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
-Wir nutzen für das Hosting Cloudflare Pages, einen Dienst der Cloudflare, Inc. mit Sitz in den USA. Beim Aufruf unserer Website werden technisch notwendige Daten (insbesondere Ihre IP-Adresse sowie Request-Metadaten) in die USA übertragen und dort verarbeitet, da Cloudflare als Reverse Proxy / Content Delivery Network die Verbindungen terminiert.
-
-Rechtsgrundlage der Datenübermittlung in die USA: Cloudflare ist nach dem [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) und nach dem Swiss-U.S. Data Privacy Framework zertifiziert. Ergänzend stützen wir die Übermittlung auf die Standardvertragsklauseln der EU-Kommission. Wir weisen darauf hin, dass trotz dieser Schutzmechanismen ein Zugriff durch US-Behörden (z. B. nach dem CLOUD Act) nicht vollständig ausgeschlossen werden kann.
+Kundendaten der Handelsplattform werden in der Schweiz verarbeitet. Ausserhalb der Schweiz gelangen sie an Cloudflare (USA, Hosting der statischen Seiten ohne Kundendaten und Zugang zu den Diensten), an Sumsub (Vereinigtes Königreich) und im Rahmen von Banktransaktionen an beteiligte Banken (siehe Allgemeine Geschäftsbedingungen). Übermittlungen durch die unten genannten Social-Media-Anbieter sind in Abschnitt 10 beschrieben.
 
 ### SSL- bzw. TLS-Verschlüsselung
 
@@ -199,7 +205,7 @@ Die oben genannten Rechte können verweigert oder eingeschränkt werden, wenn di
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, wie etwa durch Spam-E-Mails, vor.
 
 
-## 6. Datenschutzverletzungen
+## 7. Datenschutzverletzungen
 
 DFX nimmt Datenschutzverletzungen sehr ernst und hat Prozesse implementiert, um solche Vorfälle effizient und in Übereinstimmung mit den gesetzlichen Vorschriften zu bearbeiten. Eine Datenschutzverletzung liegt vor, wenn personenbezogene Daten unbeabsichtigt oder unrechtmässig offengelegt, verändert, gelöscht oder unberechtigt zugänglich gemacht werden.
 
@@ -213,10 +219,11 @@ Im Falle einer Datenschutzverletzung verfolgt DFX ein strukturiertes Vorgehen, u
 
 #### Benachrichtigungspflichten
 
-Im Falle einer Datenschutzverletzung, die ein Risiko für die Rechte und Freiheiten betroffener Personen darstellt, ist DFX gesetzlich verpflichtet, bestimmte Parteien zu informieren. Diese Benachrichtigungen sollen sicherstellen, dass sowohl die zuständigen Behörden als auch die betroffenen Personen rechtzeitig über die Verletzung und die ergriffenen Massnahmen informiert werden. Die Benachrichtigungen erfolgen unter Einhaltung der gesetzlichen Vorgaben und umfassen folgende Schritte:
+Im Falle einer Datenschutzverletzung, die voraussichtlich zu einem hohen Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Personen führt, ist DFX gesetzlich verpflichtet, bestimmte Parteien zu informieren. Diese Benachrichtigungen sollen sicherstellen, dass sowohl die zuständigen Behörden als auch die betroffenen Personen rechtzeitig über die Verletzung und die ergriffenen Massnahmen informiert werden. Die Benachrichtigungen erfolgen unter Einhaltung der gesetzlichen Vorgaben und umfassen folgende Schritte:
 
-* Benachrichtigung der Aufsichtsbehörde innerhalb von 72 Stunden nach Bekanntwerden der Verletzung.
-* Benachrichtigung der betroffenen Personen unverzüglich und in klarer, verständlicher Sprache.
+* Benachrichtigung der zuständigen Aufsichtsbehörde (EDÖB) so rasch wie möglich nach Bekanntwerden der Verletzung (Art. 24 Abs. 1 DSG).
+* Benachrichtigung der betroffenen Personen, sofern es zu deren Schutz erforderlich ist oder der EDÖB dies verlangt (Art. 24 Abs. 4 DSG), unverzüglich und in klarer, verständlicher Sprache.
+* Die oben genannten Auftragsverarbeiter sind vertraglich verpflichtet, DFX unverzüglich über Datenschutzverletzungen zu informieren (Art. 24 Abs. 3 DSG).
    
 ### Schutzmassnahmen
 
@@ -227,7 +234,7 @@ Um Datenschutzverletzungen vorzubeugen, setzen wir technische und organisatorisc
 Wenn Sie eine mögliche Datenschutzverletzung bemerken, wenden Sie sich bitte an an unseren [Support](https://services.dfx.swiss/support) wenden.
 
 
-## 7. Datenerfassung auf dieser Website
+## 8. Datenerfassung auf dieser Website
 
 ### Cookies
 
@@ -240,12 +247,12 @@ Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage in
 Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (zum Beispiel nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
 
-## 8. Analyse-Tools und Werbung
+## 9. Analyse-Tools und Werbung
 
-DFX verwendet keine Website-Analyse-Tools wie zum Beispiel Google Analytics, Adobe Analytics oder andere.
+DFX verwendet keine Website-Analyse-Tools zur Erfassung von Nutzerverhalten wie zum Beispiel Google Analytics, Adobe Analytics oder vergleichbare Dienste. Es werden keine Tracking-Pixel, Werbecookies oder ähnliche Technologien zur Analyse des Nutzerverhaltens eingesetzt.
 
 
-## 9. Newsletter und Social Media
+## 10. Newsletter und Social Media
 
 ### Newsletter­daten
 
@@ -314,7 +321,7 @@ Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Ko
 Details zu deren Umgang mit Ihren personenbezogenen Daten entnehmen Sie der [Datenschutzrichtlinie von LinkedIn](https://www.linkedin.com/legal/privacy-policy).
 
 
-## 10. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
+## 11. Datenschutz bei Bewerbungen und im Bewerbungsverfahren
 
 Der für die Bearbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbenden zum Zweck der Durchführung des Bewerbungsverfahrens. Diese Verarbeitung kann auch elektronisch erfolgen, insbesondere wenn Bewerbende zusätzlich relevante Bewerbungsunterlagen per E-Mail (zum Beispiel im PDF-Format oder anderen Dateitypen) übermitteln.
 
@@ -327,20 +334,20 @@ Sollte der für die Bearbeitung Verantwortliche einen Arbeitsvertrag mit einer B
 Wird kein Arbeitsvertrag abgeschlossen, werden die Bewerbungsunterlagen 12 Monate nach Bekanntgabe der Ablehnungsentscheidung automatisch und ohne weitere Benachrichtigung gelöscht, sofern keine sonstigen berechtigten Interessen der datenverarbeitenden Stelle der Löschung entgegenstehen. Berechtigte Interessen können beispielsweise Nachweispflichten in Verfahren nach dem Gleichstellungsgesetz (GlG) sein.
 
 
-## 11. Anwendbares Recht und Gerichtsstand
+## 12. Anwendbares Recht und Gerichtsstand
 
 Für die Website von DFX mit Sitz in der Schweiz ist ausschliesslich Schweizer (Datenschutz-)Recht anwendbar, sofern nicht anderes zwingendes Recht auf die betroffene natürliche Person anwendbar ist.
 
 Für alle allfälligen Streitigkeiten zwischen Ihnen als Besucher und Nutzer der Website von DFX, die sich aus dem Betrieb oder dem Besuch der Websites ergeben, ist ausschliesslich das Gericht am Sitz von DFX (Schweiz) zuständig, sofern nicht für die betroffene natürliche Person ein anderer zwingender Gerichtsstand anwendbar ist.
 
 
-## 12. Änderungen der Datenschutzerklärung
+## 13. Änderungen der Datenschutzerklärung
 
 DFX überprüft diese Datenschutzerklärung regelmässig, um sicherzustellen, dass sie stets aktuell ist, und behält sich das Recht vor, sie bei Bedarf zu ändern. Es wird empfohlen, diese Seite regelmässig auf mögliche Änderungen zu überprüfen, da keine individuelle Benachrichtigung bei Änderungen erfolgt.  
 Bei Unstimmigkeiten mit der englischen Version ist die deutsche Fassung dieser Datenschutzerklärung massgebend.
 
 
-## 13. Rechtliche Hinweise und Haftungsausschluss
+## 14. Rechtliche Hinweise und Haftungsausschluss
 
 DFX übernimmt keine Haftung für die Richtigkeit und Vollständigkeit des Inhalts der Informationen.
 
@@ -349,19 +356,19 @@ Haftungsansprüche, die sich auf Schäden materieller oder ideeller Art beziehen
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
 
-## 14. Haftung für Links
+## 15. Haftung für Links
 
 Verweise und Links auf Websites Dritter liegen ausserhalb der Verantwortung von DFX. Jegliche Verantwortung für Websites von Dritten, das heisst ausserhalb der zu DFX gehörenden Unternehmen, wird abgelehnt. Der Zugang zu und die Nutzung von solchen Websites erfolgt auf eigenes Risiko des Nutzers.
 
 Alle von DFX in digitaler oder elektronischer Form veröffentlichten Angebote sind freibleibend. DFX behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
 
-## 15. Urheberrechte und Geistiges Eigentum 
+## 16. Urheberrechte und Geistiges Eigentum
 
 Das Urheberrecht und alle anderen Rechte an den Inhalten, Bildern, Fotos oder anderen Dateien auf der DFX-Website gehören ausschliesslich DFX und den mit ihr verbundenen Unternehmen, deren Lieferanten oder den namentlich genannten Rechtsinhabern.
 
 
-## 16. Zustimmung zur Datenschutzerklärung
+## 17. Zustimmung zur Datenschutzerklärung
 
 Der Kunde akzeptiert den Inhalt der Datenschutzerklärung in der jeweils aktuellen Fassung vollumfänglich. Die Datenschutzerklärung hat im Falle von Widersprüchen Vorrang vor den Allgemeinen Geschäftsbedingungen von DFX.
 
