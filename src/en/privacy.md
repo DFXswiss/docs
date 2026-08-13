@@ -249,7 +249,7 @@ The data you send to us via contact requests will remain with us until you ask u
 
 ## 9. Analysis tools and advertising
 
-DFX does not use website analysis tools such as Google Analytics, Adobe Analytics or others. No tracking pixels, advertising cookies or similar technologies for analysing user behaviour are used.
+DFX does not use website analysis tools for tracking user behaviour, such as Google Analytics, Adobe Analytics or comparable services. No tracking pixels, advertising cookies or similar technologies for analysing user behaviour are used.
 
 
 ## 10. Newsletter and social media

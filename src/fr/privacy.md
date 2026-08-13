@@ -249,7 +249,7 @@ Les données que vous nous envoyez via les demandes de contact resteront chez no
 
 ## 9. Outils d'analyse et publicité
 
-DFX n'utilise pas d'outils d'analyse de sites Web tels que Google Analytics, Adobe Analytics ou autres. Aucun pixel de suivi, cookie publicitaire ou technologie similaire d'analyse du comportement des utilisateurs n'est utilisé.
+DFX n'utilise pas d'outils d'analyse de sites Web pour le suivi du comportement des utilisateurs, tels que Google Analytics, Adobe Analytics ou des services comparables. Aucun pixel de suivi, cookie publicitaire ou technologie similaire d'analyse du comportement des utilisateurs n'est utilisé.
 
 
 ## 10. Newsletter et réseaux sociaux
