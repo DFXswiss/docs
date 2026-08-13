@@ -180,7 +180,7 @@ Il sito web memorizza ed elabora solo i dati minimi necessari per il funzionamen
 
 ### Nota sul trasferimento dati all'estero
 
-I dati personali sono trattati in Svizzera. Al di fuori della Svizzera sono trasmessi soltanto a Cloudflare (USA, accesso ai servizi) e ai responsabili del trattamento indicati sopra. Inoltre, nell'ambito delle transazioni bancarie, i dati dei clienti possono essere trasferiti alle banche partecipanti in Svizzera e all'estero (cfr. Condizioni generali).
+I dati personali sono trattati in Svizzera. Al di fuori della Svizzera sono trasmessi a Cloudflare (USA, accesso ai servizi), ai responsabili del trattamento indicati sopra e, nell'ambito delle transazioni bancarie, alle banche partecipanti (cfr. Condizioni generali).
 
 ### Crittografia SSL o TLS
 

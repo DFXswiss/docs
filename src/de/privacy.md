@@ -180,7 +180,7 @@ Die Website speichert und verarbeitet lediglich die Daten welche als Minimum not
 
 ### Hinweis zur Datenweitergabe ins Ausland
 
-Personenbezogene Daten werden in der Schweiz verarbeitet. Ausserhalb der Schweiz gelangen sie nur an Cloudflare (USA, Zugang zu den Diensten) sowie an die oben genannten Auftragsverarbeiter. Zusätzlich können im Rahmen von Banktransaktionen Kundendaten an beteiligte Banken im In- und Ausland übermittelt werden (siehe Allgemeine Geschäftsbedingungen).
+Personenbezogene Daten werden in der Schweiz verarbeitet. Ausserhalb der Schweiz gelangen sie an Cloudflare (USA, Zugang zu den Diensten), an die oben genannten Auftragsverarbeiter und im Rahmen von Banktransaktionen an beteiligte Banken (siehe Allgemeine Geschäftsbedingungen).
 
 ### SSL- bzw. TLS-Verschlüsselung
 
