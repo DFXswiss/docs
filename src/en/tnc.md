@@ -14,7 +14,7 @@ By accessing and using the website and downloading information, data and documen
 
 ## No advice
 DFX does not provide investment, tax or legal advice. The information provided on the website is for informational purposes only and does not constitute recommendations. Customers make their investment decisions independently and bear full responsibility for the resulting risks.  
-This applies to all financial services offered by DFX, which include the purchase, sale, exchange and sending of cryptocurrencies.  
+This applies to all financial services offered by DFX, which include the purchase, sale and exchange of cryptocurrencies.  
 
 All investment decisions made by customers are based solely on their own assessment of their financial situation and investment goals. They bear sole responsibility for such decisions and the resulting consequences. DFX provides its services exclusively at the explicit, independent request of the customer, without checking their financial situation, technical understanding, suitability or the appropriateness of the investment.
 
@@ -65,7 +65,6 @@ DFX's financial services include:
 * Buy
 * Sell
 * Swap (Exchange)
-* Send
 
 The payment options include:
 * Bank transfer
@@ -94,17 +93,6 @@ Please refrain from contacting the bank directly, as this will result in signifi
 ## Local restrictions
 
 The products and services offered on this website are only approved for sale in Switzerland. Persons accessing the website from abroad do so at their own risk. DFX disclaims any responsibility in connection with the use of the website outside Switzerland. In particular, it is pointed out that every foreign user is obliged to clarify for themselves whether they may use the services and products offered by DFX based on the applicable legislation at their place of residence or registered office, or based on the legislation of their home country.
-
-## Custody of assets
-### Terms of custody
-DFX offers the custody of assets for customers. The following asset classes are eligible for this: Swiss Francs (CHF), Euro (EUR), Bitcoin (BTC) and Frankencoin Pool Shares (FPS). The custody of these assets is subject to the following conditions:
-* Flexibility in the choice of custody asset: If a customer decides to custody a certain amount of an asset class with DFX, it is at DFX's discretion to decide in which type or on which blockchain this asset is held.
-    * Example 1: If the customer decides to custody BTC, DFX can hold this either on the Bitcoin mainchain or as Wrapped Bitcoin (WBTC) on the Ethereum blockchain.
-    * Example 2: If the customer chooses FPS, this can be held either as FPS on Ethereum or as WFPS (Wrapped FPS) on Polygon.  
-
-DFX reserves this flexibility to make custody efficient and secure. All assets held for customers are held segregated on a customer-specific address. Customers have the option to view at any time via the [DFX software solution](https://app.dfx.swiss/) which address their assets are held on and in which type (asset and blockchain).
-
-Custody is carried out in compliance with applicable Swiss regulations, in particular with regard to the security and protection of customer funds. DFX ensures that the assets held are not mixed with its own assets. The assets held are always the property of the customer and would not fall into the bankruptcy estate in the event of insolvency.
 
 ## Handling of transaction data
 For all transactions of digital assets, the following information is made publicly available:
@@ -140,11 +128,7 @@ At least the following information is required:
 For blockchain transactions from DFX to non-self-hosted wallets, this data is automatically transmitted by DFX to the hosting provider. Unless otherwise agreed, the data is transmitted by email to compliance(at)"provider.domain". Customers of DFX who do not wish to agree to this transmission are recommended to use a self-hosted wallet.
 
 ## User registration
-Before DFX's financial services can be used, the customer must register. Registration is free for private individuals and, after acceptance of the current Terms and Conditions, leads to the creation of a user profile. When a customer registers, the information and documents that the customer must submit to DFX and the maximum amount for which the customer can buy or sell cryptocurrencies depend on their identification level:
-
-Registration is generally carried out via the blockchain address, providing the customer's email or telephone number. This registration is considered standard – light KYC (Know-Your-Customer) – and allows the customer to buy/sell cryptocurrencies up to a set monthly limit (rolling 30-day period).
-
-For the purchase/sale of cryptocurrencies above this monthly limit, a more detailed registration is required, which is considered an extended – full KYC (Know-Your-Customer) – process. As part of this process, the following information in particular must be disclosed to DFX:
+Before DFX's financial services can be used, the customer must register and complete identity verification (KYC). Registration is free for private individuals and, after acceptance of the current Terms and Conditions, leads to the creation of a user profile. Buying, selling and exchanging are only possible after identity verification has been completed. As part of the identity verification, the following information in particular must be disclosed to DFX:
 
 * Address, proof of which is provided by delivery of a letter to the specified address
 * Copy of the identification document (ID card or passport), which must have a signature, a readable MRZ code and a photo
@@ -158,9 +142,9 @@ The limits up to which purchases/sales of cryptocurrencies are executed are deci
 
 DFX reserves the right to conduct a video conference to verify the customer's identity. This applies, among other things, if DFX is of the opinion that the documents provided are incomplete, the customer's place of residence or business is located in a risk country, or the first transaction made by the customer was made from a risk country or via a bank account that is not in the customer's name.
 
-The complete and correct submission and validation of these documents is required for the first purchase and sale of cryptocurrencies as well as for the conversion of cryptocurrencies, or at any time upon request by DFX without giving reasons.
+The complete and correct submission and validation of these documents is required for the purchase, sale and exchange of cryptocurrencies.
 
-The data provided must be complete and valid at all times. Changes to personal data as well as all data underlying the light or full KYC must be communicated to DFX by the customer without delay.
+The data provided must be complete and valid at all times. Changes to personal data as well as all data underlying the KYC must be communicated to DFX by the customer without delay.
 
 DFX employees never ask the customer for passwords, private keys or seeds. Such requests should be ignored and reported to DFX.
 
@@ -216,51 +200,3 @@ The transaction costs of the crypto or foreign currencies that are transmitted t
 DFX points out that there is a maximum sales volume per month (rolling 30-day period) and per customer. The customer has the option to apply for a higher sales volume. This request will be assessed and discussed individually by DFX.
 
 Refunds of sales to DFX customers are made exclusively in the originally transferred cryptocurrency. The refunded amount corresponds exactly to the value that was transferred to DFX for sale.
-
-## Referral program
-Our referral program pays customers 0.25% on the purchase/investment volume that was purchased by a new customer via the customer's referral link, as well as 0.1% on payment link transactions. 
-
-It is pointed out that participation in the referral program is only permitted for DFX customers. It is also pointed out that the referral program can be discontinued or changed at any time and without notice. Further details can be viewed at https://app.dfx.swiss/account. It is pointed out that this link only works if the user has already logged in with their customer account.
-
-The referral program is aimed at customers resident in Switzerland and is intended for referrals in the personal environment. It does not establish a representation, mediation or mandate relationship. The customer is not authorized to act on behalf of DFX or make declarations. Public or paid/sponsored advertising or distribution of the referral code or DFX services (e.g., via websites or social media) is not permitted. The customer acknowledges that passing on or advertising outside Switzerland may violate local regulations. In the event of suspicion or proof of a violation, DFX may block participation and refuse or reclaim benefits or remuneration. The customer compensates DFX for damage resulting from culpable violation of this provision, including reasonable legal costs. The customer only compensates for official fines or penalties to the extent that this is legally permissible and they were directly caused by their culpable behavior.
-
-## Debt collection business
-
-## Scope and provisions of the debt collection business
-DFX's debt collection business includes:
-* Payment Link
-
-The following provisions apply: 
-* Contracting parties who wish to assign claims to DFX via debt collection business must agree to this by means of a separate contract with DFX. Unless otherwise stipulated in the contract, fees of 0.1% on turnover apply.
-* Users who decide to settle an outstanding claim via the DFX debt collection service can do so according to the following conditions:
-  * Each claim has a defined validity period, which is specified in UTC. Payment must be made within this period.
-  * Technical manipulations to deceive DFX about payment are not permitted and will be reported. In particular, "double spending" is not permitted and will be prosecuted as fraud.
-
-DFX offers payment using the following standards:
-* OpenCryptoPay
-  * Payments via Lightning BOLT11
-    * The user bears the routing fee.
-    * A received contribution of, for example, 1 BTC corresponds to 1 BTC.
-  * Payments on an EVM-based blockchain
-    * The user bears the blockchain fee.
-    * A received contribution of, for example, 1 ZCHF corresponds to 1 ZCHF.
-  * Payments on a UTXO-based blockchain
-    * The user bears the blockchain fee.
-    * A received contribution of, for example, 1 BTC does not correspond to 1 BTC.
-      * The costs for receiving a UTXO are additionally charged to the sender, as DFX can only spend the received UTXO if the corresponding blockchain transaction fee is paid.
-      * DFX therefore considers the technically received amount minus the current blockchain transaction fee as the effectively received amount.
-
-* Payments via Lightning BOLT11
-    * analogous to above
-
-* PayToBlockchainAddress
-  * Payments on an EVM-based blockchain
-    * analogous to above
-  * Payments on a UTXO-based blockchain
-    * analogous to above
-
-The fees for debt collection business are set as follows:
-* DFX generally does not charge any fees for settling debt collection claims.
-* DFX defines a blockchain address to which the claimed amount can be transmitted. For payments via Lightning, a BOLT11 invoice is created. The costs for blockchain fees or Lightning routing fees must be borne by the user and are not part of DFX's debt collection service. These fees are variable.
-* If the user decides to pay in a foreign currency, DFX charges a currency conversion fee of 1% if Lightning BOLT11 or OpenCryptoPay.io is selected as the payment method.
-For all other payment options, such as "PayToBlockchainAddress", a currency conversion fee of 2% is charged. The increased fee is necessary because these payment methods offer a longer validity period.

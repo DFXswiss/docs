@@ -14,7 +14,7 @@ Mit dem Zugriff auf und der Nutzung der Website sowie mit dem Herunterladen von 
 
 ## Keine Beratung
 DFX bietet keine Anlage-, Steuer- oder Rechtsberatung an. Die auf der Website bereitgestellten Informationen dienen lediglich der Information und stellen keine Empfehlungen dar. Kunden treffen ihre Investitionsentscheidungen eigenverantwortlich und tragen die volle Verantwortung für die daraus resultierenden Risiken.  
-Dies gilt für alle von DFX angebotenen Finanzdienstleistungen, die den Kauf, Verkauf, Tausch sowie das Versenden von Kryptowährungen umfassen.  
+Dies gilt für alle von DFX angebotenen Finanzdienstleistungen, die den Kauf, Verkauf und Tausch von Kryptowährungen umfassen.  
 
 Sämtliche Investitionsentscheidungen, welche die Kunden treffen, basieren ausschliesslich auf ihrer eigenen Einschätzung ihrer finanziellen Situation und ihrer Anlageziele. Sie tragen die alleinige Verantwortung für solche Entscheidungen und daraus resultierende Konsequenzen. DFX erbringt ihre Dienstleistungen ausschliesslich auf ausdrücklichen, eigenständigen Wunsch des Kunden, ohne dessen wirtschaftliche Situation, technisches Verständnis, Eignung oder die Angemessenheit der Investition zu überprüfen.
 
@@ -65,7 +65,6 @@ Die Finanzdienstleistungen von DFX umfassen:
 * Buy (Kaufen)
 * Sell (Verkaufen)
 * Swap (Tauschen)
-* Send (Senden)
 
 Die Payment-Optionen umfassen:
 * Banküberweisung
@@ -94,17 +93,6 @@ Bitte sehen Sie davon ab, direkt die Bank zu kontaktieren, da dies zu erhebliche
 ## Lokale Beschränkungen
 
 Die auf dieser Website angebotenen Produkte und Dienstleistungen sind ausschliesslich in der Schweiz zum Verkauf zugelassen. Personen, die aus dem Ausland auf die Website zugreifen, tun dies auf eigene Verantwortung. DFX lehnt jegliche Verantwortung im Zusammenhang mit der Nutzung der Website ausserhalb der Schweiz ab. Insbesondere wird darauf aufmerksam gemacht, dass jeder ausländische Nutzer selbst verpflichtet ist, abzuklären, ob er die von DFX angebotenen Dienstleistungen und Produkte gestützt auf die geltenden Gesetzgebungen an seinem Wohnsitz respektive Sitz, oder gestützt auf die Gesetzgebungen seines Heimatstaats nutzen darf.
-
-## Verwahrung von Vermögenswerten
-### Konditionen der Verwahrung
-DFX bietet die Verwahrung von Vermögenswerten für Kunden an. Dabei kommen unter anderem folgende Assetklassen infrage: Schweizer Franken (CHF), Euro (EUR), Bitcoin (BTC) und Frankencoin Pool Shares (FPS). Die Verwahrung dieser Assets unterliegt den nachfolgenden Bedingungen:
-* Flexibilität bei der Wahl des Verwahrungsassets: Wenn ein Kunde sich entscheidet, eine bestimmte Menge einer Assetklasse bei DFX zu verwahren, liegt es im Ermessen von DFX, zu entscheiden, in welcher Art oder auf welcher Blockchain dieses Asset aufbewahrt wird.
-    * Beispiel 1: Entscheidet sich der Kunde für die Verwahrung von BTC, kann DFX dieses entweder auf der Bitcoin Mainchain oder als Wrapped Bitcoin (WBTC) auf der Ethereum-Blockchain aufbewahren.
-    * Beispiel 2: Wählt der Kunde FPS, kann dies entweder als FPS auf Ethereum oder als WFPS (Wrapped FPS) auf Polygon verwahrt werden.  
-
-DFX behält sich diese Flexibilität vor, um die Verwahrung effizient und sicher zu gestalten. Alle Assets, die für Kunden gehalten werden, werden segregiert auf einer kundenspezifischen Adresse aufbewahrt. Kunden haben die Möglichkeit, über die [Softwarelösung von DFX](https://app.dfx.swiss/) jederzeit einzusehen, über welche Adresse ihre Vermögenswerte in welcher Art (Asset und Blockchain) verwahrt werden.
-
-Die Verwahrung erfolgt unter Einhaltung der geltenden Schweizer Vorschriften, insbesondere im Hinblick auf die Sicherheit und den Schutz der Kundengelder. DFX stellt sicher, dass die verwahrten Assets nicht mit eigenen Vermögenswerten vermischt werden. Die verwahrten Assets stehen immer im Eigentum des Kunden und würden im Falle einer Insolvenz nicht in die Konkursmasse fallen.
 
 ## Umgang mit Transaktionsdaten
 Bei allen Transaktionen von digitalen Vermögenswerten werden folgende Informationen öffentlich zur Verfügung gestellt:
@@ -140,11 +128,7 @@ Es werden wenigstens folgende Informationen benötigt:
 Bei Blockchaintransaktionen von DFX an nicht self-hosted Wallets werden diese Daten von DFX automatisch an den Hosting Provider übermittelt. Wenn nichts anderes vereinbart ist, werden die Daten per E-Mail an compliance(at)"provider.domain" übermittelt. Kunden von DFX, die dieser Übermittlung nicht zustimmen wollen, empfehlen wir die Nutzung einer self-hosted Wallet.
 
 ## Benutzer-Registrierung
-Bevor die Finanzdienstleistungen von DFX genutzt werden können, muss sich der Kunde registrieren. Die Registrierung ist für Privatpersonen kostenlos und führt nach Anerkennung der aktuellen Allgemeinen Geschäftsbedingungen zur Erstellung eines Nutzerprofils. Wenn sich ein Kunde registriert, hängen die Informationen und Dokumente, die der Kunde an DFX übermitteln muss, und der maximale Betrag, für den der Kunde Kryptowährungen kaufen oder verkaufen kann, von seiner Identifikationsstufe ab:
-
-Die Registrierung erfolgt grundsätzlich über die Blockchain-Adresse unter Angabe der E-Mail oder Telefonnummer des Kunden. Diese Registrierung gilt als Standard – light KYC (Know-Your-Customer) – und erlaubt dem Kunden den Kauf/Verkauf von Kryptowährungen bis zu einem festgelegten Monatslimit (rollierender 30-Tage-Zeitraum).
-
-Für den Kauf/Verkauf von Kryptowährungen oberhalb dieses Monatslimits bedarf es einer detaillierteren Registrierung, welche als Erweiterter – voller KYC (Know-Your-Customer) – Prozess gilt. Im Rahmen dieses Prozesses sind insbesondere folgende Informationen gegenüber DFX offenzulegen:
+Bevor die Finanzdienstleistungen von DFX genutzt werden können, muss sich der Kunde registrieren und die Identitätsprüfung (KYC) abschliessen. Die Registrierung ist für Privatpersonen kostenlos und führt nach Anerkennung der aktuellen Allgemeinen Geschäftsbedingungen zur Erstellung eines Nutzerprofils. Kauf, Verkauf und Tausch sind erst nach abgeschlossener Identitätsprüfung möglich. Im Rahmen der Identitätsprüfung sind insbesondere folgende Informationen gegenüber DFX offenzulegen:
 
 * Adresse, wobei deren Nachweis über die Zustellung eines Briefes an die angegebene Adresse erfolgt
 * Kopie des Ausweisdokuments (Personalausweis oder Reisepass), das eine Unterschrift, einen lesbaren MRZ-Code und ein Foto aufweisen muss
@@ -158,9 +142,9 @@ Bis zu welchen Limits die Käufe/Verkäufe von Kryptowährungen ausgeführt werd
 
 DFX behält sich das Recht vor, eine Videokonferenz zur Überprüfung der Identität des Kunden durchzuführen. Dies gilt unter anderem, wenn DFX der Ansicht ist, dass die zur Verfügung gestellten Unterlagen unvollständig sind, sich der Wohn- oder Geschäftssitz des Kunden in einem Risikoland befindet, oder die erste seitens des Kunden getätigte Transaktion aus einem Risikoland oder über ein Bankkonto, welches nicht auf den Namen des Kunden lautet, erfolgt ist.
 
-Die vollständige und korrekte Vorlage und Validierung dieser Dokumente ist für den erstmaligen Kauf und Verkauf von Kryptowährungen sowie für die Umrechnung von Kryptowährungen, oder auf jederzeitiges Verlangen von DFX ohne Angabe von Gründen, erforderlich.
+Die vollständige und korrekte Vorlage und Validierung dieser Dokumente ist für den Kauf, Verkauf und Tausch von Kryptowährungen erforderlich.
 
-Die angegebenen Daten müssen vollständig und jederzeit gültig sein. Änderungen personenbezogener Daten sowie aller dem light oder vollen KYC zugrunde liegenden Daten sind durch die Kunden an DFX unverzüglich mitzuteilen.
+Die angegebenen Daten müssen vollständig und jederzeit gültig sein. Änderungen personenbezogener Daten sowie aller dem KYC zugrunde liegenden Daten sind durch die Kunden an DFX unverzüglich mitzuteilen.
 
 Mitarbeiter von DFX fragen den Kunden niemals nach Passwörtern, Privatkeys oder Seeds. Solche Anfragen sind zu ignorieren und DFX zu melden.
 
@@ -216,51 +200,3 @@ Die Transaktionskosten der Krypto- respektive Fremdwährungen, die an den Kunden
 DFX weist darauf hin, dass pro Monat (rollierender 30-Tage-Zeitraum) und pro Kunde ein maximales Verkaufsvolumen besteht. Der Kunde hat die Möglichkeit, ein höheres Verkaufsvolumen zu beantragen. Diese Anfrage wird von DFX individuell beurteilt und diskutiert.
 
 Rückbuchungen von Verkäufen an Kunden der DFX erfolgen ausschliesslich in der ursprünglich transferierten Kryptowährung. Der zurückerstattete Betrag entspricht genau dem Wert, der zum Verkauf an DFX übertragen wurde.
-
-## Referral-Programm
-Unser Referral-Programm zahlt Kunden 0,25 % auf das Transaktionsvolumen, das über den Referral-Link des Kunden von einem neuen Kunden generiert wird, sowie 0,1 % auf Payment-Link-Transaktionen. 
-
-Es wird darauf hingewiesen, dass die Teilnahme am Referral-Programm ausschliesslich für DFX-Kunden gestattet ist. Zudem kann das Referral-Programm jederzeit und ohne Ankündigung eingestellt oder verändert werden. Weitere Details sind unter https://app.dfx.swiss/account einsehbar. Es wird darauf hingewiesen, dass dieser Link nur funktioniert, wenn der Nutzer sich bereits mit seinem Kundenaccount angemeldet hat.
-
-Das Referral-Programm richtet sich an in der Schweiz wohnhafte Kunden und ist für Empfehlungen im persönlichen Umfeld bestimmt. Es begründet kein Vertretungs-, Vermittlungs- oder Auftragsverhältnis. Der Kunde ist nicht berechtigt, im Namen von DFX aufzutreten oder Erklärungen abzugeben. Eine öffentliche oder bezahlte/gesponserte Bewerbung oder Verbreitung des Referral-Codes bzw. der Dienstleistungen von DFX (z.B. über Websites oder Social Media) ist nicht zulässig. Der Kunde nimmt zur Kenntnis, dass eine Weitergabe oder Bewerbung ausserhalb der Schweiz gegen lokale Vorschriften verstossen kann. Bei Verdacht oder Nachweis eines Verstosses kann DFX die Teilnahme sperren sowie Vorteile oder Vergütungen verweigern oder zurückfordern. Der Kunde ersetzt DFX den Schaden aus schuldhafter Verletzung dieser Bestimmung, einschliesslich angemessener Rechtskosten. Behördliche Bussen oder Strafen ersetzt der Kunde nur, soweit dies gesetzlich zulässig ist und sie unmittelbar durch sein schuldhaftes Verhalten verursacht wurden.
-
-## Inkasso-Geschäft
-
-## Umfang und Bestimmungen des Inkasso-Geschäfts
-Das Inkasso-Geschäft von DFX umfasst:
-* Payment-Link
-
-Hierbei gelten folgende Bestimmungen: 
-* Vertragsparteien, die Forderungen an DFX per Inkasso-Geschäft abtreten möchten, müssen dies mittels eines gesonderten Vertrags mit DFX vereinbaren. Sofern im Vertrag nichts anderes geregelt ist, gelten Gebühren von 0,1 % auf den Umsatz.
-* Nutzer, die sich entscheiden, eine ausstehende Forderung über den DFX-Inkasso-Service zu begleichen, können dies gemäss den folgenden Bedingungen tun:
-  * Jede Forderung hat eine definierte Gültigkeitsdauer, die in UTC angegeben ist. Die Zahlung muss innerhalb dieser Frist erfolgen.
-  * Technische Manipulationen, um DFX über die Bezahlung zu täuschen, sind nicht gestattet und werden zur Anzeige gebracht. Insbesondere sind „doppelte Ausgaben“ (Double Spending) nicht erlaubt und werden als Betrug strafrechtlich verfolgt.
-
-DFX bietet hierbei die Bezahlung mittels folgender Standards an:
-* OpenCryptoPay
-  * Zahlungen über Lightning BOLT11
-    * Der Nutzer trägt die Routing-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht 1 BTC.
-  * Zahlungen auf einer EVM-basierten Blockchain
-    * Der Nutzer trägt die Blockchain-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 ZCHF entspricht 1 ZCHF.
-  * Zahlungen auf einer UTXO-basierten Blockchain
-    * Der Nutzer trägt die Blockchain-Gebühr.
-    * Ein erhaltener Beitrag von zum Beispiel 1 BTC entspricht nicht 1 BTC.
-      * Die Kosten für den Empfang von einem UTXO werden dem Absender zusätzlich verrechnet, da DFX das empfangene UTXO nur dann ausgeben kann, wenn die entsprechende Blockchain-Transaktionsgebühr bezahlt wird.
-      * Die DFX betrachtet daher den technisch erhaltenen Betrag abzüglich der aktuellen Blockchain-Transaktionsgebühr als den effektiv erhaltenen Betrag.
-
-* Zahlungen über Lightning BOLT11
-    * analog zu oben
-
-* PayToBlockchainAddress
-  * Zahlungen auf einer EVM-basierten Blockchain
-    * analog zu oben
-  * Zahlungen auf einer UTXO-basierten Blockchain
-    * analog zu oben
-
-Die Gebühren für Inkasso-Geschäfte sind wie folgt festgelegt:
-* DFX erhebt grundsätzlich keine Gebühren für die Begleichung der Inkasso-Forderungen.
-* DFX definiert eine Blockchain-Adresse, an die der geforderte Betrag übermittelt werden kann. Bei Zahlungen über Lightning wird eine BOLT11-Rechnung erstellt. Die Kosten für die Blockchain-Gebühren oder die Lightning-Routing-Gebühren müssen vom Nutzer übernommen werden und sind nicht Teil der Inkasso-Dienstleistung von DFX. Diese Gebühren sind variabel.
-* Sollte sich der Nutzer entscheiden, in einer Fremdwährung zu bezahlen, berechnet DFX eine Währungsumrechnungsgebühr von 1 %, wenn Lightning BOLT11 oder OpenCryptoPay.io als Zahlungsmethode gewählt wird.
-Bei allen anderen Zahlungsoptionen, wie beispielsweise „PayToBlockchainAddress“, wird eine Währungsumrechnungsgebühr von 2 % erhoben. Die erhöhte Gebühr ist erforderlich, da bei diesen Zahlungsmethoden eine längere Gültigkeitsdauer angeboten wird.
