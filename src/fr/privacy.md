@@ -122,11 +122,11 @@ Les personnes concernées ont le droit de s'opposer au profilage et de demander 
 
 ## 4. Hébergement et infrastructure
 
-DFX exploite l'API, la plateforme applicative et la base de données sur ses propres serveurs en Suisse.
+DFX héberge les sites web statiques sans données clients (par exemple dfx.swiss) chez Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA).
 
-L'accès public à nos sites et services passe par Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA) en tant que réseau de diffusion de contenu et reverse proxy. Lors de l'accès, des données techniquement nécessaires (notamment votre adresse IP et les métadonnées de requête) sont transmises à Cloudflare.
+DFX exploite l'API, la plateforme applicative et la base de données sur ses propres serveurs en Suisse. L'accès public à ces services passe par Cloudflare en tant que réseau de diffusion de contenu et reverse proxy.
 
-Cloudflare est certifié au titre du [Data Privacy Framework UE–États-Unis](https://www.dataprivacyframework.gov/) et du Data Privacy Framework Suisse–États-Unis. Nous nous appuyons en outre sur des clauses contractuelles types (art. 16 al. 2 let. d LPD). Détails : [politique de confidentialité de Cloudflare](https://www.cloudflare.com/privacypolicy/) et [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
+Lors de l'accès, des données techniquement nécessaires (notamment votre adresse IP et les métadonnées de requête) sont transmises à Cloudflare. Cloudflare est certifié au titre du [Data Privacy Framework UE–États-Unis](https://www.dataprivacyframework.gov/) et du Data Privacy Framework Suisse–États-Unis. Nous nous appuyons en outre sur des clauses contractuelles types (art. 16 al. 2 let. d LPD). Détails : [politique de confidentialité de Cloudflare](https://www.cloudflare.com/privacypolicy/) et [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
 
 ## 5. Sous-traitants
@@ -180,7 +180,7 @@ Le site Web stocke et traite uniquement les données minimales nécessaires au f
 
 ### Remarque sur le transfert de données à l'étranger
 
-Les données personnelles sont traitées en Suisse. En dehors de la Suisse, elles sont transmises à Cloudflare (USA, accès aux services), aux sous-traitants cités ci-dessus et, dans le cadre de transactions bancaires, aux banques participantes (voir les Conditions générales).
+Les données personnelles sont traitées en Suisse. En dehors de la Suisse, elles sont transmises à Cloudflare (USA, hébergement des sites statiques et accès aux services), aux sous-traitants cités ci-dessus et, dans le cadre de transactions bancaires, aux banques participantes (voir les Conditions générales).
 
 ### Cryptage SSL ou TLS
 
