@@ -122,92 +122,20 @@ Les personnes concernées ont le droit de s'opposer au profilage et de demander 
 
 ## 4. Hébergement et infrastructure
 
-### Hébergement avec Cloudflare Pages
+DFX exploite l'API, la plateforme applicative et la base de données sur ses propres serveurs en Suisse.
 
-Nous hébergeons notre site Web avec Cloudflare Pages. Le fournisseur est Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA (ci-après : Cloudflare).
+L'accès public à nos sites et services passe par Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA) en tant que réseau de diffusion de contenu et reverse proxy. Lors de l'accès, des données techniquement nécessaires (notamment votre adresse IP et les métadonnées de requête) sont transmises à Cloudflare.
 
-Cloudflare a mis en œuvre des mesures techniques et organisationnelles appropriées pour assurer la protection des données personnelles. Des détails sur leur traitement des données personnelles peuvent être trouvés dans la [politique de confidentialité de Cloudflare](https://www.cloudflare.com/privacypolicy/). Le traitement pour notre compte est régi par le [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
-
-### API et plateforme applicative avec Microsoft Azure
-
-L'infrastructure centrale de DFX — notamment l'API (api.dfx.swiss), la plateforme applicative (app.dfx.swiss) et la base de données — est exploitée sur Microsoft Azure (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA). Toutes les données personnelles traitées dans le cadre de l'utilisation de nos services financiers (y compris les données clients, les données de transactions, les données KYC et les documents d'identité) sont stockées et traitées sur l'infrastructure Azure.
-
-DFX utilise Azure App Services, Azure Storage, Azure CDN ainsi qu'une base de données Microsoft SQL Server. Le traitement des données s'effectue dans des centres de données Azure européens. Microsoft a mis en place des mesures techniques et organisationnelles appropriées pour garantir la protection des données personnelles. Le transfert de données vers les USA (le cas échéant) s'effectue sur la base du Swiss-US Data Privacy Framework et des clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD.
-
-Pour plus d'informations, veuillez consulter la [politique de confidentialité de Microsoft](https://privacy.microsoft.com/fr-fr/privacystatement) et les [conditions des services en ligne Microsoft](https://www.microsoft.com/licensing/terms).
+Cloudflare est certifié au titre du [Data Privacy Framework UE–États-Unis](https://www.dataprivacyframework.gov/) et du Data Privacy Framework Suisse–États-Unis. Nous nous appuyons en outre sur des clauses contractuelles types (art. 16 al. 2 let. d LPD). Détails : [politique de confidentialité de Cloudflare](https://www.cloudflare.com/privacypolicy/) et [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
 
-## 5. Sous-traitants et prestataires tiers
+## 5. Sous-traitants
 
-DFX fait appel à différents sous-traitants externes pour fournir ses services. Ceux-ci traitent les données personnelles exclusivement sur mandat et selon les instructions de DFX. DFX s'assure par des accords contractuels que tous les sous-traitants garantissent un niveau adéquat de protection des données.
+Lorsque cela est nécessaire à l'exécution du contrat ou au respect d'obligations légales, nous faisons appel aux sous-traitants suivants :
 
-### Vérification d'identité (KYC) avec Sumsub
-
-Pour la vérification d'identité légalement requise (Know Your Customer, KYC), DFX fait appel au prestataire Sumsub (Sum and Substance Ltd., Angleterre et Pays de Galles, Company No. 09688671) en tant que sous-traitant.
-
-#### Données traitées
-
-Dans le cadre de la vérification d'identité, les données personnelles suivantes sont transmises à Sumsub et traitées par celui-ci :
-
-* Données personnelles : prénom, nom, date de naissance, nationalité
-* Adresse : rue, numéro, code postal, ville, pays
-* Documents d'identité : passeport, carte d'identité ou autres documents officiels (copies/photos)
-* Données biométriques : images faciales (selfies), reconnaissance faciale et détection de vivacité pour la vérification d'identité
-* Enregistrements vidéo : dans le cadre de l'identification vidéo (si nécessaire)
-
-#### Données particulièrement sensibles (art. 5 let. c LPD)
-
-Les données biométriques traitées dans le cadre de la vérification d'identité (géométrie faciale, détection de vivacité) sont considérées comme des données personnelles particulièrement sensibles au sens de l'art. 5 let. c LPD. Le traitement de ces données s'effectue exclusivement sur la base de votre consentement exprès conformément à l'art. 6 al. 7 LPD, que vous donnez séparément avant le début du processus d'identification. Vous pouvez révoquer ce consentement à tout moment pour l'avenir ; toutefois, une révocation aura pour conséquence que la vérification d'identité ne pourra pas être achevée et que certains services de DFX ne pourront pas être utilisés.
-
-#### Transfert de données à l'étranger
-
-Sumsub a son siège en Angleterre et au Pays de Galles (Royaume-Uni). Le Royaume-Uni dispose d'une décision d'adéquation du Conseil fédéral suisse conformément à l'art. 16 al. 1 LPD, garantissant un niveau adéquat de protection des données sans nécessiter de garanties supplémentaires.
-
-#### Durée de conservation
-
-Les documents et données biométriques collectés dans le cadre de la vérification d'identité sont conservés par DFX pendant la durée légale de conservation de 10 ans après la fin de la relation d'affaires (art. 7 LBA). Les données biométriques brutes chez Sumsub sont supprimées conformément aux accords contractuels après la conclusion de la vérification.
-
-Pour plus d'informations sur la protection des données chez Sumsub, veuillez consulter la [politique de confidentialité de Sumsub](https://sumsub.com/privacy-notice-service/).
-
-### Prévention de la fraude avec Sift
-
-DFX fait appel au prestataire Sift Science, Inc. (123 Mission Street, Suite 2000, San Francisco, CA 94105, USA) en tant que sous-traitant pour la prévention de la fraude et la lutte contre le blanchiment d'argent.
-
-#### Données traitées
-
-Les données suivantes sont transmises à Sift dans le cadre de la prévention de la fraude :
-
-* Informations de compte : identifiant utilisateur, date de création, niveau KYC
-* Données de transactions : montant, devise, moyen de paiement (4 derniers chiffres de la carte de crédit ou 6 premiers et 4 derniers chiffres de l'IBAN), adresse blockchain
-* Données techniques : adresse IP, informations sur l'appareil, type de navigateur
-* Données de connexion : horodatage et type de connexion
-
-#### Transfert de données à l'étranger
-
-Sift a son siège aux USA. Le transfert de données s'effectue sur la base du Swiss-US Data Privacy Framework, dans la mesure où Sift est certifié sous ce cadre, ou sur la base de clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD.
-
-Pour plus d'informations, veuillez consulter la [politique de confidentialité de Sift](https://sift.com/legal-and-compliance/service-privacy-notice).
-
-### Contrôle des sanctions avec Dilisense
-
-DFX fait appel au prestataire Dilisense pour la vérification des clients par rapport aux listes de sanctions, aux listes PEP (personnes politiquement exposées) et aux casiers judiciaires. Dans le cadre de ce contrôle, le nom, la date de naissance et la nationalité du client sont transmis.
-
-### Surveillance côté serveur avec Azure Application Insights
-
-DFX utilise Microsoft Azure Application Insights (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, USA) à des fins de surveillance opérationnelle, de détection d'erreurs et d'optimisation des performances de l'infrastructure API. Application Insights n'est pas un outil d'analyse de site web pour le suivi du comportement des utilisateurs, mais un outil de surveillance côté serveur.
-
-#### Données traitées
-
-* Données de requêtes techniques : chemins URL, codes de statut HTTP, temps de réponse
-* Journaux d'erreurs et d'exceptions : traces de pile, messages d'erreur
-* Dépendances : appels aux bases de données et services externes
-* Adresses IP : dans le cadre du traitement des requêtes
-
-Aucun contenu personnel (tel que noms, adresses ou données financières) n'est transmis à Application Insights.
-
-#### Transfert de données à l'étranger
-
-Microsoft peut traiter des données dans des centres de données en dehors de la Suisse (UE/USA). Le transfert de données s'effectue sur la base des clauses contractuelles types conformément à l'art. 16 al. 2 let. d LPD et du Swiss-US Data Privacy Framework. Pour plus d'informations, veuillez consulter la [politique de confidentialité de Microsoft](https://privacy.microsoft.com/fr-fr/privacystatement).
+* Sumsub (Sum and Substance Ltd., Royaume-Uni) — vérification d'identité légalement requise, y compris les documents d'identité et les données biométriques. Le Royaume-Uni bénéficie d'une décision d'adéquation (art. 16 al. 1 LPD). Nous ne traitons des données biométriques qu'avec votre consentement exprès (art. 6 al. 7 LPD).
+* Sift Science, Inc. (USA) — prévention de la fraude. Le transfert repose sur le Swiss-U.S. Data Privacy Framework ou sur des clauses contractuelles types (art. 16 al. 2 let. d LPD).
+* Dilisense (UE) — contrôle des listes de sanctions et PEP. Décision d'adéquation (art. 16 al. 1 LPD).
 
 
 ## 6. Notes générales et informations obligatoires
@@ -253,21 +181,7 @@ Le site Web stocke et traite uniquement les données minimales nécessaires au f
 
 ### Remarque sur le transfert de données à l'étranger
 
-Pour l'hébergement, nous utilisons Cloudflare Pages, un service fourni par Cloudflare, Inc., basée aux États-Unis. Lorsque vous accédez à notre site Web, des données techniquement nécessaires (notamment votre adresse IP et les métadonnées de requête) sont transférées aux États-Unis et y sont traitées, car Cloudflare termine la connexion en tant que reverse proxy / réseau de diffusion de contenu (CDN).
-
-Base juridique du transfert de données vers les États-Unis : Cloudflare est certifié au titre du [Data Privacy Framework UE–États-Unis](https://www.dataprivacyframework.gov/) et du Data Privacy Framework Suisse–États-Unis. Nous nous appuyons en outre sur les clauses contractuelles types de la Commission européenne. Malgré ces garanties, un accès des autorités américaines (par exemple en vertu du CLOUD Act) ne peut être entièrement exclu.
-
-Dans le cadre de nos activités commerciales, des données personnelles sont transmises aux destinataires dans les pays suivants :
-
-| Destinataire | Pays | Finalité | Base juridique |
-|-------------|------|----------|----------------|
-| Microsoft Corporation (Azure) | UE / USA | Hébergement de l'API, base de données, plateforme applicative, surveillance | Swiss-US DPF / Clauses contractuelles types (art. 16 al. 2 LPD) |
-| Sumsub (Sum and Substance Ltd.) | Royaume-Uni | Vérification d'identité (KYC) | Décision d'adéquation (art. 16 al. 1 LPD) |
-| Sift Science, Inc. | USA | Prévention de la fraude | Swiss-US DPF / Clauses contractuelles types (art. 16 al. 2 LPD) |
-| Dilisense | UE | Contrôle des sanctions et PEP | Décision d'adéquation (art. 16 al. 1 LPD) |
-| Cloudflare, Inc. | USA | Hébergement du site web et de la documentation (Cloudflare Pages) | Swiss-US DPF / Clauses contractuelles types (art. 16 al. 2 LPD) |
-
-DFX ne transfère des données personnelles que vers des pays disposant d'un niveau adéquat de protection des données (conformément à l'annexe 1 de l'ordonnance sur la protection des données), ou sous réserve de garanties appropriées telles que des clauses contractuelles types (art. 16 al. 2 let. d LPD). En outre, des données clients peuvent être transmises aux banques participantes en Suisse et à l'étranger dans le cadre de transactions bancaires (voir les Conditions générales).
+Les données personnelles sont traitées en Suisse. En dehors de la Suisse, elles sont transmises uniquement à Cloudflare (USA, accès aux services) et aux sous-traitants cités ci-dessus. En outre, des données clients peuvent être transmises aux banques participantes en Suisse et à l'étranger dans le cadre de transactions bancaires (voir les Conditions générales).
 
 ### Cryptage SSL ou TLS
 
@@ -337,8 +251,6 @@ Les données que vous nous envoyez via les demandes de contact resteront chez no
 ## 9. Outils d'analyse et publicité
 
 DFX n'utilise pas d'outils d'analyse de sites Web tels que Google Analytics, Adobe Analytics ou autres. Aucun pixel de suivi, cookie publicitaire ou technologie similaire d'analyse du comportement des utilisateurs n'est utilisé.
-
-Pour la surveillance opérationnelle côté serveur de l'infrastructure API, DFX utilise Microsoft Azure Application Insights (voir section 5 «Sous-traitants et prestataires tiers»). Cet outil est utilisé exclusivement pour la surveillance technique, la détection d'erreurs et l'optimisation des performances et ne collecte aucune donnée sur le comportement des utilisateurs sur le site web.
 
 
 ## 10. Newsletter et réseaux sociaux
