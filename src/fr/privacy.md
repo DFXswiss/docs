@@ -134,7 +134,6 @@ Cloudflare est certifié au titre du [Data Privacy Framework UE–États-Unis](h
 Lorsque cela est nécessaire à l'exécution du contrat ou au respect d'obligations légales, nous faisons appel aux sous-traitants suivants :
 
 * Sumsub (Sum and Substance Ltd., Royaume-Uni) — vérification d'identité légalement requise, y compris les documents d'identité et les données biométriques. Le Royaume-Uni bénéficie d'une décision d'adéquation (art. 16 al. 1 LPD). Nous ne traitons des données biométriques qu'avec votre consentement exprès (art. 6 al. 7 LPD).
-* Sift Science, Inc. (USA) — prévention de la fraude. Le transfert repose sur le Swiss-U.S. Data Privacy Framework ou sur des clauses contractuelles types (art. 16 al. 2 let. d LPD).
 * Dilisense (UE) — contrôle des listes de sanctions et PEP. Décision d'adéquation (art. 16 al. 1 LPD).
 
 

@@ -134,7 +134,6 @@ Cloudflare is certified under the [EU-U.S. Data Privacy Framework](https://www.d
 Where required to perform the contract or to comply with legal obligations, we use the following data processors:
 
 * Sumsub (Sum and Substance Ltd., United Kingdom) — legally required identity verification, including identity documents and biometric data. The United Kingdom is covered by an adequacy decision (Art. 16(1) FADP). We process biometric data only with your explicit consent (Art. 6(7) FADP).
-* Sift Science, Inc. (USA) — fraud prevention. Transfers are based on the Swiss-U.S. Data Privacy Framework or standard contractual clauses (Art. 16(2)(d) FADP).
 * Dilisense (EU) — screening against sanctions and PEP lists. Adequacy decision (Art. 16(1) FADP).
 
 

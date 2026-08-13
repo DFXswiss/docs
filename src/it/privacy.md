@@ -134,7 +134,6 @@ Cloudflare è certificata ai sensi del [Data Privacy Framework UE–USA](https:/
 Ove necessario per l'esecuzione del contratto o per adempiere obblighi di legge, utilizziamo i seguenti responsabili del trattamento:
 
 * Sumsub (Sum and Substance Ltd., Regno Unito) — verifica dell'identità prescritta dalla legge, compresi documenti d'identità e dati biometrici. Il Regno Unito dispone di una decisione di adeguatezza (art. 16 cpv. 1 LPD). Trattiamo i dati biometrici solo con il vostro consenso esplicito (art. 6 cpv. 7 LPD).
-* Sift Science, Inc. (USA) — prevenzione delle frodi. Il trasferimento si basa sullo Swiss-U.S. Data Privacy Framework o su clausole contrattuali standard (art. 16 cpv. 2 lett. d LPD).
 * Dilisense (UE) — controllo delle liste di sanzioni e PEP. Decisione di adeguatezza (art. 16 cpv. 1 LPD).
 
 
