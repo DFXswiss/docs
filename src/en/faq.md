@@ -4,7 +4,7 @@ This page contains the most frequently asked questions about DFX.swiss.
 
 ## Where can I get support if I have questions?
 DFX offers support in different ways. You can find information about our products and services on our homepage or here in the FAQ. 
-If you have any further questions, please contact our [Support](https://dfx.swiss/help).
+If you have any further questions, please contact our [Support](https://app.dfx.swiss/support).
 
 ## What exactly does the DFX service include?
 DFX is the bridge between the bank and the crypto space, enabling private and corporate customers to buy and sell cryptocurrencies. We are working to expand our offering to as many blockchains as possible. Information about our current offering can be found on our [homepage](https://dfx.swiss/en/).
@@ -21,7 +21,7 @@ DFX only has access to the customer's money during the buying or selling process
 DFX accepts SEPA and SEPA Instant transfers. Whether a transfer is possible depends on whether the customer's bank participates in the SEPA payment area. As a VQF member, DFX is subject to the due diligence obligations of the Swiss Anti-Money Laundering Act (AMLA). Business relationships with persons in jurisdictions classified by the FATF as high-risk jurisdictions cannot be entered into. The current classification can be viewed at https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html.
 
 ## Will I receive an overview of all transactions, including fees, that I made with DFX during the year?
-Yes, you can get a transaction overview of DFX services (buying & selling via fiat and referral rewards). You can also use this for the tax authorities. If you have questions or uncertainties about this, you can simply contact our [Support](https://dfx.swiss/help).
+Yes, you can get a transaction overview of DFX services (buying & selling via fiat and referral rewards). You can also use this for the tax authorities. If you have questions or uncertainties about this, you can simply contact our [Support](https://app.dfx.swiss/support).
 
 ## Is the service also available for corporate customers?
 Yes.
@@ -30,10 +30,10 @@ Yes.
 It can happen that your bank contacts you or has rejected a transfer to our service. This is intended to protect the customer, as fraud or other criminal activities are suspected. In this case, it is advisable to contact your bank so that your bank releases the payment.
 
 ## My bank requires proof of origin for my crypto sales. What do I need to do?
-We are happy to help you and support you with our experts. In a pleasant phone conversation, we go through all relevant points and try to document the origin of the funds in an uncomplicated and simple way. We are happy to help you prepare the payout to your bank account perfectly so that you don't have any problems. Simply contact our [Support](https://dfx.swiss/help) for this.
+We are happy to help you and support you with our experts. In a pleasant phone conversation, we go through all relevant points and try to document the origin of the funds in an uncomplicated and simple way. We are happy to help you prepare the payout to your bank account perfectly so that you don't have any problems. Simply contact our [Support](https://app.dfx.swiss/support) for this.
 
 ### Which currencies are supported by our service?
-We accept CHF and EUR. For transactions exceeding CHF 50,000, alternative currencies are also accepted after consultation. In this case, simply contact our [Support](https://dfx.swiss/help).
+We accept CHF and EUR. For transactions exceeding CHF 50,000, alternative currencies are also accepted after consultation. In this case, simply contact our [Support](https://app.dfx.swiss/support).
 
 ## User-relevant questions & KYC process
 
@@ -127,9 +127,9 @@ No. We want you to convince as many friends and acquaintances as possible of our
 Some banks occasionally block SEPA transfers to crypto service providers. If a transfer is rejected, we recommend contacting your own bank directly to release the payment. Alternatively, another bank or payment service provider can be used for the transfer.
 
 ## Are payments from Swissquote or Yuh supported?
-No. The payment channel between Swissquote or Yuh and DFX is restricted. Transfers from accounts at Swissquote or Yuh can therefore not be processed by us.
+No. The block comes from Swissquote or Yuh, not from DFX. We cannot change this on our side. We apologise to the affected users.
 
-Please use an account at another bank in your own name for your deposit.
+We therefore cannot process transfers from accounts at Swissquote or Yuh. Please use an account at another bank in your own name for your deposit.
 
 If a payment from a Swissquote or Yuh account has already reached us, we will transfer it back to another bank account in your name. Please contact our support for this.
 
@@ -164,7 +164,7 @@ Attention: The videos were created before the introduction of the new DFX fee st
 
 SEPA Instant or standard SEPA can then be used.
 
-If you have questions or uncertainties about this, you can simply contact our [Support](https://dfx.swiss/help).
+If you have questions or uncertainties about this, you can simply contact our [Support](https://app.dfx.swiss/support).
 
 ## How do I integrate the hardware wallet?
 - BitBoxSwiss 
@@ -186,7 +186,7 @@ You can also log in to DFX by manually entering a blockchain address and matchin
 ## What is the status of my transaction? I have not received my crypto assets.
 If you have made a transaction and have questions about this transaction because you have not yet received the crypto assets, you have the following options:
 - If it was a bank transaction, we strongly recommend waiting 2 business days. Bank transactions are usually processed within a few hours, but in extreme cases can also take 3 business days. We therefore recommend waiting 2 business days before starting an investigation.
-- You can also contact [Support](https://dfx.swiss/help) via the website.
+- You can also contact [Support](https://app.dfx.swiss/support) via the website.
 
 ## Which data must be included in a support request?
 For bank transactions, support needs the following information:

@@ -23,6 +23,8 @@ Registration Court: Zug, Switzerland
 Website: https://dfx.swiss   
 Electronic contact: https://app.dfx.swiss/support  
 
+We accept inquiries exclusively via this form so that we can fulfil our duties under the Data Protection Act — in particular access, rectification and erasure — correctly. We deliberately do not provide an email address.
+
 
 ## 2. General information on data protection
 
@@ -30,7 +32,7 @@ DFX treats your personal data confidentially and in accordance with the statutor
 
 The use of our website is generally possible without providing personal data. However, if a data subject wishes to use special services of our company via our website, processing of personal data may be necessary. If the processing of personal data is necessary and there is no legal basis for such processing, we obtain the consent of the data subject in an appropriate form after providing appropriate information.  
 
-We would like to point out that, despite the security precautions we have taken, data transmission on the Internet (for example, when communicating by email) may have security vulnerabilities. Complete protection of data against access by third parties is not possible.  
+We would like to point out that, despite the security precautions we have taken, data transmission on the Internet may have security vulnerabilities. Complete protection of data against access by third parties is not possible.  
 
 As the (natural) person concerned, it is in your personal interest to protect the system(s) you use (PC, laptop, etc.) from unauthorized access by third parties, to provide them with adequate password protection and not to disclose the password to third parties. It is recommended to install a commercially available virus protection program and update it regularly.
 
@@ -41,10 +43,11 @@ As part of our business relationships and the use of our services, we process va
 * Contact information: e.g., name, address, phone number, email address.
 * Technical data: e.g., IP addresses, device information, browser type.
 * Payment and financial data: e.g., bank details, credit card data, transaction history, tax returns.
-* Communication data: e.g., contents of emails, contact forms, inquiries.
+* Communication data: e.g., contents of inquiries via the support form.
 * Usage data: e.g., pages visited, login data, usage behavior on our website.
 * Contract data: e.g., purchased products, services, contract terms.
-* Sensitive data (if relevant): e.g., health data, biometric data for identification (only with explicit consent), official identification documents.
+* Identification data: e.g., official identity documents. Official identity documents are personal data, but not particularly sensitive personal data within the meaning of Art. 5(c) FADP.
+* Particularly sensitive data, where processed: biometric data for identification (only with explicit consent).
 
 The collection of this data is carried out exclusively for the purposes stated in this privacy policy and in compliance with applicable data protection regulations.
 
@@ -102,22 +105,18 @@ DFX AG maintains a register of all processing activities involving personal data
 
 The register is regularly updated and documents all relevant processing operations, including processing carried out by third parties on behalf of DFX.
 
-For this and other questions on the subject of data protection, you can contact our [Support](https://services.dfx.swiss/support) at any time.
+For this and other questions on the subject of data protection, you can contact our [Support](https://app.dfx.swiss/support) at any time.
 
 
 ## 3. Profiling and automated decision-making
 
-DFX uses profiling procedures to provide financial services, in particular for:
+DFX uses profiling only to the extent required to fulfil legal duties (in particular anti-money-laundering and sanctions law) and to meet the requirements of our partner banks, without which the service cannot be provided. DFX does not carry out credit checks.
 
-* Credit checks
-* Risk analyses
-* Provision of transaction-related service information
-
-DFX does not carry out purely automated decision-making processes that are legally binding or have significant effects on data subjects. Should automated decision-making or profiling procedures be used in the future, DFX will ensure that these procedures comply with the legal requirements of the Swiss Data Protection Act (DSG) and that data subjects are adequately informed about the process.
+DFX does not carry out purely automated decision-making processes that are legally binding or have significant effects on data subjects.
 
 #### Right to object
 
-Data subjects have the right to object to profiling and to request information about the underlying logic and the effects of profiling on them.
+Data subjects have the right to object to profiling insofar as no legal duty and no partner-bank requirement without which the service cannot be provided stands in the way. They may request information about the underlying logic and the effects of profiling on them.
 
 
 ## 4. Hosting and infrastructure
@@ -134,7 +133,7 @@ When you access them, technically necessary data (in particular your IP address 
 Where required to perform the contract or to comply with legal obligations, we use the following data processors:
 
 * Sumsub (Sum and Substance Ltd., United Kingdom) — legally required identity verification, including identity documents and biometric data. The United Kingdom is covered by an adequacy decision (Art. 16(1) FADP). We process biometric data only with your explicit consent (Art. 6(7) FADP).
-* Dilisense (Switzerland) — screening against sanctions and PEP lists.
+* Dilisense (Switzerland) — screening against sanctions and PEP lists. Only name and date of birth are transmitted.
 
 
 ## 6. General notes and mandatory information
@@ -145,27 +144,12 @@ Unless a more specific storage period has been specified in this privacy policy,
 
 #### Specific retention periods for personal data
 
-DFX stores personal data only as long as it is necessary for the respective processing purposes or as required by legal regulations. After the respective periods have expired, the data will be deleted or anonymized. Below you will find the specific retention periods for the various categories of personal data:
+DFX stores personal data relating to the business relationship, identification and transactions — including technical connection data such as IP addresses — for 10 years after the end of the business relationship (in particular Art. 7 AMLA). We do not apply a shorter period for IP addresses or log data.
 
-1. Contract data
-Retention period: 10 years after termination of the contract.
-
-2. Communication data (e.g., emails, contact forms)
-Retention period: 2 years after completion of communication.
-
-3. Financial and payment data
-Retention period: 10 years after completion of the transaction.
-
-4. Usage data (e.g., IP addresses, log data)
-Retention period: 6 months.
-
-5. Sensitive data (e.g., health or biometric data, if collected)
-Retention period: Only as long as necessary to fulfill the stated purpose.
-
-6. Application documents
+1. Application documents
 Retention period: 12 months after completion of the application process.
 
-7. Social media data (e.g., for user profiles)
+2. Social media data (e.g., for user profiles)
 The data collected directly by us via the social media presence will be deleted from our systems as soon as you ask us to delete it, revoke your consent to storage or the purpose for data storage no longer applies. Stored cookies remain on your end device until you delete them. Mandatory statutory provisions - in particular retention periods - remain unaffected.
 
 We have no influence on the storage period of your data that is stored by the operators of social media networks for their own purposes. For details, please contact the operators of the social media networks directly (e.g., in their privacy policies and statements, see below).
@@ -231,7 +215,7 @@ To prevent data protection violations, we use technical and organizational measu
 
 ### Contact in case of data protection violations:
 
-If you notice a possible data protection violation, please contact our [Support](https://services.dfx.swiss/support).
+If you notice a possible data protection violation, please contact our [Support](https://app.dfx.swiss/support).
 
 
 ## 8. Data collection on this website
@@ -240,11 +224,11 @@ If you notice a possible data protection violation, please contact our [Support]
 
 DFX uses cookies exclusively to maintain the operation of IT systems and their functionality. No cookies are used for tracking user behavior or similar purposes.
 
-### Inquiry by email, telephone or fax
+### Inquiry via the support form
 
-If you contact us by email, telephone or fax, your inquiry including all personal data (name, inquiry) will be stored and processed by us for the purpose of processing your request. We will not pass on this data without your consent.
+We accept inquiries exclusively via the form at https://app.dfx.swiss/support. Your inquiry including the personal data arising from it is stored and processed for the purpose of handling your request. We will not pass on this data without your consent.
 
-The data you send to us via contact requests will remain with us until you ask us to delete it, revoke your consent to storage or the purpose for data storage no longer applies (e.g., after your request has been processed). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
+The data submitted via the form remain with us until you ask us to delete them, revoke your consent to storage or the purpose for data storage no longer applies (e.g., after your request has been processed). Mandatory statutory provisions – in particular statutory retention periods – remain unaffected.
 
 
 ## 9. Analysis tools and advertising
@@ -323,7 +307,7 @@ Details on how they handle your personal data can be found in the [LinkedIn Priv
 
 ## 11. Data protection for applications and in the application process
 
-The controller collects and processes the personal data of applicants for the purpose of carrying out the application process. This processing may also take place electronically, in particular if applicants also send relevant application documents by email (e.g., in PDF format or other file types).
+The controller collects and processes the personal data of applicants for the purpose of carrying out the application process. This processing takes place via LinkedIn.
 
 If you apply for a job advertised by us, these data protection provisions apply in addition to our other data protection provisions, which have been communicated to you separately or are available on our website.
 

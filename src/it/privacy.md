@@ -23,6 +23,8 @@ Tribunale di registrazione: Zugo, Svizzera
 Sito web: https://dfx.swiss   
 Contatto elettronico: https://app.dfx.swiss/support  
 
+Accettiamo le richieste esclusivamente tramite questo modulo, così da poter adempiere correttamente agli obblighi della legge sulla protezione dei dati — in particolare accesso, rettifica e cancellazione. Consapevolmente non mettiamo a disposizione un indirizzo e-mail.
+
 
 ##2. Informazioni generali sulla protezione dei dati
 
@@ -30,7 +32,7 @@ DFX tratta i tuoi dati personali in modo confidenziale e in conformità con le n
 
 L'utilizzo del nostro sito web è generalmente possibile senza fornire dati personali. Tuttavia, se l’interessato desidera utilizzare servizi speciali della nostra azienda tramite il nostro sito web, potrebbe essere necessario il trattamento dei dati personali. Se il trattamento dei dati personali è necessario e non esiste una base giuridica per tale trattamento, otteniamo il consenso dell'interessato in forma adeguata dopo aver fornito idonea informativa.  
 
-Desideriamo sottolineare che, nonostante le precauzioni di sicurezza da noi adottate, la trasmissione di dati su Internet (ad esempio durante la comunicazione via e-mail) può presentare vulnerabilità di sicurezza. Non è possibile una protezione completa dei dati dall'accesso di terzi.  
+Desideriamo sottolineare che, nonostante le precauzioni di sicurezza da noi adottate, la trasmissione di dati su Internet può presentare vulnerabilità di sicurezza. Non è possibile una protezione completa dei dati dall'accesso di terzi.  
 
 In qualità di persona (fisica) interessata, è nel tuo interesse personale proteggere il/i sistema/i che utilizzi (PC, laptop, ecc.) da accessi non autorizzati da parte di terzi, fornire loro un'adeguata protezione con password e non divulgare la password a terzi. Si consiglia di installare un programma di protezione antivirus disponibile in commercio e di aggiornarlo regolarmente.
 
@@ -41,10 +43,11 @@ Nell’ambito dei nostri rapporti commerciali e dell’utilizzo dei nostri servi
 * Informazioni di contatto: ad esempio nome, indirizzo, numero di telefono, indirizzo e-mail.
 * Dati tecnici: ad esempio indirizzi IP, informazioni sul dispositivo, tipo di browser.
 * Dati finanziari e di pagamento: ad esempio, dettagli bancari, dati della carta di credito, cronologia delle transazioni, dichiarazioni dei redditi.
-*Dati di comunicazione: ad esempio contenuto di e-mail, moduli di contatto, richieste.
+* Dati di comunicazione: ad esempio contenuto delle richieste tramite il modulo di supporto.
 * Dati di utilizzo: ad esempio pagine visitate, dati di accesso, comportamento di utilizzo sul nostro sito web.
 * Dati contrattuali: ad esempio prodotti acquistati, servizi, condizioni contrattuali.
-*Dati sensibili (se rilevanti): ad es. dati sanitari, dati biometrici per l'identificazione (solo con esplicito consenso), documenti di identificazione ufficiali.
+* Dati di identificazione: ad esempio documenti d'identità ufficiali. I documenti d'identità ufficiali sono dati personali, ma non dati personali particolarmente sensibili ai sensi dell'art. 5 lett. c LPD.
+* Dati particolarmente sensibili, se trattati: dati biometrici per l'identificazione (solo con consenso esplicito).
 
 La raccolta di questi dati viene effettuata esclusivamente per gli scopi indicati nella presente informativa sulla privacy e nel rispetto delle normative applicabili sulla protezione dei dati.
 
@@ -102,22 +105,18 @@ DFX AG mantiene un registro di tutte le attività di trattamento che coinvolgono
 
 Il registro viene regolarmente aggiornato e documenta tutte le operazioni di trattamento rilevanti, compreso il trattamento effettuato da terzi per conto di DFX.
 
-Per questa e altre domande sul tema della protezione dei dati potete contattare in qualsiasi momento il nostro [Supporto](https://services.dfx.swiss/support).
+Per questa e altre domande sul tema della protezione dei dati potete contattare in qualsiasi momento il nostro [Supporto](https://app.dfx.swiss/support).
 
 
 ## 3. Profilazione e processo decisionale automatizzato
 
-DFX utilizza procedure di profilazione per fornire servizi finanziari, in particolare per:
+DFX utilizza la profilazione solo nella misura necessaria per adempiere obblighi di legge (in particolare il diritto in materia di riciclaggio e sanzioni) e per rispettare i requisiti delle nostre banche partner, senza i quali il servizio non può essere prestato. DFX non effettua controlli del credito.
 
-*Controlli del credito
-* Analisi dei rischi
-* Fornitura di informazioni sui servizi relativi alle transazioni
-
-DFX non esegue processi decisionali puramente automatizzati che sono giuridicamente vincolanti o hanno effetti significativi sugli interessati. Qualora in futuro venissero utilizzate procedure decisionali o di profilazione automatizzate, DFX garantirà che tali procedure siano conformi ai requisiti legali della legge svizzera sulla protezione dei dati (DSG) e che gli interessati siano adeguatamente informati sul processo.
+DFX non esegue processi decisionali puramente automatizzati che sono giuridicamente vincolanti o hanno effetti significativi sugli interessati.
 
 #### Diritto di opposizione
 
-Gli interessati hanno il diritto di opporsi alla profilazione e di chiedere informazioni sulla logica sottostante e sugli effetti della profilazione su di loro.
+Gli interessati hanno il diritto di opporsi alla profilazione, purché non osti un obbligo di legge o un requisito delle banche partner senza il quale il servizio non può essere prestato. Possono chiedere informazioni sulla logica sottostante e sugli effetti della profilazione su di loro.
 
 
 ## 4. Hosting e infrastruttura
@@ -134,7 +133,7 @@ All'accesso, i dati tecnicamente necessari (in particolare l'indirizzo IP e i me
 Ove necessario per l'esecuzione del contratto o per adempiere obblighi di legge, utilizziamo i seguenti responsabili del trattamento:
 
 * Sumsub (Sum and Substance Ltd., Regno Unito) — verifica dell'identità prescritta dalla legge, compresi documenti d'identità e dati biometrici. Il Regno Unito dispone di una decisione di adeguatezza (art. 16 cpv. 1 LPD). Trattiamo i dati biometrici solo con il vostro consenso esplicito (art. 6 cpv. 7 LPD).
-* Dilisense (Svizzera) — controllo delle liste di sanzioni e PEP.
+* Dilisense (Svizzera) — controllo delle liste di sanzioni e PEP. Vengono trasmessi esclusivamente nome e data di nascita.
 
 
 ## 6. Note generali e informazioni obbligatorie
@@ -145,27 +144,12 @@ A meno che nella presente informativa sulla privacy non sia specificato un perio
 
 #### Periodi specifici di conservazione dei dati personali
 
-DFX memorizza i dati personali solo per il tempo necessario ai rispettivi scopi di trattamento o come richiesto dalle norme legali. Decorsi i rispettivi termini, i dati verranno cancellati o resi anonimi. Di seguito troverete i periodi di conservazione specifici per le varie categorie di dati personali:
+DFX conserva i dati personali relativi al rapporto commerciale, all'identificazione e alle transazioni — compresi i dati tecnici di connessione come gli indirizzi IP — per 10 anni dalla cessazione del rapporto commerciale (in particolare art. 7 LRD). Non applichiamo un termine più breve per indirizzi IP o dati di registro.
 
-1. Dati contrattuali
-Periodo di conservazione: 10 anni dalla risoluzione del contratto.
-
-2. Dati di comunicazione (es. email, moduli di contatto)
-Periodo di conservazione: 2 anni dal completamento della comunicazione.
-
-3. Dati finanziari e di pagamento
-Periodo di conservazione: 10 anni dal perfezionamento dell'operazione.
-
-4. Dati di utilizzo (ad esempio indirizzi IP, dati di registro)
-Periodo di conservazione: 6 mesi.
-
-5. Dati sensibili (ad esempio, dati sanitari o biometrici, se raccolti)
-Periodo di conservazione: solo il tempo necessario per adempiere allo scopo dichiarato.
-
-6. Documenti per la domanda
+1. Documenti per la domanda
 Periodo di conservazione: 12 mesi dal completamento del processo di candidatura.
 
-7. Dati dei social media (ad esempio, per i profili utente)
+2. Dati dei social media (ad esempio, per i profili utente)
 I dati da noi raccolti direttamente tramite la presenza sui social media verranno cancellati dai nostri sistemi non appena ci chiederete di cancellarli, revocherete il vostro consenso alla memorizzazione o lo scopo della memorizzazione dei dati non sarà più applicabile. I cookie memorizzati rimangono sul tuo dispositivo finché non li elimini. Le disposizioni di legge obbligatorie, in particolare i termini di conservazione, rimangono inalterate.
 
 Non abbiamo alcuna influenza sulla durata di conservazione dei vostri dati che vengono archiviati dagli operatori delle reti di social media per i propri scopi. Per i dettagli si prega di contattare direttamente gli operatori dei social network (ad esempio, nelle loro informative e dichiarazioni sulla privacy, vedere di seguito).
@@ -231,7 +215,7 @@ Per prevenire violazioni della protezione dei dati, utilizziamo misure tecniche 
 
 ### Contatto in caso di violazioni della protezione dei dati:
 
-Se noti una possibile violazione della protezione dei dati, contatta il nostro [Supporto](https://services.dfx.swiss/support).
+Se noti una possibile violazione della protezione dei dati, contatta il nostro [Supporto](https://app.dfx.swiss/support).
 
 
 ## 8. Raccolta dati su questo sito
@@ -240,11 +224,11 @@ Se noti una possibile violazione della protezione dei dati, contatta il nostro [
 
 DFX utilizza i cookie esclusivamente per mantenere il funzionamento dei sistemi IT e la loro funzionalità. Non vengono utilizzati cookie per tracciare il comportamento dell'utente o scopi simili.
 
-### Richiesta via e-mail, telefono o fax
+### Richiesta tramite il modulo di supporto
 
-Se ci contatti via e-mail, telefono o fax, la tua richiesta, compresi tutti i dati personali (nome, richiesta) verrà archiviata ed elaborata da noi allo scopo di elaborare la tua richiesta. Non trasmetteremo questi dati senza il tuo consenso.
+Accettiamo le richieste esclusivamente tramite il modulo all'indirizzo https://app.dfx.swiss/support. La richiesta, compresi i dati personali che ne derivano, viene archiviata ed elaborata allo scopo di trattarla. Non trasmetteremo questi dati senza il tuo consenso.
 
-I dati che ci invii tramite richieste di contatto rimarranno con noi fino a quando non ci chiederai di cancellarli, revocherai il tuo consenso alla memorizzazione o lo scopo della memorizzazione dei dati non sarà più applicabile (ad esempio, dopo che la tua richiesta è stata elaborata). Le disposizioni di legge obbligatorie, in particolare i termini di conservazione previsti dalla legge, rimangono inalterate.
+I dati trasmessi tramite il modulo restano presso di noi fino a quando non ci chiederai di cancellarli, revocherai il consenso alla memorizzazione o lo scopo della memorizzazione non sarà più applicabile (ad esempio dopo la trattazione della richiesta). Le disposizioni di legge obbligatorie – in particolare i termini di conservazione previsti dalla legge – rimangono inalterate.
 
 
 ## 9. Strumenti di analisi e pubblicità
@@ -323,7 +307,7 @@ I dettagli su come gestiscono i tuoi dati personali possono essere trovati nella
 
 ## 11. Protezione dei dati durante le candidature e nel processo di candidatura
 
-Il responsabile del trattamento raccoglie e tratta i dati personali dei candidati allo scopo di eseguire il processo di candidatura. Questo trattamento può avvenire anche elettronicamente, in particolare se i candidati inviano la relativa documentazione di candidatura anche via e-mail (ad esempio in formato PDF o altri tipi di file).
+Il responsabile del trattamento raccoglie e tratta i dati personali dei candidati allo scopo di eseguire il processo di candidatura. Questo trattamento avviene tramite LinkedIn.
 
 Se ti candidi per un posto di lavoro da noi pubblicizzato, queste disposizioni sulla protezione dei dati si applicano in aggiunta alle nostre altre disposizioni sulla protezione dei dati, che ti sono state comunicate separatamente o sono disponibili sul nostro sito web.
 
