@@ -23,6 +23,8 @@ Registration Court: Zug, Switzerland
 Website: https://dfx.swiss   
 Electronic contact: https://app.dfx.swiss/support  
 
+We accept inquiries exclusively via this form so that we can fulfil our duties under the Data Protection Act — in particular access, rectification and erasure — correctly. We deliberately do not provide an email address.
+
 
 ## 2. General information on data protection
 
@@ -30,7 +32,7 @@ DFX treats your personal data confidentially and in accordance with the statutor
 
 The use of our website is generally possible without providing personal data. However, if a data subject wishes to use special services of our company via our website, processing of personal data may be necessary. If the processing of personal data is necessary and there is no legal basis for such processing, we obtain the consent of the data subject in an appropriate form after providing appropriate information.  
 
-We would like to point out that, despite the security precautions we have taken, data transmission on the Internet (for example, when communicating by email) may have security vulnerabilities. Complete protection of data against access by third parties is not possible.  
+We would like to point out that, despite the security precautions we have taken, data transmission on the Internet may have security vulnerabilities. Complete protection of data against access by third parties is not possible.  
 
 As the (natural) person concerned, it is in your personal interest to protect the system(s) you use (PC, laptop, etc.) from unauthorized access by third parties, to provide them with adequate password protection and not to disclose the password to third parties. It is recommended to install a commercially available virus protection program and update it regularly.
 
@@ -41,10 +43,11 @@ As part of our business relationships and the use of our services, we process va
 * Contact information: e.g., name, address, phone number, email address.
 * Technical data: e.g., IP addresses, device information, browser type.
 * Payment and financial data: e.g., bank details, credit card data, transaction history, tax returns.
-* Communication data: e.g., contents of emails, contact forms, inquiries.
+* Communication data: e.g., contents of inquiries via the support form.
 * Usage data: e.g., pages visited, login data, usage behavior on our website.
 * Contract data: e.g., purchased products, services, contract terms.
-* Sensitive data (if relevant): e.g., health data, biometric data for identification (only with explicit consent), official identification documents.
+* Identification data: e.g., official identity documents. Official identity documents are personal data, but not particularly sensitive personal data within the meaning of Art. 5(c) FADP.
+* Particularly sensitive data, where processed: biometric data for identification (only with explicit consent).
 
 The collection of this data is carried out exclusively for the purposes stated in this privacy policy and in compliance with applicable data protection regulations.
 
@@ -102,34 +105,38 @@ DFX AG maintains a register of all processing activities involving personal data
 
 The register is regularly updated and documents all relevant processing operations, including processing carried out by third parties on behalf of DFX.
 
-For this and other questions on the subject of data protection, you can contact our [Support](https://services.dfx.swiss/support) at any time.
+For this and other questions on the subject of data protection, you can contact our [Support](https://app.dfx.swiss/support) at any time.
 
 
 ## 3. Profiling and automated decision-making
 
-DFX uses profiling procedures to provide financial services, in particular for:
+DFX uses profiling only to the extent required to fulfil legal duties (in particular anti-money-laundering and sanctions law) and to meet the requirements of our partner banks, without which the service cannot be provided. DFX does not carry out credit checks.
 
-* Credit checks
-* Risk analyses
-* Provision of transaction-related service information
-
-DFX does not carry out purely automated decision-making processes that are legally binding or have significant effects on data subjects. Should automated decision-making or profiling procedures be used in the future, DFX will ensure that these procedures comply with the legal requirements of the Swiss Data Protection Act (DSG) and that data subjects are adequately informed about the process.
+DFX does not carry out purely automated decision-making processes that are legally binding or have significant effects on data subjects.
 
 #### Right to object
 
-Data subjects have the right to object to profiling and to request information about the underlying logic and the effects of profiling on them.
+Data subjects have the right to object to profiling insofar as no legal duty and no partner-bank requirement without which the service cannot be provided stands in the way. They may request information about the underlying logic and the effects of profiling on them.
 
 
-## 4. Hosting
+## 4. Hosting and infrastructure
 
-### Hosting with Cloudflare Pages
+DFX hosts static information pages that do not collect customer data (such as dfx.swiss) with Cloudflare (Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA). Those pages have no customer accounts, no transactions and no identity verification.
 
-We host our website with Cloudflare Pages. The provider is Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, USA (hereinafter: Cloudflare).
+DFX operates the API, the application platform and the database on its own servers in Switzerland. Public access to these services is provided through Cloudflare as a content delivery network and reverse proxy.
 
-Cloudflare has implemented appropriate technical and organizational measures to ensure the protection of personal data. Details on their handling of personal data can be found in the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/). Processing on our behalf is governed by the [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
+When you access them, technically necessary data (in particular your IP address and request metadata) is transmitted to Cloudflare. Cloudflare is certified under the [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) and the Swiss-U.S. Data Privacy Framework. In addition, we rely on standard contractual clauses (Art. 16(2)(d) FADP). Details: [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) and [Cloudflare Data Processing Addendum](https://www.cloudflare.com/cloudflare-customer-dpa/).
 
 
-## 5. General notes and mandatory information
+## 5. Data processors
+
+Where required to perform the contract or to comply with legal obligations, we use the following data processors:
+
+* Sumsub (Sum and Substance Ltd., United Kingdom) — legally required identity verification, including identity documents and biometric data. The United Kingdom is covered by an adequacy decision (Art. 16(1) FADP). We process biometric data only with your explicit consent (Art. 6(7) FADP).
+* Dilisense (Switzerland) — screening against sanctions and PEP lists. Only name and date of birth are transmitted.
+
+
+## 6. General notes and mandatory information
 
 ### Storage period
 
@@ -137,27 +144,12 @@ Unless a more specific storage period has been specified in this privacy policy,
 
 #### Specific retention periods for personal data
 
-DFX stores personal data only as long as it is necessary for the respective processing purposes or as required by legal regulations. After the respective periods have expired, the data will be deleted or anonymized. Below you will find the specific retention periods for the various categories of personal data:
+DFX stores personal data relating to the business relationship, identification and transactions — including technical connection data such as IP addresses — for 10 years after the end of the business relationship (in particular Art. 7 AMLA). We do not apply a shorter period for IP addresses or log data.
 
-1. Contract data
-Retention period: 10 years after termination of the contract.
-
-2. Communication data (e.g., emails, contact forms)
-Retention period: 2 years after completion of communication.
-
-3. Financial and payment data
-Retention period: 10 years after completion of the transaction.
-
-4. Usage data (e.g., IP addresses, log data)
-Retention period: 6 months.
-
-5. Sensitive data (e.g., health or biometric data, if collected)
-Retention period: Only as long as necessary to fulfill the stated purpose.
-
-6. Application documents
+1. Application documents
 Retention period: 12 months after completion of the application process.
 
-7. Social media data (e.g., for user profiles)
+2. Social media data (e.g., for user profiles)
 The data collected directly by us via the social media presence will be deleted from our systems as soon as you ask us to delete it, revoke your consent to storage or the purpose for data storage no longer applies. Stored cookies remain on your end device until you delete them. Mandatory statutory provisions - in particular retention periods - remain unaffected.
 
 We have no influence on the storage period of your data that is stored by the operators of social media networks for their own purposes. For details, please contact the operators of the social media networks directly (e.g., in their privacy policies and statements, see below).
@@ -172,9 +164,7 @@ The website only stores and processes the minimum data necessary to operate the 
 
 ### Note on data transfer abroad
 
-For hosting we use Cloudflare Pages, a service provided by Cloudflare, Inc. based in the USA. When you access our website, technically necessary data (in particular your IP address and request metadata) is transferred to the USA and processed there, as Cloudflare terminates the connection as a reverse proxy / content delivery network.
-
-Legal basis for the data transfer to the USA: Cloudflare is certified under the [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/) and under the Swiss-U.S. Data Privacy Framework. In addition, we rely on the EU Commission's Standard Contractual Clauses. Despite these safeguards, access by U.S. authorities (e.g., under the CLOUD Act) cannot be entirely excluded.
+Customer data of the trading platform is processed in Switzerland. Outside Switzerland it is transmitted to Cloudflare (USA, hosting of the static pages without customer data and access to the services), to Sumsub (United Kingdom) and, in the context of bank transactions, to participating banks (see General Terms and Conditions). Transfers by the social media providers named below are described in section 10.
 
 ### SSL or TLS encryption
 
@@ -199,7 +189,7 @@ The above rights may be denied or restricted if the interests, rights and freedo
 We hereby object to the use of contact data published as part of the imprint obligation for sending unsolicited advertising and information material. The operators of the pages expressly reserve the right to take legal action in the event of the unsolicited sending of advertising information, such as spam emails.
 
 
-## 6. Data protection violations
+## 7. Data protection violations
 
 DFX takes data protection violations very seriously and has implemented processes to handle such incidents efficiently and in accordance with legal requirements. A data protection violation occurs when personal data is unintentionally or unlawfully disclosed, altered, deleted or made accessible without authorization.
 
@@ -213,10 +203,11 @@ In the event of a data protection violation, DFX follows a structured procedure 
 
 #### Notification obligations
 
-In the event of a data protection violation that poses a risk to the rights and freedoms of data subjects, DFX is legally obliged to inform certain parties. These notifications are intended to ensure that both the competent authorities and the data subjects are informed in a timely manner about the violation and the measures taken. The notifications are made in compliance with legal requirements and include the following steps:
+In the event of a data protection violation that is likely to result in a high risk to the personality or fundamental rights of the data subjects, DFX is legally obliged to inform certain parties. These notifications are intended to ensure that both the competent authorities and the data subjects are informed in a timely manner about the violation and the measures taken. The notifications are made in compliance with legal requirements and include the following steps:
 
-* Notification of the supervisory authority within 72 hours of becoming aware of the violation.
-* Notification of the data subjects without delay and in clear, understandable language.
+* Notification of the competent supervisory authority (FDPIC) as soon as possible after becoming aware of the breach (Art. 24(1) FADP).
+* Notification of the data subjects, if this is necessary for their protection or if the FDPIC so requires (Art. 24(4) FADP), without delay and in clear, understandable language.
+* The data processors named above are contractually obliged to inform DFX immediately of data protection breaches (Art. 24(3) FADP).
    
 ### Protective measures
 
@@ -224,28 +215,28 @@ To prevent data protection violations, we use technical and organizational measu
 
 ### Contact in case of data protection violations:
 
-If you notice a possible data protection violation, please contact our [Support](https://services.dfx.swiss/support).
+If you notice a possible data protection violation, please contact our [Support](https://app.dfx.swiss/support).
 
 
-## 7. Data collection on this website
+## 8. Data collection on this website
 
 ### Cookies
 
 DFX uses cookies exclusively to maintain the operation of IT systems and their functionality. No cookies are used for tracking user behavior or similar purposes.
 
-### Inquiry by email, telephone or fax
+### Inquiry via the support form
 
-If you contact us by email, telephone or fax, your inquiry including all personal data (name, inquiry) will be stored and processed by us for the purpose of processing your request. We will not pass on this data without your consent.
+We accept inquiries exclusively via the form at https://app.dfx.swiss/support. Your inquiry including the personal data arising from it is stored and processed for the purpose of handling your request. We will not pass on this data without your consent.
 
-The data you send to us via contact requests will remain with us until you ask us to delete it, revoke your consent to storage or the purpose for data storage no longer applies (e.g., after your request has been processed). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
-
-
-## 8. Analysis tools and advertising
-
-DFX does not use website analysis tools such as Google Analytics, Adobe Analytics or others.
+The data submitted via the form remain with us until you ask us to delete them, revoke your consent to storage or the purpose for data storage no longer applies (e.g., after your request has been processed). Mandatory statutory provisions – in particular statutory retention periods – remain unaffected.
 
 
-## 9. Newsletter and social media
+## 9. Analysis tools and advertising
+
+DFX does not use website analysis tools for tracking user behaviour, such as Google Analytics, Adobe Analytics or comparable services. No tracking pixels, advertising cookies or similar technologies for analysing user behaviour are used.
+
+
+## 10. Newsletter and social media
 
 ### Newsletter data
 
@@ -314,9 +305,9 @@ Data transfer to the USA is based on the standard contractual clauses of the EU 
 Details on how they handle your personal data can be found in the [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
 
-## 10. Data protection for applications and in the application process
+## 11. Data protection for applications and in the application process
 
-The controller collects and processes the personal data of applicants for the purpose of carrying out the application process. This processing may also take place electronically, in particular if applicants also send relevant application documents by email (e.g., in PDF format or other file types).
+The controller collects and processes the personal data of applicants for the purpose of carrying out the application process. This processing takes place via LinkedIn.
 
 If you apply for a job advertised by us, these data protection provisions apply in addition to our other data protection provisions, which have been communicated to you separately or are available on our website.
 
@@ -327,20 +318,20 @@ If the controller concludes an employment contract with an applicant, the data t
 If no employment contract is concluded, the application documents will be automatically deleted 12 months after notification of the rejection decision without further notification, provided that no other legitimate interests of the data processing center prevent deletion. Legitimate interests may be, for example, obligations to provide evidence in proceedings under the Equal Treatment Act (GlG).
 
 
-## 11. Applicable law and jurisdiction
+## 12. Applicable law and jurisdiction
 
 The DFX website with its registered office in Switzerland is governed exclusively by Swiss (data protection) law, unless other mandatory law is applicable to the natural person concerned.
 
 The court at the registered office of DFX (Switzerland) shall have exclusive jurisdiction for any disputes between you as a visitor and user of the DFX website arising from the operation of or visit to the websites, unless another mandatory place of jurisdiction is applicable to the natural person concerned.
 
 
-## 12. Changes to the privacy policy
+## 13. Changes to the privacy policy
 
 DFX regularly reviews this privacy policy to ensure that it is always up to date and reserves the right to amend it as necessary. It is recommended that you check this page regularly for possible changes, as no individual notification of changes will be made.  
 In the event of discrepancies with the English version, the German version of this privacy policy shall prevail.
 
 
-## 13. Legal information and disclaimer
+## 14. Legal information and disclaimer
 
 DFX accepts no liability for the accuracy and completeness of the content of the information.
 
@@ -349,19 +340,19 @@ Liability claims relating to material or immaterial damage caused by the use or 
 All offers published by DFX in digital or electronic form are subject to change. DFX expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without prior notice or to cease publication temporarily or permanently.
 
 
-## 14. Liability for links
+## 15. Liability for links
 
 References and links to third-party websites are outside the responsibility of DFX. Any responsibility for websites of third parties, i.e., outside the companies belonging to DFX, is rejected. Access to and use of such websites is at the user's own risk.
 
 All offers published by DFX in digital or electronic form are subject to change. DFX expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without prior notice or to cease publication temporarily or permanently.
 
 
-## 15. Copyrights and intellectual property 
+## 16. Copyrights and intellectual property
 
 The copyright and all other rights to the content, images, photos or other files on the DFX website belong exclusively to DFX and its affiliated companies, their suppliers or the specifically named rights holders.
 
 
-## 16. Consent to the privacy policy
+## 17. Consent to the privacy policy
 
 The customer accepts the content of the privacy policy in its current version in full. In the event of contradictions, the privacy policy takes precedence over the General Terms and Conditions of DFX.
 

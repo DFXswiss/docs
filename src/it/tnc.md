@@ -14,7 +14,7 @@ Accedendo e utilizzando il sito web e scaricando informazioni, dati e documenti 
 
 ## Nessun consiglio
 DFX non fornisce consulenza in materia di investimenti, fiscale o legale. Le informazioni fornite sul sito web sono solo a scopo informativo e non costituiscono raccomandazioni. I clienti prendono le loro decisioni di investimento in modo indipendente e si assumono la piena responsabilità dei rischi che ne derivano.  
-Ciò vale per tutti i servizi finanziari offerti da DFX, che includono l'acquisto, la vendita, lo scambio e l'invio di criptovalute.  
+Ciò vale per tutti i servizi finanziari offerti da DFX, che includono l'acquisto, la vendita e lo scambio di criptovalute.  
 
 Tutte le decisioni di investimento prese dai clienti si basano esclusivamente sulla valutazione della propria situazione finanziaria e degli obiettivi di investimento. Sono gli unici responsabili di tali decisioni e delle conseguenze che ne derivano. DFX fornisce i propri servizi esclusivamente su richiesta esplicita e indipendente del cliente, senza verificare la sua situazione finanziaria, la comprensione tecnica, l'idoneità o l'adeguatezza dell'investimento.
 
@@ -65,7 +65,6 @@ I servizi finanziari di DFX includono:
 * Acquista
 *Vendi
 * Scambia (Scambia)
-* Invia
 
 Le opzioni di pagamento includono:
 * Bonifico bancario
@@ -94,17 +93,6 @@ Si prega di astenersi dal contattare direttamente la banca, poiché ciò comport
 ## Restrizioni locali
 
 I prodotti e i servizi offerti su questo sito web sono approvati per la vendita solo in Svizzera. Chi accede al sito dall'estero lo fa a proprio rischio. DFX declina ogni responsabilità in relazione all'utilizzo del sito web al di fuori della Svizzera. In particolare, si sottolinea che ogni utente straniero è obbligato a chiarire da solo se può utilizzare i servizi e i prodotti offerti da DFX in base alla legislazione applicabile nel proprio luogo di residenza o sede legale, o in base alla legislazione del proprio paese d'origine.
-
-## Custodia dei beni
-### Termini di custodia
-DFX offre la custodia dei beni per i clienti. Sono idonee a ciò le seguenti classi di attività: franchi svizzeri (CHF), euro (EUR), Bitcoin (BTC) e Frankencoin Pool Shares (FPS). La custodia di tali beni è soggetta alle seguenti condizioni:
-* Flessibilità nella scelta dell'asset in custodia: se un cliente decide di custodire un determinato importo di una classe di asset con DFX, è a discrezione di DFX decidere in quale tipo o su quale blockchain è detenuto questo asset.
-    * Esempio 1: se il cliente decide di custodire BTC, DFX può conservarlo sulla catena principale di Bitcoin o come Wrapped Bitcoin (WBTC) sulla blockchain di Ethereum.
-    * Esempio 2: se il cliente sceglie FPS, questo può essere mantenuto come FPS su Ethereum o come WFPS (Wrapped FPS) su Polygon.  
-
-DFX si riserva questa flessibilità per rendere la custodia efficiente e sicura. Tutte le attività detenute per i clienti sono tenute segregate a un indirizzo specifico del cliente. I clienti hanno la possibilità di visualizzare in qualsiasi momento tramite la [soluzione software DFX](https://app.dfx.swiss/) che indirizza la loro risorsavengono conservati e in quale tipo (asset e blockchain).
-
-La custodia viene effettuata nel rispetto delle normative svizzere applicabili, in particolare per quanto riguarda la sicurezza e la protezione dei fondi dei clienti. DFX garantisce che le attività detenute non siano mescolate con le proprie attività. I beni detenuti sono sempre di proprietà del cliente e non rientrerebbero nella massa fallimentare in caso di insolvenza.
 
 ## Gestione dei dati delle transazioni
 Per tutte le transazioni di risorse digitali, le seguenti informazioni sono rese pubbliche:
@@ -140,11 +128,7 @@ Sono richieste almeno le seguenti informazioni:
 Per le transazioni blockchain da DFX a portafogli non self-hosted, questi dati vengono automaticamente trasmessi da DFX al provider di hosting. Salvo diverso accordo, i dati vengono trasmessi via e-mail a compliance(at)"provider.domain". Si consiglia ai clienti di DFX che non desiderano accettare questa trasmissione di utilizzare un portafoglio ospitato autonomamente.
 
 ## Registrazione utente
-Prima di poter utilizzare i servizi finanziari di DFX, il cliente deve registrarsi. Per i privati ​​la registrazione è gratuita e, previa accettazione dei presenti Termini e Condizioni, porta alla creazione di un profilo utente. Quando un cliente si registra, le informazioni e i documenti che il cliente deve inviare a DFX e l'importo massimo per il quale il cliente può acquistare o vendere criptovalute dipendono dal suo livello di identificazione:
-
-La registrazione viene generalmente effettuata tramite l'indirizzo blockchain, fornendo l'e-mail o il numero di telefono del cliente. Questa registrazione è considerata standard – light KYC (Know-Your-Customer) – e consente al cliente di acquistare/vendere criptovalute fino a un limite giornaliero definito. 
-
-Per l'acquisto/vendita di criptovalute superiori a thPoiché esiste un limite giornaliero, è necessaria una registrazione più dettagliata, che è considerata un processo KYC (Know-Your-Customer) esteso e completo. Nell'ambito di questo processo, le seguenti informazioni in particolare devono essere divulgate a DFX:
+Prima di poter utilizzare i servizi finanziari di DFX, il cliente deve registrarsi e completare la verifica dell'identità (KYC). Per i privati la registrazione è gratuita e, previa accettazione dei presenti Termini e Condizioni, porta alla creazione di un profilo utente. Acquisto, vendita e scambio sono possibili solo dopo il completamento della verifica dell'identità. Nell'ambito della verifica dell'identità, le seguenti informazioni in particolare devono essere divulgate a DFX:
 
 * Indirizzo, la cui prova è fornita mediante consegna di una lettera all'indirizzo specificato
 * Copia del documento di riconoscimento (carta d'identità o passaporto), che deve riportare una firma, un codice MRZ leggibile e una foto
@@ -158,9 +142,9 @@ I limiti fino ai quali vengono eseguiti gli acquisti/vendite di criptovalute son
 
 DFX si riserva il diritto di condurre una videoconferenza per verificare l'identità del cliente. Ciò si applica, tra l'altro, se DFX ritiene che i documenti forniti siano incompleti, che il luogo di residenza o l'attività del cliente si trovi in ​​un paese a rischio o che la prima transazione effettuata dal cliente sia stata effettuata da un paese a rischio o tramite un conto bancario che non è a nome del cliente.
 
-L'invio e la convalida completi e corretti di questi documenti sono richiesti per il primo acquisto e vendita di criptovalute, nonché per la conversione di criptovalute, o in qualsiasi momento su richiesta di DFX senza fornire motivazioni.
+L'invio e la convalida completi e corretti di questi documenti sono richiesti per l'acquisto, la vendita e lo scambio di criptovalute.
 
-I dati forniti devono essere sempre completi e validi. Le modifiche ai dati personali e tutti i dati alla base del KYC light o full devono essere comunicate a DFX dal cliente senza indugio.
+I dati forniti devono essere sempre completi e validi. Le modifiche ai dati personali e tutti i dati alla base del KYC devono essere comunicate a DFX dal cliente senza indugio.
 
 I dipendenti DFX non chiedono mai al cliente password, chiavi private o seed. Tali richieste dovrebbero essere ignorate e segnalate a DFX.
 
@@ -213,54 +197,6 @@ Le rotte di vendita possono essere annullate finché la criptovaluta da converti
 
 I costi di transazione delle criptovalute o delle valute estere trasmesse al cliente sono inclusi nel prezzo base. I prezzi sono indicati nella criptovaluta consentita per la transazione e includono l'IVA svizzera, se applicabile. Una volta effettuato il trasferimento della criptovaluta desiderata o della valuta estera desiderata sul portafoglio/conto del cliente, la vendita è considerata completata. Il cliente riceve un'e-mail di conferma del completamento della transazione con una panoramica della transazione.
 
-DFX sottolinea che esiste un volume massimo di vendite al giorno e per cliente. Il cliente ha la possibilità di richiedere un volume di vendita maggiore. Questa richiesta sarà valutata e discussa individualmente da DFX. 
+DFX sottolinea che esiste un volume massimo di vendite al mese (periodo mobile di 30 giorni) e per cliente. Il cliente ha la possibilità di richiedere un volume di vendita maggiore. Questa richiesta sarà valutata e discussa individualmente da DFX.
 
 I rimborsi delle vendite ai clienti DFX vengono effettuati esclusivamente nella criptovaluta originariamente trasferita. L'importo rimborsato corrisponde esattamente al valore trasferito a DFX per la vendita.
-
-## Programma di riferimento
-Il nostro programma di riferimento paga ai clienti lo 0,25% sul volume di acquisto/investimento acquistato da un nuovo cliente tramite il link di riferimento del cliente, nonché lo 0,1% sulle transazioni del collegamento di pagamento. 
-
-Si sottolinea che la partecipazione al programma di riferimento è consentita solo ai clienti DFX. Si precisa inoltre che il programma di riferimento può essere interrotto o modificato in qualsiasi momento e senza preavviso. Ulteriori dettagli possono essere visualizzati su https://app.dfx.swiss/account. Si precisa che questo collegamento funziona solo se l'utente ha già effettuato l'accesso con il proprio account cliente.
-
-Il programma di referral si rivolge a clienti residenti in Svizzera ed è destinato a referral in ambito personale. Non stabilisce alcun rapporto di rappresentanza, mediazione o mandato. Il cliente non è autorizzato ad agire per conto di DFX o a fare dichiarazioni. Non è consentita la pubblicità pubblica o a pagamento/sponsorizzata o la distribuzione del codice di riferimento o dei servizi DFX (ad esempio tramite siti Web o social media). Il cliente riconosce che la trasmissione o la pubblicità al di fuori della Svizzera può violare le normative locali. In caso di sospetto o prova di una violazione, DFX può bloccare la partecipazione e rifiutare o reclamare benefici o compensi. Il cliente risarcirà DFX per i danni derivanti dalla violazione colposa di questa disposizione, comprese le ragionevoli spese legali. Il cliente risarcisce multe o sanzioni ufficiali solo nella misura in cui ciò è consentito dalla legge e sono state causate direttamente dal suo comportamento colpevole.
-
-## Attività di recupero crediti
-
-## Ambito e pagdisposizioni relative all’attività di recupero crediti
-L'attività di recupero crediti di DFX comprende:
-*Link per il pagamento
-
-Si applicano le seguenti disposizioni: 
-*Le parti contraenti che desiderano cedere crediti a DFX attraverso l'attività di recupero crediti devono concordare ciò mediante un contratto separato con DFX. Se non diversamente previsto nel contratto, si applicano commissioni pari allo 0,1% sul fatturato.
-* Gli utenti che decidono di liquidare un credito in sospeso tramite il servizio di recupero crediti DFX possono farlo alle seguenti condizioni:
-  * Ogni richiesta ha un periodo di validità definito, specificato in UTC. Il pagamento deve essere effettuato entro questo termine.
-  *Le manipolazioni tecniche per ingannare DFX riguardo al pagamento non sono consentite e verranno segnalate. In particolare, la “doppia spesa” non è consentita e sarà perseguita come frode.
-
-DFX offre il pagamento utilizzando i seguenti standard:
-* FrankencoinPay e OpenCryptoPay
-  * Pagamenti tramite Lightning BOLT11
-    * L'utente sostiene la tariffa di instradamento.
-    * Un contributo ricevuto, ad esempio, di 1 BTC corrisponde a 1 BTC.
-  * Pagamenti su una blockchain basata su EVM
-    *L'utente sostiene la commissione blockchain.
-    * Un contributo ricevuto ad esempio di 1 ZCHF corrisponde a 1 ZCHF.
-  * Pagamenti su una blockchain basata su UTXO
-    *L'utente sostiene la commissione blockchain.
-    * Un contributo ricevuto, ad esempio, di 1 BTC non corrisponde a 1 BTC.
-      * I costi per la ricezione di un UTXO vengono addebitati inoltre al mittente, poiché DFX può spendere l'UTXO ricevuto solo se viene pagata la commissione di transazione blockchain corrispondente.
-      * DFX considera quindi l'importo tecnicamente ricevuto meno l'attuale commissione sulla transazione blockchain come l'importo effettivamente ricevuto.
-
-* Pagamenti tramite Lightning BOLT11
-    *analogo al precedente
-
-* Indirizzo PayToBlockchain
-  * Pagamenti su una blockchain basata su EVM
-    *analogo al precedente
-  * Pagamenti su una blockchain basata su UTXO
-    *analogo al precedente
-
-Le tariffe per l'attività di recupero crediti sono fissate come segue:
-* DFX generalmente non addebita alcuna commissione per la liquidazione delle richieste di recupero crediti.
-*DFX definisce un indirizzo blockchain al quale può essere trasmesso l'importo richiesto. Per i pagamenti tramite Lightning, viene creata una fattura BOLT11. I costi per le commissioni blockchain o le commissioni di routing Lightning sono a carico dell'utente e non fanno parte del servizio di recupero crediti di DFX. Queste commissioni sono variabili.
-* Se l'utente decide di pagare in una valuta estera, DFX addebita una commissione di conversione valutaria dell'1% se come metodo di pagamento viene selezionato FrankencoinPay, Lightning BOLT11 o OpenCryptoPay.io.  
-Per tutte le altre opzioni di pagamento, come "PayToBlockchainAddress", viene addebitata una commissione di conversione valutaria del 2%. La tariffa maggiorata è necessaria perché questi metodi di pagamento offrono un periodo di validità più lungo.
