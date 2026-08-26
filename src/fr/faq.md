@@ -134,7 +134,7 @@ Nous ne pouvons donc pas traiter les virements provenant de comptes Swissquote o
 Si un paiement provenant d'un compte Swissquote ou Yuh nous est déjà parvenu, nous le reversons sur un autre compte bancaire à votre nom. Veuillez contacter notre support à ce sujet.
 
 ## Les paiements vers un compte Trade Republic sont-ils pris en charge ?
-Non. La restriction vient de Trade Republic, pas de DFX. Dans les [conditions générales de Trade Republic](https://assets.traderepublic.com/assets/files/CA_DE-de.pdf) (chiffre II.1), il est indiqué que le compte n'est pas un simple compte de paiement, mais un compte de règlement pour les services en valeurs mobilières. Nous ne pouvons pas le modifier de notre côté.
+Non. La restriction vient de Trade Republic, pas de DFX. Dans le [contrat client de Trade Republic](https://assets.traderepublic.com/assets/files/CA_DE-de.pdf) (chiffre II.1), il est indiqué que le compte n'est pas un simple compte de paiement, mais un compte de règlement pour les services en valeurs mobilières. Nous ne pouvons pas le modifier de notre côté.
 
 Nous ne pouvons donc pas exécuter de virements ni de remboursements vers un compte Trade Republic. Veuillez utiliser un compte à votre nom auprès d'une autre banque.
 
