@@ -133,6 +133,13 @@ Nein. Die Blockierung kommt von Swissquote bzw. Yuh, nicht von DFX. Wir können 
 
 Ist bereits eine Zahlung von einem Swissquote- oder Yuh-Konto bei uns eingegangen, überweisen wir diese auf ein anderes, auf deinen Namen lautendes Bankkonto zurück. Bitte wende dich dazu an unseren Support.
 
+## Werden Auszahlungen auf ein Trade-Republic-Konto unterstützt?
+Nein. Die Einschränkung kommt von Trade Republic, nicht von DFX. In der [Kundenvereinbarung von Trade Republic](https://assets.traderepublic.com/assets/files/CA_DE-de.pdf) (Ziffer II.1) steht, dass das Konto kein bloßes Zahlungsverkehrskonto ist, sondern Verrechnungskonto für Wertpapierdienstleistungen. Wir können das von unserer Seite nicht ändern.
+
+Auszahlungen und Rücküberweisungen auf ein Trade-Republic-Konto können wir daher nicht ausführen. Bitte verwende ein Konto bei einer anderen Bank, das auf deinen Namen lautet.
+
+Ist bereits eine Zahlung bei uns eingegangen, überweisen wir diese auf ein anderes, auf deinen Namen lautendes Bankkonto zurück. Bitte wende dich dazu an unseren Support.
+
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 

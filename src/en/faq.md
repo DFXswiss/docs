@@ -133,6 +133,13 @@ We therefore cannot process transfers from accounts at Swissquote or Yuh. Please
 
 If a payment from a Swissquote or Yuh account has already reached us, we will transfer it back to another bank account in your name. Please contact our support for this.
 
+## Are payouts to a Trade Republic account supported?
+No. The restriction comes from Trade Republic, not from DFX. Trade Republic's [customer agreement](https://assets.traderepublic.com/assets/files/CA_DE-de.pdf) (section II.1) states that the account is not a mere payment account, but a settlement account for securities services. We cannot change this on our side.
+
+We therefore cannot execute payouts or refunds to a Trade Republic account. Please use an account at another bank in your own name.
+
+If a payment has already reached us, we will transfer it back to another bank account in your name. Please contact our support for this.
+
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 
