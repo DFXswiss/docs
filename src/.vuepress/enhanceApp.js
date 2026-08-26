@@ -7,7 +7,7 @@
 export default ({ router }) => {
   if (typeof window === "undefined") return;
 
-  // VuePress rewrites /de/faq -> /de/faq.html and drops location.hash.
+  // VuePress rewrites /{lang}/faq -> /{lang}/faq.html and drops location.hash.
   const initialHash = window.location.hash;
   const NAVBAR_OFFSET_PX = 72;
 
