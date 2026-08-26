@@ -138,8 +138,6 @@ No. The restriction comes from Trade Republic, not from DFX. A Trade Republic ac
 
 Trade Republic blocks payouts and refunds to a Trade Republic account and returns them. We therefore do not offer this option. Please use an account at another bank in your own name.
 
-If a payment has already reached us, we will transfer it back to another bank account in your name. Please contact our support for this.
-
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 

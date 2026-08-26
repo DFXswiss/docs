@@ -138,8 +138,6 @@ No. La limitazione viene da Trade Republic, non da DFX. Un conto Trade Republic 
 
 Trade Republic blocca i bonifici e i rimborsi verso un conto Trade Republic e li restituisce. Per questo non offriamo questa opzione. Utilizza un conto a tuo nome presso un'altra banca.
 
-Se un pagamento è già arrivato presso di noi, lo ritrasferiamo su un altro conto bancario a tuo nome. Contatta il nostro supporto a riguardo.
-
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 

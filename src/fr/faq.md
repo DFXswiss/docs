@@ -138,8 +138,6 @@ Non. La restriction vient de Trade Republic, pas de DFX. Un compte Trade Republi
 
 Trade Republic bloque les virements et les remboursements vers un compte Trade Republic et les retourne. C'est pourquoi nous ne proposons pas cette option. Veuillez utiliser un compte à votre nom auprès d'une autre banque.
 
-Si un paiement nous est déjà parvenu, nous le reversons sur un autre compte bancaire à votre nom. Veuillez contacter notre support à ce sujet.
-
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 

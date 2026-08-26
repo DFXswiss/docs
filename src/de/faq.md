@@ -138,8 +138,6 @@ Nein. Die Einschränkung kommt von Trade Republic, nicht von DFX. Das Trade-Repu
 
 Auszahlungen und Rücküberweisungen auf ein Trade-Republic-Konto blockiert Trade Republic und bucht sie zurück. Deshalb bieten wir diese Option nicht an. Bitte verwende ein Konto bei einer anderen Bank, das auf deinen Namen lautet.
 
-Ist bereits eine Zahlung bei uns eingegangen, überweisen wir diese auf ein anderes, auf deinen Namen lautendes Bankkonto zurück. Bitte wende dich dazu an unseren Support.
-
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 
