@@ -133,7 +133,7 @@ We therefore cannot process transfers from accounts at Swissquote or Yuh. Please
 
 If a payment from a Swissquote or Yuh account has already reached us, we will transfer it back to another bank account in your name. Please contact our support for this.
 
-## Are payouts to a Trade Republic account supported?
+## Are payouts to a Trade Republic account supported? {#trade-republic}
 No. The restriction comes from Trade Republic, not from DFX. A Trade Republic account is not a full bank account, but only an account for securities services. It therefore only accepts deposits from a bank account in the customer's name. See Trade Republic's [customer agreement](https://assets.traderepublic.com/assets/files/CA_DE-de.pdf) (section II.1). We cannot change this on our side.
 
 Trade Republic blocks payouts and refunds to a Trade Republic account and returns them. We therefore do not offer this option. Please use an account at another bank in your own name.
