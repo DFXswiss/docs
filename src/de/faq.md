@@ -136,7 +136,7 @@ Ist bereits eine Zahlung von einem Swissquote- oder Yuh-Konto bei uns eingegange
 ## Werden Auszahlungen auf ein Trade-Republic-Konto unterstützt?
 Nein. Die Einschränkung kommt von Trade Republic, nicht von DFX. Das Trade-Republic-Konto ist kein vollwertiges Bankkonto, sondern nur ein Konto für Wertpapierdienstleistungen. Es erlaubt deshalb nur Einzahlungen von einem Bankkonto, das auf den Namen des Kunden lautet. Das ergibt sich aus der [Kundenvereinbarung von Trade Republic](https://assets.traderepublic.com/assets/files/CA_DE-de.pdf) (Ziffer II.1). Wir können das von unserer Seite nicht ändern.
 
-Auszahlungen und Rücküberweisungen auf ein Trade-Republic-Konto können wir daher nicht ausführen. Bitte verwende ein Konto bei einer anderen Bank, das auf deinen Namen lautet.
+Auszahlungen und Rücküberweisungen auf ein Trade-Republic-Konto blockiert Trade Republic und bucht sie zurück. Deshalb bieten wir diese Option nicht an. Bitte verwende ein Konto bei einer anderen Bank, das auf deinen Namen lautet.
 
 Ist bereits eine Zahlung bei uns eingegangen, überweisen wir diese auf ein anderes, auf deinen Namen lautendes Bankkonto zurück. Bitte wende dich dazu an unseren Support.
 
