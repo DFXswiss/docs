@@ -10,6 +10,7 @@ export default ({ router }) => {
   // VuePress rewrites /{lang}/faq -> /{lang}/faq.html and drops location.hash.
   const initialHash = window.location.hash;
   const NAVBAR_OFFSET_PX = 72;
+  const HASH_SCROLL_RETRY_DELAY_MS = 200;
 
   const decodeId = (hash) => {
     const raw = hash.replace(/^#/, "");
@@ -30,7 +31,7 @@ export default ({ router }) => {
         : el;
     if (window.location.hash !== hash) {
       history.replaceState(
-        null,
+        history.state,
         "",
         window.location.pathname + window.location.search + hash
       );
@@ -43,11 +44,15 @@ export default ({ router }) => {
   };
 
   router.onReady(() => {
-    const hash = () => window.location.hash || initialHash;
-    if (scrollToHash(hash())) return;
+    const startPath = window.location.pathname + window.location.search;
+    const hash = () => {
+      if (window.location.pathname + window.location.search !== startPath) return "";
+      return window.location.hash || initialHash;
+    };
+    scrollToHash(hash());
     setTimeout(() => {
       if (scrollToHash(hash())) return;
-      setTimeout(() => scrollToHash(hash()), 200);
+      setTimeout(() => scrollToHash(hash()), HASH_SCROLL_RETRY_DELAY_MS);
     }, 0);
   });
 };
