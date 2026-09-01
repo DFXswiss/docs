@@ -74,6 +74,9 @@ Once you have made an investment in a specific asset, you can create a savings p
 ### Are the purchased assets transferred directly and automatically to my blockchain address?
 Yes, as soon as they are purchased by us, they are transferred directly and automatically from us to your blockchain wallet address.
 
+### Why is my purchase not sent to my wallet address?
+Before we send crypto to a wallet address, we screen the address with Scorechain. We do not execute payments to addresses that Scorechain links to sanctioned entities. In that case you get the money back to the bank account you sent it from — not as crypto. Support cannot change that. For the next purchase you need a wallet address without such a link.
+
 ### Which exchange rate is used for the purchase?
 We can only guarantee the exchange rate that is valid at the time of the transfer. This transfer always takes place as quickly as possible after your deposit and in any case within one business day after receiving the money. Therefore, it can be both advantageous for you (at lower rates) and disadvantageous (at higher rates). However, if you use a savings plan, the fluctuations are usually negligible due to regular execution. We pass on the received exchange rate 1 to 1, plus the applicable fees.
 
