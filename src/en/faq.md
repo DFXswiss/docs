@@ -74,6 +74,9 @@ Once you have made an investment in a specific asset, you can create a savings p
 ### Are the purchased assets transferred directly and automatically to my blockchain address?
 Yes, as soon as they are purchased by us, they are transferred directly and automatically from us to your blockchain wallet address.
 
+### Why is my purchase not sent to my wallet address?
+Before we send crypto to a wallet address, we check whether we are allowed to do so. Sometimes we cannot pay out to a particular address. In that case you get the money back to the bank account you sent it from — not as crypto. Support cannot release the payout to that address. For legal reasons we cannot always tell you the exact reason. For the next purchase you will then need a different wallet address.
+
 ### Which exchange rate is used for the purchase?
 We can only guarantee the exchange rate that is valid at the time of the transfer. This transfer always takes place as quickly as possible after your deposit and in any case within one business day after receiving the money. Therefore, it can be both advantageous for you (at lower rates) and disadvantageous (at higher rates). However, if you use a savings plan, the fluctuations are usually negligible due to regular execution. We pass on the received exchange rate 1 to 1, plus the applicable fees.
 

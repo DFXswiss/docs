@@ -74,6 +74,9 @@ Du kannst, nachdem du einmal eine Investition in ein bestimmtes Asset getätigt 
 ### Werden die erworbenen Assets direkt und automatisch auf meine Blockchain Adresse überwiesen?
 Ja, sobald diese von uns erworben sind, werden sie direkt und automatisch von uns an deine Blockchain Wallet Adresse überwiesen.
 
+### Warum wird mein Kauf nicht auf meine Wallet-Adresse ausgezahlt?
+Bevor wir Krypto an eine Wallet-Adresse senden, prüfen wir, ob wir das dürfen. Manchmal können wir an eine bestimmte Adresse nicht auszahlen. Dann bekommst du das Geld auf das Bankkonto zurück, von dem du überwiesen hast — nicht als Krypto. Der Support kann die Auszahlung auf diese Adresse nicht freigeben. Den genauen Grund dürfen wir aus rechtlichen Gründen nicht immer sagen. Für den nächsten Kauf brauchst du dann eine andere Wallet-Adresse.
+
 ### Welcher Wechselkurs wird beim Kauf verwendet?
 Wir können nur den Wechselkurs garantieren, der zum Zeitpunkt des Transfers gültig ist. Dieser Transfer erfolgt immer so schnell wie möglich nach deiner Einzahlung und in jedem Fall innerhalb eines Arbeitstags nach Erhalt des Geldes. Daher kann es für dich sowohl vorteilhaft sein (bei niedrigeren Kursen) als auch nachteilig (bei höheren Kursen). Wenn du jedoch einen Sparplan nutzt, sind die Schwankungen durch die regelmässige Ausführung meist vernachlässigbar. Den erhaltenen Wechselkurs geben wir 1 zu 1 weiter, zuzüglich der anfallenden Gebühren.
 

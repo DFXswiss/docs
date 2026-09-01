@@ -74,6 +74,9 @@ Une fois que vous avez effectué un investissement dans un actif spécifique, vo
 ### Les actifs achetés sont-ils transférés directement et automatiquement à mon adresse blockchain ?
 Oui, dès qu'ils sont achetés par nous, ils sont transférés directement et automatiquement de nous vers votre adresse de portefeuille blockchain.
 
+### Pourquoi mon achat n'est-il pas envoyé à mon adresse de portefeuille ?
+Avant d'envoyer des crypto-actifs à une adresse de portefeuille, nous vérifions si nous en avons le droit. Parfois, nous ne pouvons pas verser vers une adresse donnée. Dans ce cas, l'argent est renvoyé sur le compte bancaire depuis lequel vous avez viré — pas en crypto. Le support ne peut pas débloquer le versement vers cette adresse. Pour des raisons légales, nous ne pouvons pas toujours indiquer le motif exact. Pour le prochain achat, vous aurez alors besoin d'une autre adresse de portefeuille.
+
 ### Quel taux de change est utilisé pour l'achat ?
 Nous ne pouvons garantir que le taux de change valide au moment du transfert. Ce transfert a toujours lieu aussi rapidement que possible après votre dépôt et en tout cas dans un jour ouvrable après réception de l'argent. Par conséquent, cela peut être à la fois avantageux pour vous (à des taux plus bas) et désavantageux (à des taux plus élevés). Cependant, si vous utilisez un plan d'épargne, les fluctuations sont généralement négligeables en raison de l'exécution régulière. Nous transmettons le taux de change reçu 1 pour 1, plus les frais applicables.
 
