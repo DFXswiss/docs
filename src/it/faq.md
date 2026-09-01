@@ -74,6 +74,9 @@ Una volta effettuato un investimento in un asset specifico, puoi creare un piano
 ### Gli asset acquistati vengono trasferiti direttamente e automaticamente al mio indirizzo blockchain?
 Sì, non appena vengono acquistati da noi, vengono trasferiti direttamente e automaticamente da noi al tuo indirizzo di portafoglio blockchain.
 
+### Perché il mio acquisto non viene inviato al mio indirizzo di portafoglio?
+Prima di inviare crypto a un indirizzo di portafoglio, controlliamo l'indirizzo con Scorechain. Non eseguiamo pagamenti verso indirizzi che Scorechain collega a entità sanzionate. In quel caso ricevi il denaro sul conto bancario da cui hai bonificato — non in crypto. Il supporto non può cambiarlo. Per il prossimo acquisto ti serve un indirizzo di portafoglio senza un tale collegamento.
+
 ### Quale tasso di cambio viene utilizzato per l'acquisto?
 Possiamo garantire solo il tasso di cambio valido al momento del trasferimento. Questo trasferimento avviene sempre il più rapidamente possibile dopo il tuo deposito e in ogni caso entro un giorno lavorativo dopo la ricezione del denaro. Pertanto, può essere sia vantaggioso per te (a tassi più bassi) che svantaggioso (a tassi più alti). Tuttavia, se utilizzi un piano di risparmio, le fluttuazioni sono generalmente trascurabili a causa dell'esecuzione regolare. Trasmettiamo il tasso di cambio ricevuto 1 a 1, più le commissioni applicabili.
 
