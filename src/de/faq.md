@@ -72,7 +72,7 @@ Eine Überweisung tätigst du ja, um in ein Krypto-Asset zu investieren. Dazu ka
 Du kannst, nachdem du einmal eine Investition in ein bestimmtes Asset getätigt hast, durch wiederholte Überweisungen (Dauerauftrag) mit dem korrekten Verwendungszweck einen Sparplan für dieses Asset erzeugen. Sobald du neue Assets sparen möchtest, wiederholst du einfach den Prozess für dieses Asset und richtest danach wieder einen Dauerauftrag bei deiner Bank ein.
 
 ### Werden die erworbenen Assets direkt und automatisch auf meine Blockchain Adresse überwiesen?
-Ja, sobald diese von uns erworben sind, werden sie direkt und automatisch von uns an deine Blockchain Wallet Adresse überwiesen.
+Ja. Nach Gutschrift deiner Zahlung liefert DFX die Kryptowährung aus dem eigenen Bestand direkt an deine Wallet-Adresse, in der Regel innert weniger Minuten.
 
 ### Warum wird mein Kauf nicht auf meine Wallet-Adresse ausgezahlt?
 Bevor wir Krypto an eine Wallet-Adresse senden, prüfen wir die Adresse mit Scorechain. Zahlungen an Adressen, die Scorechain mit sanktionierten Entitäten verbindet, führen wir nicht aus. Dann bekommst du das Geld auf das Bankkonto zurück, von dem du überwiesen hast — nicht als Krypto. Der Support kann das nicht ändern. Für den nächsten Kauf brauchst du eine Wallet-Adresse ohne eine solche Verbindung.

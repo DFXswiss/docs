@@ -72,7 +72,7 @@ You make a transfer to invest in a crypto asset. You can use our [page](https://
 Once you have made an investment in a specific asset, you can create a savings plan for this asset by making repeated transfers (standing order) with the correct payment reference. As soon as you want to save new assets, you simply repeat the process for this asset and then set up a standing order at your bank again.
 
 ### Are the purchased assets transferred directly and automatically to my blockchain address?
-Yes, as soon as they are purchased by us, they are transferred directly and automatically from us to your blockchain wallet address.
+Yes. Once your payment has been credited, DFX delivers the cryptocurrency from its own inventory directly to your wallet address, usually within a few minutes.
 
 ### Why is my purchase not sent to my wallet address?
 Before we send crypto to a wallet address, we screen the address with Scorechain. We do not execute payments to addresses that Scorechain links to sanctioned entities. In that case you get the money back to the bank account you sent it from — not as crypto. Support cannot change that. For the next purchase you need a wallet address without such a link.

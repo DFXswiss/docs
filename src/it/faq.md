@@ -72,7 +72,7 @@ Effettui un bonifico per investire in un asset crypto. Puoi utilizzare la nostra
 Una volta effettuato un investimento in un asset specifico, puoi creare un piano di risparmio per questo asset effettuando bonifici ripetuti (ordine permanente) con il riferimento di pagamento corretto. Non appena desideri risparmiare nuovi asset, ripeti semplicemente il processo per questo asset e configuri nuovamente un ordine permanente presso la tua banca.
 
 ### Gli asset acquistati vengono trasferiti direttamente e automaticamente al mio indirizzo blockchain?
-Sì, non appena vengono acquistati da noi, vengono trasferiti direttamente e automaticamente da noi al tuo indirizzo di portafoglio blockchain.
+Sì. Dopo l'accredito del tuo pagamento, DFX consegna la criptovaluta dal proprio stock direttamente al tuo indirizzo di portafoglio, di norma entro pochi minuti.
 
 ### Perché il mio acquisto non viene inviato al mio indirizzo di portafoglio?
 Prima di inviare crypto a un indirizzo di portafoglio, controlliamo l'indirizzo con Scorechain. Non eseguiamo pagamenti verso indirizzi che Scorechain collega a entità sanzionate. In quel caso ricevi il denaro sul conto bancario da cui hai bonificato — non in crypto. Il supporto non può cambiarlo. Per il prossimo acquisto ti serve un indirizzo di portafoglio senza un tale collegamento.
