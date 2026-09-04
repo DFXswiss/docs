@@ -72,7 +72,7 @@ Vous effectuez un virement pour investir dans un actif crypto. Vous pouvez utili
 Une fois que vous avez effectué un investissement dans un actif spécifique, vous pouvez créer un plan d'épargne pour cet actif en effectuant des virements répétés (ordre permanent) avec la référence de paiement correcte. Dès que vous souhaitez épargner de nouveaux actifs, vous répétez simplement le processus pour cet actif et configurez à nouveau un ordre permanent à votre banque.
 
 ### Les actifs achetés sont-ils transférés directement et automatiquement à mon adresse blockchain ?
-Oui, dès qu'ils sont achetés par nous, ils sont transférés directement et automatiquement de nous vers votre adresse de portefeuille blockchain.
+Oui. Dès que votre paiement est crédité, DFX livre la crypto-monnaie à partir de son propre stock, directement à votre adresse de portefeuille, en règle générale en quelques minutes, dans des cas particuliers dans les sept jours ouvrables.
 
 ### Pourquoi mon achat n'est-il pas envoyé à mon adresse de portefeuille ?
 Avant d'envoyer des crypto-actifs à une adresse de portefeuille, nous contrôlons l'adresse avec Scorechain. Nous n'exécutons pas les paiements vers des adresses que Scorechain relie à des entités sanctionnées. Dans ce cas, l'argent est renvoyé sur le compte bancaire depuis lequel vous avez viré — pas en crypto. Le support ne peut pas changer cela. Pour le prochain achat, vous avez besoin d'une adresse de portefeuille sans un tel lien.
