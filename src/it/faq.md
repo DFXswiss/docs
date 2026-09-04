@@ -136,13 +136,6 @@ Pertanto non possiamo elaborare i bonifici provenienti da conti Swissquote o Yuh
 
 Se un pagamento da un conto Swissquote o Yuh è già arrivato presso di noi, lo ritrasferiamo su un altro conto bancario a tuo nome. Contatta il nostro supporto a riguardo.
 
-<a id="trade-republic"></a>
-
-## I pagamenti verso un conto Trade Republic sono supportati?
-No. La limitazione viene da Trade Republic, non da DFX. Un conto Trade Republic non è un conto bancario a tutti gli effetti, ma solo un conto per i servizi in strumenti finanziari. Accetta quindi solo versamenti da un conto bancario intestato al cliente. Ciò risulta dall'[accordo con il cliente di Trade Republic](https://assets.traderepublic.com/assets/files/CA_DE-de.pdf) (sezione II.1). Non possiamo modificarlo da parte nostra.
-
-Trade Republic blocca i bonifici e i rimborsi verso un conto Trade Republic e li restituisce. Per questo non offriamo questa opzione. Utilizza un conto a tuo nome presso un'altra banca.
-
 ## DFX Metamask Exchange
 
 ### MetaMask & Arbitrum 
