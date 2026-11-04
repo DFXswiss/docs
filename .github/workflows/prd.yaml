@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  NODE_VERSION: '16.x'
+  NODE_VERSION: '24.x'
 
 jobs:
   deploy:
@@ -35,10 +35,10 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Use Node.js 22 (wrangler)
+      - name: Use Node.js 24 (wrangler)
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
+          node-version: "24"
 
       - name: Install Wrangler
         run: npm install -g wrangler@4
