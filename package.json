@@ -9,8 +9,8 @@
   },
   "repository": "https://github.com/DFXswiss/docs",
   "scripts": {
-    "start": "vuepress dev src",
-    "build": "vuepress build src"
+    "start": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev src",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
